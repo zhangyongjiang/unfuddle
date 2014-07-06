@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/timerHelp"
+          android:icon="@drawable/clock_48"
+          android:title="@string/timerHelp" />
+</menu>

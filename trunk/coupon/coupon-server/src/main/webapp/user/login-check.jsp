@@ -1,0 +1,1 @@
+<% request.setAttribute("loginRequired", true);%>

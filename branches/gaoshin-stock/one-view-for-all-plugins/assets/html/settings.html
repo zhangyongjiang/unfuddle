@@ -1,0 +1,150 @@
+<html>
+<head>
+<script type="text/javascript" src="json2.js"></script>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">
+	pluginList = android.listPlugins();
+	pluginList = JSON.parse(pluginList).items;
+	currentGroup = android.getCurrentGroup();
+	if(currentGroup != null) {
+		currentGroup = JSON.parse(currentGroup);
+	}
+
+	function set(name, value) {
+		$("#" + name).val(value);
+	}
+	
+	function cancel() {
+		android.exit();
+	}
+
+	function enableDisable(pluginId) {
+		android.enableDisable(pluginId);
+		window.location.reload();
+	}
+
+	function addSymbol() {
+		android.addSymbol();
+	}
+
+	function savePluginSettings(pluginId) {
+		for(var i=0; i<pluginList.length; i++) {
+			var plugin = pluginList[i];
+			if(plugin.id == pluginId) {
+				var map = new Object();
+				var params = JSON.parse(plugin.paramsJson).items;
+				for(var j=0; j<params.length; j++) {
+					var param = params[j];
+					map[param.name] = $('#p_' + plugin.id + param.name).val();
+				}
+				var save = {"map" : map};
+				var json = JSON.stringify(save);
+				android.saveChartSetting(pluginId, json);
+				android.exit();
+				break;
+			}
+		}
+	}
+
+	function saveAs(pluginId) {
+		for(var i=0; i<pluginList.length; i++) {
+			var plugin = pluginList[i];
+			if(plugin.id == pluginId) {
+				var name = prompt("New name?");
+				if(plugin.name == name) {
+					alert("Please use a different name.");
+					return;
+				}
+				var map = new Object();
+				var params = JSON.parse(plugin.paramsJson).items;
+				for(var j=0; j<params.length; j++) {
+					var param = params[j];
+					map[param.name] = $('#p_' + plugin.id + param.name).val();
+				}
+				var save = {"map" : map};
+				var json = JSON.stringify(save);
+				android.saveAs(pluginId, name, json);
+				window.location.reload();
+				break;
+			}
+		}
+	}
+</script>
+</head>
+<body style="margin:0;padding:0">
+
+<div style="font-size:1em; border-left: solid 1px #bbb; padding-left:12px;">
+
+<div style="margin-bottom:6px;"><Strong>Current Stock Group: </Strong><script type="text/javascript">document.write(currentGroup.name)</script></div>
+<div style="padding-left: 10px">
+	<div style="clear:left;float:left;width:140px;">
+	<a href="#" onClick="addSymbol()">Add Symbol</a>
+	</div>
+	
+	<div style="float:left;width:140px;">
+	<a href="#" onClick="android.removeGroup()">Delete</a>
+	</div>
+	
+	<div style="float:left;width:140px;">
+	<a href="#" onClick="android.renameGroup()">Rename</a>
+	</div>
+</div>
+
+<div style="clear:both;height:1px;">&nbsp;</div>
+<div style="margin:16px 0 6px 0;"><Strong>All Stock Groups</Strong></div>
+<div style="padding-left: 10px">
+<script type="text/javascript">
+	var groups = android.getGroups();
+	groups = JSON.parse(groups).items;
+	for(var i=0; i<groups.length; i++) {
+		document.write('<div style="float:left;width:140px;margin-bottom:8px;">');
+		document.write('<a href="#" onClick="android.selectGroup(' + groups[i].id + ')">' + groups[i].name + '</a>');
+		document.write('</div>');
+	}
+</script>
+
+<div style="float:left;width:140px;margin-bottom:8px;">
+<a href="#" onClick="android.addGroup()">Add Group</a>
+</div>
+</div>
+
+
+<div style="clear:both;height:1px;margin-bottom:6px;">&nbsp;</div>
+<div style="margin:16px 0 6px 0;"><Strong>Data Sources</Strong></div>
+<div style="padding-left: 10px">
+<span style="font-size: 0.8em;">All data sources are uploaded by users. Use them at your own risk.</span>
+<script type="text/javascript">
+if(!pluginList.length) {
+	document.write("No data source defined.");
+}
+for(var i=0; i<pluginList.length; i++) {
+	if(i==0) {
+		document.write("<table style='border:solid 1px;'><tr><th>Country</th><th>Enabled</th><th>Name</th></tr>");
+	}
+	var plugin = pluginList[i];
+	document.write("<tr><td>" + plugin.country + "</td><td><a href='#' onClick='enableDisable(\"" + plugin.id + "\")'>" + plugin.enabled + "</a></td><td><a href='plugin.html?" + plugin.id + "'>" + plugin.name + "</a></td></tr>");
+	if(i==(pluginList.length-1)) {
+		document.write("</table>");
+	}
+}
+</script>
+</div>
+
+<div style="margin:16px 0 6px 0;"><Strong>Tips</Strong></div>
+<ul>
+	<li> Use long touch on the symbol to delete it from its group</li>
+	<li> Tapping the right side web browser to zoom-in and zoom-out</li>
+	<li> Press menu key to switch the right side web browser to full screen mode</li>
+</ul>
+
+<div style="margin:16px 0 6px 0;"><a href="info.html"><Strong>Contact Us</Strong></a></div>
+
+
+<div style="margin-bottom: 10px;height:1px;">&nbsp;</div>
+<center>
+Copyright &copy; 2011 Open & Green, Inc. All rights reserved.<br/>
+</center>
+</div>
+
+
+</body></html>

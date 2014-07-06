@@ -1,0 +1,224 @@
+99 Ranch Market	http://99ranch.com/	SuperMarket
+A&P Supermarkets	http://aptea.com/	SuperMarket
+Acme Fresh Market	http://acmestores.com/	SuperMarket
+Acme Markets	http://www.acmemarkets.com/	SuperMarket
+Affiliated Foods Midwest	http://www.afmidwest.com/	SuperMarket
+Aitkin, Minnesota	http://www.ci.aitkin.mn.us/	DepartmentStore
+Akron, Ohio	http://www.ci.akron.oh.us	SuperMarket
+Albertsons	http://www.albertsons.com/	SuperMarket
+Aldi	http://aldi.com/	SuperMarket
+Andronico's	http://www.andronicos.com	SuperMarket
+Associated Food Stores	http://www.afstores.com/	SuperMarket
+Associated Wholesalers	http://www.awiweb.com/corp/home.html	SuperMarket
+Augusta, Georgia	http://www.augustaga.gov	DepartmentStore
+BI-LO	http://www.bi-lo.com/	SuperMarket
+BJ's Wholesale Club	http://www.bjs.com/	SuperMarket
+Baker's	http://www.bakersplus.com	SuperMarket
+Balducci's	http://www.balduccis.com	SuperMarket
+Baltimore, Maryland	http://www.baltimorecity.gov/	SuperMarket
+Barneys New York	http://www.barneys.com/	DepartmentStore
+Bashas'	http://bashas.com/	SuperMarket
+Baton Rouge, Louisiana	http://www.brgov.com	SuperMarket
+Bealls	http://www.beallsflorida.com/	DepartmentStore
+Bealls	http://www.beallstx.com	DepartmentStore
+Belk	http://www.belk.com/	DepartmentStore
+Bergdorf Goodman	http://bergdorfgoodman.com	DepartmentStore
+Bergner's	http://www.bergners.com/	DepartmentStore
+Bi-Mart	http://www.bimart.com/	DepartmentStore
+Big Lots	http://www.biglots.com/	DepartmentStore
+Big Y Foods	http://bigy.com/	SuperMarket
+Birmingham, Alabama	http://www.birminghamal.gov	DepartmentStore
+Blaine, Washington	http://www.cityofblaine.com/	DepartmentStore
+Bloom	http://shopbloom.com/	SuperMarket
+Bloomingdale's	http://www.bloomingdales.com/	DepartmentStore
+Boscov's	http://www.boscovs.com/	DepartmentStore
+Boston Store	http://www.bostonstore.com/	DepartmentStore
+Bottom Dollar Food	http://bottomdollarfood.com	SuperMarket
+Bristol Farms	http://www.bristolfarms.com/	SuperMarket
+Bruno's Supermarkets	http://brunos.com/	SuperMarket
+Burlington Coat Factory	http://www.burlingtoncoatfactory.com/	DepartmentStore
+Carrs	http://www.carrsqc.com	SuperMarket
+Carson Pirie Scott	http://www.carsons.com	DepartmentStore
+Central Market	http://www.centralmarket.com	SuperMarket
+Chinatown, Los Angeles	http://www.chinatownla.com/	SuperMarket
+City Market	http://www.kingsoopers.com	SuperMarket
+Costco Wholesale	http://www.costco.com/	DepartmentStore
+County Market	http://www.countymarket.com	SuperMarket
+Cub Foods	http://www.cub.com	SuperMarket
+D&W Food Centers	http://dwfm.spartanstores.com/	SuperMarket
+Dahl's Foods	http://www.dahlsfoods.com/	SuperMarket
+David's Supermarkets	http://www.davidsfoods.com	SuperMarket
+Defiance, Ohio	http://www.cityofdefiance.com/default.shtml	SuperMarket
+Detroit Lakes, Minnesota	http://www.ci.detroit-lakes.mn.us	DepartmentStore
+Dierbergs	http://dierbergs.com/	SuperMarket
+Dillard's	http://www.dillards.com/	DepartmentStore
+Dillons	http://www.dillons.com	SuperMarket
+Dollar General	http://www.dg.com/	DepartmentStore
+Dollar Tree	http://www.dollartree.com	DepartmentStore
+Dominick's	http://www.dominicks.com/	SuperMarket
+Dorothy Lane Market	http://dorothylane.com/	SuperMarket
+Duckwall-ALCO Retail Stores	http://www.ALCOstores.com/	DepartmentStore
+Earth Fare	http://www.earthfare.com/	SuperMarket
+Elder-Beerman	http://www.elder-beerman.com/	DepartmentStore
+Fairway Market	http://www.fairwaymarket.com/	SuperMarket
+Family Dollar	http://www.familydollar.com	DepartmentStore
+Fareway	http://www.fareway.com/	SuperMarket
+Farm Fresh Food & Pharmacy	http://www.farmfreshsupermarkets.com	SuperMarket
+Food 4 Less	http://www.food4less.com/	SuperMarket
+Food City	http://foodcity.com/	SuperMarket
+Food Lion	http://www.foodlion.com	SuperMarket
+Food Lion	http://www.foodlion.com	SuperMarket
+Foodland	http://www.foodland.com/	SuperMarket
+Foodtown	http://foodtown.com/	SuperMarket
+Fred Meyer	http://www.fredmeyer.com/	SuperMarket
+Fresh and Easy	http://www.freshandeasy.com	SuperMarket
+Fry's Food and Drug	http://www.frysfood.com/	SuperMarket
+Genuardi's	http://www.genuardis.com/	SuperMarket
+Giant Eagle	http://www.gianteagle.com/	SuperMarket
+Giant-Carlisle	http://www.giantfoodstores.com/	SuperMarket
+Giant-Landover	http://www.giantfood.com/	SuperMarket
+Grand Union	http://www.gufamilymarkets.com	SuperMarket
+Gristedes	http://gristedes.com/	SuperMarket
+Grocery Outlet	http://groceryoutlet.com/	SuperMarket
+Gus Mayer	http://www.gusmayer.com/	DepartmentStore
+H-E-B	http://www.heb.com/	SuperMarket
+Haggen Food & Pharmacy	http://www.haggen.com/	SuperMarket
+Hannaford	http://www.hannaford.com/	SuperMarket
+Harris Teeter	http://www.harristeeter.com/	SuperMarket
+Harveys	http://harveys-supermarkets.com/	SuperMarket
+Heinen's Fine Foods	http://heinens.com/	SuperMarket
+Herberger's	http://www.herbergers.com/	DepartmentStore
+Hilander	http://www.hilander.net/	SuperMarket
+HomeGoods	http://www.homegoods.com/	DepartmentStore
+Hoquiam, Washington	http://www.cityofhoquiam.com/	DepartmentStore
+Hornbacher's	http://hornbachers.com/	SuperMarket
+Houston, Texas	http://www.houstontx.gov/	SuperMarket
+Hugo's	http://gohugos.com/	SuperMarket
+Huntington, West Virginia	http://www.cityofhuntington.com/	DepartmentStore
+Hy-Vee Food Stores	http://www.hy-vee.com/	SuperMarket
+IGA	http://iga.com/	SuperMarket
+Ingles	http://www.ingles-markets.com/index.php	SuperMarket
+JCPenney	http://www.jcpenney.com/	DepartmentStore
+Jacobson's	http://www.jacobsons.com	DepartmentStore
+JayC Food Stores	http://www.jaycfoods.com/	SuperMarket
+Jewel-Osco	http://www.jewelosco.com	SuperMarket
+King Kullen	http://kingkullen.com/	SuperMarket
+King Soopers	http://www.kingsoopers.com	SuperMarket
+King's Discount Stores	http://www.kingsdiscount.com/	DepartmentStore
+Kings	http://www.kingsfoodmarkets.com/	SuperMarket
+Kmart	http://www.kmart.com/	DepartmentStore
+Kohl's	http://www.kohls.com/	DepartmentStore
+Kroger Marketplace	http://www.thekrogerco.com/	DepartmentStore
+Kuhn's Quality Foods	http://www.kuhnsmarket.com	SuperMarket
+La Curacao	http://www.lacuracao.net	DepartmentStore
+Lafayette, California	http://www.ci.lafayette.ca.us/	DepartmentStore
+Lord & Taylor	http://www.lordandtaylor.com/	DepartmentStore
+Lowes Foods	http://www.lowesfoods.com	SuperMarket
+Lucky	http://luckysupermarkets.com/	SuperMarket
+Macy's	http://www.macys.com/	DepartmentStore
+Market Basket	http://www.marketbasketfoods.com/	SuperMarket
+Market of Choice	http://www.marketofchoice.com/	SuperMarket
+Mars	http://marsfood.com/	SuperMarket
+Marsh	http://www.marsh.net/	SuperMarket
+Marshalls	http://www.marshallsonline.com/	DepartmentStore
+Martin's Super Markets	http://martins-supermarkets.com/	SuperMarket
+Meijer	http://www.meijer.com	DepartmentStore
+Miami, Florida	http://www.miamigov.com/home/	DepartmentStore
+Minyard's	http://www.minyards.com/	SuperMarket
+Mitsuwa	http://mitsuwa.com/	SuperMarket
+Montgomery Ward	http://www.wards.com	DepartmentStore
+Nashville, Tennessee	http://www.nashville.gov/	DepartmentStore
+Needles, California	http://www.cityofneedles.com/	SuperMarket
+Neiman Marcus	http://www.neimanmarcus.com	DepartmentStore
+New Orleans, Louisiana	http://www.nola.gov	DepartmentStore
+New Seasons Market	http://newseasonsmarket.com/	SuperMarket
+Newark	http://www.ci.newark.nj.us/	SuperMarket
+Nordstrom	http://www.nordstrom.com/	DepartmentStore
+Nugget Markets	http://nuggetmarket.com/	SuperMarket
+Owen's Market	http://www.owensmarket.com/	SuperMarket
+PCC Natural Markets	http://www.pccnaturalmarkets.com/	SuperMarket
+Palais Royal	http://www.palaisroyal.com	DepartmentStore
+Pamida	http://pamida.com/	DepartmentStore
+Pathmark	http://www.pathmark.com/	SuperMarket
+Pavilions	http://www.pavilions.com/	SuperMarket
+Pay Less Food Markets	http://www.pay-less.com/	SuperMarket
+Peebles	http://www.peebles.com	DepartmentStore
+Piggly Wiggly	http://www.pigglywiggly.com/	SuperMarket
+Price Chopper	http://pricechopper.com/	SuperMarket
+Publix	http://www.publix.com/	SuperMarket
+Publix Sabor	http://www.publix.com/	SuperMarket
+QFC	http://www.qfc.com/	SuperMarket
+Raley's	http://www.raleys.com/	SuperMarket
+Ralphs	http://www.ralphs.com/	SuperMarket
+Randalls	http://www.randalls.com/	SuperMarket
+Redner's Warehouse Markets	http://www.rednersmarkets.com/	SuperMarket
+Remke Markets bigg's	http://www.remkes.com/	SuperMarket
+Ridley's Family Markets	http://shopridleys.com/	SuperMarket
+Roche Bros.	http://www.rochebros.com	SuperMarket
+Rosauers	http://www.rosauers.com/	SuperMarket
+Roses	http://www.vwstores.com/	DepartmentStore
+Ross	http://www.rossstores.com/	DepartmentStore
+Roundy's	http://www.roundys.com/	SuperMarket
+Rouse's Supermarket	http://www.rouses.com	SuperMarket
+Royal Ahold	http://www.ahold.com/	SuperMarket
+Safeway Inc.	http://www.safeway.com/	SuperMarket
+Saks Fifth Avenue	http://www.saksfifthavenue.com	DepartmentStore
+Sam's Club	http://www.samsclub.com/	DepartmentStore
+Save Mart Supermarkets	http://www.savemart.com	SuperMarket
+Save-A-Lot	http://save-a-lot.com/	SuperMarket
+Schnucks	http://www.schnucks.com/	SuperMarket
+Scolari's Food and Drug	http://www.scolaristores.com	SuperMarket
+Scott's Food & Pharmacy	http://www.scottsfood.com	SuperMarket
+Seafood City	http://www.seafoodcity.com/	SuperMarket
+Sears	http://www.sears.com	DepartmentStore
+Seller's Brothers	http://www.sellersbros.com	SuperMarket
+Shaw's	http://shaws.com	SuperMarket
+Shop 'n Save	http://www.shopnsave.com/	SuperMarket
+Shop n' Save	http://www.shopnsavefood.com/	SuperMarket
+ShopRite	http://www.shoprite.com/	SuperMarket
+Shopko	http://www.shopko.com/	DepartmentStore
+Shoppers Food & Pharmacy	http://www.shoppersfood.com/	SuperMarket
+Slayton, Minnesota	http://slayton.govoffice.com/	DepartmentStore
+Smart & Final	http://www.smartandfinal.com	SuperMarket
+Smith's Food and Drug	http://www.smithsfoodanddrug.com/	SuperMarket
+Southern Family Markets	http://www.cswg.com/	SuperMarket
+Spartan Stores	http://www.spartanstores.com	SuperMarket
+Sprouts Farmers Market	http://www.sprouts.com/	SuperMarket
+Stage	http://www.stagestores.com/	DepartmentStore
+Stater Brothers	http://www.staterbros.com/	SuperMarket
+Stein Mart	http://www.steinmart.com/	DepartmentStore
+Stew Leonard's	http://www.stewleonards.com	SuperMarket
+Stewart's Shops	http://stewartsshops.com	SuperMarket
+Stop & Shop	http://www.stopandshop.com/	SuperMarket
+Sunflower Farmers Market	http://www.sunflowermarkets.com	SuperMarket
+Super Fresh	http://www.superfreshfood.com/	SuperMarket
+SuperValu	http://www.supervalu.com/	SuperMarket
+Sweetbay Supermarket	http://www.sweetbaysupermarket.com	SuperMarket
+T.J. Maxx	http://www.tjmaxx.com/	DepartmentStore
+TJX Companies	http://www.tjx.com	DepartmentStore
+Target	http://www.target.com/	DepartmentStore
+Tesco	http://www.tesco.com	SuperMarket
+The Bon-Ton	http://www.bonton.com	DepartmentStore
+The Fresh Market	http://www.thefreshmarket.com/	SuperMarket
+Times Supermarkets	http://timessupermarkets.com/	SuperMarket
+Tom Thumb	http://www.tomthumb.com/	SuperMarket
+Tomah, Wisconsin	http://www.tomahonline.com/	DepartmentStore
+Tops	http://www.topsmarkets.com/	SuperMarket
+Trader Joe's	http://www.traderjoes.com/	SuperMarket
+Ukrop's	http://www.ukropshomestylefoods.com/	SuperMarket
+United	http://www.unitedtexas.com/	SuperMarket
+Uwajimaya	http://www.uwajimaya.com/	SuperMarket
+Von Maur	http://www.vonmaur.com/	DepartmentStore
+Vons	http://www.vons.com/	SuperMarket
+Wakefern	http://www.wakefern.com/	SuperMarket
+Wal-Mart	http://www.walmartstores.com/default.aspx	DepartmentStore
+Waldbaum's	http://www.waldbaums.com/	SuperMarket
+Wegmans	http://www.wegmans.com	SuperMarket
+Weis Markets	http://www.weismarkets.com/	SuperMarket
+Whole Foods Market	http://www.wholefoodsmarket.com/	SuperMarket
+WinCo Foods	http://www.wincofoods.com	SuperMarket
+Winn-Dixie	http://www.winndixie.com/	SuperMarket
+Woodman's Food Market	http://www.woodmans-food.com/	SuperMarket
+Yoke's Fresh Market	http://www.yokesfoods.com	SuperMarket
+Younkers	http://www.younkers.com/	DepartmentStore
+Zumbrota, Minnesota	http://www.ci.zumbrota.mn.us	DepartmentStore

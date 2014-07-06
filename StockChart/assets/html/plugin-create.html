@@ -1,0 +1,41 @@
+<html>
+<head>
+<script type="text/javascript" src="json2.js"></script>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">
+function importPlugin() {
+	var json = $('#json').val();
+	var pluginId = android.importPlugin(json);
+	if(pluginId)
+		window.location = "plugin.html?" + pluginId;
+	else
+		alert("System error. Cannot create new data source. Sorry about that.")
+}
+</script>
+</head>
+<body style="margin:0;padding:12px">
+
+<h3>Create Data Source</h3>
+
+<p>A data source is nothing but a web page</p>
+
+Samples:
+<ul>
+<li><a href='plugin-json-example-2.txt'>Yahoo Finance</a></li>
+<li><a href='plugin-json-example-3.txt'>Yahoo Finance Mobile</a></li>
+<li><a href='plugin-json-example-1.txt'>Bigchart</a></li>
+</ul>
+Note: <b>__SYM__</b> in the URL address will be replaced with actual symbol later. 
+For example, Yahoo finance URL for IBM is http://finance.yahoo.com/q?s=IBM&ql=1 . 
+So the data source URL becomes http://finance.yahoo.com/q?s=__SYM__&ql=1 .
+
+<textarea id='json' style="width:100%;min-height:160px;">
+{
+      "name": "goole finance", 
+      "url": "http://www.google.com/finance?q=__SYM__", 
+      "country": "US"
+}
+</textarea>
+<button onClick="importPlugin()">Create</button>
+
+</body></html>

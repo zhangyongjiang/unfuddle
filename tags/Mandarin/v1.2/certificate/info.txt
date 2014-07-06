@@ -1,0 +1,2 @@
+alias: mandarin
+password: GAO0xing

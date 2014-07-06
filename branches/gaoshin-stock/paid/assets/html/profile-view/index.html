@@ -1,0 +1,64 @@
+<html>
+<head>
+<style>
+body {
+	margin: 0px;
+	padding: 0px;
+}
+</style>
+
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport" />
+<script type="text/javascript" src="../jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../jquery/jquery.iframe-auto-height.plugin.1.5.0.js"></script>
+<script type="text/javascript" src="../common.js"></script>
+</head>
+<body>
+<div id="container">
+<iframe frameborder='0' scrolling='yes' 
+	style='-webkit-transform: scale(1);-webkit-transform-origin: 0 0;border: 0;'  
+	id='iframe'>
+</iframe>
+</div>
+IFrame above source: Yahoo.com
+
+</body>
+</html>
+
+<script type="text/javascript">
+tools = new Array("list", "exit", "chart");
+
+function setActive(active) {
+	if(active || active == 'true') {
+		var menus = {
+				items: [
+						{},
+				        getSystemMenu(),
+				]
+		};
+		android.setMenus(JSON.stringify(menus));
+	}
+}
+
+function onMenu(id, label) {
+	if(onSysMenu(id, label)) {
+		return;
+	}
+	
+}
+
+function onScroll() {
+}
+
+$(document).ready(function(){
+	symbol = window.location.search.substring(1);
+	var scale = android.getScale() / 1;
+	var displayWidth = android.getDisplayWidth();
+	var displayHeight = android.getDisplayHeight();
+	var scrollbarHeight = Math.floor(displayHeight / scale);
+	var scrollbarWidth = Math.floor(displayWidth / scale);
+	$('#iframe').width(scrollbarWidth);
+	$('#iframe').height(scrollbarHeight);
+	$('#iframe').attr('src', 'http://m.yahoo.com/w/yfinance/quote/' + symbol);
+	setActive(true);
+});
+</script>

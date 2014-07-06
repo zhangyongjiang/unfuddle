@@ -1,0 +1,56 @@
+Changelog per release
+---------------------
+
+0.10
+
+- updated documentation to reflect availability of android jar files in maven central
+
+0.9
+
+- fixed issue 6 missing maps support for 2.2
+- removed obsolete platforms 2.0 and 2.0.1
+
+0.8
+
+- added platform 2.2 (froyo) support
+
+0.7
+
+- changed readme to markdown
+- added mailinglist and issue tracker details to readme and pom
+- documented solution for recurring issue with old platform folder names
+
+0.6
+
+- upgraded naming for platforms to new naming convention with latest sdk release (r5) and changes that happened recently
+  with the naming (as of 2010-03-23) so that platform folder are now named android-7, where e.g. 7 is the API level 7
+  that equals 2.1
+- removed support for platform 1.1, since it marked as obsolete now
+- removed support for platform 2.0, since it is replaced by 2.0.1 and also marked obsolete, therefore there is no
+  google addon api level 5 anymore either...
+- removed profile for 1.1
+- updated documentation accordingly
+
+0.5
+
+- changed package to com.simpligility
+- added support for platform 2.1 and addons 7
+- added profiles for separate install of sdk levels 1.1, 1.5, 1.6, 2.0 and 2.1
+- updated documentation accordingly
+
+0.4
+
+- maps v4r2 change, small cleanup of folder names, added license and changelog
+
+0.3
+
+- sdk 2.0.1 changes and cleanup
+
+0.2
+
+- got deploy working to get into remote repos, documentation additions and more
+
+0.1
+
+- initial setup working for install
+

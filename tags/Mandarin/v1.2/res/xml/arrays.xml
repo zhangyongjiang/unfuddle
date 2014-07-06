@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="wordlist">
+		<item>
+			<id>1_002.MP3</id>
+			<eword>what</eword>
+			<cword>啊</cword>
+			<level>A</level>
+		</item>
+		<item>
+			<id>1_003.MP3</id>
+			<eword>Oh; O; Oho</eword>
+			<cword>啊</cword>
+			<level>A</level>
+		</item>
+		<item>
+			<id>2_001.MP3</id>
+			<eword>ah</eword>
+			<cword>唉</cword>
+			<level>Ai</level>
+		</item>
+		<item>
+			<id>3_001.MP3</id>
+			<eword> sorrow; grief; mourning</eword>
+			<cword>哀</cword>
+			<level>Ai</level>
+		</item>
+		<item>
+			<id>3_002.MP3</id>
+			<eword>love</eword>
+			<cword>爱</cword>
+			<level>Ai</level>
+		</item>
+	</string-array>
+</resources>

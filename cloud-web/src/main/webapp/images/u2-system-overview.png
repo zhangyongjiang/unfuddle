@@ -1,0 +1,237 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Bouncer - Yahoo! Corporate Single Login</title>
+<link rel="stylesheet" href="/css/global.css" type="text/css">
+<script>
+ var id_value = "";
+ var intercept_message = "";
+ var otheripscripturl= "https://gh.bouncer.login.yahoo.com/otherip.php";
+</script>
+
+   <script type="text/javascript">
+     function load_dialog(){
+       alert(intercept_message);
+     }
+   </script>
+   <script language="JavaScript">
+   <!--
+   function resetValues()
+   {
+      document.s.id.value = id_value;
+      document.s.pass_word.value = "";
+      if(id_value){
+        document.s.pass_word.focus();
+      }else{
+        document.s.id.focus();
+      }
+   }
+   
+  function getAnchor()
+  {
+    anchor = self.document.location.hash;
+    //alert(anchor);
+    if(!anchor) 
+    {
+      return;
+    }
+    newUrl = document.forms.s.url.value + anchor 
+    // add to url field
+    document.forms.s.url.value = newUrl;
+    //add to link
+    a = document.getElementById('destinationLink');
+    a.href = unescape(newUrl);
+    a.innerHTML = unescape(newUrl).substr(0, 45) + '...';
+    //alert(a.innerHTML);
+  }   
+
+  function loadOtherIP(url)
+  {
+    var otheripscript = document.createElement('script');
+    otheripscript.type='text/javascript';
+    otheripscript.src=url;
+    document.getElementsByTagName('head')[0].appendChild(otheripscript);
+   }
+
+   function initialize() {
+     getAnchor();
+     loadOtherIP(otheripscripturl);
+   }
+
+   //-->
+   </script>
+
+</head>
+<body onload="initialize();">
+
+<center>
+<!-- begin header -->
+<SCRIPT LANGUAGE="javascript"><!--
+
+  if (top != self) top.location.href = location.href;
+
+//--></SCRIPT>
+<table width="100%">
+<tr><td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td valign="middle" width="1%">
+    <img alt="Yahoo! Bouncer" border="0" 
+    src="/images/bylogo.gif" align="middle">
+    </td>
+    <td valign="top" align="right">
+    <font face="arial,helvetica" size="-1"> 
+     &nbsp;            
+    <a href="http://backyard.yahoo.com/" target="_top">Backyard</a> - 
+    <a href="http://www.yahoo.com" target="_top">Yahoo!</a> 
+ - <a href="/login/?action=logout&url=/login/" target="_top">Sign Out</a>    </font>
+    <hr size="1" noshade>
+</td></tr>
+</table>
+</td></tr>
+<tr></td><table border=0 width=100% cellpadding=1 cellspacing=1>
+<tr><td class=darkheader>
+	<table border=0 width=100% cellpadding=4 cellspacing=0>
+		<tr><td class=lightheader>Bouncer - Yahoo! Corporate Single Login</td></tr>
+  </table>
+	</td>
+</tr> 
+</table></td></tr>
+</table>
+<!-- end header -->
+<form method=post action="/login/" name=s autocomplete=off>
+	
+   <table border=0 cellpadding=2 cellspacing=0 width=100%>
+      <tr><td valign=top>
+      <table border=0 cellpadding=4 cellspacing=0>
+         <tr><td class=darkheader nowrap align=center>
+            <b>Yahoo! Bouncer</b>
+         </td></tr>
+         <tr><td align=right>
+         <table border=0 cellpadding=2 cellspacing=0 cols=2>
+            <tr><td align=right nowrap >
+               <b style="font-size: 10pt;">User ID (or Email): </b>
+            </td>
+            <td>
+               <input name=id  size=20 maxlength=60>
+            </td></tr>
+            <tr><td align=right nowrap>
+               <b style="font-size: 10pt;">Passphrase: </b>
+            </td>
+            <td>
+               <input name=pass_word type=password size=20 maxlength="64">
+            </td></tr>
+            <tr><td align=right nowrap>
+               &nbsp;
+            </td>
+            <td>
+               <input id="remember_me" name="remember_me" type="checkbox" value="1"  style="width: 10px; height: 10px"> <label style="font-size: 10px;" for="remember_me">remember me</span>
+            </td></tr>
+            <tr>
+            <td></td>
+            <td>
+	      <input type="submit" value="&nbsp;&nbsp;Sign In&nbsp;&nbsp;">
+        <input type="hidden" name="action" value="login">
+        <input type="hidden" name="user_id" value="">
+        <input type="hidden" name="email" value="">
+        <input type="hidden" name="url" value="">
+        <input type="hidden" name="src" value="by">
+        <input type="hidden" name="challenge" value="">
+        <input type="hidden" name="intl" value="">
+        <input type="hidden" name="done" value="">
+        <input type="hidden" name="fail" value="">
+        <input type="hidden" name="fail_sig" value="">
+        <input type="hidden" name="msg" value="">
+        <input type="hidden" name="change" value="">
+        <input type="hidden" name="redirect" value="">
+        <input type="hidden" name="app" value="">
+        <input type="hidden" name="role" value="">
+        <input type="hidden" name="otherip" value="">
+        <input type="hidden" name="pwcrumb" value="">
+	<input type="hidden" name="new_pwcrumb_key" value="">
+        <input type="hidden" name="nohttponly" value="">
+                    </td></tr>
+           <tr><td>&nbsp;</td><td nowrap><font size="-1"><a href="/login/forgotpwd.html">Forgot your passphrase?</a></font></td></tr>
+	   <tr><td>&nbsp;</td><td nowrap><div id="by_photo_img" style="display:none;"><img src='https://backyard.yahoo.com/tools/y/getimg/getimg_new.php?hash=617b1029df240abecafbd2a905119e71&user=chzhang&ts=1275425339' alt='user image'></div></td></tr>
+           <script>
+           <!--
+              // display by_image if the user has javascript
+              // enabled and has a valid YBC cookie
+              document.getElementById("by_photo_img").style.display="block";
+           //-->
+           </script>
+              
+         </table>
+         </td></tr>
+      </table>
+      </td><td>
+      &nbsp;
+      </td><td valign=top width=100%>
+         <table border=0 cellpadding=4 cellspacing=0 width=100%>
+            <tr><td class=lightheader>
+               <b>Passphrase Help</b>
+            </td></tr>
+            <tr><td valign=top>
+               	Use your email account User ID and passphrase for 
+               	signing in to any Corporate Application.  
+               	If you have forgotten your passphrase or 
+               	have any other login issues, please email the 
+               	CareCenter at <a href="mailto:request@yahoo-inc.com">
+               	request@yahoo-inc.com</a>.  You can also contact them at 
+               	(408)-349-5300 for online assistance.  To change
+               	your existing passphrase, use the link given below.
+               	<br>&nbsp;
+            </td></tr>     
+         </table>
+         <table border=0 cellpadding=4 cellspacing=0 width=100%>
+            <tr><td class=lightheader><b>Bouncer FAQ</b></td></tr>
+            <tr><td valign=top>
+                <ul>
+                <li><a href="/disp_image.html">Picture Display on Login Page</a></li>
+                </ul>
+                <br>&nbsp;
+                </td>
+            </tr>
+         </table> 
+         <table border=0 cellpadding=4 cellspacing=0 width=100%>
+            <tr><td class=lightheader>
+               <b>Account Info</b>
+            </td></tr>
+            <tr><td valign=top>
+            <ul>
+            <li><a href="http://backyard.yahoo.com/apps/toolshed/personal_info.cgi">Update your Personal Information</a>
+            <li><a href="http://backyard.yahoo.com/apps/empimg/edit">Manage your Picture</a>
+            <li><a href="/admin/changepwd.html">Change your passphrase</a>
+            </ul>
+            </td></tr>     
+         </table>         
+         </td></tr>
+      <tr>
+      <td nowrap class=container>
+         <b>&nbsp;
+      </td>
+      <td>
+         &nbsp;
+      </td>
+      <td nowrap class=container>
+         <b>&nbsp;
+      </td>
+      </tr>            
+   </table>
+   </form>
+	 <script>
+			resetValues();
+	 </script>
+   
+   <!-- begin footer -->   
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tr><td><hr size="0"></td></tr>
+<tr><td align="center" width="100%">
+   <font face="Arial" size="1">Please provide feedback and comments to 
+   <a href="mailto:bouncer-questions@yahoo-inc.com">bouncer-questions@yahoo-inc.com</a>.
+</font>
+</td></tr>
+</table>
+<!-- end footer -->
+   </center>
+	 </body>
+	 </html>

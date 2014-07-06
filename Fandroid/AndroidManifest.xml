@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.gaoshin.fandroid"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="8" />
+	<uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".FandroidActivity"
+                  android:label="@string/app_name">
+            <!--intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter-->
+        </activity>
+        <activity android:name=".ContactActivity"
+        	android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name">
+        </activity>
+
+		<receiver android:name="com.gaoshin.fandroid.RecentContactWidgetProvider" android:label="Recents Contacts" android:icon="@drawable/icon">
+			<intent-filter>
+				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+			</intent-filter>
+			<meta-data android:name="android.appwidget.provider"
+				android:resource="@xml/widget_provicer" />
+		</receiver>
+		
+		<provider android:authorities="com.gaoshin.fandroid.FandroidContentProvider"
+			android:name="com.gaoshin.fandroid.FandroidContentProvider" />
+    </application>
+</manifest>

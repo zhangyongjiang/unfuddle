@@ -1,0 +1,671 @@
+{
+      "description": "Real time stock chart", 
+      "name": "1 day 5 minutes chart", 
+      "sampleUrl": "http://realtime.bigcharts.com/big.chart?symb=IBM&time=1&freq=6&lf=1&type=4&style=320&size=4",
+      "paramList": {
+            "items": [
+                  {
+                        "defValue": "1", 
+                        "display": "Time", 
+                        "options": [
+                              {
+                                    "value": "1", 
+                                    "display": "1 day"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "2 days"
+                              }, 
+                              {
+                                    "value": "3", 
+                                    "display": "5 days"
+                              }, 
+                              {
+                                    "value": "18", 
+                                    "display": "10 days"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "1 month"
+                              }, 
+                              {
+                                    "value": "5", 
+                                    "display": "2 months"
+                              }, 
+                              {
+                                    "value": "6", 
+                                    "display": "3 months"
+                              }, 
+                              {
+                                    "value": "7", 
+                                    "display": "6 months"
+                              }, 
+                              {
+                                    "value": "19", 
+                                    "display": "YTD"
+                              }, 
+                              {
+                                    "value": "8", 
+                                    "display": "1 year"
+                              }, 
+                              {
+                                    "value": "9", 
+                                    "display": "2 years"
+                              }, 
+                              {
+                                    "value": "10", 
+                                    "display": "3 years"
+                              }, 
+                              {
+                                    "value": "11", 
+                                    "display": "4 years"
+                              }, 
+                              {
+                                    "value": "12", 
+                                    "display": "5 years"
+                              }, 
+                              {
+                                    "value": "13", 
+                                    "display": "1 decade"
+                              }, 
+                              {
+                                    "value": "20", 
+                                    "display": "All Data"
+                              }
+                        ], 
+                        "name": "time"
+                  }, 
+                  {
+                        "defValue": "6", 
+                        "display": "Frequency", 
+                        "options": [
+                              {
+                                    "value": "9", 
+                                    "display": "1-Minute"
+                              }, 
+                              {
+                                    "value": "6", 
+                                    "display": "5-Minute"
+                              }, 
+                              {
+                                    "value": "7", 
+                                    "display": "15-Minute"
+                              }, 
+                              {
+                                    "value": "8", 
+                                    "display": "Hourly"
+                              }, 
+                              {
+                                    "value": "1", 
+                                    "display": "Daily"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "Weekly"
+                              }, 
+                              {
+                                    "value": "3", 
+                                    "display": "Monthly"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "Quarterly"
+                              }, 
+                              {
+                                    "value": "5", 
+                                    "display": "Yearly"
+                              }
+                        ], 
+                        "name": "freq"
+                  }, 
+                  {
+                        "display": "Moving Average", 
+                        "options": [
+                              {
+                                    "value": "0", 
+                                    "display": "None"
+                              }, 
+                              {
+                                    "value": "1", 
+                                    "display": "SMA"
+                              }, 
+                              {
+                                    "value": "3", 
+                                    "display": "SMA (2-line)"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "SMA (3-line)"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "EMA"
+                              }, 
+                              {
+                                    "value": "5", 
+                                    "display": "EMA (2-line)"
+                              }, 
+                              {
+                                    "value": "6", 
+                                    "display": "EMA (3-line)"
+                              }
+                        ], 
+                        "name": "ma"
+                  }, 
+                  {
+                        "defValue": "9", 
+                        "display": "Moving Average Period", 
+                        "options": [ ], 
+                        "name": "maval"
+                  }, 
+                  {
+                        "display": "Upper Indicator", 
+                        "options": [
+                              {
+                                    "value": "0", 
+                                    "display": "None"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "MA Envelopes"
+                              }, 
+                              {
+                                    "value": "8", 
+                                    "display": "Bollinger Bands"
+                              }, 
+                              {
+                                    "value": "16", 
+                                    "display": "Parabolic SAR"
+                              }, 
+                              {
+                                    "value": "32", 
+                                    "display": "Volume by Price"
+                              }, 
+                              {
+                                    "value": "128", 
+                                    "display": "Price Channel"
+                              }, 
+                              {
+                                    "value": "1024", 
+                                    "display": "Show Splits"
+                              }, 
+                              {
+                                    "value": "2048", 
+                                    "display": "Show Earnings"
+                              }, 
+                              {
+                                    "value": "4096", 
+                                    "display": "Show Dividends"
+                              }, 
+                              {
+                                    "value": "7168", 
+                                    "display": "Show All Events"
+                              }, 
+                              {
+                                    "value": "512", 
+                                    "display": "A/D Line"
+                              }
+                        ], 
+                        "name": "uf"
+                  }, 
+                  {
+                        "defValue": "1", 
+                        "display": "Low Indicator", 
+                        "options": [
+                              {
+                                    "value": "0", 
+                                    "display": "None"
+                              }, 
+                              {
+                                    "value": "1", 
+                                    "display": "Volume"
+                              }, 
+                              {
+                                    "value": "268435456", 
+                                    "display": "Volume+"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "RSI"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "MACD"
+                              }, 
+                              {
+                                    "value": "8", 
+                                    "display": "OBV"
+                              }, 
+                              {
+                                    "value": "16", 
+                                    "display": "Fast Stochastic"
+                              }, 
+                              {
+                                    "value": "32", 
+                                    "display": "Slow Stochastic"
+                              }, 
+                              {
+                                    "value": "128", 
+                                    "display": "ROC"
+                              }, 
+                              {
+                                    "value": "256", 
+                                    "display": "Williams %R"
+                              }, 
+                              {
+                                    "value": "512", 
+                                    "display": "Money Flow"
+                              }, 
+                              {
+                                    "value": "1024", 
+                                    "display": "DMI"
+                              }, 
+                              {
+                                    "value": "4096", 
+                                    "display": "Vol Accumulation"
+                              }, 
+                              {
+                                    "value": "8192", 
+                                    "display": "Volatility Fast"
+                              }, 
+                              {
+                                    "value": "16384", 
+                                    "display": "Volatility Slow"
+                              }, 
+                              {
+                                    "value": "65536", 
+                                    "display": "Momentum"
+                              }, 
+                              {
+                                    "value": "131072", 
+                                    "display": "Ult Oscillator"
+                              }, 
+                              {
+                                    "value": "1073741824", 
+                                    "display": "% Short Interest"
+                              }, 
+                              {
+                                    "value": "67108864", 
+                                    "display": "Rolling EPS"
+                              }, 
+                              {
+                                    "value": "16777216", 
+                                    "display": "P/E Ratio"
+                              }, 
+                              {
+                                    "value": "8388608", 
+                                    "display": "P/E Ranges"
+                              }, 
+                              {
+                                    "value": "134217728", 
+                                    "display": "Rolling Dividend"
+                              }, 
+                              {
+                                    "value": "33554432", 
+                                    "display": "Yield"
+                              }, 
+                              {
+                                    "value": "262144", 
+                                    "display": "Up/Down Ratio"
+                              }, 
+                              {
+                                    "value": "524288", 
+                                    "display": "Arms Index (TRIN)"
+                              }, 
+                              {
+                                    "value": "1048576", 
+                                    "display": "A/D Line (Breadth)"
+                              }, 
+                              {
+                                    "value": "2097152", 
+                                    "display": "A/D Line (Daily)"
+                              }, 
+                              {
+                                    "value": "4194304", 
+                                    "display": "% Compare"
+                              }
+                        ], 
+                        "name": "lf"
+                  }, 
+                  {
+                        "display": "Low Indicator", 
+                        "options": [
+                              {
+                                    "value": "0", 
+                                    "display": "None"
+                              }, 
+                              {
+                                    "value": "1", 
+                                    "display": "Volume"
+                              }, 
+                              {
+                                    "value": "268435456", 
+                                    "display": "Volume+"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "RSI"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "MACD"
+                              }, 
+                              {
+                                    "value": "8", 
+                                    "display": "OBV"
+                              }, 
+                              {
+                                    "value": "16", 
+                                    "display": "Fast Stochastic"
+                              }, 
+                              {
+                                    "value": "32", 
+                                    "display": "Slow Stochastic"
+                              }, 
+                              {
+                                    "value": "128", 
+                                    "display": "ROC"
+                              }, 
+                              {
+                                    "value": "256", 
+                                    "display": "Williams %R"
+                              }, 
+                              {
+                                    "value": "512", 
+                                    "display": "Money Flow"
+                              }, 
+                              {
+                                    "value": "1024", 
+                                    "display": "DMI"
+                              }, 
+                              {
+                                    "value": "4096", 
+                                    "display": "Vol Accumulation"
+                              }, 
+                              {
+                                    "value": "8192", 
+                                    "display": "Volatility Fast"
+                              }, 
+                              {
+                                    "value": "16384", 
+                                    "display": "Volatility Slow"
+                              }, 
+                              {
+                                    "value": "65536", 
+                                    "display": "Momentum"
+                              }, 
+                              {
+                                    "value": "131072", 
+                                    "display": "Ult Oscillator"
+                              }, 
+                              {
+                                    "value": "1073741824", 
+                                    "display": "% Short Interest"
+                              }, 
+                              {
+                                    "value": "67108864", 
+                                    "display": "Rolling EPS"
+                              }, 
+                              {
+                                    "value": "16777216", 
+                                    "display": "P/E Ratio"
+                              }, 
+                              {
+                                    "value": "8388608", 
+                                    "display": "P/E Ranges"
+                              }, 
+                              {
+                                    "value": "134217728", 
+                                    "display": "Rolling Dividend"
+                              }, 
+                              {
+                                    "value": "33554432", 
+                                    "display": "Yield"
+                              }, 
+                              {
+                                    "value": "262144", 
+                                    "display": "Up/Down Ratio"
+                              }, 
+                              {
+                                    "value": "524288", 
+                                    "display": "Arms Index (TRIN)"
+                              }, 
+                              {
+                                    "value": "1048576", 
+                                    "display": "A/D Line (Breadth)"
+                              }, 
+                              {
+                                    "value": "2097152", 
+                                    "display": "A/D Line (Daily)"
+                              }, 
+                              {
+                                    "value": "4194304", 
+                                    "display": "% Compare"
+                              }
+                        ], 
+                        "name": "lf2"
+                  }, 
+                  {
+                        "display": "Low Indicator", 
+                        "options": [
+                              {
+                                    "value": "0", 
+                                    "display": "None"
+                              }, 
+                              {
+                                    "value": "1", 
+                                    "display": "Volume"
+                              }, 
+                              {
+                                    "value": "268435456", 
+                                    "display": "Volume+"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "RSI"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "MACD"
+                              }, 
+                              {
+                                    "value": "8", 
+                                    "display": "OBV"
+                              }, 
+                              {
+                                    "value": "16", 
+                                    "display": "Fast Stochastic"
+                              }, 
+                              {
+                                    "value": "32", 
+                                    "display": "Slow Stochastic"
+                              }, 
+                              {
+                                    "value": "128", 
+                                    "display": "ROC"
+                              }, 
+                              {
+                                    "value": "256", 
+                                    "display": "Williams %R"
+                              }, 
+                              {
+                                    "value": "512", 
+                                    "display": "Money Flow"
+                              }, 
+                              {
+                                    "value": "1024", 
+                                    "display": "DMI"
+                              }, 
+                              {
+                                    "value": "4096", 
+                                    "display": "Vol Accumulation"
+                              }, 
+                              {
+                                    "value": "8192", 
+                                    "display": "Volatility Fast"
+                              }, 
+                              {
+                                    "value": "16384", 
+                                    "display": "Volatility Slow"
+                              }, 
+                              {
+                                    "value": "65536", 
+                                    "display": "Momentum"
+                              }, 
+                              {
+                                    "value": "131072", 
+                                    "display": "Ult Oscillator"
+                              }, 
+                              {
+                                    "value": "1073741824", 
+                                    "display": "% Short Interest"
+                              }, 
+                              {
+                                    "value": "67108864", 
+                                    "display": "Rolling EPS"
+                              }, 
+                              {
+                                    "value": "16777216", 
+                                    "display": "P/E Ratio"
+                              }, 
+                              {
+                                    "value": "8388608", 
+                                    "display": "P/E Ranges"
+                              }, 
+                              {
+                                    "value": "134217728", 
+                                    "display": "Rolling Dividend"
+                              }, 
+                              {
+                                    "value": "33554432", 
+                                    "display": "Yield"
+                              }, 
+                              {
+                                    "value": "262144", 
+                                    "display": "Up/Down Ratio"
+                              }, 
+                              {
+                                    "value": "524288", 
+                                    "display": "Arms Index (TRIN)"
+                              }, 
+                              {
+                                    "value": "1048576", 
+                                    "display": "A/D Line (Breadth)"
+                              }, 
+                              {
+                                    "value": "2097152", 
+                                    "display": "A/D Line (Daily)"
+                              }, 
+                              {
+                                    "value": "4194304", 
+                                    "display": "% Compare"
+                              }
+                        ], 
+                        "name": "lf3"
+                  }, 
+                  {
+                        "defValue": "4", 
+                        "display": "Chart Type", 
+                        "options": [
+                              {
+                                    "value": "0", 
+                                    "display": "Hide Price"
+                              }, 
+                              {
+                                    "value": "1", 
+                                    "display": "HLC"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "OHLC"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "Candlestick"
+                              }, 
+                              {
+                                    "value": "8", 
+                                    "display": "Mountain"
+                              }, 
+                              {
+                                    "value": "16", 
+                                    "display": "Bar Charts"
+                              }, 
+                              {
+                                    "value": "32", 
+                                    "display": "Dot"
+                              }, 
+                              {
+                                    "value": "64", 
+                                    "display": "Close"
+                              }, 
+                              {
+                                    "value": "128", 
+                                    "display": "Logarithmic"
+                              }
+                        ], 
+                        "name": "type"
+                  }, 
+                  {
+                        "defValue": "370", 
+                        "display": "Background", 
+                        "options": [
+                              {
+                                    "value": "320", 
+                                    "display": "Default"
+                              }, 
+                              {
+                                    "value": "330", 
+                                    "display": "Black Grids"
+                              }, 
+                              {
+                                    "value": "340", 
+                                    "display": "Blue & White "
+                              }, 
+                              {
+                                    "value": "350", 
+                                    "display": "Black"
+                              }, 
+                              {
+                                    "value": "360", 
+                                    "display": "Globe"
+                              }, 
+                              {
+                                    "value": "370", 
+                                    "display": "Graph Paper"
+                              }, 
+                              {
+                                    "value": "380", 
+                                    "display": "Blue"
+                              }
+                        ], 
+                        "name": "style"
+                  }, 
+                  {
+                        "defValue": "4", 
+                        "display": "Size", 
+                        "options": [
+                              {
+                                    "value": "1", 
+                                    "display": "Small"
+                              }, 
+                              {
+                                    "value": "2", 
+                                    "display": "Medium"
+                              }, 
+                              {
+                                    "value": "3", 
+                                    "display": "Large"
+                              }, 
+                              {
+                                    "value": "4", 
+                                    "display": "Big"
+                              }
+                        ], 
+                        "name": "size"
+                  }
+            ]
+      }, 
+      "url": "http://realtime.bigcharts.com/big.chart?symb=__SYM__", 
+      "country": "US"
+}

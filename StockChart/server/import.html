@@ -1,0 +1,58 @@
+<html>
+<head>
+<style type="text/css">
+table {border:solid 1px;}
+th, td {border:solid 1px #bbb; padding:4px;}
+div {margin-bottom:6px;}
+</style>
+<script type="text/javascript" src="json2.js"></script>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	pluginFile = window.location.search.substring(1);
+    $.ajax({
+        url : "plugins/" + pluginFile,
+        complete : function(transport) {
+            if (transport.status == 200) {
+                pluginJson = transport.responseText;
+                plugin = JSON.parse(pluginJson);
+                $('#json').val(transport.responseText)
+                $('#name').html(plugin.name);
+                $('#description').html(plugin.description);
+                $('#country').html(plugin.country);
+                $('#sampleUrl').html('<a href="' + plugin.sampleUrl + '">' + plugin.sampleUrl + '</a>');
+            } else {
+                alert('Error: ' + transport.status + ", "
+                        + transport.responseText);
+            }
+        }
+    });
+	
+});
+
+function importPlugin() {
+	android.importPlugin(pluginJson);
+}
+</script>
+</head>
+<body>
+<h3>Data Source</h3>
+
+<table>
+
+<tr><td>Name</td><td><span id='name'></span>
+<div style="float:right;"><button onClick="importPlugin()">Import</button></div>
+</td></tr>
+
+<tr><td>Country</td><td id='country'></td></tr>
+
+<tr><td>Sample URL</td><td id="sampleUrl"></td></tr>
+
+<tr><td>Description</td><td id="description"></td></tr>
+</table>
+
+<div style='margin-top:16px;'>Raw Data</div>
+<textarea id='json' style='width: 100%;min-height:160px;'>
+</textarea>
+</body>
+</html>

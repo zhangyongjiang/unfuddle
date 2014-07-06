@@ -1,0 +1,186 @@
+<html>
+<head>
+<style type="text/css">
+	th {
+		border:solid 1px #ccc;padding:6px;
+	}
+	
+	td {
+		border:solid 1px #ccc;padding:6px;
+	}
+</style>
+</head>
+<body>
+<div style="margin-top:36px;">Timer Expression Format</div>
+<table style="border:solid 1px;"><tbody>
+<tr>
+<th> Field Name </th>
+<th> Mandatory? </th>
+<th> Allowed Values </th>
+<th> Allowed Special Characters </th>
+</tr>
+
+<tr>
+<td> Minutes </td>
+<td> YES </td>
+<td> 0-59 </td>
+<td> , - * / </td>
+</tr>
+
+<tr>
+<td> Hours </td>
+<td> YES </td>
+<td> 0-23 </td>
+<td> , - * / </td>
+</tr>
+
+<tr>
+<td> Day of month </td>
+<td> YES </td>
+<td> 1-31 </td>
+<td> , - * ? / L W<br clear="all"/> </td>
+</tr>
+
+<tr>
+<td> Month </td>
+<td> YES </td>
+<td> 1-12 or JAN-DEC </td>
+<td> , - * / </td>
+</tr>
+
+<tr>
+<td> Day of week </td>
+<td> YES </td>
+<td> 1-7 or SUN-SAT </td>
+<td> , - * ? / L # </td>
+</tr>
+
+<tr>
+<td> Year </td>
+<td> NO </td>
+<td> empty, 1970-2099 </td>
+<td> , - * / </td>
+</tr>
+</tbody></table>
+<div>So timer expressions can be as simple as this: * * * ? *</div>
+<div>or more complex, like this: 0/5 14,18,3-39,52 ? JAN,MAR,SEP MON-FRI 2002-2010</div>
+
+<p><strong>
+<u>The '?' character is used to omit the specification of
+a value for the day-of-month and day-of-week fields. Since it's not valid to
+specify values for both fields, '?' becomes necessary to omit one of either
+</u></strong></p>
+
+
+<br/><br/>
+<div style="font-size:1.3em;">
+Sandbox:
+<input type="text" style="width:100%;height:2em;" id="cronExpression"/>
+<input type="button" onClick="testCronExpression()" value="Test"/>
+<div style="clear:both;" id="cronResult"></div>
+</div>
+
+<div style="margin-top:36px;">Timer Expression Examples</div>
+
+<table style="border:solid 1px;"><tbody>
+<tr>
+<th> Expression </th>
+<th> Meaning </th>
+</tr>
+<tr>
+<td> <tt>0 12 * * ?</tt> </td>
+<td> Fire at 12pm (noon) every day </td>
+
+</tr>
+<tr>
+<td> <tt>15 10 ? * *</tt> </td>
+<td> Fire at 10:15am every day </td>
+</tr>
+<tr>
+<td> <tt>15 10 * * ?</tt> </td>
+<td> Fire at 10:15am every day </td>
+
+</tr>
+<tr>
+<td> <tt>15 10 * * ? *</tt> </td>
+<td> Fire at 10:15am every day </td>
+</tr>
+<tr>
+<td> <tt>15 10 * * ? 2005</tt> </td>
+<td> Fire at 10:15am every day during the year 2005 </td>
+
+</tr>
+<tr>
+<td> <tt>* 14 * * ?</tt> </td>
+<td> Fire every minute starting at 2pm and ending at 2:59pm, every day </td>
+</tr>
+<tr>
+<td> <tt>0/5 14 * * ?</tt> </td>
+<td> Fire every 5 minutes starting at 2pm and ending at 2:55pm, every day </td>
+
+</tr>
+<tr>
+<td> <tt>0/5 14,18 * * ?</tt> </td>
+<td> Fire every 5 minutes starting at 2pm and ending at 2:55pm, AND fire every 5 minutes starting at 6pm and ending at 6:55pm, every day </td>
+</tr>
+<tr>
+<td> <tt>0-5 14 * * ?</tt> </td>
+<td> Fire every minute starting at 2pm and ending at 2:05pm, every day </td>
+
+</tr>
+<tr>
+<td> <tt>10,44 14 ? 3 WED</tt> </td>
+<td> Fire at 2:10pm and at 2:44pm every Wednesday in the month of March. </td>
+</tr>
+<tr>
+<td> <tt>15 10 ? * MON-FRI</tt> </td>
+<td> Fire at 10:15am every Monday, Tuesday, Wednesday, Thursday and Friday </td>
+
+</tr>
+<tr>
+<td> <tt>15 10 15 * ?</tt> </td>
+<td> Fire at 10:15am on the 15th day of every month </td>
+</tr>
+<tr>
+<td> <tt>15 10 L * ?</tt> </td>
+<td> Fire at 10:15am on the last day of every month </td>
+
+</tr>
+<tr>
+<td> <tt>15 10 ? * 6L</tt> </td>
+<td> Fire at 10:15am on the last Friday of every month </td>
+</tr>
+<tr>
+<td> <tt>15 10 ? * 6L</tt> </td>
+<td> Fire at 10:15am on the last Friday of every month </td>
+
+</tr>
+<tr>
+<td> <tt>15 10 ? * 6L 2002-2005</tt> </td>
+<td> Fire at 10:15am on every last friday of every month during the years 2002, 2003, 2004 and 2005 </td>
+</tr>
+<tr>
+<td> <tt>15 10 ? * 6#3</tt> </td>
+<td> Fire at 10:15am on the third Friday of every month </td>
+
+</tr>
+<tr>
+<td> <tt>0 12 1/5 * ?</tt> </td>
+<td> Fire at 12pm (noon) every 5 days every month, starting on the first day of the month. </td>
+</tr>
+<tr>
+<td> <tt>11 11 11 11 ?</tt> </td>
+<td> Fire every November 11th at 11:11am. </td>
+
+</tr>
+</tbody></table>
+
+<script type="text/javascript">
+function testCronExpression() {
+    var cron = document.getElementById('cronExpression').value;
+    var list = Device.getCronExecutionList(cron);
+    alert("Application will be executed at following time:\n" + list);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="fill_parent"
+	android:layout_width="fill_parent"
+>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:orientation="vertical"
+	>
+		<LinearLayout 
+			android:layout_height="wrap_content"
+			android:orientation="vertical" 
+			android:layout_width="fill_parent"
+		>
+			<RadioGroup android:id="@+id/clickMode"
+				android:layout_width="fill_parent"
+	            android:layout_height="wrap_content" 
+	            android:orientation="vertical"
+	            android:layout_marginTop="16dp"
+			>
+				<TextView 
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:text="Click Mode (how to activate the shortcuts)"
+		    		android:textSize="20dp"
+				/>
+				<RadioButton android:id="@+id/oneClick"
+		    		android:textSize="14dp"
+					android:text="Single Click Mode. Single-Click will activate shortcuts."
+				/>
+				<RadioButton android:id="@+id/twoClicks"
+					android:text="Double Click Mode. Double-Click will activate shortcuts."
+		    		android:textSize="14dp"
+				/>
+			</RadioGroup>
+			
+			<RadioGroup android:id="@+id/linkMode"
+				android:layout_width="fill_parent"
+	            android:layout_height="wrap_content" 
+	            android:orientation="vertical"
+	            android:layout_marginTop="16dp"
+			>
+				<TextView 
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:text="Linked Shortcut Groups?"
+		    		android:textSize="20dp"
+				/>
+				<RadioButton android:id="@+id/independent"
+		    		android:textSize="14dp"
+					android:text="Independent. Operation on one shortcut group has no impact on others shortcut group."
+				/>
+				<RadioButton android:id="@+id/linked"
+					android:text="Linked. All shortcut group will be displayed if one is displayed"
+		    		android:textSize="14dp"
+				/>
+			</RadioGroup>
+
+            <RadioGroup android:id="@+id/notification"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" 
+                android:orientation="vertical"
+                android:layout_marginTop="16dp"
+            >
+                <TextView 
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Notification Bar Icon?"
+                    android:textSize="20dp"
+                />
+                <RadioButton android:id="@+id/noIcon"
+                    android:textSize="14dp"
+                    android:text="No icon. * Without putting an icon on the notification bar, Android OS could kill Click-Click application silently. Change won't take effect without a restart"
+                />
+                <RadioButton android:id="@+id/useIcon"
+                    android:text="Use icon (recommended)"
+                    android:textSize="14dp"
+                />
+            </RadioGroup>
+
+			<TextView 
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:text="Icon Transparency"
+	    		android:textSize="20dp"
+	            android:layout_marginTop="16dp"
+			/>
+			<TextView 
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:text="(0 - 255, 0 being transparent and 255 being opaque)"
+	    		android:textSize="14dp"
+			/>
+			<EditText
+				android:id="@+id/transparency"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:text="100"
+				android:digits="0123456789"
+			/>
+			
+
+		</LinearLayout>
+	</LinearLayout>
+</ScrollView>

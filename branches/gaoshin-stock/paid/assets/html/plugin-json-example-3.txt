@@ -1,0 +1,5 @@
+{
+      "url": "http://m.yahoo.com/w/yfinance/quote/__SYM__", 
+      "name": "Yahoo Finance Mobile", 
+      "country": "US"
+}

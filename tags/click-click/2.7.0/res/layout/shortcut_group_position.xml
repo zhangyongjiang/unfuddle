@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:id="@+id/shortcutGroupLayout"
+>
+	<Button
+		android:id="@+id/changeDirectionBtn"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerInParent="true"
+		android:lines="3"
+		android:text="Drag the group icon to move postion.\nClick the shortcut icon to reorder icons.\nClick me to rotate."
+	/>
+	
+	<ImageView 
+		android:id="@+id/topBtn"
+		android:layout_width="80px"
+		android:layout_height="80px"
+		android:src="@drawable/preview_48"
+	>
+	</ImageView>
+	
+	<LinearLayout
+		android:id="@+id/shortcuts"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+	>
+	</LinearLayout>
+</RelativeLayout>

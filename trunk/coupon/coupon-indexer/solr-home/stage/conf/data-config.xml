@@ -1,0 +1,67 @@
+<dataConfig>
+    <dataSource type="JdbcDataSource"
+        name="db0"
+        driver="com.mysql.jdbc.Driver"
+        url="${dataimporter.request.db0}"
+        user="search"
+        password="calltextual" batchSize="-1"/>
+     
+    <dataSource type="JdbcDataSource"
+        name="db1"
+        driver="com.mysql.jdbc.Driver"
+        url="${dataimporter.request.db1}"
+        user="search"
+        password="calltextual" batchSize="-1"/>
+
+    <document name="places">
+        <entity name="ITEM0" numOfShards="${dataimporter.request.numOfShards}"  dataSource="db0"
+        	transformer="com.apptera.solr.PlaceTransformer"
+            query="SELECT id,name,latitude,longitude,img_url,category,l2,l3,raves,address,city,state,country,phone from place_entity WHERE '${dataimporter.request.clean}' != 'false' or updated > (UNIX_TIMESTAMP('${dataimporter.last_index_time}')*1000) "> 
+            <field column="id" name="id" />
+            <field column="name" name="name" />
+            <field column="latitude" name="location_0_coordinate" />
+            <field column="longitude" name="location_1_coordinate" />
+            <field column="img_url" name="img_url" />
+		    <field column="category" name="category" />
+		    <field column="l2" name="cat2" />	
+		    <field column="l3" name="cat3" />	
+            <field column="address" name="address" />
+            <field column="city" name="city" />
+            <field column="state" name="state" />
+            <field column="country" name="country" />
+            <field column="phone" name="phone" />
+        </entity>
+
+        <entity name="ITEM1" numOfShards="${dataimporter.request.numOfShards}"  dataSource="db1"
+        	transformer="com.apptera.solr.PlaceTransformer"
+            query="SELECT id,name,latitude,longitude,img_url,category,l2,l3,raves,address,city,state,country,phone from place_entity WHERE '${dataimporter.request.clean}' != 'false' or updated > (UNIX_TIMESTAMP('${dataimporter.last_index_time}')*1000) "> 
+            <field column="id" name="id" />
+            <field column="name" name="name" />
+            <field column="latitude" name="location_0_coordinate" />
+            <field column="longitude" name="location_1_coordinate" />
+            <field column="img_url" name="img_url" />
+		    <field column="category" name="category" />
+		    <field column="l2" name="cat2" />	
+		    <field column="l3" name="cat3" />		    
+            <field column="address" name="address" />
+            <field column="city" name="city" />
+            <field column="state" name="state" />
+            <field column="country" name="country" />
+            <field column="phone" name="phone" />
+        </entity>
+
+        <entity name="REMOVE0" numOfShards="${dataimporter.request.numOfShards}"  dataSource="db0"
+            query="SELECT id, -1 as raves from deleted_places WHERE '${dataimporter.request.clean}' != 'false' or updated > (UNIX_TIMESTAMP('${dataimporter.last_index_time}')*1000) "> 
+            <field column="id" name="id" />
+	    <field column="raves" name="raves" />
+        </entity>
+
+        <entity name="REMOVE1" numOfShards="${dataimporter.request.numOfShards}"  dataSource="db1"
+            query="SELECT id, -1 as raves from deleted_places WHERE '${dataimporter.request.clean}' != 'false' or updated > (UNIX_TIMESTAMP('${dataimporter.last_index_time}')*1000) "> 
+            <field column="id" name="id" />
+	    <field column="raves" name="raves" />
+        </entity>
+
+    </document>
+</dataConfig>
+

@@ -1,0 +1,7 @@
+{
+      "name": "Yahoo Hongkong Finance", 
+      "sampleUrl": "http://hk.finance.yahoo.com/q?s=0762.HK",
+      "postAction": "removeAllExceptTagClass('div', 'quote-table');", 
+      "url": "http://hk.finance.yahoo.com/q?s=__SYM__", 
+      "country": "HK"
+}

@@ -1,0 +1,7 @@
+{
+      "name": "Yahoo Finance", 
+      "sampleUrl": "http://finance.yahoo.com/q?s=IBM&ql=1",
+      "postAction": "removeAllExceptTagClass('div', 'yfi_quote_summary');", 
+      "url": "http://finance.yahoo.com/q?s=__SYM__&ql=1", 
+      "country": "US"
+}

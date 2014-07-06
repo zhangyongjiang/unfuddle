@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+>
+	<TextView
+		android:id="@+id/groupName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_alignParentLeft="true"
+		android:textSize="20dp"
+		android:text="Group Name Here"
+		android:visibility="gone"
+	/>
+	
+	<LinearLayout
+		android:id="@+id/groupIconContainer"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentTop="true"
+		android:layout_toLeftOf="@+id/groupButtons"
+		android:gravity="center_horizontal"
+		android:orientation="vertical"
+	>
+		<ImageView
+			android:id="@+id/groupIcon"
+			android:layout_width="80px"
+			android:layout_height="80px"
+			android:src="@drawable/star_256"
+			android:scaleType="fitXY"
+		/>
+	</LinearLayout>	
+
+	<GridView 
+		android:id="@+id/shortcutIcons"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:numColumns="3"
+		android:layout_alignBottom="@+id/groupButtons"
+		android:layout_alignParentLeft="true"
+		android:layout_toLeftOf="@+id/groupButtons"
+	/>
+		
+	<LinearLayout
+		android:id="@+id/groupButtons"
+		android:layout_width="160dp"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:layout_alignParentRight="true"
+		android:layout_below="@+id/groupName"
+	>
+		<Button
+			android:id="@+id/changeNameBtn"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:text="Change Group Name"
+			android:visibility="gone"
+		/>
+		
+		<Button
+			android:id="@+id/changeIconBtn"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:text="Change Icon"
+		/>
+		
+		<Button
+			android:id="@+id/changePositionBtn"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:text="Change Position"
+		/>
+		
+		<Button
+			android:id="@+id/enableGroupBtn"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="Disable"
+		/>
+		
+		<Button
+			android:id="@+id/deleteGroupBtn"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="Delete"
+		/>
+		
+		<Button
+			android:id="@+id/editShortcuts"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="Edit Shortcuts"
+		/>
+	</LinearLayout>
+		
+	<GridView 
+		android:id="@+id/groupList"
+		android:layout_width="fill_parent"
+		android:numColumns="4"
+		android:layout_height="wrap_content"
+		android:layout_above="@+id/newGroupBtn"
+	/>
+	
+		
+	<Button
+		android:id="@+id/newGroupBtn"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:text="New Shortcuts Group"
+	/>
+</RelativeLayout>

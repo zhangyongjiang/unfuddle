@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport" />
+<style>
+body {
+	margin: 0px;
+	padding: 0px;
+	font-color:#444;
+	color:#444;
+}
+
+#container {
+	width:100%;
+}
+
+.stock_list {
+	border: solid 1px;
+	margin-top:2px;
+}
+
+td {
+	padding: 6px;
+	border: solid 1px #bbb;
+}
+
+.label {
+	color:blue;
+	text-align:center;
+}
+
+.selectedTr {
+	background-color: #ccc;
+	font-weight:bold;
+}
+
+</style>
+
+<script type="text/javascript" src="../jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="stock.js"></script>
+<script type="text/javascript" src="../common.js"></script>
+
+<script>
+function deleteSymbol(id) {
+	if(!confirm("Are you sure?")) {
+		return;
+	}
+	android.deleteSymbol(id);
+	var elem = document.getElementById('row_' + id);
+	elem.parentNode.removeChild(elem);
+}
+
+function labelClicked(groupItemId) {
+	$('#quote_' + groupItemId).html($('#quote_' + groupItemId).html() + '<img src="loading.gif"/>');
+	android.getQuote(groupItemId, 'displaySymbol');
+	android.getQuote(groupItemId, 'displaySymbol');
+}
+
+function createRow(item) {
+	var html = '<tr id="row_ID">'.replace(/ID/g, item.id);
+	html += '<td class="label" onclick="labelClicked(ID)" id="label_ID">SYM</td>'.replace(/SYM/g, item.sym).replace(/ID/g, item.id);
+	html += '<td class="quote" id="quote_ID"><img src="loading.gif"/></td>'.replace(/ID/g, item.id);
+	html += '</tr>';
+	return html;
+}
+
+function moveUp() {
+	android.moveUp();
+	window.location.reload();
+}
+
+function moveDown() {
+	android.moveDown();
+	window.location.reload();
+}
+
+function removeCurrentSymbol() {
+	if(!confirm("Are you sure to delete current selected symbol?")) {
+		return;
+	}
+	currentGroup = getCurrentGroup();
+	android.deleteSymbol(currentGroup.defaultItem);
+}
+
+function displaySymbols(){
+	currentGroup = getCurrentGroup();
+	var symbols = getSymbolsInGroup(currentGroup.id);
+	var html = '<table class="stock_list">';
+	for(index in symbols) {
+		html += createRow(symbols[index]);
+		android.getQuote(symbols[index].id, 'displaySymbol');
+	}
+	html += '</table>';
+	$('#container').html(html);
+	$('#row_' + currentGroup.defaultItem).addClass("selectedTr");
+	$('tr').click(function(event){
+        $("tr").removeClass("selectedTr");
+        $(event.target).parents("tr").addClass("selectedTr");
+        var groupItemId = $(event.target).parents("tr").attr('id').substring(4);
+    	android.setCurrentGroupItem(groupItemId);
+    	setTimeout("setActive(true)", 500);
+	});
+
+}
+
+
+function displaySymbol(id, sym, quote) {
+	//$('#label_' + sym).html(sym);
+	$('#quote_' + id).html(formatYahooQuote(sym, unescape(quote)));
+}
+
+function onScroll() {
+}
+
+function help() {
+	window.location = "help.html";
+}
+
+function setActive(active) {
+	if(active || active == 'true') {
+		var menus = {
+				items: [
+				        {
+							items: [
+						        {id: 5, label: 'Add Symbol'}
+						        , {id: 6, label: 'Move ' + getCurrentSymbol() + ' Up'}
+						        , {id: 7, label: 'Move ' + getCurrentSymbol() + ' Down'}
+						        , {id: 8, label: 'Delete ' + getCurrentSymbol()}
+				        	]
+				        },
+				        getSystemMenu(),
+				]
+		};
+		android.setMenus(JSON.stringify(menus));
+	}
+}
+
+function onMenu(id, label) {
+	if(onSysMenu(id, label)) {
+		return;
+	}
+	
+	if(id == 5) {
+		android.addSymbol(currentGroup.id);
+		return;
+	}
+	
+	if(id == 6) {
+		moveUp();
+		return;
+	}
+	
+	if(id == 7) {
+		moveDown();
+		return;
+	}
+	
+	if(id == 8) {
+		removeCurrentSymbol();
+		return;
+	}
+	
+	if(label == 'Help') {
+		help();
+		return;
+	}
+
+}
+
+$(document).ready(function(){
+	android.setUseWideViewPort(false);
+
+	setActive(true);
+
+	try {
+		displaySymbols();
+	}
+	catch (e) {
+		android.log(e);
+	}
+});
+</script>
+
+</head>
+
+<body>
+
+<div id='container'>
+</div>
+* Click menu button for more options.
+
+</body>
+
+</html>
+

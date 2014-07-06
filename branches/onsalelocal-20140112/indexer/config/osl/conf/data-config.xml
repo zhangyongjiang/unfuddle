@@ -1,0 +1,44 @@
+<dataConfig>
+    <dataSource type="JdbcDataSource"
+        name="db0"
+        driver="com.mysql.jdbc.Driver"
+        url="${dataimporter.request.db0}"
+        user="root"
+        password="" batchSize="-1"/>
+     
+    <document name="offers">
+        <entity name="UP0" dataSource="db0"
+            query="SELECT * from Offer 
+            WHERE '${dataimporter.request.clean}' != 'false' or (updated > (UNIX_TIMESTAMP('${dataimporter.last_index_time}')*1000 - 120000)) ">
+  
+		    <field column="id" name="id"/>
+		    <field column="updated" name="updated"/>
+		    <field column="latitude" name="location_0_coordinate"/>
+		    <field column="longitude" name="location_1_coordinate"/>
+		    <field column="address" name="address"/>
+		    <field column="city" name="city"/>
+		    <field column="state" name="state"/>
+		    <field column="zipcode" name="zipcode"/>
+		    <field column="start" name="start"/>
+		    <field column="end" name="end"/>
+		    <field column="smallImg" name="smallImg"/>
+		    <field column="merchant" name="merchant"/>
+		    <field column="discount" name="discount"/>
+		    <field column="highlights" name="highlights"/>
+		    <field column="source" name="source"/>
+		    <field column="title" name="title"/>
+		    <field column="merchantLogo" name="merchantLogo"/>
+		    <field column="rootSource" name="rootSource"/>
+		    <field column="category" name="category"/>
+		    <field column="subcategory" name="subcategory"/>
+            <field column="tags" name="tags"/>
+            <field column="phone" name="phone"/>
+		    <field column="description" name="description"/>
+		    <field column="url" name="url"/>
+		    <field column="price" name="price"/>
+		    <field column="phone" name="phone"/>
+		    <field column="popularity" name="popularity"/>
+        </entity>
+    </document>
+</dataConfig>
+

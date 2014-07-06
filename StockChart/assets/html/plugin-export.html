@@ -1,0 +1,17 @@
+<html>
+<head>
+<script type="text/javascript" src="json2.js"></script>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	pluginId = window.location.search.substring(1);
+	plugin = android.exportPlugin(pluginId);
+	$('#export').val(plugin);
+});
+</script>
+</head>
+<body style="margin:0;padding:12px">
+<textarea id='export' style="width:100%;min-height:300px;">
+</textarea>
+
+</body></html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content" android:layout_width="fill_parent"
+	android:padding="8dip" android:orientation="horizontal"
+	android:background="#ffffff">
+	<TextView android:text="eword" android:id="@+id/textViewEN"
+		android:layout_width="250dip" android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true" android:textSize="9pt"
+		android:textColor="#000000"></TextView>
+
+	<TextView android:textColor="#000000" android:text="cword"
+		android:layout_height="wrap_content" android:textSize="8pt"
+		android:layout_width="250dip" android:id="@+id/textViewCN"
+		android:layout_below="@+id/textViewEN"
+		android:layout_alignLeft="@+id/textViewEN" android:layout_alignRight="@+id/textViewEN"></TextView>
+
+	<ImageButton android:layout_width="60dip" android:id="@+id/playButton"
+		android:background="@drawable/ic_play3" android:layout_height="60dip"
+		android:layout_centerVertical="true"
+		android:padding="1dip" android:layout_alignParentRight="true"></ImageButton>
+</RelativeLayout>
+

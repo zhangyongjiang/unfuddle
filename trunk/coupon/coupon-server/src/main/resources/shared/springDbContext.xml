@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+    xmlns:tx="http://www.springframework.org/schema/tx" xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	    http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+	    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+    <bean id="parentDataSource" class="org.apache.commons.dbcp.BasicDataSource"
+        destroy-method="close" abstract="true" lazy-init="true">
+        <property name="driverClassName"><value>${jdbc.driver.className}</value></property>
+        <property name="username"><value>${jdbc.username}</value></property>
+        <property name="password"><value>${jdbc.password}</value></property>
+        <property name="validationQuery"><value>${jdbc.validationQuery}</value></property>
+    </bean>
+
+    <bean id="dataSourceCA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}CA${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceNV" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}RI${jdbc.url.surfix}"/></bean>
+    <!-- bean id="dataSourceVT" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}VT${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceHI" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}HI${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceME" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}ME${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceVA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}VA${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceMI" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}MI${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceID" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}ID${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceDE" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}DE${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceIA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}IA${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceMD" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}MD${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceMA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}MA${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceAR" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}AR${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceIL" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}IL${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceUT" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}UT${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceIN" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}IN${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceMN" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}MN${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceAZ" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}AZ${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceMO" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}MO${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceMT" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}MT${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceMS" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}MS${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceNH" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}NH${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceNJ" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}NJ${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceNM" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}NM${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceAK" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}AK${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceTX" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}TX${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceAL" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}AL${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceNC" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}NC${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceND" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}ND${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceNE" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}NE${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceNY" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}NY${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceGA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}GA${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceRI" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}RI${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceTN" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}TN${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceOK" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}OK${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceOH" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}OH${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceWY" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}WY${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceFL" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}FL${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceSD" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}SD${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceSC" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}SC${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceCT" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}CT${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceWV" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}WV${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceKY" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}KY${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceWI" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}WI${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceKS" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}KS${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceOR" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}OR${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceLA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}LA${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceWA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}WA${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourceCO" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}CO${jdbc.url.surfix}"/></bean>
+    <bean id="dataSourcePA" parent="parentDataSource"><property name="url" value="${jdbc.url.prefix}PA${jdbc.url.surfix}"/></bean-->
+
+    <bean id="dataSource" class="com.gaoshin.coupon.db.UserRoutingDataSource">
+        <property name="defaultTargetDataSource" ref="dataSourceCA"/>
+        <property name="targetDataSources">
+            <map key-type="java.lang.String">
+                <entry key="CA" value-ref="dataSourceCA"/>
+                <entry key="NV" value-ref="dataSourceNV"/>
+                <!-- entry key="VT" value-ref="dataSourceVT"/>
+                <entry key="HI" value-ref="dataSourceHI"/>
+                <entry key="ME" value-ref="dataSourceME"/>
+                <entry key="VA" value-ref="dataSourceVA"/>
+                <entry key="MI" value-ref="dataSourceMI"/>
+                <entry key="ID" value-ref="dataSourceID"/>
+                <entry key="DE" value-ref="dataSourceDE"/>
+                <entry key="IA" value-ref="dataSourceIA"/>
+                <entry key="MD" value-ref="dataSourceMD"/>
+                <entry key="MA" value-ref="dataSourceMA"/>
+                <entry key="AR" value-ref="dataSourceAR"/>
+                <entry key="IL" value-ref="dataSourceIL"/>
+                <entry key="UT" value-ref="dataSourceUT"/>
+                <entry key="IN" value-ref="dataSourceIN"/>
+                <entry key="MN" value-ref="dataSourceMN"/>
+                <entry key="AZ" value-ref="dataSourceAZ"/>
+                <entry key="MO" value-ref="dataSourceMO"/>
+                <entry key="MT" value-ref="dataSourceMT"/>
+                <entry key="MS" value-ref="dataSourceMS"/>
+                <entry key="NH" value-ref="dataSourceNH"/>
+                <entry key="NJ" value-ref="dataSourceNJ"/>
+                <entry key="NM" value-ref="dataSourceNM"/>
+                <entry key="AK" value-ref="dataSourceAK"/>
+                <entry key="TX" value-ref="dataSourceTX"/>
+                <entry key="AL" value-ref="dataSourceAL"/>
+                <entry key="NC" value-ref="dataSourceNC"/>
+                <entry key="ND" value-ref="dataSourceND"/>
+                <entry key="NE" value-ref="dataSourceNE"/>
+                <entry key="NY" value-ref="dataSourceNY"/>
+                <entry key="GA" value-ref="dataSourceGA"/>
+                <entry key="RI" value-ref="dataSourceRI"/>
+                <entry key="TN" value-ref="dataSourceTN"/>
+                <entry key="OK" value-ref="dataSourceOK"/>
+                <entry key="OH" value-ref="dataSourceOH"/>
+                <entry key="WY" value-ref="dataSourceWY"/>
+                <entry key="FL" value-ref="dataSourceFL"/>
+                <entry key="SD" value-ref="dataSourceSD"/>
+                <entry key="SC" value-ref="dataSourceSC"/>
+                <entry key="CT" value-ref="dataSourceCT"/>
+                <entry key="WV" value-ref="dataSourceWV"/>
+                <entry key="KY" value-ref="dataSourceKY"/>
+                <entry key="WI" value-ref="dataSourceWI"/>
+                <entry key="KS" value-ref="dataSourceKS"/>
+                <entry key="OR" value-ref="dataSourceOR"/>
+                <entry key="LA" value-ref="dataSourceLA"/>
+                <entry key="WA" value-ref="dataSourceWA"/>
+                <entry key="CO" value-ref="dataSourceCO"/>
+                <entry key="PA" value-ref="dataSourcePA"/-->
+            </map>
+        </property>
+    </bean>
+
+    <tx:annotation-driven transaction-manager="txManager"/>
+
+    <bean id="txManager"
+        class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <bean id="sessionFactory"
+        class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+        <property name="dataSource">
+            <ref bean="dataSource"/>
+        </property>
+        <property name="packagesToScan" value="com.gaoshin.coupon.entity"/>
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.hbm2ddl.auto">${hibernate.hbm2ddl}</prop>
+                <prop key="hibernate.dialect">${hibernate.dialect}</prop>
+                <prop key="hibernate.show_sql">${hibernate.showSql}</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>

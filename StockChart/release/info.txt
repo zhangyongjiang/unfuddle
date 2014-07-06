@@ -1,0 +1,6 @@
+stocks
+stock2 stock2
+stock3 stock3
+
+2.0.2
+	1634

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MandarinActivity!</string>
+    <string name="app_name">Chinese for Travelers</string>
+    <string name="about">About Us</string>
+</resources>

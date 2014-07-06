@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="${android.package}" android:versionCode="${android.versionCode}" android:versionName="${android.versionName}">
+
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<!--uses-permission android:name="android.permission.CALL_PHONE" /-->
+	<!--uses-permission android:name="android.permission.DISABLE_KEYGUARD" /-->
+	<!--uses-permission android:name="android.permission.MODIFY_PHONE_STATE" /-->
+	<!--uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" /-->
+	
+	<!--uses-permission android:name="android.permission.RECEIVE_SMS" /-->
+	<!--uses-permission android:name="android.permission.SEND_SMS" /-->
+	<!--uses-permission android:name="android.permission.WRITE_SMS" /-->
+	<!--uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /-->
+	
+	<!--uses-permission android:name="android.permission.READ_CONTACTS" /-->
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<!--uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" /-->
+	<uses-permission android:name="android.permission.BROADCAST_STICKY" />
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+	<!-- Cloud to Device Messaging permissions start -->
+	<!-- according to c2dm spec, android name must be pkgName + ".permission.C2D_MESSAGE" -->
+	<!--
+	<permission android:name="common.android.permission.C2D_MESSAGE"
+		android:protectionLevel="signature" />
+	<uses-permission android:name="common.android.permission.C2D_MESSAGE" />
+	<uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	-->
+	<!-- Cloud to Device Messaging permissions end -->
+
+	<uses-permission android:name="android.permission.READ_LOGS" />
+	<uses-sdk android:minSdkVersion="4"/>
+	
+	<application android:icon="${android.application.icon}"
+		android:name="common.android.GenericApplication" android:label="${android.application.label}" 
+		>
+		
+		<meta-data android:name="SERVER_BASE_URL"
+			android:value="${android.SERVER_URL}" />
+		<meta-data android:name="EnableLocationReport"
+			android:value="true" />
+
+		<meta-data android:name="common.android.GenericWebActivity.FullScreen"
+			android:value="false" />
+		<meta-data android:name="common.android.GenericWebActivity.NoTitle"
+			android:value="true" />
+
+		<!-- c2dm start -->
+		<service android:name="common.android.c2dm.C2DMReceiver" />
+		<receiver android:name="common.android.c2dm.C2DMBroadcastReceiver"
+			android:permission="com.google.android.c2dm.permission.SEND">
+			<intent-filter>
+				<action android:name="com.google.android.c2dm.intent.RECEIVE" />
+				<category android:name="common.android" /> <!-- must match the package name? -->
+			</intent-filter>
+			<intent-filter>
+				<action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+				<category android:name="common.android" /> <!-- must match the package name? -->
+			</intent-filter>
+		</receiver>
+		<!-- c2dm end -->
+
+		<activity android:name="common.android.GenericWebActivity"
+			android:launchMode="singleTop"
+			android:windowSoftInputMode="adjustResize" android:label="${android.application.label}" >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+		<!--receiver android:name="common.android.SmsIntentReceiver"
+			android:enabled="true">
+			<intent-filter android:priority="100">
+				<action android:name="android.provider.Telephony.SMS_RECEIVED" />
+			</intent-filter>
+		</receiver>
+		<receiver android:name="common.android.SmsDeleteTimerReceiver">
+			<intent-filter>
+				<action android:name="intentname" />
+				<data android:scheme="myscheme" />
+			</intent-filter>
+		</receiver-->
+
+		<service android:enabled="true" android:process=":remote" android:name="common.android.LocationReporter">
+		   <intent-filter>
+		   		<action android:name="common.android.LocationReporter">
+		   		</action>
+		   </intent-filter>
+		</service>
+
+		<service android:enabled="true" android:process=":remote" android:name="common.android.NotificationPoller">
+		   <intent-filter>
+		   		<action android:name="common.android.NotificationPoller">
+		   		</action>
+		   </intent-filter>
+		</service>
+
+		<service android:enabled="true" android:process=":remote" android:name="common.android.LogSender">
+		   <intent-filter>
+		   		<action android:name="common.android.LogSender">
+		   		</action>
+		   </intent-filter>
+		</service>
+
+		<receiver android:name="common.android.BootReceiver">
+			<intent-filter>
+				<action android:name="android.intent.action.BOOT_COMPLETED" />
+			</intent-filter>
+		</receiver>
+
+		<provider android:name="common.android.contentprovider.GenericContentProvider"
+			android:authorities="common.android.contentprovider" />
+
+		<receiver android:name="common.android.WidgetProvider" android:label="Love Poems" android:icon="@drawable/xo_100">
+			<intent-filter>
+				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+			</intent-filter>
+			<meta-data android:name="android.appwidget.provider"
+				android:resource="@xml/widget_provicer" />
+		</receiver>
+	</application>
+
+
+</manifest> 

@@ -1,0 +1,85 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>onsalelocal</artifactId>
+		<groupId>com.gaoshin.onsalelocal</groupId>
+		<version>0.0.2-SNAPSHOT</version>
+		<relativePath>..</relativePath>
+	</parent>
+	<artifactId>osl</artifactId>
+	<packaging>war</packaging>
+
+	<properties>
+		<jetty.run.port>1111</jetty.run.port>
+	</properties>
+	
+	<build>
+		<finalName>osl2</finalName>
+	</build>
+
+	<dependencies>
+		<dependency>
+			<artifactId>common</artifactId>
+			<groupId>com.gaoshin.onsalelocal</groupId>
+			<version>0.0.2-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<artifactId>common-test</artifactId>
+			<groupId>com.gaoshin.onsalelocal</groupId>
+			<version>0.0.1-SNAPSHOT</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<artifactId>onsalelocal-api</artifactId>
+			<groupId>com.gaoshin.onsalelocal</groupId>
+			<version>0.0.2-SNAPSHOT</version>
+		</dependency>
+        
+        <dependency>
+            <groupId>com.googlecode.json-simple</groupId>
+            <artifactId>json-simple</artifactId>
+            <version>1.1</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>com.notnoop.apns</groupId>
+            <artifactId>apns</artifactId>
+            <version>0.2.3</version>
+        </dependency>
+
+	</dependencies>
+	
+	<profiles>
+        <profile>
+            <id>localprod</id>
+            <build>
+                <resources>
+                    <resource>
+                        <directory>src/main/resources/shared</directory>
+                        <filtering>true</filtering>
+                    </resource>
+                    <resource>
+                        <directory>src/main/resources/localprod</directory>
+                        <filtering>true</filtering>
+                    </resource>
+                </resources>
+            </build>
+        </profile>
+        <profile>
+            <id>prod2</id>
+            <build>
+                <resources>
+                    <resource>
+                        <directory>src/main/resources/shared</directory>
+                        <filtering>true</filtering>
+                    </resource>
+                    <resource>
+                        <directory>src/main/resources/prod2</directory>
+                        <filtering>true</filtering>
+                    </resource>
+                </resources>
+            </build>
+        </profile>
+       	</profiles>
+</project>

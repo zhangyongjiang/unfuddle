@@ -1,0 +1,9067 @@
+﻿<ec>
+	<topic>
+		<item>
+			<id>1_0_0</id>
+			<sid></sid>
+			<c>见面</c>
+			<e>Meeting people</e>
+			<cm>2</cm>
+			<cf></cf>
+			<au_e>3</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>1_1_0</id>
+				<sid></sid>
+				<c>打招呼。 </c>
+				<e>Greeting people.</e>
+				<cm>4</cm>
+				<cf></cf>
+				<au_e>3000</au_e>
+			</item>
+			<item>
+				<id>1_1_1</id>
+				<sid>1</sid>
+				<c>你好</c>
+				<e>Hello</e>
+				<cm>5</cm>
+				<cf>6</cf>
+				<au_e>7</au_e>
+			</item>
+			<item>
+				<id>1_1_2</id>
+				<sid>2</sid>
+				<c>你好吗？</c>
+				<e>How are you?</e>
+				<cm>8</cm>
+				<cf>9</cf>
+				<au_e>10</au_e>
+			</item>
+			<item>
+				<id>1_1_3</id>
+				<sid>3</sid>
+				<c>好久不见</c>
+				<e>Haven't seen you for a long time.</e>
+				<cm>11</cm>
+				<cf>12</cf>
+				<au_e>13</au_e>
+			</item>
+			<item>
+				<id>1_1_4</id>
+				<sid>4</sid>
+				<c>最近怎么样？</c>
+				<e>How is everything been recently?</e>
+				<cm>14</cm>
+				<cf>15</cf>
+				<au_e>16</au_e>
+			</item>
+			<item>
+				<id>1_1_5</id>
+				<sid>5</sid>
+				<c>工作忙不忙？</c>
+				<e>Are you busy at work?</e>
+				<cm>17</cm>
+				<cf>18</cf>
+				<au_e>19</au_e>
+			</item>
+			<item>
+				<id>1_1_6</id>
+				<sid>6</sid>
+				<c>还不错。</c>
+				<e>Not bad.</e>
+				<cm>20</cm>
+				<cf>21</cf>
+				<au_e>22</au_e>
+			</item>
+			<item>
+				<id>1_1_7</id>
+				<sid>7</sid>
+				<c>请进</c>
+				<e>Come in, please.</e>
+				<cm>23</cm>
+				<cf>24</cf>
+				<au_e>25</au_e>
+			</item>
+			<item>
+				<id>1_1_8</id>
+				<sid>8</sid>
+				<c>您贵姓？</c>
+				<e>May I have your name?</e>
+				<cm>26</cm>
+				<cf>27</cf>
+				<au_e>28</au_e>
+			</item>
+			<item>
+				<id>1_1_9</id>
+				<sid>9</sid>
+				<c>您怎么称呼？</c>
+				<e>How should I address you?</e>
+				<cm>29</cm>
+				<cf>30</cf>
+				<au_e>31</au_e>
+			</item>
+			<item>
+				<id>1_1_10</id>
+				<sid>10</sid>
+				<c>请问，谁是王经理？</c>
+				<e>Excuse me, is manager Wang here?</e>
+				<cm>32</cm>
+				<cf>33</cf>
+				<au_e>35</au_e>
+			</item>
+			<item>
+				<id>1_1_11</id>
+				<sid>11</sid>
+				<c>您是李教授吗？</c>
+				<e>Are you professor Lee?</e>
+				<cm>36</cm>
+				<cf>37</cf>
+				<au_e>38</au_e>
+			</item>
+			<item>
+				<id>1_1_12</id>
+				<sid>12</sid>
+				<c>我就是</c>
+				<e>It's me.</e>
+				<cm>39</cm>
+				<cf>40</cf>
+				<au_e>41</au_e>
+			</item>
+			<item>
+				<id>1_1_13</id>
+				<sid>13</sid>
+				<c>请坐</c>
+				<e>Sit down, please.</e>
+				<cm>42</cm>
+				<cf>43</cf>
+				<au_e>44</au_e>
+			</item>
+			<item>
+				<id>1_1_14</id>
+				<sid>14</sid>
+				<c>我来介绍一下</c>
+				<e>Let me introduce you to each other。</e>
+				<cm>45</cm>
+				<cf>46</cf>
+				<au_e>47</au_e>
+			</item>
+			<item>
+				<id>1_1_15</id>
+				<sid>15</sid>
+				<c>这位是张先生</c>
+				<e>This is Mr. Zhang.</e>
+				<cm>48</cm>
+				<cf>49</cf>
+				<au_e>50</au_e>
+			</item>
+			<item>
+				<id>1_1_16</id>
+				<sid>16</sid>
+				<c>这是我的名片</c>
+				<e>Here is my name card.</e>
+				<cm>51</cm>
+				<cf>52</cf>
+				<au_e>53</au_e>
+			</item>
+			<item>
+				<id>1_1_17</id>
+				<sid>17</sid>
+				<c>见到您很高兴</c>
+				<e>Nice to meet you.</e>
+				<cm>54</cm>
+				<cf>55</cf>
+				<au_e>56</au_e>
+			</item>
+			<item>
+				<id>1_1_18</id>
+				<sid>18</sid>
+				<c>您叫什么名字</c>
+				<e>What's your name?</e>
+				<cm>57</cm>
+				<cf>58</cf>
+				<au_e>59</au_e>
+			</item>
+			<item>
+				<id>1_1_19</id>
+				<sid>19</sid>
+				<c>我姓王。</c>
+				<e>My family is Wang.</e>
+				<cm>60</cm>
+				<cf>61</cf>
+				<au_e>62</au_e>
+			</item>
+			<item>
+				<id>1_1_20</id>
+				<sid>20</sid>
+				<c>我叫王一乐。</c>
+				<e>My name is Wang Yi Le.</e>
+				<cm>63</cm>
+				<cf>64</cf>
+				<au_e>65</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_2_0</id>
+				<sid></sid>
+				<c>感谢与安慰</c>
+				<e>Expressing Gratitude and Consolation</e>
+				<cm>66</cm>
+				<cf></cf>
+				<au_e>67</au_e>
+			</item>
+			<item>
+				<id>1_2_1</id>
+				<sid>21</sid>
+				<c>麻烦您了</c>
+				<e>Thank you. Sorry for the trouble.</e>
+				<cm>68</cm>
+				<cf>69</cf>
+				<au_e>70</au_e>
+			</item>
+			<item>
+				<id>1_2_2</id>
+				<sid>22</sid>
+				<c>谢谢</c>
+				<e>Thank you.</e>
+				<cm>71</cm>
+				<cf>72</cf>
+				<au_e>73</au_e>
+			</item>
+			<item>
+				<id>1_2_3</id>
+				<sid>23</sid>
+				<c>非常感谢</c>
+				<e>Thank you very much.</e>
+				<cm>74</cm>
+				<cf>75</cf>
+				<au_e>76</au_e>
+			</item>
+			<item>
+				<id>1_2_4</id>
+				<sid>24</sid>
+				<c>不用谢</c>
+				<e>You are wellcome</e>
+				<cm>77</cm>
+				<cf>78</cf>
+				<au_e>79</au_e>
+			</item>
+			<item>
+				<id>1_2_5</id>
+				<sid>25</sid>
+				<c>不客气。</c>
+				<e>You are welcome.</e>
+				<cm>80</cm>
+				<cf>81</cf>
+				<au_e>82</au_e>
+			</item>
+			<item>
+				<id>1_2_6</id>
+				<sid>26</sid>
+				<c>对不起</c>
+				<e>Sorry.</e>
+				<cm>83</cm>
+				<cf>84</cf>
+				<au_e>85</au_e>
+			</item>
+			<item>
+				<id>1_2_7</id>
+				<sid>27</sid>
+				<c>没关系。</c>
+				<e>That's all right.</e>
+				<cm>86</cm>
+				<cf>87</cf>
+				<au_e>88</au_e>
+			</item>
+			<item>
+				<id>1_2_8</id>
+				<sid>28</sid>
+				<c>很抱歉</c>
+				<e>I'm really sorry.</e>
+				<cm>89</cm>
+				<cf>90</cf>
+				<au_e>91</au_e>
+			</item>
+			<item>
+				<id>1_2_9</id>
+				<sid>29</sid>
+				<c>没什么。</c>
+				<e>It's ok.</e>
+				<cm>92</cm>
+				<cf>93</cf>
+				<au_e>94</au_e>
+			</item>
+			<item>
+				<id>1_2_10</id>
+				<sid>30</sid>
+				<c>别担心</c>
+				<e>Don't worry.</e>
+				<cm>95</cm>
+				<cf>96</cf>
+				<au_e>97</au_e>
+			</item>
+			<item>
+				<id>1_2_11</id>
+				<sid>31</sid>
+				<c>别紧张。</c>
+				<e>Take it easy.</e>
+				<cm>98</cm>
+				<cf>99</cf>
+				<au_e>100</au_e>
+			</item>
+			<item>
+				<id>1_2_12</id>
+				<sid>32</sid>
+				<c>放松点。</c>
+				<e>Just relax.</e>
+				<cm>101</cm>
+				<cf>102</cf>
+				<au_e>103</au_e>
+			</item>
+			<item>
+				<id>1_2_13</id>
+				<sid>33</sid>
+				<c>没事儿。</c>
+				<e>Take it easy.</e>
+				<cm>104</cm>
+				<cf>105</cf>
+				<au_e>106</au_e>
+			</item>
+			<item>
+				<id>1_2_14</id>
+				<sid>34</sid>
+				<c>问题不大。</c>
+				<e>It's nothing serious.</e>
+				<cm>108</cm>
+				<cf>109</cf>
+				<au_e>110</au_e>
+			</item>
+			<item>
+				<id>1_2_15</id>
+				<sid>35</sid>
+				<c>放心吧</c>
+				<e>Don't worry about it.</e>
+				<cm>111</cm>
+				<cf>112</cf>
+				<au_e>113</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_3_0</id>
+				<sid></sid>
+				<c>拜访</c>
+				<e>Paying a visit.</e>
+				<cm>114</cm>
+				<cf></cf>
+				<au_e>115</au_e>
+			</item>
+			<item>
+				<id>1_3_1</id>
+				<sid>36</sid>
+				<c>这是谁的照片？</c>
+				<e>Whose photo is this?</e>
+				<cm>116</cm>
+				<cf>117</cf>
+				<au_e>119</au_e>
+			</item>
+			<item>
+				<id>1_3_2</id>
+				<sid>37</sid>
+				<c>他是谁？</c>
+				<e>Who is she?</e>
+				<cm>120</cm>
+				<cf>121</cf>
+				<au_e>122</au_e>
+			</item>
+			<item>
+				<id>1_3_3</id>
+				<sid>38</sid>
+				<c>这是我的女朋友小玉。</c>
+				<e>This is my girl friend Xiao Yu.</e>
+				<cm>123</cm>
+				<cf>124</cf>
+				<au_e>125</au_e>
+			</item>
+			<item>
+				<id>1_3_4</id>
+				<sid>39</sid>
+				<c>真漂亮</c>
+				<e>How beautiful.</e>
+				<cm>126</cm>
+				<cf>127</cf>
+				<au_e>128</au_e>
+			</item>
+			<item>
+				<id>1_3_5</id>
+				<sid>40</sid>
+				<c>你多大了？</c>
+				<e>How old are you?</e>
+				<cm>129</cm>
+				<cf>130</cf>
+				<au_e>131</au_e>
+			</item>
+			<item>
+				<id>1_3_6</id>
+				<sid>41</sid>
+				<c>我十九岁了</c>
+				<e>I'm 19.</e>
+				<cm>132</cm>
+				<cf>133</cf>
+				<au_e>134</au_e>
+			</item>
+			<item>
+				<id>1_3_7</id>
+				<sid>42</sid>
+				<c>祝你生日快乐。</c>
+				<e>Happy birthday to you!</e>
+				<cm>135</cm>
+				<cf>136</cf>
+				<au_e>137</au_e>
+			</item>
+			<item>
+				<id>1_3_8</id>
+				<sid>43</sid>
+				<c>这是我们的一点心意</c>
+				<e>It's just a small gift.</e>
+				<cm>138</cm>
+				<cf>139</cf>
+				<au_e>140</au_e>
+			</item>
+			<item>
+				<id>1_3_9</id>
+				<sid>44</sid>
+				<c>祝您健康长寿</c>
+				<e>I wish you a long and healthy life.</e>
+				<cm>141</cm>
+				<cf>142</cf>
+				<au_e>143</au_e>
+			</item>
+			<item>
+				<id>1_3_10</id>
+				<sid>45</sid>
+				<c>我妈妈向您问好</c>
+				<e>My mom sends her regards.</e>
+				<cm>144</cm>
+				<cf>145</cf>
+				<au_e>146</au_e>
+			</item>
+			<item>
+				<id>1_3_11</id>
+				<sid>46</sid>
+				<c>你太好了</c>
+				<e>It's very kind of you.</e>
+				<cm>147</cm>
+				<cf>148</cf>
+				<au_e>149</au_e>
+			</item>
+			<item>
+				<id>1_3_12</id>
+				<sid>47</sid>
+				<c>干杯</c>
+				<e>Cheers.</e>
+				<cm>150</cm>
+				<cf>151</cf>
+				<au_e>152</au_e>
+			</item>
+			<item>
+				<id>1_3_13</id>
+				<sid>48</sid>
+				<c>你的生日是几月几号？</c>
+				<e>When is your birthday?</e>
+				<cm>153</cm>
+				<cf>154</cf>
+				<au_e>155</au_e>
+			</item>
+			<item>
+				<id>1_3_14</id>
+				<sid>49</sid>
+				<c>你是哪国人？</c>
+				<e>Which country are you from?</e>
+				<cm>156</cm>
+				<cf>157</cf>
+				<au_e>158</au_e>
+			</item>
+			<item>
+				<id>1_3_15</id>
+				<sid>50</sid>
+				<c>你是什么地方的人？</c>
+				<e>Where are you from?</e>
+				<cm>159</cm>
+				<cf>160</cf>
+				<au_e>161</au_e>
+			</item>
+			<item>
+				<id>1_3_16</id>
+				<sid>51</sid>
+				<c>你们家有几口人？</c>
+				<e>How many people are there in your family?</e>
+				<cm>162</cm>
+				<cf>163</cf>
+				<au_e>164</au_e>
+			</item>
+			<item>
+				<id>1_3_17</id>
+				<sid>52</sid>
+				<c>我们家有三口人</c>
+				<e>There are three people in my family.</e>
+				<cm>165</cm>
+				<cf>166</cf>
+				<au_e>167</au_e>
+			</item>
+			<item>
+				<id>1_3_18</id>
+				<sid>53</sid>
+				<c>你家有宠物吗？</c>
+				<e>Do you have any pets?</e>
+				<cm>168</cm>
+				<cf>169</cf>
+				<au_e>170</au_e>
+			</item>
+			<item>
+				<id>1_3_19</id>
+				<sid>54</sid>
+				<c>我们家有一只小狗。</c>
+				<e>We have a puppy.</e>
+				<cm>171</cm>
+				<cf>172</cf>
+				<au_e>173</au_e>
+			</item>
+			<item>
+				<id>1_3_20</id>
+				<sid>55</sid>
+				<c>怎么和你联系呢？</c>
+				<e>How can I reach you?</e>
+				<cm>174</cm>
+				<cf>175</cf>
+				<au_e>176</au_e>
+			</item>
+			<item>
+				<id>1_3_21</id>
+				<sid>56</sid>
+				<c>你的电话号码是多少？</c>
+				<e>What's your phone number?</e>
+				<cm>177</cm>
+				<cf>178</cf>
+				<au_e>179</au_e>
+			</item>
+			<item>
+				<id>1_3_22</id>
+				<sid>57</sid>
+				<c>你有电子邮箱吗？</c>
+				<e>Do you have an email address?</e>
+				<cm>180</cm>
+				<cf>181</cf>
+				<au_e>182</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_4_0</id>
+				<sid></sid>
+				<c>告辞</c>
+				<e>Taking Leave</e>
+				<cm>183</cm>
+				<cf></cf>
+				<au_e>184</au_e>
+			</item>
+			<item>
+				<id>1_4_1</id>
+				<sid>58</sid>
+				<c>时间不早了</c>
+				<e>It's getting late.</e>
+				<cm>185</cm>
+				<cf>186</cf>
+				<au_e>187</au_e>
+			</item>
+			<item>
+				<id>1_4_2</id>
+				<sid>59</sid>
+				<c>我们该走了</c>
+				<e>We'd better go.</e>
+				<cm>188</cm>
+				<cf>189</cf>
+				<au_e>190</au_e>
+			</item>
+			<item>
+				<id>1_4_3</id>
+				<sid>60</sid>
+				<c>还早呢</c>
+				<e>It's still early.</e>
+				<cm>191</cm>
+				<cf>192</cf>
+				<au_e>193</au_e>
+			</item>
+			<item>
+				<id>1_4_4</id>
+				<sid>61</sid>
+				<c>再坐会儿吧</c>
+				<e>Won't you stay a little longer?</e>
+				<cm>194</cm>
+				<cf>195</cf>
+				<au_e>196</au_e>
+			</item>
+			<item>
+				<id>1_4_5</id>
+				<sid>62</sid>
+				<c>我们还有事儿。</c>
+				<e>We've got something else to do.</e>
+				<cm>197</cm>
+				<cf>198</cf>
+				<au_e>199</au_e>
+			</item>
+			<item>
+				<id>1_4_6</id>
+				<sid>63</sid>
+				<c>我们回去了。</c>
+				<e>We're leaving now.</e>
+				<cm>200</cm>
+				<cf>201</cf>
+				<au_e>202</au_e>
+			</item>
+			<item>
+				<id>1_4_7</id>
+				<sid>64</sid>
+				<c>我们走吧。</c>
+				<e>Let's go.</e>
+				<cm>203</cm>
+				<cf>204</cf>
+				<au_e>205</au_e>
+			</item>
+			<item>
+				<id>1_4_8</id>
+				<sid>65</sid>
+				<c>再见。</c>
+				<e>Goodbye!</e>
+				<cm>206</cm>
+				<cf>207</cf>
+				<au_e>208</au_e>
+			</item>
+			<item>
+				<id>1_4_9</id>
+				<sid>66</sid>
+				<c>我送送你们。</c>
+				<e>Let me see you out.</e>
+				<cm>209</cm>
+				<cf>210</cf>
+				<au_e>211</au_e>
+			</item>
+			<item>
+				<id>1_4_10</id>
+				<sid>67</sid>
+				<c>别送了</c>
+				<e>Please don't bother to see us out.</e>
+				<cm>212</cm>
+				<cf>213</cf>
+				<au_e>214</au_e>
+			</item>
+			<item>
+				<id>1_4_11</id>
+				<sid>68</sid>
+				<c>以后常来玩</c>
+				<e>Do come again!</e>
+				<cm>215</cm>
+				<cf>216</cf>
+				<au_e>217</au_e>
+			</item>
+			<item>
+				<id>1_4_12</id>
+				<sid>69</sid>
+				<c>有空给我打电话。</c>
+				<e>Give me a call when you are free.</e>
+				<cm>218</cm>
+				<cf>219</cf>
+				<au_e>220</au_e>
+			</item>
+			<item>
+				<id>1_4_13</id>
+				<sid>70</sid>
+				<c>多保重。</c>
+				<e>Take good care of yourself.</e>
+				<cm>221</cm>
+				<cf>222</cf>
+				<au_e>223</au_e>
+			</item>
+			<item>
+				<id>1_4_14</id>
+				<sid>71</sid>
+				<c>保持联系。</c>
+				<e>Keep in touch.</e>
+				<cm>224</cm>
+				<cf>225</cf>
+				<au_e>226</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_5_0</id>
+				<sid></sid>
+				<c>求助</c>
+				<e>Asking for Help</e>
+				<cm>227</cm>
+				<cf></cf>
+				<au_e>228</au_e>
+			</item>
+			<item>
+				<id>1_5_1</id>
+				<sid>72</sid>
+				<c>你能帮我一个忙吗？</c>
+				<e>Could you do me a favor?</e>
+				<cm>229</cm>
+				<cf>230</cf>
+				<au_e>231</au_e>
+			</item>
+			<item>
+				<id>1_5_2</id>
+				<sid>73</sid>
+				<c>可以帮我们照张相吗？</c>
+				<e>Could you take a picture for us, please?</e>
+				<cm>232</cm>
+				<cf>233</cf>
+				<au_e>234</au_e>
+			</item>
+			<item>
+				<id>1_5_3</id>
+				<sid>74</sid>
+				<c>当然可以。</c>
+				<e>Of course.</e>
+				<cm>235</cm>
+				<cf>236</cf>
+				<au_e>237</au_e>
+			</item>
+			<item>
+				<id>1_5_4</id>
+				<sid>75</sid>
+				<c>快来人哪。</c>
+				<e>Can anybody help us?</e>
+				<cm>238</cm>
+				<cf>239</cf>
+				<au_e>240</au_e>
+			</item>
+			<item>
+				<id>1_5_5</id>
+				<sid>76</sid>
+				<c>想想办法吧。</c>
+				<e>Try to do something about it.</e>
+				<cm>241</cm>
+				<cf>242</cf>
+				<au_e>243</au_e>
+			</item>
+			<item>
+				<id>1_5_6</id>
+				<sid>77</sid>
+				<c>快叫救护车。</c>
+				<e>Quick! Call an ambulance.</e>
+				<cm>244</cm>
+				<cf>245</cf>
+				<au_e>246</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_6_0</id>
+				<sid></sid>
+				<c>约会</c>
+				<e>Making an Appointment</e>
+				<cm>247</cm>
+				<cf></cf>
+				<au_e>248</au_e>
+			</item>
+			<item>
+				<id>1_6_1</id>
+				<sid>78</sid>
+				<c>喂，请问小张在吗？</c>
+				<e>Hello, can I speak to Xiao Zhang?</e>
+				<cm>249</cm>
+				<cf>250</cf>
+				<au_e>251</au_e>
+			</item>
+			<item>
+				<id>1_6_2</id>
+				<sid>79</sid>
+				<c>在，您稍等。</c>
+				<e>Yes, one moment please.</e>
+				<cm>252</cm>
+				<cf>253</cf>
+				<au_e>254</au_e>
+			</item>
+			<item>
+				<id>1_6_3</id>
+				<sid>80</sid>
+				<c>小张， 你的电话。</c>
+				<e>Xiao Zhang, it's for you.</e>
+				<cm>255</cm>
+				<cf>256</cf>
+				<au_e>257</au_e>
+			</item>
+			<item>
+				<id>1_6_4</id>
+				<sid>81</sid>
+				<c>喂，请问是哪位？</c>
+				<e>Hello, who is it?</e>
+				<cm>258</cm>
+				<cf>259</cf>
+				<au_e>260</au_e>
+			</item>
+			<item>
+				<id>1_6_5</id>
+				<sid>82</sid>
+				<c>你打错了</c>
+				<e>You have dialed wrong number.</e>
+				<cm>261</cm>
+				<cf>262</cf>
+				<au_e>263</au_e>
+			</item>
+			<item>
+				<id>1_6_6</id>
+				<sid>83</sid>
+				<c>你什么时候有空？</c>
+				<e>When are you free?</e>
+				<cm>264</cm>
+				<cf>265</cf>
+				<au_e>266</au_e>
+			</item>
+			<item>
+				<id>1_6_7</id>
+				<sid>84</sid>
+				<c>我们去买东西吧？</c>
+				<e>Let's go shopping.</e>
+				<cm>267</cm>
+				<cf>268</cf>
+				<au_e>269</au_e>
+			</item>
+			<item>
+				<id>1_6_8</id>
+				<sid>85</sid>
+				<c>怎么去？</c>
+				<e>How shall we go there?</e>
+				<cm>270</cm>
+				<cf>271</cf>
+				<au_e>272</au_e>
+			</item>
+			<item>
+				<id>1_6_9</id>
+				<sid>86</sid>
+				<c>坐地铁去吧。</c>
+				<e>Let's take the subway.</e>
+				<cm>273</cm>
+				<cf>274</cf>
+				<au_e>275</au_e>
+			</item>
+			<item>
+				<id>1_6_10</id>
+				<sid>87</sid>
+				<c>我在地铁站等你。</c>
+				<e>I'll wait for you at the subway station.</e>
+				<cm>276</cm>
+				<cf>277</cf>
+				<au_e>278</au_e>
+			</item>
+			<item>
+				<id>1_6_11</id>
+				<sid>88</sid>
+				<c>可以吗？</c>
+				<e>Is that ok?</e>
+				<cm>279</cm>
+				<cf>280</cf>
+				<au_e>281</au_e>
+			</item>
+			<item>
+				<id>1_6_12</id>
+				<sid>89</sid>
+				<c>没问题。</c>
+				<e>No problem.</e>
+				<cm>282</cm>
+				<cf>283</cf>
+				<au_e>284</au_e>
+			</item>
+			<item>
+				<id>1_6_13</id>
+				<sid>90</sid>
+				<c>我们一起吃晚饭好不好？</c>
+				<e>How about having dinner with me?</e>
+				<cm>285</cm>
+				<cf>286</cf>
+				<au_e>287</au_e>
+			</item>
+			<item>
+				<id>1_6_14</id>
+				<sid>91</sid>
+				<c>我们几点见面？</c>
+				<e>What time shall me meet?</e>
+				<cm>288</cm>
+				<cf>289</cf>
+				<au_e>290</au_e>
+			</item>
+			<item>
+				<id>1_6_15</id>
+				<sid>92</sid>
+				<c>在哪儿见面？</c>
+				<e>Where shall we meet?</e>
+				<cm>291</cm>
+				<cf>292</cf>
+				<au_e>293</au_e>
+			</item>
+			<item>
+				<id>1_6_16</id>
+				<sid>93</sid>
+				<c>要我去接你吗？</c>
+				<e>Do you want me to pick you up?</e>
+				<cm>294</cm>
+				<cf>295</cf>
+				<au_e>296</au_e>
+			</item>
+			<item>
+				<id>1_6_17</id>
+				<sid>94</sid>
+				<c>不用了。</c>
+				<e>No, thanks.</e>
+				<cm>297</cm>
+				<cf>298</cf>
+				<au_e>299</au_e>
+			</item>
+			<item>
+				<id>1_6_18</id>
+				<sid>95</sid>
+				<c>今天星期几？</c>
+				<e>What day is it today?</e>
+				<cm>300</cm>
+				<cf>301</cf>
+				<au_e>302</au_e>
+			</item>
+			<item>
+				<id>1_6_19</id>
+				<sid>96</sid>
+				<c>这个周末我没有时间。</c>
+				<e>I don't have any free time this weekend.</e>
+				<cm>303</cm>
+				<cf>304</cf>
+				<au_e>305</au_e>
+			</item>
+			<item>
+				<id>1_6_20</id>
+				<sid>97</sid>
+				<c>谢谢你的邀请。可是。。。</c>
+				<e>Thanks for the invitation, but...</e>
+				<cm>306</cm>
+				<cf>307</cf>
+				<au_e>308</au_e>
+			</item>
+			<item>
+				<id>1_6_21</id>
+				<sid>98</sid>
+				<c>我有别的安排了。</c>
+				<e>I have other plans.</e>
+				<cm>309</cm>
+				<cf>310</cf>
+				<au_e>311</au_e>
+			</item>
+			<item>
+				<id>1_6_22</id>
+				<sid>99</sid>
+				<c>别的时间可以吗？</c>
+				<e>How about some other time?</e>
+				<cm>312</cm>
+				<cf>313</cf>
+				<au_e>314</au_e>
+			</item>
+			<item>
+				<id>1_6_23</id>
+				<sid>100</sid>
+				<c>以后再说吧。</c>
+				<e>We'll talk about that later.</e>
+				<cm>315</cm>
+				<cf>316</cf>
+				<au_e>317</au_e>
+			</item>
+			<item>
+				<id>1_6_24</id>
+				<sid>101</sid>
+				<c>你看见她了吗？</c>
+				<e>Have you seen him?</e>
+				<cm>318</cm>
+				<cf>319</cf>
+				<au_e>320</au_e>
+			</item>
+			<item>
+				<id>1_6_25</id>
+				<sid>102</sid>
+				<c>我没看见。</c>
+				<e>I haven't seen him.</e>
+				<cm>321</cm>
+				<cf>322</cf>
+				<au_e>323</au_e>
+			</item>
+			<item>
+				<id>1_6_26</id>
+				<sid>103</sid>
+				<c>他在那儿呢。</c>
+				<e>There he is.</e>
+				<cm>324</cm>
+				<cf>325</cf>
+				<au_e>326</au_e>
+			</item>
+			<item>
+				<id>1_6_27</id>
+				<sid>104</sid>
+				<c>对不起，我来晚了。</c>
+				<e>Sorry, I'm late.</e>
+				<cm>327</cm>
+				<cf>328</cf>
+				<au_e>329</au_e>
+			</item>
+			<item>
+				<id>1_6_28</id>
+				<sid>105</sid>
+				<c>让你久等了。</c>
+				<e>Sorry for having kept you waiting.</e>
+				<cm>330</cm>
+				<cf>331</cf>
+				<au_e>332</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_7_0</id>
+				<sid></sid>
+				<c>打电话</c>
+				<e>Making a Phone Call</e>
+				<cm>333</cm>
+				<cf></cf>
+				<au_e>334</au_e>
+			</item>
+			<item>
+				<id>1_7_1</id>
+				<sid>106</sid>
+				<c>是刘经理家吗？</c>
+				<e>Is this manager Liu's home?</e>
+				<cm>335</cm>
+				<cf>336</cf>
+				<au_e>338</au_e>
+			</item>
+			<item>
+				<id>1_7_2</id>
+				<sid>107</sid>
+				<c>他什么时候回来？</c>
+				<e>When will he come home?</e>
+				<cm>339</cm>
+				<cf>340</cf>
+				<au_e>341</au_e>
+			</item>
+			<item>
+				<id>1_7_3</id>
+				<sid>108</sid>
+				<c>我也不知道。</c>
+				<e>I don't know either.</e>
+				<cm>342</cm>
+				<cf>343</cf>
+				<au_e>344</au_e>
+			</item>
+			<item>
+				<id>1_7_4</id>
+				<sid>109</sid>
+				<c>你找他有急事？</c>
+				<e>Is there anything urgent?</e>
+				<cm>345</cm>
+				<cf>346</cf>
+				<au_e>347</au_e>
+			</item>
+			<item>
+				<id>1_7_5</id>
+				<sid>110</sid>
+				<c>你给他打手机吧？</c>
+				<e>You can call his cell phone.</e>
+				<cm>348</cm>
+				<cf>349</cf>
+				<au_e>350</au_e>
+			</item>
+			<item>
+				<id>1_7_6</id>
+				<sid>111</sid>
+				<c>麻烦您转告刘经理。</c>
+				<e>Could you please tell Manager Liu?</e>
+				<cm>351</cm>
+				<cf>352</cf>
+				<au_e>354</au_e>
+			</item>
+			<item>
+				<id>1_7_7</id>
+				<sid>112</sid>
+				<c>请他给我回个电话。</c>
+				<e>Could you please ask him to call me back?</e>
+				<cm>355</cm>
+				<cf>356</cf>
+				<au_e>357</au_e>
+			</item>
+			<item>
+				<id>1_7_8</id>
+				<sid>113</sid>
+				<c>我一定转告她。</c>
+				<e>I will be sure to tell him.</e>
+				<cm>358</cm>
+				<cf>359</cf>
+				<au_e>360</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_8_0</id>
+				<sid></sid>
+				<c>谈他人</c>
+				<e>Talking about other people</e>
+				<cm>361</cm>
+				<cf></cf>
+				<au_e>362</au_e>
+			</item>
+			<item>
+				<id>1_8_1</id>
+				<sid>114</sid>
+				<c>你觉得他怎么样？</c>
+				<e>What do you think of him?</e>
+				<cm>363</cm>
+				<cf>364</cf>
+				<au_e>365</au_e>
+			</item>
+			<item>
+				<id>1_8_2</id>
+				<sid>115</sid>
+				<c>他挺帅的</c>
+				<e>He is quite handsome.</e>
+				<cm>366</cm>
+				<cf>367</cf>
+				<au_e>368</au_e>
+			</item>
+			<item>
+				<id>1_8_3</id>
+				<sid>116</sid>
+				<c>他人很好.</c>
+				<e>He is very kind.</e>
+				<cm>369</cm>
+				<cf>370</cf>
+				<au_e>371</au_e>
+			</item>
+			<item>
+				<id>1_8_4</id>
+				<sid>117</sid>
+				<c>个子很高</c>
+				<e>He is very tall.</e>
+				<cm>372</cm>
+				<cf>373</cf>
+				<au_e>374</au_e>
+			</item>
+			<item>
+				<id>1_8_5</id>
+				<sid>118</sid>
+				<c>他特别聪明</c>
+				<e>He is very smart.</e>
+				<cm>375</cm>
+				<cf>376</cf>
+				<au_e>377</au_e>
+			</item>
+			<item>
+				<id>1_8_6</id>
+				<sid>119</sid>
+				<c>他是1979年出生的.</c>
+				<e>He was born in 1979.</e>
+				<cm>378</cm>
+				<cf>379</cf>
+				<au_e>380</au_e>
+			</item>
+			<item>
+				<id>1_8_7</id>
+				<sid>120</sid>
+				<c>他是做什么的?</c>
+				<e>What does he do?</e>
+				<cm>381</cm>
+				<cf>382</cf>
+				<au_e>383</au_e>
+			</item>
+			<item>
+				<id>1_8_8</id>
+				<sid>121</sid>
+				<c>他是会计师.</c>
+				<e>He is an accountant.</e>
+				<cm>384</cm>
+				<cf>385</cf>
+				<au_e>386</au_e>
+			</item>
+			<item>
+				<id>1_8_9</id>
+				<sid>122</sid>
+				<c>他在银行工作.</c>
+				<e>He works in a bank.</e>
+				<cm>387</cm>
+				<cf>388</cf>
+				<au_e>389</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_9_0</id>
+				<sid></sid>
+				<c>谈心情</c>
+				<e>Talking about moods</e>
+				<cm>390</cm>
+				<cf></cf>
+				<au_e>391</au_e>
+			</item>
+			<item>
+				<id>1_9_1</id>
+				<sid>123</sid>
+				<c>怎么啦?</c>
+				<e>What's the matter?</e>
+				<cm>392</cm>
+				<cf>393</cf>
+				<au_e>394</au_e>
+			</item>
+			<item>
+				<id>1_9_2</id>
+				<sid>124</sid>
+				<c>他好像不太高兴.</c>
+				<e>He seems to be upset.</e>
+				<cm>395</cm>
+				<cf>396</cf>
+				<au_e>397</au_e>
+			</item>
+			<item>
+				<id>1_9_3</id>
+				<sid>125</sid>
+				<c>可能吧.</c>
+				<e>I guess so.</e>
+				<cm>398</cm>
+				<cf>399</cf>
+				<au_e>400</au_e>
+			</item>
+			<item>
+				<id>1_9_4</id>
+				<sid>126</sid>
+				<c>你在想什么?</c>
+				<e>What are you thinking?</e>
+				<cm>401</cm>
+				<cf>402</cf>
+				<au_e>403</au_e>
+			</item>
+			<item>
+				<id>1_9_5</id>
+				<sid>127</sid>
+				<c>你今天心情不好吗?</c>
+				<e>Are you upset about something?</e>
+				<cm>404</cm>
+				<cf>405</cf>
+				<au_e>406</au_e>
+			</item>
+			<item>
+				<id>1_9_6</id>
+				<sid>128</sid>
+				<c>我太难过了.</c>
+				<e>I fee so depressed.</e>
+				<cm>407</cm>
+				<cf>408</cf>
+				<au_e>409</au_e>
+			</item>
+			<item>
+				<id>1_9_7</id>
+				<sid>129</sid>
+				<c>别生气.</c>
+				<e>Don't get angry.</e>
+				<cm>410</cm>
+				<cf>411</cf>
+				<au_e>412</au_e>
+			</item>
+			<item>
+				<id>1_9_8</id>
+				<sid>130</sid>
+				<c>我不是那个意思.</c>
+				<e>I didn't mean that.</e>
+				<cm>413</cm>
+				<cf>414</cf>
+				<au_e>415</au_e>
+			</item>
+			<item>
+				<id>1_9_9</id>
+				<sid>131</sid>
+				<c>出什么事了?</c>
+				<e>What happened?</e>
+				<cm>416</cm>
+				<cf>417</cf>
+				<au_e>418</au_e>
+			</item>
+			<item>
+				<id>1_9_10</id>
+				<sid>132</sid>
+				<c>我一夜没睡.</c>
+				<e>I didn't get any sleep last night.</e>
+				<cm>419</cm>
+				<cf>420</cf>
+				<au_e>421</au_e>
+			</item>
+			<item>
+				<id>1_9_11</id>
+				<sid>133</sid>
+				<c>我女朋友跟我分手了.</c>
+				<e>My girl friend broke up with me.</e>
+				<cm>422</cm>
+				<cf>423</cf>
+				<au_e>424</au_e>
+			</item>
+			<item>
+				<id>1_9_12</id>
+				<sid>134</sid>
+				<c>真没想到.</c>
+				<e>I really hadn't thought of that.</e>
+				<cm>425</cm>
+				<cf>426</cf>
+				<au_e>427</au_e>
+			</item>
+			<item>
+				<id>1_9_13</id>
+				<sid>135</sid>
+				<c>我真的很爱她.</c>
+				<e>I really love her.</e>
+				<cm>428</cm>
+				<cf>429</cf>
+				<au_e>430</au_e>
+			</item>
+			<item>
+				<id>1_9_14</id>
+				<sid>136</sid>
+				<c>我需要她.</c>
+				<e>I need her.</e>
+				<cm>431</cm>
+				<cf>432</cf>
+				<au_e>433</au_e>
+			</item>
+			<item>
+				<id>1_9_15</id>
+				<sid>137</sid>
+				<c>你没事儿吧.</c>
+				<e>Are you ok?</e>
+				<cm>434</cm>
+				<cf>435</cf>
+				<au_e>436</au_e>
+			</item>
+			<item>
+				<id>1_9_16</id>
+				<sid>138</sid>
+				<c>我想自己呆会儿.</c>
+				<e>Please leave me alone.</e>
+				<cm>437</cm>
+				<cf>438</cf>
+				<au_e>439</au_e>
+			</item>
+			<item>
+				<id>1_9_17</id>
+				<sid>139</sid>
+				<c>你别再吸烟了.</c>
+				<e>Don't smoke any more.</e>
+				<cm>440</cm>
+				<cf>441</cf>
+				<au_e>442</au_e>
+			</item>
+			<item>
+				<id>1_9_18</id>
+				<sid>140</sid>
+				<c>这样对身体不好.</c>
+				<e>It's not good for your health.</e>
+				<cm>443</cm>
+				<cf>444</cf>
+				<au_e>445</au_e>
+			</item>
+			<item>
+				<id>1_9_19</id>
+				<sid>141</sid>
+				<c>少喝点酒.</c>
+				<e>You should drink less.</e>
+				<cm>446</cm>
+				<cf>447</cf>
+				<au_e>448</au_e>
+			</item>
+			<item>
+				<id>1_9_20</id>
+				<sid>142</sid>
+				<c>在学校还好吗?</c>
+				<e>How are you doing at the university?</e>
+				<cm>449</cm>
+				<cf>450</cf>
+				<au_e>451</au_e>
+			</item>
+			<item>
+				<id>1_9_21</id>
+				<sid>143</sid>
+				<c>还行吧</c>
+				<e>It's all right.</e>
+				<cm>452</cm>
+				<cf>453</cf>
+				<au_e>454</au_e>
+			</item>
+			<item>
+				<id>1_9_22</id>
+				<sid>144</sid>
+				<c>天气太冷.</c>
+				<e>It's very cold.</e>
+				<cm>455</cm>
+				<cf>456</cf>
+				<au_e>457</au_e>
+			</item>
+			<item>
+				<id>1_9_23</id>
+				<sid>145</sid>
+				<c>我不太习惯.</c>
+				<e>I'm not used to it.</e>
+				<cm>458</cm>
+				<cf>459</cf>
+				<au_e>460</au_e>
+			</item>
+			<item>
+				<id>1_9_24</id>
+				<sid>146</sid>
+				<c>我很想家.</c>
+				<e>I miss home.</e>
+				<cm>461</cm>
+				<cf>462</cf>
+				<au_e>463</au_e>
+			</item>
+			<item>
+				<id>1_9_25</id>
+				<sid>147</sid>
+				<c>我想你们.</c>
+				<e>I miss you.</e>
+				<cm>464</cm>
+				<cf>465</cf>
+				<au_e>466</au_e>
+			</item>
+			<item>
+				<id>1_9_26</id>
+				<sid>148</sid>
+				<c>要注意身体.</c>
+				<e>Take care of your health.</e>
+				<cm>467</cm>
+				<cf>468</cf>
+				<au_e>469</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_10_0</id>
+				<sid></sid>
+				<c>谈工作</c>
+				<e>Talking about work.</e>
+				<cm>470</cm>
+				<cf></cf>
+				<au_e>471</au_e>
+			</item>
+			<item>
+				<id>1_10_1</id>
+				<sid>149</sid>
+				<c>你是哪个大学毕业的?</c>
+				<e>Which university did you graduate from?</e>
+				<cm>472</cm>
+				<cf>473</cf>
+				<au_e>474</au_e>
+			</item>
+			<item>
+				<id>1_10_2</id>
+				<sid>150</sid>
+				<c>你以前做个什么工作?</c>
+				<e>What job have you had before?</e>
+				<cm>475</cm>
+				<cf>476</cf>
+				<au_e>477</au_e>
+			</item>
+			<item>
+				<id>1_10_3</id>
+				<sid>151</sid>
+				<c>我以前是记者.</c>
+				<e>I used to be a reporter.</e>
+				<cm>478</cm>
+				<cf>479</cf>
+				<au_e>480</au_e>
+			</item>
+			<item>
+				<id>1_10_4</id>
+				<sid>152</sid>
+				<c>去年辞职了.</c>
+				<e>I left last year.</e>
+				<cm>481</cm>
+				<cf>482</cf>
+				<au_e>483</au_e>
+			</item>
+			<item>
+				<id>1_10_5</id>
+				<sid>153</sid>
+				<c>你为什么辞职?</c>
+				<e>Why did you leave?</e>
+				<cm>484</cm>
+				<cf>485</cf>
+				<au_e>486</au_e>
+			</item>
+			<item>
+				<id>1_10_6</id>
+				<sid>154</sid>
+				<c>我想换个环境.</c>
+				<e>I want to do something different.</e>
+				<cm>487</cm>
+				<cf>488</cf>
+				<au_e>489</au_e>
+			</item>
+			<item>
+				<id>1_10_7</id>
+				<sid>155</sid>
+				<c>你以后想做什么?</c>
+				<e>What do you want to do in the future?</e>
+				<cm>490</cm>
+				<cf>491</cf>
+				<au_e>492</au_e>
+			</item>
+			<item>
+				<id>1_10_8</id>
+				<sid>156</sid>
+				<c>我想当翻译.</c>
+				<e>I want to be a translator.</e>
+				<cm>493</cm>
+				<cf>494</cf>
+				<au_e>495</au_e>
+			</item>
+			<item>
+				<id>1_10_9</id>
+				<sid>157</sid>
+				<c>你在这里工作多长时间了?</c>
+				<e>How long have you been working here?</e>
+				<cm>496</cm>
+				<cf>497</cf>
+				<au_e>498</au_e>
+			</item>
+			<item>
+				<id>1_10_10</id>
+				<sid>158</sid>
+				<c>我今年一月刚来这里.</c>
+				<e>I came here in January.</e>
+				<cm>499</cm>
+				<cf>500</cf>
+				<au_e>501</au_e>
+			</item>
+			<item>
+				<id>1_10_11</id>
+				<sid>159</sid>
+				<c>我是去年毕业的.</c>
+				<e>I graduated last year.</e>
+				<cm>502</cm>
+				<cf>503</cf>
+				<au_e>504</au_e>
+			</item>
+			<item>
+				<id>1_10_12</id>
+				<sid>160</sid>
+				<c>你每天几点上班?</c>
+				<e>What is your working hours?</e>
+				<cm>505</cm>
+				<cf>506</cf>
+				<au_e>507</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>1_11_0</id>
+				<sid></sid>
+				<c>谈爱好</c>
+				<e>Talking about hobbies</e>
+				<cm>508</cm>
+				<cf></cf>
+				<au_e>509</au_e>
+			</item>
+			<item>
+				<id>1_11_1</id>
+				<sid>161</sid>
+				<c>你最近忙什么呢?</c>
+				<e>What do you up to these days?</e>
+				<cm>510</cm>
+				<cf>511</cf>
+				<au_e>512</au_e>
+			</item>
+			<item>
+				<id>1_11_2</id>
+				<sid>162</sid>
+				<c>我对国画很有兴趣.</c>
+				<e>I'm quite interested in tradional chinese painting.</e>
+				<cm>513</cm>
+				<cf>514</cf>
+				<au_e>515</au_e>
+			</item>
+			<item>
+				<id>1_11_3</id>
+				<sid>163</sid>
+				<c>我想学的东西太多了</c>
+				<e>There are so many things I want to learn.</e>
+				<cm>516</cm>
+				<cf>517</cf>
+				<au_e>518</au_e>
+			</item>
+			<item>
+				<id>1_11_4</id>
+				<sid>164</sid>
+				<c>你有什么爱好?</c>
+				<e>What are your hobbies?</e>
+				<cm>519</cm>
+				<cf>520</cf>
+				<au_e>521</au_e>
+			</item>
+			<item>
+				<id>1_11_5</id>
+				<sid>165</sid>
+				<c>我喜欢打乒乓球.</c>
+				<e>I like table tennis.</e>
+				<cm>522</cm>
+				<cf>523</cf>
+				<au_e>524</au_e>
+			</item>
+			<item>
+				<id>1_11_6</id>
+				<sid>166</sid>
+				<c>周末你一般干什么?</c>
+				<e>What do you usually do on weekends?</e>
+				<cm>525</cm>
+				<cf>526</cf>
+				<au_e>527</au_e>
+			</item>
+			<item>
+				<id>1_11_7</id>
+				<sid>167</sid>
+				<c>我喜欢看书和听音乐.</c>
+				<e>I like reading and listening to the music</e>
+				<cm>528</cm>
+				<cf>529</cf>
+				<au_e>530</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>2_0_0</id>
+			<sid></sid>
+			<c>就餐</c>
+			<e>Dining</e>
+			<cm>532</cm>
+			<cf></cf>
+			<au_e>534</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>2_1_0</id>
+				<sid></sid>
+				<c>快餐厅</c>
+				<e>At a fast food restaurant</e>
+				<cm>536</cm>
+				<cf></cf>
+				<au_e>537</au_e>
+			</item>
+			<item>
+				<id>2_1_1</id>
+				<sid>168</sid>
+				<c>我饿了</c>
+				<e>I'm hungry.</e>
+				<cm>538</cm>
+				<cf>539</cf>
+				<au_e>540</au_e>
+			</item>
+			<item>
+				<id>2_1_2</id>
+				<sid>169</sid>
+				<c>欢迎光临.</c>
+				<e>Welcome</e>
+				<cm>541</cm>
+				<cf>542</cf>
+				<au_e>543</au_e>
+			</item>
+			<item>
+				<id>2_1_3</id>
+				<sid>170</sid>
+				<c>你想吃什么?</c>
+				<e>What would you like to eat?</e>
+				<cm>544</cm>
+				<cf>545</cf>
+				<au_e>546</au_e>
+			</item>
+			<item>
+				<id>2_1_4</id>
+				<sid>171</sid>
+				<c>在这儿吃还是带走?</c>
+				<e>For here or to go?</e>
+				<cm>547</cm>
+				<cf>548</cf>
+				<au_e>549</au_e>
+			</item>
+			<item>
+				<id>2_1_5</id>
+				<sid>172</sid>
+				<c>要两个冰激凌.</c>
+				<e>Two ice creams, please.</e>
+				<cm>550</cm>
+				<cf>551</cf>
+				<au_e>552</au_e>
+			</item>
+			<item>
+				<id>2_1_6</id>
+				<sid>173</sid>
+				<c>我要这个, 还有那个.</c>
+				<e>I'd like this, and that.</e>
+				<cm>553</cm>
+				<cf>554</cf>
+				<au_e>555</au_e>
+			</item>
+			<item>
+				<id>2_1_7</id>
+				<sid>174</sid>
+				<c>哪一个?</c>
+				<e>Which one?</e>
+				<cm>556</cm>
+				<cf>557</cf>
+				<au_e>558</au_e>
+			</item>
+			<item>
+				<id>2_1_8</id>
+				<sid>175</sid>
+				<c>喝茶还是喝咖啡?</c>
+				<e>Tea or coffee?</e>
+				<cm>559</cm>
+				<cf>560</cf>
+				<au_e>561</au_e>
+			</item>
+			<item>
+				<id>2_1_9</id>
+				<sid>176</sid>
+				<c>我想喝杯咖啡.</c>
+				<e>I'd like a cup of coffee.</e>
+				<cm>562</cm>
+				<cf>563</cf>
+				<au_e>564</au_e>
+			</item>
+			<item>
+				<id>2_1_10</id>
+				<sid>177</sid>
+				<c>还要别的吗?</c>
+				<e>Anything else?</e>
+				<cm>565</cm>
+				<cf>566</cf>
+				<au_e>567</au_e>
+			</item>
+			<item>
+				<id>2_1_11</id>
+				<sid>178</sid>
+				<c>不要了.</c>
+				<e>Nothing else, thanks.</e>
+				<cm>568</cm>
+				<cf>569</cf>
+				<au_e>570</au_e>
+			</item>
+			<item>
+				<id>2_1_12</id>
+				<sid>179</sid>
+				<c>就要这些.</c>
+				<e>That's all.</e>
+				<cm>571</cm>
+				<cf>572</cf>
+				<au_e>573</au_e>
+			</item>
+			<item>
+				<id>2_1_13</id>
+				<sid>180</sid>
+				<c>请你再给我几张餐巾纸.</c>
+				<e>Could you give me a few more napkins, please?</e>
+				<cm>574</cm>
+				<cf>575</cf>
+				<au_e>576</au_e>
+			</item>
+			<item>
+				<id>2_1_14</id>
+				<sid>181</sid>
+				<c>一共是三十八块五毛.</c>
+				<e>That's 38 Yuan and 5 Jiao in total.</e>
+				<cm>577</cm>
+				<cf>578</cf>
+				<au_e>579</au_e>
+			</item>
+			<item>
+				<id>2_1_15</id>
+				<sid>182</sid>
+				<c>洗手间在哪儿?</c>
+				<e>Where is the rest room?</e>
+				<cm>580</cm>
+				<cf>581</cf>
+				<au_e>582</au_e>
+			</item>
+			<item>
+				<id>2_1_16</id>
+				<sid>183</sid>
+				<c>洗手间在二楼.</c>
+				<e>The rest room is on the second floor.</e>
+				<cm>583</cm>
+				<cf>584</cf>
+				<au_e>585</au_e>
+			</item>
+			<item>
+				<id>2_1_17</id>
+				<sid>184</sid>
+				<c>请问这里有人吗?</c>
+				<e>Excuse me, is this seat taken?</e>
+				<cm>586</cm>
+				<cf>587</cf>
+				<au_e>588</au_e>
+			</item>
+			<item>
+				<id>2_1_18</id>
+				<sid>185</sid>
+				<c>这是谁的?</c>
+				<e>Whose is this?</e>
+				<cm>589</cm>
+				<cf>590</cf>
+				<au_e>591</au_e>
+			</item>
+			<item>
+				<id>2_1_19</id>
+				<sid>186</sid>
+				<c>这是我的.</c>
+				<e>It's mine.</e>
+				<cm>592</cm>
+				<cf>593</cf>
+				<au_e>594</au_e>
+			</item>
+			<item>
+				<id>2_1_20</id>
+				<sid>187</sid>
+				<c>你过来坐吧.</c>
+				<e>Come here and take a seat.</e>
+				<cm>595</cm>
+				<cf>596</cf>
+				<au_e>597</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>2_2_0</id>
+				<sid></sid>
+				<c>中餐厅</c>
+				<e>At Chinese Restaurant</e>
+				<cm>598</cm>
+				<cf></cf>
+				<au_e>599</au_e>
+			</item>
+			<item>
+				<id>2_2_1</id>
+				<sid>188</sid>
+				<c>你们有什么特色菜?</c>
+				<e>What's the specialty.</e>
+				<cm>600</cm>
+				<cf>601</cf>
+				<au_e>602</au_e>
+			</item>
+			<item>
+				<id>2_2_2</id>
+				<sid>189</sid>
+				<c>要一个宫保鸡丁.</c>
+				<e>KongPao Chicken, please.</e>
+				<cm>603</cm>
+				<cf>604</cf>
+				<au_e>605</au_e>
+			</item>
+			<item>
+				<id>2_2_3</id>
+				<sid>190</sid>
+				<c>我想吃些蔬菜.</c>
+				<e>I want to have some vegetables.</e>
+				<cm>606</cm>
+				<cf>607</cf>
+				<au_e>608</au_e>
+			</item>
+			<item>
+				<id>2_2_4</id>
+				<sid>191</sid>
+				<c>有什么忌口的吗?</c>
+				<e>Is there anything you don't eat?</e>
+				<cm>609</cm>
+				<cf>610</cf>
+				<au_e>611</au_e>
+			</item>
+			<item>
+				<id>2_2_5</id>
+				<sid>192</sid>
+				<c>我不吃肉.</c>
+				<e>I don't eat meat.</e>
+				<cm>612</cm>
+				<cf>613</cf>
+				<au_e>614</au_e>
+			</item>
+			<item>
+				<id>2_2_6</id>
+				<sid>193</sid>
+				<c>最好清淡点.</c>
+				<e>Go easy on the oil, please.</e>
+				<cm>615</cm>
+				<cf>616</cf>
+				<au_e>617</au_e>
+			</item>
+			<item>
+				<id>2_2_7</id>
+				<sid>194</sid>
+				<c>米饭先上吧.</c>
+				<e>Please serve the rice first.</e>
+				<cm>618</cm>
+				<cf>619</cf>
+				<au_e>620</au_e>
+			</item>
+			<item>
+				<id>2_2_8</id>
+				<sid>195</sid>
+				<c>有啤酒吗?</c>
+				<e>Do you have beer?</e>
+				<cm>621</cm>
+				<cf>622</cf>
+				<au_e>623</au_e>
+			</item>
+			<item>
+				<id>2_2_9</id>
+				<sid>196</sid>
+				<c>要冰的.</c>
+				<e>With ice, please.</e>
+				<cm>624</cm>
+				<cf>625</cf>
+				<au_e>626</au_e>
+			</item>
+			<item>
+				<id>2_2_10</id>
+				<sid>197</sid>
+				<c>我们的菜做好了吗?</c>
+				<e>Is our order ready now?</e>
+				<cm>628</cm>
+				<cf>629</cf>
+				<au_e>630</au_e>
+			</item>
+			<item>
+				<id>2_2_11</id>
+				<sid>198</sid>
+				<c>已经等了15分钟了.</c>
+				<e>I've been waiting for 15 minutes.</e>
+				<cm>631</cm>
+				<cf>632</cf>
+				<au_e>633</au_e>
+			</item>
+			<item>
+				<id>2_2_12</id>
+				<sid>199</sid>
+				<c>再加个菜吧?</c>
+				<e>We'd like to order one more dish.</e>
+				<cm>634</cm>
+				<cf>635</cf>
+				<au_e>636</au_e>
+			</item>
+			<item>
+				<id>2_2_13</id>
+				<sid>200</sid>
+				<c>麻烦您再加点水.</c>
+				<e>Please refill the tea pot.</e>
+				<cm>637</cm>
+				<cf>638</cf>
+				<au_e>639</au_e>
+			</item>
+			<item>
+				<id>2_2_14</id>
+				<sid>201</sid>
+				<c>请把这几个菜打包.</c>
+				<e>Could you pack up the leftovers for us?</e>
+				<cm>640</cm>
+				<cf>641</cf>
+				<au_e>642</au_e>
+			</item>
+			<item>
+				<id>2_2_15</id>
+				<sid>202</sid>
+				<c>服务员, 结账.</c>
+				<e>Waiter, the bill please.</e>
+				<cm>643</cm>
+				<cf>644</cf>
+				<au_e>645</au_e>
+			</item>
+			<item>
+				<id>2_2_16</id>
+				<sid>203</sid>
+				<c>AA制吧.</c>
+				<e>Let's split the bill.</e>
+				<cm>646</cm>
+				<cf>647</cf>
+				<au_e>648</au_e>
+			</item>
+			<item>
+				<id>2_2_17</id>
+				<sid>204</sid>
+				<c>今天我请客.</c>
+				<e>It's my treat today.</e>
+				<cm>649</cm>
+				<cf>650</cf>
+				<au_e>651</au_e>
+			</item>
+			<item>
+				<id>2_2_18</id>
+				<sid>205</sid>
+				<c>你真好.</c>
+				<e>It's very kind of you.</e>
+				<cm>652</cm>
+				<cf>653</cf>
+				<au_e>654</au_e>
+			</item>
+			<item>
+				<id>2_2_19</id>
+				<sid>206</sid>
+				<c>下次我们请你.</c>
+				<e>We'll treat you next time.</e>
+				<cm>655</cm>
+				<cf>656</cf>
+				<au_e>657</au_e>
+			</item>
+			<item>
+				<id>2_2_20</id>
+				<sid>207</sid>
+				<c>对不起,我们只收现金.</c>
+				<e>Sorry, we only take cash.</e>
+				<cm>658</cm>
+				<cf>659</cf>
+				<au_e>660</au_e>
+			</item>
+			<item>
+				<id>2_2_21</id>
+				<sid>208</sid>
+				<c>附近有取款机吗?</c>
+				<e>Is there ATM nearby?</e>
+				<cm>661</cm>
+				<cf>662</cf>
+				<au_e>663</au_e>
+			</item>
+			<item>
+				<id>2_2_22</id>
+				<sid>209</sid>
+				<c>真不好意思.</c>
+				<e>I'm really sorry.</e>
+				<cm>664</cm>
+				<cf>665</cf>
+				<au_e>666</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>2_3_0</id>
+				<sid></sid>
+				<c>自助餐</c>
+				<e>At buffet</e>
+				<cm>667</cm>
+				<cf></cf>
+				<au_e>668</au_e>
+			</item>
+			<item>
+				<id>2_3_1</id>
+				<sid>210</sid>
+				<c>里边没有座位了.</c>
+				<e>There are no seats inside.</e>
+				<cm>669</cm>
+				<cf>670</cf>
+				<au_e>671</au_e>
+			</item>
+			<item>
+				<id>2_3_2</id>
+				<sid>211</sid>
+				<c>请你们等一会儿, 行吗?</c>
+				<e>Would you please wait for a while?</e>
+				<cm>672</cm>
+				<cf>673</cf>
+				<au_e>674</au_e>
+			</item>
+			<item>
+				<id>2_3_3</id>
+				<sid>212</sid>
+				<c>我们得等多久?</c>
+				<e>How long do we need to wait?</e>
+				<cm>675</cm>
+				<cf>676</cf>
+				<au_e>677</au_e>
+			</item>
+			<item>
+				<id>2_3_4</id>
+				<sid>213</sid>
+				<c>我们去别的地方吧.</c>
+				<e>Let's try another place.</e>
+				<cm>678</cm>
+				<cf>679</cf>
+				<au_e>680</au_e>
+			</item>
+			<item>
+				<id>2_3_5</id>
+				<sid>214</sid>
+				<c>盘子在哪儿?</c>
+				<e>Where are the plates?</e>
+				<cm>681</cm>
+				<cf>682</cf>
+				<au_e>683</au_e>
+			</item>
+			<item>
+				<id>2_3_6</id>
+				<sid>215</sid>
+				<c>你在干什么呢?</c>
+				<e>What are you doing?</e>
+				<cm>684</cm>
+				<cf>685</cf>
+				<au_e>686</au_e>
+			</item>
+			<item>
+				<id>2_3_7</id>
+				<sid>216</sid>
+				<c>我在发短信呢.</c>
+				<e>I'm sending a text message.</e>
+				<cm>687</cm>
+				<cf>688</cf>
+				<au_e>689</au_e>
+			</item>
+			<item>
+				<id>2_3_8</id>
+				<sid>217</sid>
+				<c>味道怎么样?</c>
+				<e>How is the taste?</e>
+				<cm>690</cm>
+				<cf>691</cf>
+				<au_e>692</au_e>
+			</item>
+			<item>
+				<id>2_3_9</id>
+				<sid>218</sid>
+				<c>我还没吃呢.</c>
+				<e>I haven't tried yet.</e>
+				<cm>693</cm>
+				<cf>694</cf>
+				<au_e>695</au_e>
+			</item>
+			<item>
+				<id>2_3_10</id>
+				<sid>219</sid>
+				<c>有点咸.</c>
+				<e>It is a little salty.</e>
+				<cm>696</cm>
+				<cf>697</cf>
+				<au_e>698</au_e>
+			</item>
+			<item>
+				<id>2_3_11</id>
+				<sid>220</sid>
+				<c>炒面吃完了.</c>
+				<e>I finished my fried noddles.</e>
+				<cm>699</cm>
+				<cf>700</cf>
+				<au_e>701</au_e>
+			</item>
+			<item>
+				<id>2_3_12</id>
+				<sid>221</sid>
+				<c>我吃得太多了.</c>
+				<e>I ate too much.</e>
+				<cm>702</cm>
+				<cf>703</cf>
+				<au_e>704</au_e>
+			</item>
+			<item>
+				<id>2_3_13</id>
+				<sid>222</sid>
+				<c>真的很好吃.</c>
+				<e>It's really delicious.</e>
+				<cm>705</cm>
+				<cf>706</cf>
+				<au_e>707</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>2_4_0</id>
+				<sid></sid>
+				<c>街头小吃</c>
+				<e>Street snakes</e>
+				<cm>708</cm>
+				<cf></cf>
+				<au_e>709</au_e>
+			</item>
+			<item>
+				<id>2_4_1</id>
+				<sid>223</sid>
+				<c>这么多人哪.</c>
+				<e>So many people.</e>
+				<cm>710</cm>
+				<cf>711</cf>
+				<au_e>712</au_e>
+			</item>
+			<item>
+				<id>2_4_2</id>
+				<sid>224</sid>
+				<c>真热闹.</c>
+				<e>What a bustling scene!</e>
+				<cm>713</cm>
+				<cf>714</cf>
+				<au_e>715</au_e>
+			</item>
+			<item>
+				<id>2_4_3</id>
+				<sid>225</sid>
+				<c>这里面是什么?</c>
+				<e>What's in it?</e>
+				<cm>716</cm>
+				<cf>717</cf>
+				<au_e>718</au_e>
+			</item>
+			<item>
+				<id>2_4_4</id>
+				<sid>226</sid>
+				<c>我也不太清楚.</c>
+				<e>I don't know either.</e>
+				<cm>719</cm>
+				<cf>720</cf>
+				<au_e>721</au_e>
+			</item>
+			<item>
+				<id>2_4_5</id>
+				<sid>227</sid>
+				<c>这是成都小吃.</c>
+				<e>These are local snacks from Chengdu.</e>
+				<cm>722</cm>
+				<cf>723</cf>
+				<au_e>724</au_e>
+			</item>
+			<item>
+				<id>2_4_6</id>
+				<sid>228</sid>
+				<c>你们喜欢吃辣的吗?</c>
+				<e>Do you like spicy food?</e>
+				<cm>725</cm>
+				<cf>726</cf>
+				<au_e>727</au_e>
+			</item>
+			<item>
+				<id>2_4_7</id>
+				<sid>229</sid>
+				<c>天哪! 太辣了.</c>
+				<e>Wow, it's so spicy.</e>
+				<cm>728</cm>
+				<cf>729</cf>
+				<au_e>730</au_e>
+			</item>
+			<item>
+				<id>2_4_8</id>
+				<sid>230</sid>
+				<c>我想喝水.</c>
+				<e>I'd like some water.</e>
+				<cm>731</cm>
+				<cf>732</cf>
+				<au_e>733</au_e>
+			</item>
+			<item>
+				<id>2_4_9</id>
+				<sid>231</sid>
+				<c>我们去买点饮料吧.</c>
+				<e>Let's go and buy some drinks.</e>
+				<cm>734</cm>
+				<cf>735</cf>
+				<au_e>736</au_e>
+			</item>
+			<item>
+				<id>2_4_10</id>
+				<sid>232</sid>
+				<c>我喜欢吃羊肉串.</c>
+				<e>I like barbecued mutton.</e>
+				<cm>737</cm>
+				<cf>738</cf>
+				<au_e>739</au_e>
+			</item>
+			<item>
+				<id>2_4_11</id>
+				<sid>233</sid>
+				<c>好吃吗?</c>
+				<e>Is it delicous?</e>
+				<cm>740</cm>
+				<cf>741</cf>
+				<au_e>742</au_e>
+			</item>
+			<item>
+				<id>2_4_12</id>
+				<sid>234</sid>
+				<c>真香.</c>
+				<e>Smells great.</e>
+				<cm>743</cm>
+				<cf>744</cf>
+				<au_e>745</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>2_5_0</id>
+				<sid></sid>
+				<c>家庭聚会</c>
+				<e>Family Gathering</e>
+				<cm>746</cm>
+				<cf></cf>
+				<au_e>747</au_e>
+			</item>
+			<item>
+				<id>2_5_1</id>
+				<sid>235</sid>
+				<c>这是他的拿手菜.</c>
+				<e>This dish is her specialty.</e>
+				<cm>748</cm>
+				<cf>749</cf>
+				<au_e>750</au_e>
+			</item>
+			<item>
+				<id>2_5_2</id>
+				<sid>236</sid>
+				<c>你尝尝.</c>
+				<e>Try it.</e>
+				<cm>751</cm>
+				<cf>752</cf>
+				<au_e>753</au_e>
+			</item>
+			<item>
+				<id>2_5_3</id>
+				<sid>237</sid>
+				<c>我自己来.</c>
+				<e>Let me help myself.</e>
+				<cm>754</cm>
+				<cf>755</cf>
+				<au_e>756</au_e>
+			</item>
+			<item>
+				<id>2_5_4</id>
+				<sid>238</sid>
+				<c>好吃极了</c>
+				<e>It's delicious.</e>
+				<cm>757</cm>
+				<cf>758</cf>
+				<au_e>759</au_e>
+			</item>
+			<item>
+				<id>2_5_5</id>
+				<sid>239</sid>
+				<c>这道菜怎么做?</c>
+				<e>How do you make this dish?</e>
+				<cm>760</cm>
+				<cf>761</cf>
+				<au_e>762</au_e>
+			</item>
+			<item>
+				<id>2_5_6</id>
+				<sid>240</sid>
+				<c>你多吃点.</c>
+				<e>Help yourself to some more.</e>
+				<cm>763</cm>
+				<cf>764</cf>
+				<au_e>765</au_e>
+			</item>
+			<item>
+				<id>2_5_7</id>
+				<sid>241</sid>
+				<c>好吧.</c>
+				<e>OK.</e>
+				<cm>766</cm>
+				<cf>767</cf>
+				<au_e>768</au_e>
+			</item>
+			<item>
+				<id>2_5_8</id>
+				<sid>242</sid>
+				<c>我吃饱了.</c>
+				<e>I'm full.</e>
+				<cm>769</cm>
+				<cf>770</cf>
+				<au_e>771</au_e>
+			</item>
+			<item>
+				<id>2_5_9</id>
+				<sid>243</sid>
+				<c>你再喝点啤酒.</c>
+				<e>Have some more beer.</e>
+				<cm>772</cm>
+				<cf>773</cf>
+				<au_e>774</au_e>
+			</item>
+			<item>
+				<id>2_5_10</id>
+				<sid>244</sid>
+				<c>真的不能再喝了.</c>
+				<e>I really cann't drink any more.</e>
+				<cm>775</cm>
+				<cf>776</cf>
+				<au_e>777</au_e>
+			</item>
+			<item>
+				<id>2_5_11</id>
+				<sid>245</sid>
+				<c>我的酒量很小.</c>
+				<e>I cann't drink alcohol.</e>
+				<cm>778</cm>
+				<cf>779</cf>
+				<au_e>780</au_e>
+			</item>
+			<item>
+				<id>2_5_12</id>
+				<sid>246</sid>
+				<c>他喝醉了.</c>
+				<e>He is drunk.</e>
+				<cm>781</cm>
+				<cf>782</cf>
+				<au_e>783</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>2_6_0</id>
+				<sid></sid>
+				<c>宴会.</c>
+				<e>At a Banquet</e>
+				<cm>784</cm>
+				<cf></cf>
+				<au_e>785</au_e>
+			</item>
+			<item>
+				<id>2_6_1</id>
+				<sid>247</sid>
+				<c>您请这边坐.</c>
+				<e>Please sit here.</e>
+				<cm>786</cm>
+				<cf>787</cf>
+				<au_e>788</au_e>
+			</item>
+			<item>
+				<id>2_6_2</id>
+				<sid>248</sid>
+				<c>您先请.</c>
+				<e>Help yourself to some food. (Literal translation: You first,
+					please.)</e>
+				<cm>789</cm>
+				<cf>790</cf>
+				<au_e>791</au_e>
+			</item>
+			<item>
+				<id>2_6_3</id>
+				<sid>249</sid>
+				<c>别这么客气.</c>
+				<e>Don't stand on ceremony.</e>
+				<cm>793</cm>
+				<cf>794</cf>
+				<au_e>795</au_e>
+			</item>
+			<item>
+				<id>2_6_4</id>
+				<sid>250</sid>
+				<c>这个地方很不错.</c>
+				<e>Nice place.</e>
+				<cm>796</cm>
+				<cf>797</cf>
+				<au_e>798</au_e>
+			</item>
+			<item>
+				<id>2_6_5</id>
+				<sid>251</sid>
+				<c>这里的广东菜比较地道..</c>
+				<e>The Cantonese food here is authentic.</e>
+				<cm>799</cm>
+				<cf>800</cf>
+				<au_e>801</au_e>
+			</item>
+			<item>
+				<id>2_6_6</id>
+				<sid>252</sid>
+				<c>厨师是香港人.</c>
+				<e>The chiefs are from HongKong.</e>
+				<cm>802</cm>
+				<cf>803</cf>
+				<au_e>804</au_e>
+			</item>
+			<item>
+				<id>2_6_7</id>
+				<sid>253</sid>
+				<c>菜太多了吧?</c>
+				<e>It is really a big dinner.</e>
+				<cm>805</cm>
+				<cf>806</cf>
+				<au_e>807</au_e>
+			</item>
+			<item>
+				<id>2_6_8</id>
+				<sid>254</sid>
+				<c>感谢您们的热情款待.</c>
+				<e>Thank you for your hospitality.</e>
+				<cm>808</cm>
+				<cf>809</cf>
+				<au_e>810</au_e>
+			</item>
+			<item>
+				<id>2_6_9</id>
+				<sid>255</sid>
+				<c>我们也感到十分荣幸.</c>
+				<e>We are very honored too.</e>
+				<cm>811</cm>
+				<cf>812</cf>
+				<au_e>813</au_e>
+			</item>
+			<item>
+				<id>2_6_10</id>
+				<sid>256</sid>
+				<c>为我们的合作成功干杯.</c>
+				<e>Let's toast to our surccessful cooperation.</e>
+				<cm>814</cm>
+				<cf>815</cf>
+				<au_e>816</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>3_0_0</id>
+			<sid></sid>
+			<c>购物</c>
+			<e>Shopping</e>
+			<cm>818</cm>
+			<cf></cf>
+			<au_e>820</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>3_1_0</id>
+				<sid></sid>
+				<c>超市</c>
+				<e>supermarket</e>
+				<cm>821</cm>
+				<cf></cf>
+				<au_e>822</au_e>
+			</item>
+			<item>
+				<id>3_1_1</id>
+				<sid>257</sid>
+				<c>要存包吗?</c>
+				<e>Do I need to leave my bag here?</e>
+				<cm>823</cm>
+				<cf>824</cf>
+				<au_e>825</au_e>
+			</item>
+			<item>
+				<id>3_1_2</id>
+				<sid>258</sid>
+				<c>请问洗发水在什么地方?</c>
+				<e>Excuse me, where is the shampoo?</e>
+				<cm>826</cm>
+				<cf>827</cf>
+				<au_e>828</au_e>
+			</item>
+			<item>
+				<id>3_1_3</id>
+				<sid>259</sid>
+				<c>请让一下?</c>
+				<e>Exercuse me, can I get by?</e>
+				<cm>829</cm>
+				<cf>830</cf>
+				<au_e>831</au_e>
+			</item>
+			<item>
+				<id>3_1_4</id>
+				<sid>260</sid>
+				<c>这些已经负过钱了.</c>
+				<e>I've paid for this.</e>
+				<cm>832</cm>
+				<cf>833</cf>
+				<au_e>834</au_e>
+			</item>
+			<item>
+				<id>3_1_5</id>
+				<sid>261</sid>
+				<c>这是我昨天买的.</c>
+				<e>I bought it yesterday.</e>
+				<cm>835</cm>
+				<cf>836</cf>
+				<au_e>837</au_e>
+			</item>
+			<item>
+				<id>3_1_6</id>
+				<sid>262</sid>
+				<c>不能用.</c>
+				<e>It doesn't work.</e>
+				<cm>838</cm>
+				<cf>839</cf>
+				<au_e>840</au_e>
+			</item>
+			<item>
+				<id>3_1_7</id>
+				<sid>263</sid>
+				<c>我想退货.</c>
+				<e>I'd like to return this.</e>
+				<cm>841</cm>
+				<cf>842</cf>
+				<au_e>843</au_e>
+			</item>
+			<item>
+				<id>3_1_8</id>
+				<sid>264</sid>
+				<c>我看看.</c>
+				<e>Let me have a look.</e>
+				<cm>844</cm>
+				<cf>845</cf>
+				<au_e>846</au_e>
+			</item>
+			<item>
+				<id>3_1_9</id>
+				<sid>265</sid>
+				<c>可能是坏了.</c>
+				<e>Maybe something is wrong with it.</e>
+				<cm>847</cm>
+				<cf>848</cf>
+				<au_e>849</au_e>
+			</item>
+			<item>
+				<id>3_1_10</id>
+				<sid>266</sid>
+				<c>您的发票带来了吗?</c>
+				<e>Do you have the receipt with you?</e>
+				<cm>850</cm>
+				<cf>851</cf>
+				<au_e>852</au_e>
+			</item>
+			<item>
+				<id>3_1_11</id>
+				<sid>267</sid>
+				<c>给您换一个,行吗?</c>
+				<e>Can I exchange one for you?</e>
+				<cm>853</cm>
+				<cf>854</cf>
+				<au_e>855</au_e>
+			</item>
+			<item>
+				<id>3_1_12</id>
+				<sid>268</sid>
+				<c>麻烦您给退了吧.</c>
+				<e>Can I return this?</e>
+				<cm>856</cm>
+				<cf>857</cf>
+				<au_e>858</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>3_2_0</id>
+				<sid></sid>
+				<c>水果市场</c>
+				<e>Fruit market</e>
+				<cm>859</cm>
+				<cf></cf>
+				<au_e>860</au_e>
+			</item>
+			<item>
+				<id>3_2_1</id>
+				<sid>269</sid>
+				<c>这橘子甜吗?</c>
+				<e>Are the tangerines sweet?</e>
+				<cm>861</cm>
+				<cf>862</cf>
+				<au_e>863</au_e>
+			</item>
+			<item>
+				<id>3_2_2</id>
+				<sid>270</sid>
+				<c>多少钱一斤?</c>
+				<e>How much per Jin?</e>
+				<cm>864</cm>
+				<cf>865</cf>
+				<au_e>866</au_e>
+			</item>
+			<item>
+				<id>3_2_3</id>
+				<sid>271</sid>
+				<c>您要多少?</c>
+				<e>How many do you want?</e>
+				<cm>867</cm>
+				<cf>868</cf>
+				<au_e>869</au_e>
+			</item>
+			<item>
+				<id>3_2_4</id>
+				<sid>272</sid>
+				<c>我没有零钱.</c>
+				<e>I don't have change.</e>
+				<cm>870</cm>
+				<cf>871</cf>
+				<au_e>872</au_e>
+			</item>
+			<item>
+				<id>3_2_5</id>
+				<sid>273</sid>
+				<c>给你一张一百的.</c>
+				<e>Here is one hundred yuan note.</e>
+				<cm>873</cm>
+				<cf>874</cf>
+				<au_e>875</au_e>
+			</item>
+			<item>
+				<id>3_2_6</id>
+				<sid>274</sid>
+				<c>我找不开.</c>
+				<e>I can change that.</e>
+				<cm>876</cm>
+				<cf>877</cf>
+				<au_e>878</au_e>
+			</item>
+			<item>
+				<id>3_2_7</id>
+				<sid>275</sid>
+				<c>我去换点零钱吧.</c>
+				<e>I'll go and change some money.</e>
+				<cm>879</cm>
+				<cf>880</cf>
+				<au_e>881</au_e>
+			</item>
+			<item>
+				<id>3_2_8</id>
+				<sid>276</sid>
+				<c>这是一张五毛的, 不是五块的</c>
+				<e>This is five jiao, not five yuan.</e>
+				<cm>882</cm>
+				<cf>883</cf>
+				<au_e>884</au_e>
+			</item>
+			<item>
+				<id>3_2_9</id>
+				<sid>277</sid>
+				<c>我看错了.</c>
+				<e>My mistake.</e>
+				<cm>885</cm>
+				<cf>886</cf>
+				<au_e>887</au_e>
+			</item>
+			<item>
+				<id>3_2_10</id>
+				<sid>278</sid>
+				<c>找您九十三.</c>
+				<e>93 yuan change.</e>
+				<cm>888</cm>
+				<cf>889</cf>
+				<au_e>890</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>3_3_0</id>
+				<sid></sid>
+				<c>二手市场.</c>
+				<e>second hand market</e>
+				<cm>891</cm>
+				<cf></cf>
+				<au_e>892</au_e>
+			</item>
+			<item>
+				<id>3_3_1</id>
+				<sid>279</sid>
+				<c>这是什么牌子的?</c>
+				<e>What brand is it?</e>
+				<cm>893</cm>
+				<cf>894</cf>
+				<au_e>895</au_e>
+			</item>
+			<item>
+				<id>3_3_2</id>
+				<sid>280</sid>
+				<c>这儿有点毛病.</c>
+				<e>Something seems wrong here.</e>
+				<cm>896</cm>
+				<cf>897</cf>
+				<au_e>898</au_e>
+			</item>
+			<item>
+				<id>3_3_3</id>
+				<sid>281</sid>
+				<c>我不想要了.</c>
+				<e>I don't want it.</e>
+				<cm>899</cm>
+				<cf>900</cf>
+				<au_e>901</au_e>
+			</item>
+			<item>
+				<id>3_3_4</id>
+				<sid>282</sid>
+				<c>马上可以修好.</c>
+				<e>I can fix it in a minute.</e>
+				<cm>902</cm>
+				<cf>903</cf>
+				<au_e>904</au_e>
+			</item>
+			<item>
+				<id>3_3_5</id>
+				<sid>283</sid>
+				<c>你说个价吧.</c>
+				<e>How much is your offer?</e>
+				<cm>905</cm>
+				<cf>906</cf>
+				<au_e>907</au_e>
+			</item>
+			<item>
+				<id>3_3_6</id>
+				<sid>284</sid>
+				<c>最多一百块.</c>
+				<e>One hundred yuan at most.</e>
+				<cm>908</cm>
+				<cf>909</cf>
+				<au_e>910</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>3_4_0</id>
+				<sid></sid>
+				<c>电话购物</c>
+				<e>Shopping by Phone</e>
+				<cm>911</cm>
+				<cf></cf>
+				<au_e>912</au_e>
+			</item>
+			<item>
+				<id>3_4_1</id>
+				<sid>285</sid>
+				<c>是进口的吗?</c>
+				<e>Is it imported?</e>
+				<cm>913</cm>
+				<cf>914</cf>
+				<au_e>915</au_e>
+			</item>
+			<item>
+				<id>3_4_2</id>
+				<sid>286</sid>
+				<c>是哪儿生产的?</c>
+				<e>Where is it made?</e>
+				<cm>916</cm>
+				<cf>917</cf>
+				<au_e>918</au_e>
+			</item>
+			<item>
+				<id>3_4_3</id>
+				<sid>287</sid>
+				<c>可以电话订货吗?</c>
+				<e>Can I order by phone?</e>
+				<cm>919</cm>
+				<cf>920</cf>
+				<au_e>921</au_e>
+			</item>
+			<item>
+				<id>3_4_4</id>
+				<sid>288</sid>
+				<c>怎么付钱呢?</c>
+				<e>How do I make a payment?</e>
+				<cm>922</cm>
+				<cf>923</cf>
+				<au_e>924</au_e>
+			</item>
+			<item>
+				<id>3_4_5</id>
+				<sid>289</sid>
+				<c>可以到邮局汇款.</c>
+				<e>You can pay it via the post office.</e>
+				<cm>925</cm>
+				<cf>926</cf>
+				<au_e>927</au_e>
+			</item>
+			<item>
+				<id>3_4_6</id>
+				<sid>290</sid>
+				<c>以可以货到付款.</c>
+				<e>Or you can just pay on deliverly.</e>
+				<cm>928</cm>
+				<cf>929</cf>
+				<au_e>930</au_e>
+			</item>
+			<item>
+				<id>3_4_7</id>
+				<sid>291</sid>
+				<c>还是货到付款最方便.</c>
+				<e>Paying on deliverly sounds most convenient.</e>
+				<cm>931</cm>
+				<cf>932</cf>
+				<au_e>933</au_e>
+			</item>
+			<item>
+				<id>3_4_8</id>
+				<sid>292</sid>
+				<c>我还有一个问题.</c>
+				<e>I have another question.</e>
+				<cm>934</cm>
+				<cf>935</cf>
+				<au_e>936</au_e>
+			</item>
+			<item>
+				<id>3_4_9</id>
+				<sid>293</sid>
+				<c>不合适能不能退换?</c>
+				<e>Can I return or change it if there is any problem.</e>
+				<cm>937</cm>
+				<cf>938</cf>
+				<au_e>939</au_e>
+			</item>
+			<item>
+				<id>3_4_10</id>
+				<sid>294</sid>
+				<c>我要定个比萨饼.</c>
+				<e>I want to order a piza.</e>
+				<cm>941</cm>
+				<cf>942</cf>
+				<au_e>943</au_e>
+			</item>
+			<item>
+				<id>3_4_11</id>
+				<sid>295</sid>
+				<c>大的还是小的?</c>
+				<e>Big or small one?</e>
+				<cm>944</cm>
+				<cf>945</cf>
+				<au_e>946</au_e>
+			</item>
+			<item>
+				<id>3_4_12</id>
+				<sid>296</sid>
+				<c>请送到北京大学西门吧.</c>
+				<e>Could you please deliver it to the west gate of Peiking
+					University?</e>
+				<cm>947</cm>
+				<cf>948</cf>
+				<au_e>949</au_e>
+			</item>
+			<item>
+				<id>3_4_13</id>
+				<sid>297</sid>
+				<c>你说一个时间.</c>
+				<e>Please name a time.</e>
+				<cm>950</cm>
+				<cf>951</cf>
+				<au_e>952</au_e>
+			</item>
+			<item>
+				<id>3_4_14</id>
+				<sid>298</sid>
+				<c>现在是11:40.</c>
+				<e>It's 11:40 now.</e>
+				<cm>953</cm>
+				<cf>954</cf>
+				<au_e>955</au_e>
+			</item>
+			<item>
+				<id>3_4_15</id>
+				<sid>299</sid>
+				<c>我大概12:10到.</c>
+				<e>I would be there at 12:10.</e>
+				<cm>956</cm>
+				<cf>957</cf>
+				<au_e>958</au_e>
+			</item>
+			<item>
+				<id>3_4_16</id>
+				<sid>300</sid>
+				<c>到了再给你打电话.</c>
+				<e>I will call you when I arrive.</e>
+				<cm>959</cm>
+				<cf>960</cf>
+				<au_e>961</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>3_5_0</id>
+				<sid></sid>
+				<c>服装店.</c>
+				<e>Clothing Shop</e>
+				<cm>963</cm>
+				<cf></cf>
+				<au_e>964</au_e>
+			</item>
+			<item>
+				<id>3_5_1</id>
+				<sid>301</sid>
+				<c>我随便看看.</c>
+				<e>I'm just looking.</e>
+				<cm>965</cm>
+				<cf>966</cf>
+				<au_e>967</au_e>
+			</item>
+			<item>
+				<id>3_5_2</id>
+				<sid>302</sid>
+				<c>您要做什么衣服?</c>
+				<e>What kind of cloth do you want to make?</e>
+				<cm>968</cm>
+				<cf>969</cf>
+				<au_e>972</au_e>
+			</item>
+			<item>
+				<id>3_5_3</id>
+				<sid>303</sid>
+				<c>我想做一件旗袍.</c>
+				<e>I'd like to have a Qipao made.</e>
+				<cm>973</cm>
+				<cf>974</cf>
+				<au_e>975</au_e>
+			</item>
+			<item>
+				<id>3_5_4</id>
+				<sid>304</sid>
+				<c>这是我想要的式样.</c>
+				<e>This is the style I'd like.</e>
+				<cm>976</cm>
+				<cf>977</cf>
+				<au_e>978</au_e>
+			</item>
+			<item>
+				<id>3_5_5</id>
+				<sid>305</sid>
+				<c>您穿旗袍一定很好看.</c>
+				<e>You'll certerly look beautiful in a Qipao.</e>
+				<cm>979</cm>
+				<cf>980</cf>
+				<au_e>981</au_e>
+			</item>
+			<item>
+				<id>3_5_6</id>
+				<sid>306</sid>
+				<c>哪天能试穿?</c>
+				<e>When can I come for a fitting?</e>
+				<cm>982</cm>
+				<cf>983</cf>
+				<au_e>984</au_e>
+			</item>
+			<item>
+				<id>3_5_7</id>
+				<sid>307</sid>
+				<c>这是什么料子的?</c>
+				<e>What material is it made of?</e>
+				<cm>985</cm>
+				<cf>986</cf>
+				<au_e>987</au_e>
+			</item>
+			<item>
+				<id>3_5_8</id>
+				<sid>308</sid>
+				<c>真丝的.</c>
+				<e>Silk.</e>
+				<cm>988</cm>
+				<cf>989</cf>
+				<au_e>990</au_e>
+			</item>
+			<item>
+				<id>3_5_9</id>
+				<sid>309</sid>
+				<c>蓝色的好还是黄色的好?</c>
+				<e>Which do you think is better? The blue one or the yellow one.</e>
+				<cm>991</cm>
+				<cf>992</cf>
+				<au_e>993</au_e>
+			</item>
+			<item>
+				<id>3_5_10</id>
+				<sid>310</sid>
+				<c>蓝色的更适合您.</c>
+				<e>The blue one is more suitable for you.</e>
+				<cm>995</cm>
+				<cf>996</cf>
+				<au_e>997</au_e>
+			</item>
+			<item>
+				<id>3_5_11</id>
+				<sid>311</sid>
+				<c>好像不太合适.</c>
+				<e>It doesn't seem suitable.</e>
+				<cm>998</cm>
+				<cf>999</cf>
+				<au_e>1000</au_e>
+			</item>
+			<item>
+				<id>3_5_12</id>
+				<sid>312</sid>
+				<c>还有别的颜色吗?</c>
+				<e>Do you have other colors?</e>
+				<cm>1001</cm>
+				<cf>1002</cf>
+				<au_e>1003</au_e>
+			</item>
+			<item>
+				<id>3_5_13</id>
+				<sid>313</sid>
+				<c>能试试吗?</c>
+				<e>Can I try it on?</e>
+				<cm>1004</cm>
+				<cf>1005</cf>
+				<au_e>1006</au_e>
+			</item>
+			<item>
+				<id>3_5_14</id>
+				<sid>314</sid>
+				<c>您穿什么号的?</c>
+				<e>What size do you wear?</e>
+				<cm>1007</cm>
+				<cf>1008</cf>
+				<au_e>1009</au_e>
+			</item>
+			<item>
+				<id>3_5_15</id>
+				<sid>315</sid>
+				<c>中号的</c>
+				<e>Medieum size.</e>
+				<cm>1010</cm>
+				<cf>1011</cf>
+				<au_e>1012</au_e>
+			</item>
+			<item>
+				<id>3_5_16</id>
+				<sid>316</sid>
+				<c>试衣间在哪儿?</c>
+				<e>Where is the fiting room?</e>
+				<cm>1013</cm>
+				<cf>1014</cf>
+				<au_e>1015</au_e>
+			</item>
+			<item>
+				<id>3_5_17</id>
+				<sid>317</sid>
+				<c>可惜有点紧.</c>
+				<e>What a sham! It's a little tight.</e>
+				<cm>1016</cm>
+				<cf>1017</cf>
+				<au_e>1018</au_e>
+			</item>
+			<item>
+				<id>3_5_18</id>
+				<sid>318</sid>
+				<c>有大一号的吗?</c>
+				<e>Do you a larfer one?</e>
+				<cm>1020</cm>
+				<cf>1021</cf>
+				<au_e>1022</au_e>
+			</item>
+			<item>
+				<id>3_5_19</id>
+				<sid>319</sid>
+				<c>多少钱?</c>
+				<e>How much is it?</e>
+				<cm>1023</cm>
+				<cf>1024</cf>
+				<au_e>1025</au_e>
+			</item>
+			<item>
+				<id>3_5_20</id>
+				<sid>320</sid>
+				<c>太贵了.</c>
+				<e>It's too expensive.</e>
+				<cm>1026</cm>
+				<cf>1027</cf>
+				<au_e>1028</au_e>
+			</item>
+			<item>
+				<id>3_5_21</id>
+				<sid>321</sid>
+				<c>能打折吗?</c>
+				<e>Is it possible to get a discount?</e>
+				<cm>1029</cm>
+				<cf>1030</cf>
+				<au_e>1031</au_e>
+			</item>
+			<item>
+				<id>3_5_22</id>
+				<sid>322</sid>
+				<c>在便宜一点吧.</c>
+				<e>Could you make it cheaper?</e>
+				<cm>1032</cm>
+				<cf>1033</cf>
+				<au_e>1034</au_e>
+			</item>
+			<item>
+				<id>3_5_23</id>
+				<sid>323</sid>
+				<c>那就算了吧.</c>
+				<e>Then, no thanks.</e>
+				<cm>1035</cm>
+				<cf>1036</cf>
+				<au_e>1037</au_e>
+			</item>
+			<item>
+				<id>3_5_24</id>
+				<sid>324</sid>
+				<c>我再想想.</c>
+				<e>Let me think it over.</e>
+				<cm>1038</cm>
+				<cf>1039</cf>
+				<au_e>1040</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>3_6_0</id>
+				<sid></sid>
+				<c>商场</c>
+				<e>Department Store</e>
+				<cm>1041</cm>
+				<cf></cf>
+				<au_e>1042</au_e>
+			</item>
+			<item>
+				<id>3_6_1</id>
+				<sid>325</sid>
+				<c>我们想买一个小冰箱.</c>
+				<e>We're looking for a small refrigerator.</e>
+				<cm>1043</cm>
+				<cf>1044</cf>
+				<au_e>1045</au_e>
+			</item>
+			<item>
+				<id>3_6_2</id>
+				<sid>326</sid>
+				<c>这几种有什么不同呢?</c>
+				<e>What's the difference between them?</e>
+				<cm>1046</cm>
+				<cf>1047</cf>
+				<au_e>1048</au_e>
+			</item>
+			<item>
+				<id>3_6_3</id>
+				<sid>327</sid>
+				<c>这种噪音特别小.</c>
+				<e>This type doesn't make much noise.</e>
+				<cm>1049</cm>
+				<cf>1050</cf>
+				<au_e>1051</au_e>
+			</item>
+			<item>
+				<id>3_6_4</id>
+				<sid>328</sid>
+				<c>哪种质量好?</c>
+				<e>Which one is the best quality?</e>
+				<cm>1052</cm>
+				<cf>1053</cf>
+				<au_e>1054</au_e>
+			</item>
+			<item>
+				<id>3_6_5</id>
+				<sid>329</sid>
+				<c>质量都不错.</c>
+				<e>All of them are good quality.</e>
+				<cm>1055</cm>
+				<cf>1056</cf>
+				<au_e>1057</au_e>
+			</item>
+			<item>
+				<id>3_6_6</id>
+				<sid>330</sid>
+				<c>哪种是最新款的?</c>
+				<e>Which one is the latest?</e>
+				<cm>1058</cm>
+				<cf>1059</cf>
+				<au_e>1060</au_e>
+			</item>
+			<item>
+				<id>3_6_7</id>
+				<sid>331</sid>
+				<c>它有哪些功能?</c>
+				<e>What is the function of this one?</e>
+				<cm>1061</cm>
+				<cf>1062</cf>
+				<au_e>1063</au_e>
+			</item>
+			<item>
+				<id>3_6_8</id>
+				<sid>332</sid>
+				<c>可以放DVD,CD和VCD.</c>
+				<e>You can play DVDs, CDs and VCDs with it.</e>
+				<cm>1064</cm>
+				<cf>1065</cf>
+				<au_e>1066</au_e>
+			</item>
+			<item>
+				<id>3_6_9</id>
+				<sid>333</sid>
+				<c>很好玩.</c>
+				<e>It's very fun.</e>
+				<cm>1067</cm>
+				<cf>1068</cf>
+				<au_e>1069</au_e>
+			</item>
+			<item>
+				<id>3_6_10</id>
+				<sid>334</sid>
+				<c>声音特别好听.</c>
+				<e>The sound quality is excellent.</e>
+				<cm>1070</cm>
+				<cf>1071</cf>
+				<au_e>1072</au_e>
+			</item>
+			<item>
+				<id>3_6_11</id>
+				<sid>335</sid>
+				<c>要这个.</c>
+				<e>I want this one.</e>
+				<cm>1073</cm>
+				<cf>1074</cf>
+				<au_e>1075</au_e>
+			</item>
+			<item>
+				<id>3_6_12</id>
+				<sid>336</sid>
+				<c>保修多长时间?</c>
+				<e>How long is the warrenty period?</e>
+				<cm>1076</cm>
+				<cf>1077</cf>
+				<au_e>1078</au_e>
+			</item>
+			<item>
+				<id>3_6_13</id>
+				<sid>337</sid>
+				<c>送货吗?</c>
+				<e>Including delivery?</e>
+				<cm>1079</cm>
+				<cf>1080</cf>
+				<au_e>1081</au_e>
+			</item>
+			<item>
+				<id>3_6_14</id>
+				<sid>338</sid>
+				<c>请告诉我您的地址和电话.</c>
+				<e>Could you please tell me your address and telephon number?</e>
+				<cm>1082</cm>
+				<cf>1083</cf>
+				<au_e>1084</au_e>
+			</item>
+			<item>
+				<id>3_6_15</id>
+				<sid>339</sid>
+				<c>我今天没带那么多钱.</c>
+				<e>I don't have enough money right now.</e>
+				<cm>1085</cm>
+				<cf>1086</cf>
+				<au_e>1087</au_e>
+			</item>
+			<item>
+				<id>3_6_16</id>
+				<sid>340</sid>
+				<c>能刷信用卡吗?</c>
+				<e>Can I use my credit card?</e>
+				<cm>1088</cm>
+				<cf>1089</cf>
+				<au_e>1090</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>3_7_0</id>
+				<sid></sid>
+				<c>书店</c>
+				<e>book store</e>
+				<cm>1091</cm>
+				<cf></cf>
+				<au_e>1092</au_e>
+			</item>
+			<item>
+				<id>3_7_1</id>
+				<sid>341</sid>
+				<c>你能不能个我推荐一下?</c>
+				<e>Could you please recommand one for me?</e>
+				<cm>1093</cm>
+				<cf>1094</cf>
+				<au_e>1095</au_e>
+			</item>
+			<item>
+				<id>3_7_2</id>
+				<sid>342</sid>
+				<c>是哪个出版社的?</c>
+				<e>Which press publish is this book?</e>
+				<cm>1096</cm>
+				<cf>1097</cf>
+				<au_e>1098</au_e>
+			</item>
+			<item>
+				<id>3_7_3</id>
+				<sid>343</sid>
+				<c>是什么时候出版的?</c>
+				<e>When was it published?</e>
+				<cm>1099</cm>
+				<cf>1100</cf>
+				<au_e>1101</au_e>
+			</item>
+			<item>
+				<id>3_7_4</id>
+				<sid>344</sid>
+				<c>要这本大的吧.</c>
+				<e>I'll take the big one.</e>
+				<cm>1102</cm>
+				<cf>1103</cf>
+				<au_e>1104</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>4_0_0</id>
+			<sid></sid>
+			<c>出行</c>
+			<e>Excursion</e>
+			<cm>1106</cm>
+			<cf></cf>
+			<au_e>1107</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>4_1_0</id>
+				<sid></sid>
+				<c>步行</c>
+				<e>Walking</e>
+				<cm>1109</cm>
+				<cf></cf>
+				<au_e>1110</au_e>
+			</item>
+			<item>
+				<id>4_1_1</id>
+				<sid>345</sid>
+				<c>请问地铁站怎么走?</c>
+				<e>Exercuse me? How can I get to the subway station?</e>
+				<cm>1111</cm>
+				<cf>1112</cf>
+				<au_e>1113</au_e>
+			</item>
+			<item>
+				<id>4_1_2</id>
+				<sid>346</sid>
+				<c>一直往南走.</c>
+				<e>Go south.</e>
+				<cm>1114</cm>
+				<cf>1115</cf>
+				<au_e>1116</au_e>
+			</item>
+			<item>
+				<id>4_1_3</id>
+				<sid>347</sid>
+				<c>哪边是南哪?</c>
+				<e>Which direction is south.</e>
+				<cm>1117</cm>
+				<cf>1118</cf>
+				<au_e>1119</au_e>
+			</item>
+			<item>
+				<id>4_1_4</id>
+				<sid>348</sid>
+				<c>在前面的路口往左拐.</c>
+				<e>Turn left at the crossing ahead.</e>
+				<cm>1120</cm>
+				<cf>1121</cf>
+				<au_e>1122</au_e>
+			</item>
+			<item>
+				<id>4_1_5</id>
+				<sid>349</sid>
+				<c>离这儿多元呢?</c>
+				<e>How far is it from here?</e>
+				<cm>1123</cm>
+				<cf>1124</cf>
+				<au_e>1125</au_e>
+			</item>
+			<item>
+				<id>4_1_6</id>
+				<sid>350</sid>
+				<c>不太远.</c>
+				<e>Not far.</e>
+				<cm>1126</cm>
+				<cf>1127</cf>
+				<au_e>1128</au_e>
+			</item>
+			<item>
+				<id>4_1_7</id>
+				<sid>351</sid>
+				<c>大概走五分钟就到了</c>
+				<e>It's only about five minute walk.</e>
+				<cm>1129</cm>
+				<cf>1130</cf>
+				<au_e>1131</au_e>
+			</item>
+			<item>
+				<id>4_1_8</id>
+				<sid>352</sid>
+				<c>您有什么事?</c>
+				<e>What's the matter?</e>
+				<cm>1132</cm>
+				<cf>1133</cf>
+				<au_e>1134</au_e>
+			</item>
+			<item>
+				<id>4_1_9</id>
+				<sid>353</sid>
+				<c>他病了</c>
+				<e>She is sick.</e>
+				<cm>1135</cm>
+				<cf>1136</cf>
+				<au_e>1137</au_e>
+			</item>
+			<item>
+				<id>4_1_10</id>
+				<sid>354</sid>
+				<c>那怎么办呢?</c>
+				<e>What shall I do?</e>
+				<cm>1138</cm>
+				<cf>1139</cf>
+				<au_e>1140</au_e>
+			</item>
+			<item>
+				<id>4_1_11</id>
+				<sid>355</sid>
+				<c>我想去看看他.</c>
+				<e>I want to go and see her.</e>
+				<cm>1141</cm>
+				<cf>1142</cf>
+				<au_e>1143</au_e>
+			</item>
+			<item>
+				<id>4_1_12</id>
+				<sid>356</sid>
+				<c>您别着急。</c>
+				<e>Don't worry.</e>
+				<cm>1144</cm>
+				<cf>1145</cf>
+				<au_e>1146</au_e>
+			</item>
+			<item>
+				<id>4_1_13</id>
+				<sid>357</sid>
+				<c>她住哪儿？</c>
+				<e>Where does she live?</e>
+				<cm>1147</cm>
+				<cf>1148</cf>
+				<au_e>1149</au_e>
+			</item>
+			<item>
+				<id>4_1_14</id>
+				<sid>358</sid>
+				<c>她住在东方小区。</c>
+				<e>She's living in Dongfang Housing.</e>
+				<cm>1150</cm>
+				<cf>1151</cf>
+				<au_e>1152</au_e>
+			</item>
+			<item>
+				<id>4_1_15</id>
+				<sid>359</sid>
+				<c>我应该坐什么车去？</c>
+				<e>Which bus should I take to get there?</e>
+				<cm>1153</cm>
+				<cf>1154</cf>
+				<au_e>1155</au_e>
+			</item>
+			<item>
+				<id>4_1_16</id>
+				<sid>360</sid>
+				<c>您得去马路对面坐车。</c>
+				<e>You should catch the bus on the oppsite side of the rode.</e>
+				<cm>1156</cm>
+				<cf>1157</cf>
+				<au_e>1158</au_e>
+			</item>
+			<item>
+				<id>4_1_17</id>
+				<sid>361</sid>
+				<c>我明白了。</c>
+				<e>I see.</e>
+				<cm>1159</cm>
+				<cf>1160</cf>
+				<au_e>1161</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>4_2_0</id>
+				<sid></sid>
+				<c>乘公共汽车</c>
+				<e>Taking a Bus</e>
+				<cm>1162</cm>
+				<cf></cf>
+				<au_e>1163</au_e>
+			</item>
+			<item>
+				<id>4_2_1</id>
+				<sid>362</sid>
+				<c>这车到东方小区吗？</c>
+				<e>Excurse me, does this bus go to the Dongfang Housing?</e>
+				<cm>1164</cm>
+				<cf>1165</cf>
+				<au_e>1166</au_e>
+			</item>
+			<item>
+				<id>4_2_2</id>
+				<sid>363</sid>
+				<c>您上车吧。</c>
+				<e>Please get on。</e>
+				<cm>1167</cm>
+				<cf>1168</cf>
+				<au_e>1169</au_e>
+			</item>
+			<item>
+				<id>4_2_3</id>
+				<sid>364</sid>
+				<c>下一站是王府井。</c>
+				<e>The next stop is Wangfujin.</e>
+				<cm>1170</cm>
+				<cf>1171</cf>
+				<au_e>1172</au_e>
+			</item>
+			<item>
+				<id>4_2_4</id>
+				<sid>365</sid>
+				<c>买一张票。</c>
+				<e>One ticket, please.</e>
+				<cm>1173</cm>
+				<cf>1174</cf>
+				<au_e>1175</au_e>
+			</item>
+			<item>
+				<id>4_2_5</id>
+				<sid>366</sid>
+				<c>我没去过。</c>
+				<e>I haven't been there.</e>
+				<cm>1176</cm>
+				<cf>1177</cf>
+				<au_e>1178</au_e>
+			</item>
+			<item>
+				<id>4_2_6</id>
+				<sid>367</sid>
+				<c>到了麻烦您告诉我。</c>
+				<e>Please let me know when we get there.</e>
+				<cm>1179</cm>
+				<cf>1180</cf>
+				<au_e>1181</au_e>
+			</item>
+			<item>
+				<id>4_2_7</id>
+				<sid>368</sid>
+				<c>这车不到动物园。</c>
+				<e>This bus doesn't go to the zoo.</e>
+				<cm>1182</cm>
+				<cf>1183</cf>
+				<au_e>1184</au_e>
+			</item>
+			<item>
+				<id>4_2_8</id>
+				<sid>369</sid>
+				<c>您得换车。</c>
+				<e>You have to change buses.</e>
+				<cm>1185</cm>
+				<cf>1186</cf>
+				<au_e>1187</au_e>
+			</item>
+			<item>
+				<id>4_2_9</id>
+				<sid>370</sid>
+				<c>在哪儿换车？</c>
+				<e>Where do I change?</e>
+				<cm>1188</cm>
+				<cf>1189</cf>
+				<au_e>1190</au_e>
+			</item>
+			<item>
+				<id>4_2_10</id>
+				<sid>371</sid>
+				<c>下一站换181路。</c>
+				<e>Please change to bus 181 at the next stop.</e>
+				<cm>1191</cm>
+				<cf>1192</cf>
+				<au_e>1193</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>4_3_0</id>
+				<sid></sid>
+				<c>乘出租车</c>
+				<e>Taking a taxi.</e>
+				<cm>1194</cm>
+				<cf></cf>
+				<au_e>1195</au_e>
+			</item>
+			<item>
+				<id>4_3_1</id>
+				<sid>372</sid>
+				<c>您去哪儿？</c>
+				<e>Where are you going?</e>
+				<cm>1196</cm>
+				<cf>1197</cf>
+				<au_e>1198</au_e>
+			</item>
+			<item>
+				<id>4_3_2</id>
+				<sid>373</sid>
+				<c>我不知道这个地方。</c>
+				<e>I don't know this place.</e>
+				<cm>1199</cm>
+				<cf>1200</cf>
+				<au_e>1201</au_e>
+			</item>
+			<item>
+				<id>4_3_3</id>
+				<sid>374</sid>
+				<c>您有他们的地址吗？</c>
+				<e>Do you have the address?</e>
+				<cm>1202</cm>
+				<cf>1203</cf>
+				<au_e>1204</au_e>
+			</item>
+			<item>
+				<id>4_3_4</id>
+				<sid>375</sid>
+				<c>在电视台附近。</c>
+				<e>It's near the TV station.</e>
+				<cm>1205</cm>
+				<cf>1206</cf>
+				<au_e>1207</au_e>
+			</item>
+			<item>
+				<id>4_3_5</id>
+				<sid>376</sid>
+				<c>电视台到了。</c>
+				<e>Here is the TV Station.</e>
+				<cm>1208</cm>
+				<cf>1209</cf>
+				<au_e>1210</au_e>
+			</item>
+			<item>
+				<id>4_3_6</id>
+				<sid>377</sid>
+				<c>就停在门口吧。</c>
+				<e>Please stop at the entrance.</e>
+				<cm>1211</cm>
+				<cf>1212</cf>
+				<au_e>1213</au_e>
+			</item>
+			<item>
+				<id>4_3_7</id>
+				<sid>378</sid>
+				<c>对，就是这儿。</c>
+				<e>Yes, here it is.</e>
+				<cm>1214</cm>
+				<cf>1215</cf>
+				<au_e>1216</au_e>
+			</item>
+			<item>
+				<id>4_3_8</id>
+				<sid>379</sid>
+				<c>师傅，去机场。</c>
+				<e>Driver, to the airport, please.</e>
+				<cm>1217</cm>
+				<cf>1218</cf>
+				<au_e>1219</au_e>
+			</item>
+			<item>
+				<id>4_3_9</id>
+				<sid>380</sid>
+				<c>您能不能再快一点?</c>
+				<e>Could you go a little faster?</e>
+				<cm>1220</cm>
+				<cf>1221</cf>
+				<au_e>1222</au_e>
+			</item>
+			<item>
+				<id>4_3_10</id>
+				<sid>381</sid>
+				<c>我要赶飞机.</c>
+				<e>I have a plane to catch.</e>
+				<cm>1223</cm>
+				<cf>1224</cf>
+				<au_e>1225</au_e>
+			</item>
+			<item>
+				<id>4_3_11</id>
+				<sid>382</sid>
+				<c>还有别的路吗?</c>
+				<e>Is there another route we can take?</e>
+				<cm>1226</cm>
+				<cf>1227</cf>
+				<au_e>1228</au_e>
+			</item>
+			<item>
+				<id>4_3_12</id>
+				<sid>383</sid>
+				<c>我们走机场高速.</c>
+				<e>We can try the express way to the airport.</e>
+				<cm>1229</cm>
+				<cf>1230</cf>
+				<au_e>1231</au_e>
+			</item>
+			<item>
+				<id>4_3_13</id>
+				<sid>384</sid>
+				<c>行, 就这样吧.</c>
+				<e>OK, let's go that way.</e>
+				<cm>1232</cm>
+				<cf>1233</cf>
+				<au_e>1234</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>4_4_0</id>
+				<sid></sid>
+				<c>乘火车</c>
+				<e>Taking a Train</e>
+				<cm>1235</cm>
+				<cf></cf>
+				<au_e>1236</au_e>
+			</item>
+			<item>
+				<id>4_4_1</id>
+				<sid>385</sid>
+				<c>有没有11号到上海的票?</c>
+				<e>Do you have tickets on the 11th to Shanghai?</e>
+				<cm>1237</cm>
+				<cf>1238</cf>
+				<au_e>1239</au_e>
+			</item>
+			<item>
+				<id>4_4_2</id>
+				<sid>386</sid>
+				<c>11号的票卖完了.</c>
+				<e>Tickets on the 11th are sold out.</e>
+				<cm>1240</cm>
+				<cf>1241</cf>
+				<au_e>1242</au_e>
+			</item>
+			<item>
+				<id>4_4_3</id>
+				<sid>387</sid>
+				<c>路上小心.</c>
+				<e>Take care. Have a safe trip.</e>
+				<cm>1243</cm>
+				<cf>1244</cf>
+				<au_e>1245</au_e>
+			</item>
+			<item>
+				<id>4_4_4</id>
+				<sid>388</sid>
+				<c>到了给我们打电话.</c>
+				<e>Give us a call when you get there.</e>
+				<cm>1246</cm>
+				<cf>1247</cf>
+				<au_e>1248</au_e>
+			</item>
+			<item>
+				<id>4_4_5</id>
+				<sid>389</sid>
+				<c>我会的</c>
+				<e>I will.</e>
+				<cm>1249</cm>
+				<cf>1250</cf>
+				<au_e>1251</au_e>
+			</item>
+			<item>
+				<id>4_4_6</id>
+				<sid>390</sid>
+				<c>火车就要开了.</c>
+				<e>The train is about to leave.</e>
+				<cm>1252</cm>
+				<cf>1253</cf>
+				<au_e>1254</au_e>
+			</item>
+			<item>
+				<id>4_4_7</id>
+				<sid>391</sid>
+				<c>你们快下去吧.</c>
+				<e>You'd better get off quickly.</e>
+				<cm>1255</cm>
+				<cf>1256</cf>
+				<au_e>1257</au_e>
+			</item>
+			<item>
+				<id>4_4_8</id>
+				<sid>392</sid>
+				<c>一路平.安</c>
+				<e>Have a good journey.</e>
+				<cm>1258</cm>
+				<cf>1259</cf>
+				<au_e>1260</au_e>
+			</item>
+			<item>
+				<id>4_4_9</id>
+				<sid>393</sid>
+				<c>请问餐车在几号车厢?</c>
+				<e>Could you tell me where the dinning car is?</e>
+				<cm>1261</cm>
+				<cf>1262</cf>
+				<au_e>1263</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>4_5_0</id>
+				<sid></sid>
+				<c>乘飞机</c>
+				<e>Taking a Plane</e>
+				<cm>1264</cm>
+				<cf></cf>
+				<au_e>1265</au_e>
+			</item>
+			<item>
+				<id>4_5_1</id>
+				<sid>394</sid>
+				<c>我想定去西安的往返票.</c>
+				<e>I'd like to book a round trip to Xi'an.</e>
+				<cm>1266</cm>
+				<cf>1267</cf>
+				<au_e>1268</au_e>
+			</item>
+			<item>
+				<id>4_5_2</id>
+				<sid>395</sid>
+				<c>又打折票吗?</c>
+				<e>Do you have discount tickets available?</e>
+				<cm>1269</cm>
+				<cf>1270</cf>
+				<au_e>1271</au_e>
+			</item>
+			<item>
+				<id>4_5_3</id>
+				<sid>396</sid>
+				<c>行李托运吗?</c>
+				<e>Do you have any lungage to check in?</e>
+				<cm>1272</cm>
+				<cf>1273</cf>
+				<au_e>1274</au_e>
+			</item>
+			<item>
+				<id>4_5_4</id>
+				<sid>397</sid>
+				<c>您的行李超重了.</c>
+				<e>Your luggage has exceeded the weight limit.</e>
+				<cm>1275</cm>
+				<cf>1276</cf>
+				<au_e>1277</au_e>
+			</item>
+			<item>
+				<id>4_5_5</id>
+				<sid>398</sid>
+				<c>可以给我一个靠窗的座位吗?</c>
+				<e>Can I have a window seat?</e>
+				<cm>1278</cm>
+				<cf>1279</cf>
+				<au_e>1280</au_e>
+			</item>
+			<item>
+				<id>4_5_6</id>
+				<sid>399</sid>
+				<c>给您登机牌.</c>
+				<e>Here is your boarding pass.</e>
+				<cm>1281</cm>
+				<cf>1282</cf>
+				<au_e>1283</au_e>
+			</item>
+			<item>
+				<id>4_5_7</id>
+				<sid>400</sid>
+				<c>请在4号登机口登机.</c>
+				<e>Please board at gate four.</e>
+				<cm>1284</cm>
+				<cf>1285</cf>
+				<au_e>1286</au_e>
+			</item>
+			<item>
+				<id>4_5_8</id>
+				<sid>401</sid>
+				<c>我找不到行李了.</c>
+				<e>I cann't find my luggage.</e>
+				<cm>1287</cm>
+				<cf>1288</cf>
+				<au_e>1289</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>4_6_0</id>
+				<sid></sid>
+				<c>自驾车</c>
+				<e>Getting Around in One's Own Car</e>
+				<cm>1290</cm>
+				<cf></cf>
+				<au_e>1291</au_e>
+			</item>
+			<item>
+				<id>4_6_1</id>
+				<sid>402</sid>
+				<c>我们去旅行吧?</c>
+				<e>Let's take a trip somewhere.</e>
+				<cm>1292</cm>
+				<cf>1293</cf>
+				<au_e>1294</au_e>
+			</item>
+			<item>
+				<id>4_6_2</id>
+				<sid>403</sid>
+				<c>我可以用你的车吗?</c>
+				<e>May I use your car?</e>
+				<cm>1295</cm>
+				<cf>1296</cf>
+				<au_e>1297</au_e>
+			</item>
+			<item>
+				<id>4_6_3</id>
+				<sid>404</sid>
+				<c>这两天一直下雨.</c>
+				<e>It has been raining for the last couple of days.</e>
+				<cm>1298</cm>
+				<cf>1299</cf>
+				<au_e>1300</au_e>
+			</item>
+			<item>
+				<id>4_6_4</id>
+				<sid>405</sid>
+				<c>最近天气真不好.</c>
+				<e>The weather has been terrible recently.</e>
+				<cm>1301</cm>
+				<cf>1302</cf>
+				<au_e>1303</au_e>
+			</item>
+			<item>
+				<id>4_6_5</id>
+				<sid>406</sid>
+				<c>但愿周末是个好天气。</c>
+				<e>Hopefully we'll have good weather this weekend.</e>
+				<cm>1304</cm>
+				<cf>1305</cf>
+				<au_e>1306</au_e>
+			</item>
+			<item>
+				<id>4_6_6</id>
+				<sid>407</sid>
+				<c>天气预报说明天晴天。</c>
+				<e>The weather forcast says tomorrow will be a fine day.</e>
+				<cm>1307</cm>
+				<cf>1308</cf>
+				<au_e>1309</au_e>
+			</item>
+			<item>
+				<id>4_6_7</id>
+				<sid>408</sid>
+				<c>晚上可能下雨。</c>
+				<e>It might rain in the evening.</e>
+				<cm>1310</cm>
+				<cf>1311</cf>
+				<au_e>1312</au_e>
+			</item>
+			<item>
+				<id>4_6_8</id>
+				<sid>409</sid>
+				<c>不会吧。</c>
+				<e>Really?</e>
+				<cm>1313</cm>
+				<cf>1314</cf>
+				<au_e>1315</au_e>
+			</item>
+			<item>
+				<id>4_6_9</id>
+				<sid>410</sid>
+				<c>你带雨伞了吗？</c>
+				<e>Do you have umbrella with you?</e>
+				<cm>1316</cm>
+				<cf>1317</cf>
+				<au_e>1318</au_e>
+			</item>
+			<item>
+				<id>4_6_10</id>
+				<sid>411</sid>
+				<c>天气越来越热了。</c>
+				<e>It's getting hoter and hoter.</e>
+				<cm>1319</cm>
+				<cf>1320</cf>
+				<au_e>1321</au_e>
+			</item>
+			<item>
+				<id>4_6_11</id>
+				<sid>412</sid>
+				<c>周末有什么计划？</c>
+				<e>Have you got any plans for the weekend?</e>
+				<cm>1322</cm>
+				<cf>1323</cf>
+				<au_e>1324</au_e>
+			</item>
+			<item>
+				<id>4_6_12</id>
+				<sid>413</sid>
+				<c>我们想开车去长城玩玩。</c>
+				<e>We're planing a drive to the Great Wall.</e>
+				<cm>1325</cm>
+				<cf>1326</cf>
+				<au_e>1327</au_e>
+			</item>
+			<item>
+				<id>4_6_13</id>
+				<sid>414</sid>
+				<c>你跟我们一块去吧。</c>
+				<e>Would you come with us?</e>
+				<cm>1328</cm>
+				<cf>1329</cf>
+				<au_e>1330</au_e>
+			</item>
+			<item>
+				<id>4_6_14</id>
+				<sid>415</sid>
+				<c>需要我做什么吗？</c>
+				<e>Is there anything I can do for you?</e>
+				<cm>1331</cm>
+				<cf>1332</cf>
+				<au_e>1333</au_e>
+			</item>
+			<item>
+				<id>4_6_15</id>
+				<sid>416</sid>
+				<c>咱们什么时候出发？</c>
+				<e>What time shall we set out?</e>
+				<cm>1334</cm>
+				<cf>1335</cf>
+				<au_e>1336</au_e>
+			</item>
+			<item>
+				<id>4_6_16</id>
+				<sid>417</sid>
+				<c>想起六早上六点在大门口见面。</c>
+				<e>Let's meet at the main gate at 6am on Saturday morning.</e>
+				<cm>1337</cm>
+				<cf>1338</cf>
+				<au_e>1339</au_e>
+			</item>
+			<item>
+				<id>4_6_17</id>
+				<sid>418</sid>
+				<c>这儿的风景太美了。</c>
+				<e>The scene here is so beautiful.</e>
+				<cm>1340</cm>
+				<cf>1341</cf>
+				<au_e>1342</au_e>
+			</item>
+			<item>
+				<id>4_6_18</id>
+				<sid>419</sid>
+				<c>好像快没油了。</c>
+				<e>It seems we're running low on gas.</e>
+				<cm>1343</cm>
+				<cf>1344</cf>
+				<au_e>1345</au_e>
+			</item>
+			<item>
+				<id>4_6_19</id>
+				<sid>420</sid>
+				<c>快看地图。</c>
+				<e>Hurry, let's look at the map.</e>
+				<cm>1346</cm>
+				<cf>1347</cf>
+				<au_e>1348</au_e>
+			</item>
+			<item>
+				<id>4_6_20</id>
+				<sid>421</sid>
+				<c>下一个服务区还有多远？</c>
+				<e>How far away is the next service center?</e>
+				<cm>1349</cm>
+				<cf>1350</cf>
+				<au_e>1351</au_e>
+			</item>
+			<item>
+				<id>4_6_21</id>
+				<sid>422</sid>
+				<c>天快黑了。</c>
+				<e>It's getting dark.</e>
+				<cm>1352</cm>
+				<cf>1353</cf>
+				<au_e>1354</au_e>
+			</item>
+			<item>
+				<id>4_6_22</id>
+				<sid>423</sid>
+				<c>找不到加油站就麻烦了。</c>
+				<e>We'll be in trouble if we cann't find a gas station.</e>
+				<cm>1355</cm>
+				<cf>1356</cf>
+				<au_e>1357</au_e>
+			</item>
+			<item>
+				<id>4_6_23</id>
+				<sid>424</sid>
+				<c>都怪我。</c>
+				<e>It's my fault.</e>
+				<cm>1358</cm>
+				<cf>1359</cf>
+				<au_e>1360</au_e>
+			</item>
+			<item>
+				<id>4_6_24</id>
+				<sid>425</sid>
+				<c>这儿可以停车吗？</c>
+				<e>Can I park here?</e>
+				<cm>1361</cm>
+				<cf>1362</cf>
+				<au_e>1363</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>4_7_0</id>
+				<sid></sid>
+				<c>旅行社</c>
+				<e>Travel Agency</e>
+				<cm>1364</cm>
+				<cf></cf>
+				<au_e>1365</au_e>
+			</item>
+			<item>
+				<id>4_7_1</id>
+				<sid>426</sid>
+				<c>有没有去云南的线路？</c>
+				<e>Do you have a tour to Yunnan?</e>
+				<cm>1366</cm>
+				<cf>1367</cf>
+				<au_e>1368</au_e>
+			</item>
+			<item>
+				<id>4_7_2</id>
+				<sid>427</sid>
+				<c>我想看看行程安排。</c>
+				<e>Can I see the schedules?</e>
+				<cm>1369</cm>
+				<cf>1370</cf>
+				<au_e>1371</au_e>
+			</item>
+			<item>
+				<id>4_7_3</id>
+				<sid>428</sid>
+				<c>你们一定不会失望的。</c>
+				<e>We won't be disappointed.</e>
+				<cm>1372</cm>
+				<cf>1373</cf>
+				<au_e>1374</au_e>
+			</item>
+			<item>
+				<id>4_7_4</id>
+				<sid>429</sid>
+				<c>我们以前去过。</c>
+				<e>We've been there before.</e>
+				<cm>1375</cm>
+				<cf>1376</cf>
+				<au_e>1377</au_e>
+			</item>
+			<item>
+				<id>4_7_5</id>
+				<sid>430</sid>
+				<c>不喜欢时间安排得太紧。</c>
+				<e>We don't want a tight schedule.</e>
+				<cm>1378</cm>
+				<cf>1379</cf>
+				<au_e>1380</au_e>
+			</item>
+			<item>
+				<id>4_7_6</id>
+				<sid>431</sid>
+				<c>想去放松放松。</c>
+				<e>We just want to relax there.</e>
+				<cm>1381</cm>
+				<cf>1382</cf>
+				<au_e>1383</au_e>
+			</item>
+			<item>
+				<id>4_7_7</id>
+				<sid>432</sid>
+				<c>我现在还不能决定。</c>
+				<e>I can't decide right now.</e>
+				<cm>1384</cm>
+				<cf>1385</cf>
+				<au_e>1386</au_e>
+			</item>
+			<item>
+				<id>4_7_8</id>
+				<sid>433</sid>
+				<c>我先回去跟太太商量一下。</c>
+				<e>I go back and discuss it with my wife first.</e>
+				<cm>1387</cm>
+				<cf>1388</cf>
+				<au_e>1389</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>4_8_0</id>
+				<sid></sid>
+				<c>邮局</c>
+				<e>Post Office</e>
+				<cm>1390</cm>
+				<cf></cf>
+				<au_e>1391</au_e>
+			</item>
+			<item>
+				<id>4_8_1</id>
+				<sid>434</sid>
+				<c>我想寄包裹。</c>
+				<e>I'd like to send this parcel.</e>
+				<cm>1392</cm>
+				<cf>1393</cf>
+				<au_e>1394</au_e>
+			</item>
+			<item>
+				<id>4_8_2</id>
+				<sid>435</sid>
+				<c>是在这儿买纸箱子吗？</c>
+				<e>Can I buy a cardboard box here?</e>
+				<cm>1395</cm>
+				<cf>1396</cf>
+				<au_e>1397</au_e>
+			</item>
+			<item>
+				<id>4_8_3</id>
+				<sid>436</sid>
+				<c>都是一些送朋友的小礼物.</c>
+				<e>Just some small gifts for a friend</e>
+				<cm>1398</cm>
+				<cf>1399</cf>
+				<au_e>1400</au_e>
+			</item>
+			<item>
+				<id>4_8_4</id>
+				<sid>437</sid>
+				<c>寄到加拿大.</c>
+				<e>To Canada.</e>
+				<cm>1401</cm>
+				<cf>1402</cf>
+				<au_e>1403</au_e>
+			</item>
+			<item>
+				<id>4_8_5</id>
+				<sid>438</sid>
+				<c>航空的多少钱?</c>
+				<e>How much is it by air?</e>
+				<cm>1404</cm>
+				<cf>1405</cf>
+				<au_e>1406</au_e>
+			</item>
+			<item>
+				<id>4_8_6</id>
+				<sid>439</sid>
+				<c>多长时间能到?</c>
+				<e>How long does it take for the parcel to arrive?</e>
+				<cm>1407</cm>
+				<cf>1408</cf>
+				<au_e>1409</au_e>
+			</item>
+			<item>
+				<id>4_8_7</id>
+				<sid>440</sid>
+				<c>最少三个月.</c>
+				<e>At least three months.</e>
+				<cm>1410</cm>
+				<cf>1411</cf>
+				<au_e>1412</au_e>
+			</item>
+			<item>
+				<id>4_8_8</id>
+				<sid>441</sid>
+				<c>还有别的办法吗?</c>
+				<e>Is there any other way to do it?</e>
+				<cm>1413</cm>
+				<cf>1414</cf>
+				<au_e>1415</au_e>
+			</item>
+			<item>
+				<id>4_8_9</id>
+				<sid>442</sid>
+				<c>你问问快递公司.</c>
+				<e>You can ask express companies.</e>
+				<cm>1416</cm>
+				<cf>1417</cf>
+				<au_e>1418</au_e>
+			</item>
+			<item>
+				<id>4_8_10</id>
+				<sid>443</sid>
+				<c>他们的价格也不便宜.</c>
+				<e>There are not cheap, either.</e>
+				<cm>1419</cm>
+				<cf>1420</cf>
+				<au_e>1421</au_e>
+			</item>
+			<item>
+				<id>4_8_11</id>
+				<sid>444</sid>
+				<c>你忘了写邮政编码了.</c>
+				<e>你忘了写邮政编码了.</e>
+				<cm>1422</cm>
+				<cf>1423</cf>
+				<au_e>1424</au_e>
+			</item>
+			<item>
+				<id>4_8_12</id>
+				<sid>445</sid>
+				<c>这些长城的明信片很不错.</c>
+				<e>These postcards of the Great Wall are vey good.</e>
+				<cm>1425</cm>
+				<cf>1426</cf>
+				<au_e>1427</au_e>
+			</item>
+			<item>
+				<id>4_8_13</id>
+				<sid>446</sid>
+				<c>我更喜欢这些.</c>
+				<e>I'd like these more.</e>
+				<cm>1428</cm>
+				<cf>1429</cf>
+				<au_e>1430</au_e>
+			</item>
+			<item>
+				<id>4_8_14</id>
+				<sid>447</sid>
+				<c>我们想看看这些明信片.</c>
+				<e>我们想看看这些明信片.</e>
+				<cm>1431</cm>
+				<cf>1432</cf>
+				<au_e>1433</au_e>
+			</item>
+			<item>
+				<id>4_8_15</id>
+				<sid>448</sid>
+				<c>单买可以吗?</c>
+				<e>Do you sell then seperately?</e>
+				<cm>1434</cm>
+				<cf>1435</cf>
+				<au_e>1436</au_e>
+			</item>
+			<item>
+				<id>4_8_16</id>
+				<sid>449</sid>
+				<c>我想要这几张.</c>
+				<e>I'd like these</e>
+				<cm>1437</cm>
+				<cf>1438</cf>
+				<au_e>1439</au_e>
+			</item>
+			<item>
+				<id>4_8_17</id>
+				<sid>450</sid>
+				<c>我要两套这种的.</c>
+				<e>I take two sets of this, please.</e>
+				<cm>1440</cm>
+				<cf>1441</cf>
+				<au_e>1442</au_e>
+			</item>
+			<item>
+				<id>4_8_18</id>
+				<sid>451</sid>
+				<c>寄几张明信片.</c>
+				<e>I'd like to send few postcards.</e>
+				<cm>1443</cm>
+				<cf>1444</cf>
+				<au_e>1445</au_e>
+			</item>
+			<item>
+				<id>4_8_19</id>
+				<sid>452</sid>
+				<c>寄到哪儿?</c>
+				<e>Where are you sending to?</e>
+				<cm>1446</cm>
+				<cf>1447</cf>
+				<au_e>1448</au_e>
+			</item>
+			<item>
+				<id>4_8_20</id>
+				<sid>453</sid>
+				<c>一张是寄到美国的.</c>
+				<e>One to the states.</e>
+				<cm>1449</cm>
+				<cf>1450</cf>
+				<au_e>1451</au_e>
+			</item>
+			<item>
+				<id>4_8_21</id>
+				<sid>454</sid>
+				<c>你明白我的意思吗?</c>
+				<e>Do you understand me?</e>
+				<cm>1452</cm>
+				<cf>1453</cf>
+				<au_e>1454</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>5_0_0</id>
+			<sid></sid>
+			<c>住宿</c>
+			<e>Accomodation</e>
+			<cm>1456</cm>
+			<cf></cf>
+			<au_e>1457</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>5_1_0</id>
+				<sid></sid>
+				<c>宾馆</c>
+				<e>Hotel</e>
+				<cm>1459</cm>
+				<cf></cf>
+				<au_e>1460</au_e>
+			</item>
+			<item>
+				<id>5_1_1</id>
+				<sid>455</sid>
+				<c>这里是平安宾馆.</c>
+				<e>This is the PingAn Hotel.</e>
+				<cm>1461</cm>
+				<cf>1462</cf>
+				<au_e>1463</au_e>
+			</item>
+			<item>
+				<id>5_1_2</id>
+				<sid>456</sid>
+				<c>我想订一个房间.</c>
+				<e>I'd like to book a room.</e>
+				<cm>1464</cm>
+				<cf>1465</cf>
+				<au_e>1466</au_e>
+			</item>
+			<item>
+				<id>5_1_3</id>
+				<sid>457</sid>
+				<c>你能先说一下价格吗?</c>
+				<e>Could you tell me the room rates first?</e>
+				<cm>1467</cm>
+				<cf>1468</cf>
+				<au_e>1469</au_e>
+			</item>
+			<item>
+				<id>5_1_4</id>
+				<sid>458</sid>
+				<c>每天三百元.</c>
+				<e>Three hundred yuan per night.</e>
+				<cm>1470</cm>
+				<cf>1471</cf>
+				<au_e>1472</au_e>
+			</item>
+			<item>
+				<id>5_1_5</id>
+				<sid>459</sid>
+				<c>包括早餐吗?</c>
+				<e>Including breakfast?</e>
+				<cm>1473</cm>
+				<cf>3002</cf>
+				<au_e>1474</au_e>
+			</item>
+			<item>
+				<id>5_1_6</id>
+				<sid>460</sid>
+				<c>不包括.</c>
+				<e>No, that's not included.</e>
+				<cm>1475</cm>
+				<cf>1476</cf>
+				<au_e>1477</au_e>
+			</item>
+			<item>
+				<id>5_1_7</id>
+				<sid>461</sid>
+				<c>可以自己做饭.</c>
+				<e>You can cook for yourself</e>
+				<cm>1478</cm>
+				<cf>1479</cf>
+				<au_e>1480</au_e>
+			</item>
+			<item>
+				<id>5_1_8</id>
+				<sid>462</sid>
+				<c>房间里有空调吗?</c>
+				<e>Is there air conditioner in the room?</e>
+				<cm>1481</cm>
+				<cf>1482</cf>
+				<au_e>1483</au_e>
+			</item>
+			<item>
+				<id>5_1_9</id>
+				<sid>463</sid>
+				<c>我订一个标准间</c>
+				<e>I'd like a standard room.</e>
+				<cm>1484</cm>
+				<cf>1485</cf>
+				<au_e>1486</au_e>
+			</item>
+			<item>
+				<id>5_1_10</id>
+				<sid>464</sid>
+				<c>您订哪天的?</c>
+				<e>When will you check in?</e>
+				<cm>1487</cm>
+				<cf>1488</cf>
+				<au_e>1489</au_e>
+			</item>
+			<item>
+				<id>5_1_11</id>
+				<sid>465</sid>
+				<c>十二号上午到, 十五号早上离开.</c>
+				<e>I'm checking in on the morning of the 12th, and checking out on
+					the morning of the 15th.</e>
+				<cm>1490</cm>
+				<cf>1491</cf>
+				<au_e>1492</au_e>
+			</item>
+			<item>
+				<id>5_1_12</id>
+				<sid>466</sid>
+				<c>请您把证件给我看一下.</c>
+				<e>Could I have a look at your ID card?</e>
+				<cm>1493</cm>
+				<cf>1494</cf>
+				<au_e>1495</au_e>
+			</item>
+			<item>
+				<id>5_1_13</id>
+				<sid>467</sid>
+				<c>您的房间在1022.</c>
+				<e>Your room is 1022.</e>
+				<cm>1496</cm>
+				<cf>1497</cf>
+				<au_e>1498</au_e>
+			</item>
+			<item>
+				<id>5_1_14</id>
+				<sid>468</sid>
+				<c>这是您的房卡.</c>
+				<e>This is your key.</e>
+				<cm>1499</cm>
+				<cf>1500</cf>
+				<au_e>1501</au_e>
+			</item>
+			<item>
+				<id>5_1_15</id>
+				<sid>469</sid>
+				<c>电梯在右边.</c>
+				<e>The elevator is on the right.</e>
+				<cm>1502</cm>
+				<cf>1503</cf>
+				<au_e>1504</au_e>
+			</item>
+			<item>
+				<id>5_1_16</id>
+				<sid>470</sid>
+				<c>喂, 前台吗?</c>
+				<e>Hello, is this the reception?</e>
+				<cm>1505</cm>
+				<cf>1506</cf>
+				<au_e>1507</au_e>
+			</item>
+			<item>
+				<id>5_1_17</id>
+				<sid>471</sid>
+				<c>请问你需要什么服务?</c>
+				<e>What can I do for you?</e>
+				<cm>1508</cm>
+				<cf>1509</cf>
+				<au_e>1510</au_e>
+			</item>
+			<item>
+				<id>5_1_18</id>
+				<sid>472</sid>
+				<c>我是1708房间的客人.</c>
+				<e>I'm in room 1708.</e>
+				<cm>1511</cm>
+				<cf>1512</cf>
+				<au_e>1513</au_e>
+			</item>
+			<item>
+				<id>5_1_19</id>
+				<sid>473</sid>
+				<c>我的房间有点问题.</c>
+				<e>My room has some problems.</e>
+				<cm>1514</cm>
+				<cf>1515</cf>
+				<au_e>1516</au_e>
+			</item>
+			<item>
+				<id>5_1_20</id>
+				<sid>474</sid>
+				<c>怎么没有热水?</c>
+				<e>Why isn't there any hot water?</e>
+				<cm>1517</cm>
+				<cf>1518</cf>
+				<au_e>1519</au_e>
+			</item>
+			<item>
+				<id>5_1_21</id>
+				<sid>475</sid>
+				<c>能不能给我换个房间?</c>
+				<e>Can I change to another room?</e>
+				<cm>1520</cm>
+				<cf>1521</cf>
+				<au_e>1522</au_e>
+			</item>
+			<item>
+				<id>5_1_22</id>
+				<sid>476</sid>
+				<c>我们的房间已经住满了.</c>
+				<e>All our rooms are full.</e>
+				<cm>1523</cm>
+				<cf>1524</cf>
+				<au_e>1525</au_e>
+			</item>
+			<item>
+				<id>5_1_23</id>
+				<sid>477</sid>
+				<c>算了.</c>
+				<e>Forget it.</e>
+				<cm>1526</cm>
+				<cf>1527</cf>
+				<au_e>1528</au_e>
+			</item>
+			<item>
+				<id>5_1_24</id>
+				<sid>478</sid>
+				<c>您看这样行吗?</c>
+				<e>Is that OK with you?</e>
+				<cm>1529</cm>
+				<cf>1530</cf>
+				<au_e>1531</au_e>
+			</item>
+			<item>
+				<id>5_1_25</id>
+				<sid>479</sid>
+				<c>我要退房.</c>
+				<e>I'd like to check out.</e>
+				<cm>1532</cm>
+				<cf>1533</cf>
+				<au_e>1534</au_e>
+			</item>
+			<item>
+				<id>5_1_26</id>
+				<sid>480</sid>
+				<c>请问您是几号房间?</c>
+				<e>May I have your room number, please?</e>
+				<cm>1535</cm>
+				<cf>1536</cf>
+				<au_e>1537</au_e>
+			</item>
+			<item>
+				<id>5_1_27</id>
+				<sid>481</sid>
+				<c>您打了两个长途电话.</c>
+				<e>You have made two long distance calls.</e>
+				<cm>1538</cm>
+				<cf>1539</cf>
+				<au_e>1540</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>5_2_0</id>
+				<sid></sid>
+				<c>理发美容</c>
+				<e>Haircut &amp;amp; Ficial</e>
+				<cm>1541</cm>
+				<cf></cf>
+				<au_e>1542</au_e>
+			</item>
+			<item>
+				<id>5_2_1</id>
+				<sid>482</sid>
+				<c>先生, 您理发吗?</c>
+				<e>Sir, do you need a haircut?</e>
+				<cm>1543</cm>
+				<cf>1544</cf>
+				<au_e>1545</au_e>
+			</item>
+			<item>
+				<id>5_2_2</id>
+				<sid>483</sid>
+				<c>我想剪短一点.</c>
+				<e>I'd like to cut it a bit shorter.</e>
+				<cm>1546</cm>
+				<cf>1547</cf>
+				<au_e>1548</au_e>
+			</item>
+			<item>
+				<id>5_2_3</id>
+				<sid>484</sid>
+				<c>还是要原来的发型吗?</c>
+				<e>Exactly the same style as before?</e>
+				<cm>1549</cm>
+				<cf>1550</cf>
+				<au_e>1551</au_e>
+			</item>
+			<item>
+				<id>5_2_4</id>
+				<sid>485</sid>
+				<c>完全一样.</c>
+				<e>Exactly.</e>
+				<cm>1552</cm>
+				<cf>1553</cf>
+				<au_e>1554</au_e>
+			</item>
+			<item>
+				<id>5_2_5</id>
+				<sid>486</sid>
+				<c>您看怎么样?</c>
+				<e>What do you think?</e>
+				<cm>1555</cm>
+				<cf>1556</cf>
+				<au_e>1557</au_e>
+			</item>
+			<item>
+				<id>5_2_6</id>
+				<sid>487</sid>
+				<c>我很满意.</c>
+				<e>I'm very satisfied.</e>
+				<cm>1558</cm>
+				<cf>1559</cf>
+				<au_e>1560</au_e>
+			</item>
+			<item>
+				<id>5_2_7</id>
+				<sid>488</sid>
+				<c>我是第一次来.</c>
+				<e>It's my first time here.</e>
+				<cm>1561</cm>
+				<cf>1562</cf>
+				<au_e>1563</au_e>
+			</item>
+			<item>
+				<id>5_2_8</id>
+				<sid>489</sid>
+				<c>我想做个按摩.</c>
+				<e>I want to have a massage.</e>
+				<cm>1564</cm>
+				<cf>1565</cf>
+				<au_e>1566</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>5_3_0</id>
+				<sid></sid>
+				<c>找房</c>
+				<e>Looking for An Appartment</e>
+				<cm>1567</cm>
+				<cf></cf>
+				<au_e>1568</au_e>
+			</item>
+			<item>
+				<id>5_3_1</id>
+				<sid>490</sid>
+				<c>我家离公司太远.</c>
+				<e>My apartment is too far away from my office.</e>
+				<cm>1569</cm>
+				<cf>1570</cf>
+				<au_e>1571</au_e>
+			</item>
+			<item>
+				<id>5_3_2</id>
+				<sid>491</sid>
+				<c>累死我了.</c>
+				<e>I'm dead tired.</e>
+				<cm>1572</cm>
+				<cf>1573</cf>
+				<au_e>1574</au_e>
+			</item>
+			<item>
+				<id>5_3_3</id>
+				<sid>492</sid>
+				<c>报纸上的广告很多.</c>
+				<e>There are many rental ads. in the newspapers.</e>
+				<cm>1575</cm>
+				<cf>1576</cf>
+				<au_e>1577</au_e>
+			</item>
+			<item>
+				<id>5_3_4</id>
+				<sid>493</sid>
+				<c>我没时间看.</c>
+				<e>I don't have time to read them.</e>
+				<cm>1578</cm>
+				<cf>1579</cf>
+				<au_e>1580</au_e>
+			</item>
+			<item>
+				<id>5_3_5</id>
+				<sid>494</sid>
+				<c>这家中介公司挺专业的.</c>
+				<e>This rental agency is very professional.</e>
+				<cm>1581</cm>
+				<cf>1582</cf>
+				<au_e>1583</au_e>
+			</item>
+			<item>
+				<id>5_3_6</id>
+				<sid>495</sid>
+				<c>我想找人合租.</c>
+				<e>I want to find someone to share the rent.</e>
+				<cm>1584</cm>
+				<cf>1585</cf>
+				<au_e>1586</au_e>
+			</item>
+			<item>
+				<id>5_3_7</id>
+				<sid>496</sid>
+				<c>上网查查.</c>
+				<e>How about trying to find one online?</e>
+				<cm>1587</cm>
+				<cf>1588</cf>
+				<au_e>1589</au_e>
+			</item>
+			<item>
+				<id>5_3_8</id>
+				<sid>497</sid>
+				<c>这个主意不错.</c>
+				<e>Good idea.</e>
+				<cm>1590</cm>
+				<cf>1591</cf>
+				<au_e>1592</au_e>
+			</item>
+			<item>
+				<id>5_3_9</id>
+				<sid>498</sid>
+				<c>到时候我去帮你搬家.</c>
+				<e>I can give you a hand moving.</e>
+				<cm>1593</cm>
+				<cf>1594</cf>
+				<au_e>1595</au_e>
+			</item>
+			<item>
+				<id>5_3_10</id>
+				<sid>499</sid>
+				<c>我想租房.</c>
+				<e>I'd like to rent a apartment.</e>
+				<cm>1596</cm>
+				<cf>1597</cf>
+				<au_e>1598</au_e>
+			</item>
+			<item>
+				<id>5_3_11</id>
+				<sid>500</sid>
+				<c>请给我开个收据.</c>
+				<e>Which location do you have in mind?</e>
+				<cm>1599</cm>
+				<cf>1600</cf>
+				<au_e>1601</au_e>
+			</item>
+			<item>
+				<id>5_3_12</id>
+				<sid>501</sid>
+				<c>您想找什么样的房子?</c>
+				<e>What kind of apartment do you have in mind?</e>
+				<cm>1602</cm>
+				<cf>1603</cf>
+				<au_e>1604</au_e>
+			</item>
+			<item>
+				<id>5_3_13</id>
+				<sid>502</sid>
+				<c>带家具的两居.</c>
+				<e>A furnished two-bedroom apartment.</e>
+				<cm>1605</cm>
+				<cf>1606</cf>
+				<au_e>1607</au_e>
+			</item>
+			<item>
+				<id>5_3_14</id>
+				<sid>503</sid>
+				<c>房子不要太旧.</c>
+				<e>I don't want an old apartment.</e>
+				<cm>1608</cm>
+				<cf>1609</cf>
+				<au_e>1610</au_e>
+			</item>
+			<item>
+				<id>5_3_15</id>
+				<sid>504</sid>
+				<c>您想花多少钱租?</c>
+				<e>What's your budget.</e>
+				<cm>1611</cm>
+				<cf>1612</cf>
+				<au_e>1613</au_e>
+			</item>
+			<item>
+				<id>5_3_16</id>
+				<sid>505</sid>
+				<c>月租2000以内吧.</c>
+				<e>Less than 2000 yuan per month.</e>
+				<cm>1614</cm>
+				<cf>1615</cf>
+				<au_e>1616</au_e>
+			</item>
+			<item>
+				<id>5_3_17</id>
+				<sid>506</sid>
+				<c>我得先联系一下房东.</c>
+				<e>I have to contact the landlord first.</e>
+				<cm>1617</cm>
+				<cf>1618</cf>
+				<au_e>1619</au_e>
+			</item>
+			<item>
+				<id>5_3_18</id>
+				<sid>507</sid>
+				<c>您随便看.</c>
+				<e>Just go ahead and have a look.</e>
+				<cm>1620</cm>
+				<cf>1621</cf>
+				<au_e>1622</au_e>
+			</item>
+			<item>
+				<id>5_3_19</id>
+				<sid>508</sid>
+				<c>您看这房怎么样?</c>
+				<e>What do you think of the arartment?</e>
+				<cm>1623</cm>
+				<cf>1624</cf>
+				<au_e>1625</au_e>
+			</item>
+			<item>
+				<id>5_3_20</id>
+				<sid>509</sid>
+				<c>这个房子小了点.</c>
+				<e>This apartment is a little bit small.</e>
+				<cm>1626</cm>
+				<cf>1627</cf>
+				<au_e>1628</au_e>
+			</item>
+			<item>
+				<id>5_3_21</id>
+				<sid>510</sid>
+				<c>两个房间都比客厅大.</c>
+				<e>The two bed rooms are bigger than the living room.</e>
+				<cm>1629</cm>
+				<cf>1630</cf>
+				<au_e>1631</au_e>
+			</item>
+			<item>
+				<id>5_3_22</id>
+				<sid>511</sid>
+				<c>这个房间太吵了.</c>
+				<e>This room is too noisy.</e>
+				<cm>1632</cm>
+				<cf>1633</cf>
+				<au_e>1634</au_e>
+			</item>
+			<item>
+				<id>5_3_23</id>
+				<sid>512</sid>
+				<c>出门比较方便.</c>
+				<e>You have easy access to many places.</e>
+				<cm>1635</cm>
+				<cf>1636</cf>
+				<au_e>1637</au_e>
+			</item>
+			<item>
+				<id>5_3_24</id>
+				<sid>513</sid>
+				<c>可以看看厨房吗?</c>
+				<e>Can I see the kitchen?</e>
+				<cm>1638</cm>
+				<cf>1639</cf>
+				<au_e>1640</au_e>
+			</item>
+			<item>
+				<id>5_3_25</id>
+				<sid>514</sid>
+				<c>不太合适.</c>
+				<e>I don't think it is suitable for me.</e>
+				<cm>1641</cm>
+				<cf>1642</cf>
+				<au_e>1643</au_e>
+			</item>
+			<item>
+				<id>5_3_26</id>
+				<sid>515</sid>
+				<c>还是不满意.</c>
+				<e>That's disappointing.</e>
+				<cm>1644</cm>
+				<cf>1645</cf>
+				<au_e>1646</au_e>
+			</item>
+			<item>
+				<id>5_3_27</id>
+				<sid>516</sid>
+				<c>麻烦你再帮我找找.</c>
+				<e>Could you look for some other apartments for me?</e>
+				<cm>1647</cm>
+				<cf>1648</cf>
+				<au_e>1649</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>5_4_0</id>
+				<sid></sid>
+				<c>租房</c>
+				<e>Renting an Apartment.</e>
+				<cm>1650</cm>
+				<cf></cf>
+				<au_e>1651</au_e>
+			</item>
+			<item>
+				<id>5_4_1</id>
+				<sid>517</sid>
+				<c>对面是个公园</c>
+				<e>There is a park opposite the apartment.</e>
+				<cm>1652</cm>
+				<cf>1653</cf>
+				<au_e>1654</au_e>
+			</item>
+			<item>
+				<id>5_4_2</id>
+				<sid>518</sid>
+				<c>很安静.</c>
+				<e>It's really quiet.</e>
+				<cm>1655</cm>
+				<cf>1656</cf>
+				<au_e>1657</au_e>
+			</item>
+			<item>
+				<id>5_4_3</id>
+				<sid>519</sid>
+				<c>水电费和煤气费怎么交?</c>
+				<e>How do I pay the water, electricity and gas.</e>
+				<cm>1658</cm>
+				<cf>1659</cf>
+				<au_e>1660</au_e>
+			</item>
+			<item>
+				<id>5_4_4</id>
+				<sid>520</sid>
+				<c>能上网吗?</c>
+				<e>Can I go online here?</e>
+				<cm>1661</cm>
+				<cf>1662</cf>
+				<au_e>1663</au_e>
+			</item>
+			<item>
+				<id>5_4_5</id>
+				<sid>521</sid>
+				<c>房租多少钱?</c>
+				<e>How much is the rent?</e>
+				<cm>1664</cm>
+				<cf>1665</cf>
+				<au_e>1666</au_e>
+			</item>
+			<item>
+				<id>5_4_6</id>
+				<sid>522</sid>
+				<c>一千九百元一个月.</c>
+				<e>It is one thousand nine hundred yuan per month.</e>
+				<cm>1667</cm>
+				<cf>1668</cf>
+				<au_e>1669</au_e>
+			</item>
+			<item>
+				<id>5_4_7</id>
+				<sid>523</sid>
+				<c>好,我就租这套房子了.</c>
+				<e>OK, I'll take this apartment.</e>
+				<cm>1670</cm>
+				<cf>1671</cf>
+				<au_e>1672</au_e>
+			</item>
+			<item>
+				<id>5_4_8</id>
+				<sid>524</sid>
+				<c>我们什么时候签合同?</c>
+				<e>When shall we sign the contract?</e>
+				<cm>1673</cm>
+				<cf>1674</cf>
+				<au_e>1675</au_e>
+			</item>
+			<item>
+				<id>5_4_9</id>
+				<sid>525</sid>
+				<c>这是合同,您看一下.</c>
+				<e>This is the contract. Have a look at it, please.</e>
+				<cm>1676</cm>
+				<cf>1677</cf>
+				<au_e>1678</au_e>
+			</item>
+			<item>
+				<id>5_4_10</id>
+				<sid>526</sid>
+				<c>还有什么问题吗?</c>
+				<e>Any other questions?</e>
+				<cm>1679</cm>
+				<cf>1680</cf>
+				<au_e>1681</au_e>
+			</item>
+			<item>
+				<id>5_4_11</id>
+				<sid>527</sid>
+				<c>有事随时跟我联系.</c>
+				<e>Please contact me if you have any questions.</e>
+				<cm>1682</cm>
+				<cf>1683</cf>
+				<au_e>1684</au_e>
+			</item>
+			<item>
+				<id>5_4_12</id>
+				<sid>528</sid>
+				<c>你有我的手机号码吗?</c>
+				<e>Do you have my cell phone number?</e>
+				<cm>1685</cm>
+				<cf>1686</cf>
+				<au_e>1687</au_e>
+			</item>
+			<item>
+				<id>5_4_13</id>
+				<sid>529</sid>
+				<c>我一般晚上在家.</c>
+				<e>I'm usually at home in the evening,.</e>
+				<cm>1688</cm>
+				<cf>1689</cf>
+				<au_e>1690</au_e>
+			</item>
+			<item>
+				<id>5_4_14</id>
+				<sid>530</sid>
+				<c>八点以后.</c>
+				<e>After 8 o'clock.</e>
+				<cm>1691</cm>
+				<cf>1692</cf>
+				<au_e>1693</au_e>
+			</item>
+			<item>
+				<id>5_4_15</id>
+				<sid>531</sid>
+				<c>这是三个月的房租.</c>
+				<e>Here is the rent for three months.</e>
+				<cm>1694</cm>
+				<cf>1695</cf>
+				<au_e>1696</au_e>
+			</item>
+			<item>
+				<id>5_4_16</id>
+				<sid>532</sid>
+				<c>请给我开个收据.</c>
+				<e>Can I get a receipt?</e>
+				<cm>1697</cm>
+				<cf>1698</cf>
+				<au_e>1699</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>5_5_0</id>
+				<sid></sid>
+				<c>搬家</c>
+				<e>Moving</e>
+				<cm>1700</cm>
+				<cf></cf>
+				<au_e>1701</au_e>
+			</item>
+			<item>
+				<id>5_5_1</id>
+				<sid>533</sid>
+				<c>我要订一辆车</c>
+				<e>I'd like to book a van.</e>
+				<cm>1702</cm>
+				<cf>1703</cf>
+				<au_e>1704</au_e>
+			</item>
+			<item>
+				<id>5_5_2</id>
+				<sid>534</sid>
+				<c>您哪天用车?</c>
+				<e>Which day do you need the van?</e>
+				<cm>1705</cm>
+				<cf>1706</cf>
+				<au_e>1707</au_e>
+			</item>
+			<item>
+				<id>5_5_3</id>
+				<sid>535</sid>
+				<c>您住几层?</c>
+				<e>Which floor?</e>
+				<cm>1708</cm>
+				<cf>1709</cf>
+				<au_e>1710</au_e>
+			</item>
+			<item>
+				<id>5_5_4</id>
+				<sid>536</sid>
+				<c>有电梯吗?</c>
+				<e>Is there an elevator?</e>
+				<cm>1711</cm>
+				<cf>1712</cf>
+				<au_e>1713</au_e>
+			</item>
+			<item>
+				<id>5_5_5</id>
+				<sid>537</sid>
+				<c>您的东西多吗?</c>
+				<e>Do you have lots of stuff?</e>
+				<cm>1714</cm>
+				<cf>1715</cf>
+				<au_e>1716</au_e>
+			</item>
+			<item>
+				<id>5_5_6</id>
+				<sid>538</sid>
+				<c>您能派几个人来?</c>
+				<e>How many people can you send?</e>
+				<cm>1717</cm>
+				<cf>1718</cf>
+				<au_e>1719</au_e>
+			</item>
+			<item>
+				<id>5_5_7</id>
+				<sid>539</sid>
+				<c>把贵重物品收好.</c>
+				<e>Put your valuables in a safe place, please.</e>
+				<cm>1720</cm>
+				<cf>1721</cf>
+				<au_e>1722</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>6_0_0</id>
+			<sid></sid>
+			<c>理财</c>
+			<e>Managing Money</e>
+			<cm>1724</cm>
+			<cf></cf>
+			<au_e>1726</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>6_1_0</id>
+				<sid></sid>
+				<c>存取钱</c>
+				<e>Depositing Money, Withdrawing Money</e>
+				<cm>1727</cm>
+				<cf></cf>
+				<au_e>1728</au_e>
+			</item>
+			<item>
+				<id>6_1_1</id>
+				<sid>540</sid>
+				<c>请您先拿号, 再去那边等候.</c>
+				<e>Would you take a number and wait over there please</e>
+				<cm>1730</cm>
+				<cf>1731</cf>
+				<au_e>1732</au_e>
+			</item>
+			<item>
+				<id>6_1_2</id>
+				<sid>541</sid>
+				<c>我想存3000元.</c>
+				<e>I'd like to deposit 3000 yuan.</e>
+				<cm>1733</cm>
+				<cf>1734</cf>
+				<au_e>1735</au_e>
+			</item>
+			<item>
+				<id>6_1_3</id>
+				<sid>542</sid>
+				<c>请您填一下这张存款单.</c>
+				<e>Could you fill out this deposit slip, please?</e>
+				<cm>1736</cm>
+				<cf>1737</cf>
+				<au_e>1738</au_e>
+			</item>
+			<item>
+				<id>6_1_4</id>
+				<sid>543</sid>
+				<c>您带身份证了吗?</c>
+				<e>Do you have your ID card with you?</e>
+				<cm>1739</cm>
+				<cf>1740</cf>
+				<au_e>1741</au_e>
+			</item>
+			<item>
+				<id>6_1_5</id>
+				<sid>544</sid>
+				<c>这是我的护照.</c>
+				<e>This is my passport</e>
+				<cm>1742</cm>
+				<cf>1743</cf>
+				<au_e>1744</au_e>
+			</item>
+			<item>
+				<id>6_1_6</id>
+				<sid>545</sid>
+				<c>请输入密码.</c>
+				<e>Please enter your pin number.</e>
+				<cm>1745</cm>
+				<cf>1746</cf>
+				<au_e>1747</au_e>
+			</item>
+			<item>
+				<id>6_1_7</id>
+				<sid>546</sid>
+				<c>密码是几位数字?</c>
+				<e>How many digits does the pin number have?</e>
+				<cm>1748</cm>
+				<cf>1749</cf>
+				<au_e>1750</au_e>
+			</item>
+			<item>
+				<id>6_1_8</id>
+				<sid>547</sid>
+				<c>请在右下角签字.</c>
+				<e>Please sign at the bottom right.</e>
+				<cm>1751</cm>
+				<cf>1752</cf>
+				<au_e>1753</au_e>
+			</item>
+			<item>
+				<id>6_1_9</id>
+				<sid>548</sid>
+				<c>这个取款机怎么回事?</c>
+				<e>What's the matter with this ATM machine.</e>
+				<cm>1754</cm>
+				<cf>1755</cf>
+				<au_e>1756</au_e>
+			</item>
+			<item>
+				<id>6_1_10</id>
+				<sid>549</sid>
+				<c>奇怪</c>
+				<e>This is weird.</e>
+				<cm>1757</cm>
+				<cf>1758</cf>
+				<au_e>1759</au_e>
+			</item>
+			<item>
+				<id>6_1_11</id>
+				<sid>550</sid>
+				<c>这怎么可能呢?</c>
+				<e>How can that be?</e>
+				<cm>1760</cm>
+				<cf>1761</cf>
+				<au_e>1762</au_e>
+			</item>
+			<item>
+				<id>6_1_12</id>
+				<sid>551</sid>
+				<c>真麻烦</c>
+				<e>It's such a hassle.</e>
+				<cm>1763</cm>
+				<cf>1764</cf>
+				<au_e>1765</au_e>
+			</item>
+			<item>
+				<id>6_1_13</id>
+				<sid>552</sid>
+				<c>马上就好。</c>
+				<e>Just a minute and it will be ok.</e>
+				<cm>1766</cm>
+				<cf>1767</cf>
+				<au_e>1768</au_e>
+			</item>
+			<item>
+				<id>6_1_14</id>
+				<sid>553</sid>
+				<c>你的密码不对。</c>
+				<e>Your pin number is incorrect.</e>
+				<cm>1769</cm>
+				<cf>1770</cf>
+				<au_e>1771</au_e>
+			</item>
+			<item>
+				<id>6_1_15</id>
+				<sid>554</sid>
+				<c>请再输一遍。</c>
+				<e>Please enter your pin number again.</e>
+				<cm>1772</cm>
+				<cf>1773</cf>
+				<au_e>1774</au_e>
+			</item>
+			<item>
+				<id>6_1_16</id>
+				<sid>555</sid>
+				<c>我太着急了。</c>
+				<e>I'm in a rush.</e>
+				<cm>1775</cm>
+				<cf>1776</cf>
+				<au_e>1777</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>6_2_0</id>
+				<sid></sid>
+				<c>兑换</c>
+				<e>Exchanging Money</e>
+				<cm>1778</cm>
+				<cf></cf>
+				<au_e>1779</au_e>
+			</item>
+			<item>
+				<id>6_2_1</id>
+				<sid>556</sid>
+				<c>您要办理什么业务？</c>
+				<e>What can I do for you?</e>
+				<cm>1780</cm>
+				<cf>1781</cf>
+				<au_e>1782</au_e>
+			</item>
+			<item>
+				<id>6_2_2</id>
+				<sid>557</sid>
+				<c>这儿可以换钱吗？</c>
+				<e>Can I exchange some money here?</e>
+				<cm>1783</cm>
+				<cf>1784</cf>
+				<au_e>1785</au_e>
+			</item>
+			<item>
+				<id>6_2_3</id>
+				<sid>558</sid>
+				<c>您用现金还是支票？</c>
+				<e>Do you want cash or check?</e>
+				<cm>1786</cm>
+				<cf>1787</cf>
+				<au_e>1788</au_e>
+			</item>
+			<item>
+				<id>6_2_4</id>
+				<sid>559</sid>
+				<c>您换多少？</c>
+				<e>How much would like to exchange?</e>
+				<cm>1789</cm>
+				<cf>1790</cf>
+				<au_e>1791</au_e>
+			</item>
+			<item>
+				<id>6_2_5</id>
+				<sid>560</sid>
+				<c>现在的汇率是多少？</c>
+				<e>What's the exchange rate?</e>
+				<cm>1792</cm>
+				<cf>1793</cf>
+				<au_e>1794</au_e>
+			</item>
+			<item>
+				<id>6_2_6</id>
+				<sid>561</sid>
+				<c>一比八点零三。</c>
+				<e>1 to 8.03</e>
+				<cm>1795</cm>
+				<cf>1796</cf>
+				<au_e>1797</au_e>
+			</item>
+			<item>
+				<id>6_2_7</id>
+				<sid>562</sid>
+				<c>一百美元换八百零三元人民币。</c>
+				<e>You can exchange 100 US dallors for 803 yuan.</e>
+				<cm>1798</cm>
+				<cf>1799</cf>
+				<au_e>1800</au_e>
+			</item>
+			<item>
+				<id>6_2_8</id>
+				<sid>563</sid>
+				<c>美元又跌了。</c>
+				<e>The US dollar has dropped again.</e>
+				<cm>1801</cm>
+				<cf>1802</cf>
+				<au_e>1803</au_e>
+			</item>
+			<item>
+				<id>6_2_9</id>
+				<sid>564</sid>
+				<c>要是上个星期换就好了</c>
+				<e>I should have made the exchange last week.</e>
+				<cm>1804</cm>
+				<cf>1805</cf>
+				<au_e>1806</au_e>
+			</item>
+			<item>
+				<id>6_2_10</id>
+				<sid>565</sid>
+				<c>其实也差不了多少.</c>
+				<e>Actually it doesn't make much difference.</e>
+				<cm>1807</cm>
+				<cf>1808</cf>
+				<au_e>1809</au_e>
+			</item>
+			<item>
+				<id>6_2_11</id>
+				<sid>566</sid>
+				<c>真后悔。</c>
+				<e>I really regret that.</e>
+				<cm>1810</cm>
+				<cf>1811</cf>
+				<au_e>1812</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>6_3_0</id>
+				<sid></sid>
+				<c>交费</c>
+				<e>Paying Bills</e>
+				<cm>1813</cm>
+				<cf></cf>
+				<au_e>1814</au_e>
+			</item>
+			<item>
+				<id>6_3_1</id>
+				<sid>567</sid>
+				<c>现在几点了？</c>
+				<e>What time is it now?</e>
+				<cm>1815</cm>
+				<cf>1816</cf>
+				<au_e>1817</au_e>
+			</item>
+			<item>
+				<id>6_3_2</id>
+				<sid>568</sid>
+				<c>快要下班了。</c>
+				<e>Almost time to get off work.</e>
+				<cm>1818</cm>
+				<cf>1819</cf>
+				<au_e>1820</au_e>
+			</item>
+			<item>
+				<id>6_3_3</id>
+				<sid>569</sid>
+				<c>我忘了一件事。</c>
+				<e>I forgot something.</e>
+				<cm>1821</cm>
+				<cf>1822</cf>
+				<au_e>1823</au_e>
+			</item>
+			<item>
+				<id>6_3_4</id>
+				<sid>570</sid>
+				<c>我的电话费还没交。</c>
+				<e>I haven't pay my phone bill.</e>
+				<cm>1824</cm>
+				<cf>1825</cf>
+				<au_e>1826</au_e>
+			</item>
+			<item>
+				<id>6_3_5</id>
+				<sid>571</sid>
+				<c>来不及了。</c>
+				<e>It's too late.</e>
+				<cm>1827</cm>
+				<cf>1828</cf>
+				<au_e>1829</au_e>
+			</item>
+			<item>
+				<id>6_3_6</id>
+				<sid>572</sid>
+				<c>我真糊涂。</c>
+				<e>How foolish of me!</e>
+				<cm>1830</cm>
+				<cf>1831</cf>
+				<au_e>1832</au_e>
+			</item>
+			<item>
+				<id>6_3_7</id>
+				<sid>573</sid>
+				<c>银行一般五点关门。</c>
+				<e>Banks usually close at 5PM.</e>
+				<cm>1833</cm>
+				<cf>1834</cf>
+				<au_e>1835</au_e>
+			</item>
+			<item>
+				<id>6_3_8</id>
+				<sid>574</sid>
+				<c>这是规定。</c>
+				<e>This is the regularation.</e>
+				<cm>1836</cm>
+				<cf>1837</cf>
+				<au_e>1838</au_e>
+			</item>
+			<item>
+				<id>6_3_9</id>
+				<sid>575</sid>
+				<c>银行周末不休息吧？</c>
+				<e>Banks are open on weekends, aren't they?</e>
+				<cm>1839</cm>
+				<cf>1840</cf>
+				<au_e>1841</au_e>
+			</item>
+			<item>
+				<id>6_3_10</id>
+				<sid>576</sid>
+				<c>早上九点开门。</c>
+				<e>They open at 9am</e>
+				<cm>1842</cm>
+				<cf>1843</cf>
+				<au_e>1844</au_e>
+			</item>
+			<item>
+				<id>6_3_11</id>
+				<sid>577</sid>
+				<c>明天早上我就去缴费。</c>
+				<e>I‘ll go and pay the fee tomorrow morning。</e>
+				<cm>1845</cm>
+				<cf>1846</cf>
+				<au_e>1847</au_e>
+			</item>
+			<item>
+				<id>6_3_12</id>
+				<sid>578</sid>
+				<c>这里可以交电话费吗？</c>
+				<e>Can I pay my phone bill here？</e>
+				<cm>1848</cm>
+				<cf>1849</cf>
+				<au_e>1850</au_e>
+			</item>
+			<item>
+				<id>6_3_13</id>
+				<sid>579</sid>
+				<c>我交一下电话费。</c>
+				<e>I'd like to pay my phone bill.</e>
+				<cm>1851</cm>
+				<cf>1852</cf>
+				<au_e>1853</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>6_4_0</id>
+				<sid></sid>
+				<c>汇款</c>
+				<e>Tranferring Money</e>
+				<cm>1854</cm>
+				<cf></cf>
+				<au_e>1855</au_e>
+			</item>
+			<item>
+				<id>6_4_1</id>
+				<sid>580</sid>
+				<c>我想问一下</c>
+				<e>Excuse me.</e>
+				<cm>1856</cm>
+				<cf>1857</cf>
+				<au_e>1858</au_e>
+			</item>
+			<item>
+				<id>6_4_2</id>
+				<sid>581</sid>
+				<c>这儿可以办理汇款吗？</c>
+				<e>Can i transfer some money here?</e>
+				<cm>1859</cm>
+				<cf>1860</cf>
+				<au_e>1861</au_e>
+			</item>
+			<item>
+				<id>6_4_3</id>
+				<sid>582</sid>
+				<c>您有对方的账号吗？</c>
+				<e>Do you have the receipient's account number?</e>
+				<cm>1862</cm>
+				<cf>1863</cf>
+				<au_e>1864</au_e>
+			</item>
+			<item>
+				<id>6_4_4</id>
+				<sid>583</sid>
+				<c>十分钟左右能到帐。</c>
+				<e>It only take 10 minutes for the money to arrive.</e>
+				<cm>1865</cm>
+				<cf>1866</cf>
+				<au_e>1867</au_e>
+			</item>
+			<item>
+				<id>6_4_5</id>
+				<sid>584</sid>
+				<c>手续费是多少？</c>
+				<e>How much is the handling fee?</e>
+				<cm>1868</cm>
+				<cf>1869</cf>
+				<au_e>1870</au_e>
+			</item>
+			<item>
+				<id>6_4_6</id>
+				<sid>585</sid>
+				<c>每笔最高收费五十元。</c>
+				<e>A maximum of 50 yuan for one transfer.</e>
+				<cm>1871</cm>
+				<cf>1872</cf>
+				<au_e>1873</au_e>
+			</item>
+			<item>
+				<id>6_4_7</id>
+				<sid>586</sid>
+				<c>从这张卡里取五千元。</c>
+				<e>I'd like to withdraw 5000 yuan from this card.</e>
+				<cm>1874</cm>
+				<cf>1875</cf>
+				<au_e>1876</au_e>
+			</item>
+			<item>
+				<id>6_4_8</id>
+				<sid>587</sid>
+				<c>汇到这个帐号。</c>
+				<e>To this account number</e>
+				<cm>1877</cm>
+				<cf>1878</cf>
+				<au_e>1879</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>6_5_0</id>
+				<sid></sid>
+				<c>刷信用卡</c>
+				<e>Using a Credit Card</e>
+				<cm>1880</cm>
+				<cf></cf>
+				<au_e>1881</au_e>
+			</item>
+			<item>
+				<id>6_5_1</id>
+				<sid>588</sid>
+				<c>对不起，我们这里不能用这种卡</c>
+				<e>Sorry, we don't take this kind of card.</e>
+				<cm>1882</cm>
+				<cf>1883</cf>
+				<au_e>1884</au_e>
+			</item>
+			<item>
+				<id>6_5_2</id>
+				<sid>589</sid>
+				<c>我的现金不够了</c>
+				<e>I don't have enough cash.</e>
+				<cm>1885</cm>
+				<cf>1886</cf>
+				<au_e>1887</au_e>
+			</item>
+			<item>
+				<id>6_5_3</id>
+				<sid>590</sid>
+				<c>用我的卡吧。</c>
+				<e>You can use my card</e>
+				<cm>1888</cm>
+				<cf>1889</cf>
+				<au_e>1890</au_e>
+			</item>
+			<item>
+				<id>6_5_4</id>
+				<sid>591</sid>
+				<c>我明天就还你钱。</c>
+				<e>I'll return your money tomorrow.</e>
+				<cm>1891</cm>
+				<cf>1892</cf>
+				<au_e>1893</au_e>
+			</item>
+			<item>
+				<id>6_5_5</id>
+				<sid>592</sid>
+				<c>不着急</c>
+				<e>Don't worry about it.</e>
+				<cm>1894</cm>
+				<cf>1895</cf>
+				<au_e>1896</au_e>
+			</item>
+			<item>
+				<id>6_5_6</id>
+				<sid>593</sid>
+				<c>多亏你陪我一起来。</c>
+				<e>It's a good think you've come with me.</e>
+				<cm>1897</cm>
+				<cf>1898</cf>
+				<au_e>1899</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>6_6_0</id>
+				<sid></sid>
+				<c>挂失</c>
+				<e>Reporting a Loss</e>
+				<cm>1900</cm>
+				<cf></cf>
+				<au_e>1901</au_e>
+			</item>
+			<item>
+				<id>6_6_1</id>
+				<sid>594</sid>
+				<c>我的信用卡找不到了。</c>
+				<e>I can't find my credit card</e>
+				<cm>1902</cm>
+				<cf>1903</cf>
+				<au_e>1904</au_e>
+			</item>
+			<item>
+				<id>6_6_2</id>
+				<sid>595</sid>
+				<c>我的包丢了。</c>
+				<e>I've lost my bag.</e>
+				<cm>1905</cm>
+				<cf>1906</cf>
+				<au_e>1907</au_e>
+			</item>
+			<item>
+				<id>6_6_3</id>
+				<sid>596</sid>
+				<c>幸好我的身份证没丢。</c>
+				<e>Fortunaty, I didn't lose my ID card.</e>
+				<cm>1908</cm>
+				<cf>1909</cf>
+				<au_e>1910</au_e>
+			</item>
+			<item>
+				<id>6_6_4</id>
+				<sid>597</sid>
+				<c>卡上大概有多少钱？</c>
+				<e>Approximately how much money do you have in your account?</e>
+				<cm>1911</cm>
+				<cf>1912</cf>
+				<au_e>1913</au_e>
+			</item>
+			<item>
+				<id>6_6_5</id>
+				<sid>598</sid>
+				<c>一个星期以后来取。</c>
+				<e>Please come in and pick it up in a week.</e>
+				<cm>1914</cm>
+				<cf>1915</cf>
+				<au_e>1916</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>7_0_0</id>
+			<sid></sid>
+			<c>看病</c>
+			<e>Seeing a doctor</e>
+			<cm>1918</cm>
+			<cf></cf>
+			<au_e>1920</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>7_1_0</id>
+				<sid></sid>
+				<c>挂号</c>
+				<e>Registration</e>
+				<cm>1922</cm>
+				<cf></cf>
+				<au_e>1923</au_e>
+			</item>
+			<item>
+				<id>7_1_1</id>
+				<sid>599</sid>
+				<c>你得去看医生</c>
+				<e>You should see a doctor</e>
+				<cm>1924</cm>
+				<cf>1925</cf>
+				<au_e>1926</au_e>
+			</item>
+			<item>
+				<id>7_1_2</id>
+				<sid>600</sid>
+				<c>你能陪我去医院吗？</c>
+				<e>Will you accompany me to the hospital?</e>
+				<cm>1927</cm>
+				<cf>1928</cf>
+				<au_e>1929</au_e>
+			</item>
+			<item>
+				<id>7_1_3</id>
+				<sid>601</sid>
+				<c>在哪儿挂号？</c>
+				<e>Where shall I register?</e>
+				<cm>1930</cm>
+				<cf>1931</cf>
+				<au_e>1932</au_e>
+			</item>
+			<item>
+				<id>7_1_4</id>
+				<sid>602</sid>
+				<c>挂一个专家号</c>
+				<e>I‘d like to see a specialist, please.</e>
+				<cm>1933</cm>
+				<cf>1934</cf>
+				<au_e>1935</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>7_2_0</id>
+				<sid></sid>
+				<c>就诊</c>
+				<e>Consulting the Doctor</e>
+				<cm>1936</cm>
+				<cf></cf>
+				<au_e>1937</au_e>
+			</item>
+			<item>
+				<id>7_2_1</id>
+				<sid>603</sid>
+				<c>先量一下体温</c>
+				<e>Let me take your temperature first.</e>
+				<cm>1938</cm>
+				<cf>1939</cf>
+				<au_e>1940</au_e>
+			</item>
+			<item>
+				<id>7_2_2</id>
+				<sid>604</sid>
+				<c>三十八度。</c>
+				<e>38C</e>
+				<cm>1941</cm>
+				<cf>1942</cf>
+				<au_e>1943</au_e>
+			</item>
+			<item>
+				<id>7_2_3</id>
+				<sid>605</sid>
+				<c>我不舒服</c>
+				<e>I don't feel well</e>
+				<cm>1944</cm>
+				<cf>1945</cf>
+				<au_e>1946</au_e>
+			</item>
+			<item>
+				<id>7_2_4</id>
+				<sid>606</sid>
+				<c>您那儿不舒服？</c>
+				<e>Is anything wrong?</e>
+				<cm>1947</cm>
+				<cf>1948</cf>
+				<au_e>1949</au_e>
+			</item>
+			<item>
+				<id>7_2_5</id>
+				<sid>607</sid>
+				<c>我拉肚子。</c>
+				<e>I have diarrhea.</e>
+				<cm>1950</cm>
+				<cf>1951</cf>
+				<au_e>1952</au_e>
+			</item>
+			<item>
+				<id>7_2_6</id>
+				<sid>608</sid>
+				<c>我血压高。</c>
+				<e>I have high blood pressure.</e>
+				<cm>1953</cm>
+				<cf>1954</cf>
+				<au_e>1955</au_e>
+			</item>
+			<item>
+				<id>7_2_7</id>
+				<sid>609</sid>
+				<c>我发烧了，还头疼。</c>
+				<e>I have a fever and a headache.</e>
+				<cm>1956</cm>
+				<cf>1957</cf>
+				<au_e>1958</au_e>
+			</item>
+			<item>
+				<id>7_2_8</id>
+				<sid>610</sid>
+				<c>我感冒了。</c>
+				<e>I‘ve caught a cold.</e>
+				<cm>1959</cm>
+				<cf>1960</cf>
+				<au_e>1961</au_e>
+			</item>
+			<item>
+				<id>7_2_9</id>
+				<sid>611</sid>
+				<c>什么时候开始的？</c>
+				<e>When did it start?</e>
+				<cm>1962</cm>
+				<cf>1963</cf>
+				<au_e>1964</au_e>
+			</item>
+			<item>
+				<id>7_2_10</id>
+				<sid>612</sid>
+				<c>还有哪儿不舒服？</c>
+				<e>Do you have any other symptoms?</e>
+				<cm>1965</cm>
+				<cf>1966</cf>
+				<au_e>1967</au_e>
+			</item>
+			<item>
+				<id>7_2_11</id>
+				<sid>613</sid>
+				<c>不想吃东西。</c>
+				<e>I've lost my appetite.</e>
+				<cm>1968</cm>
+				<cf>1969</cf>
+				<au_e>1970</au_e>
+			</item>
+			<item>
+				<id>7_2_12</id>
+				<sid>614</sid>
+				<c>浑身没力气。</c>
+				<e>I feel sluggish.</e>
+				<cm>1971</cm>
+				<cf>1972</cf>
+				<au_e>1973</au_e>
+			</item>
+			<item>
+				<id>7_2_13</id>
+				<sid>615</sid>
+				<c>可能是受凉了。</c>
+				<e>You may have caught a cold.</e>
+				<cm>1974</cm>
+				<cf>1975</cf>
+				<au_e>1976</au_e>
+			</item>
+			<item>
+				<id>7_2_14</id>
+				<sid>616</sid>
+				<c>不太厉害。</c>
+				<e>It's not serious.</e>
+				<cm>1977</cm>
+				<cf>1978</cf>
+				<au_e>1979</au_e>
+			</item>
+			<item>
+				<id>7_2_15</id>
+				<sid>617</sid>
+				<c>应该没什么大问题。</c>
+				<e>It shouldn't be anything serious.</e>
+				<cm>1980</cm>
+				<cf>1981</cf>
+				<au_e>1982</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>7_3_0</id>
+				<sid></sid>
+				<c>治疗</c>
+				<e>Treatment</e>
+				<cm>1983</cm>
+				<cf></cf>
+				<au_e>1984</au_e>
+			</item>
+			<item>
+				<id>7_3_1</id>
+				<sid>618</sid>
+				<c>我给你开点感冒药。</c>
+				<e>I'll give you some tablets for the cold.</e>
+				<cm>1985</cm>
+				<cf>1986</cf>
+				<au_e>1987</au_e>
+			</item>
+			<item>
+				<id>7_3_2</id>
+				<sid>619</sid>
+				<c>每天吃几次？</c>
+				<e>How ofter should I take it?</e>
+				<cm>1988</cm>
+				<cf>1989</cf>
+				<au_e>1990</au_e>
+			</item>
+			<item>
+				<id>7_3_3</id>
+				<sid>620</sid>
+				<c>一天三次，每次一片。</c>
+				<e>Three time a day, one tablet each time.</e>
+				<cm>1991</cm>
+				<cf>1992</cf>
+				<au_e>1993</au_e>
+			</item>
+			<item>
+				<id>7_3_4</id>
+				<sid>621</sid>
+				<c>饭前服，还是饭后服？</c>
+				<e>Before or after meals?</e>
+				<cm>1994</cm>
+				<cf>1995</cf>
+				<au_e>1996</au_e>
+			</item>
+			<item>
+				<id>7_3_5</id>
+				<sid>622</sid>
+				<c>要吃几天？</c>
+				<e>How many days do I need to take it?</e>
+				<cm>1997</cm>
+				<cf>1998</cf>
+				<au_e>1999</au_e>
+			</item>
+			<item>
+				<id>7_3_6</id>
+				<sid>623</sid>
+				<c>多喝水，好好休息。</c>
+				<e>Drink plenty of water and have a good rest.</e>
+				<cm>2000</cm>
+				<cf>2001</cf>
+				<au_e>2002</au_e>
+			</item>
+			<item>
+				<id>7_3_7</id>
+				<sid>624</sid>
+				<c>我对海鲜过敏。</c>
+				<e>I'm allergic to seafood.</e>
+				<cm>2003</cm>
+				<cf>2004</cf>
+				<au_e>2005</au_e>
+			</item>
+			<item>
+				<id>7_3_8</id>
+				<sid>625</sid>
+				<c>可能就是这个原因。</c>
+				<e>That could be it.</e>
+				<cm>2006</cm>
+				<cf>2007</cf>
+				<au_e>2008</au_e>
+			</item>
+			<item>
+				<id>7_3_9</id>
+				<sid>626</sid>
+				<c>我检查一下。</c>
+				<e>Let me examine you.</e>
+				<cm>2009</cm>
+				<cf>2010</cf>
+				<au_e>2011</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>7_4_0</id>
+				<sid></sid>
+				<c>药店</c>
+				<e>Pharmacy</e>
+				<cm>2012</cm>
+				<cf></cf>
+				<au_e>2013</au_e>
+			</item>
+			<item>
+				<id>7_4_1</id>
+				<sid>627</sid>
+				<c>我有点难受。</c>
+				<e>I feel sick.</e>
+				<cm>2014</cm>
+				<cf>2015</cf>
+				<au_e>2016</au_e>
+			</item>
+			<item>
+				<id>7_4_2</id>
+				<sid>628</sid>
+				<c>嗓子又干又痒。</c>
+				<e>My throat is dry and itchy.</e>
+				<cm>2017</cm>
+				<cf>2018</cf>
+				<au_e>2019</au_e>
+			</item>
+			<item>
+				<id>7_4_3</id>
+				<sid>629</sid>
+				<c>我的牙最近又疼了。</c>
+				<e>My tooth have been hurting again recently.</e>
+				<cm>2020</cm>
+				<cf>2021</cf>
+				<au_e>2022</au_e>
+			</item>
+			<item>
+				<id>7_4_4</id>
+				<sid>630</sid>
+				<c>应该吃什么药呢？</c>
+				<e>What medicine should I take?</e>
+				<cm>2023</cm>
+				<cf>2024</cf>
+				<au_e>2025</au_e>
+			</item>
+			<item>
+				<id>7_4_5</id>
+				<sid>631</sid>
+				<c>我听说过这种药.</c>
+				<e>I have heard of this medicine.</e>
+				<cm>2026</cm>
+				<cf>2027</cf>
+				<au_e>2028</au_e>
+			</item>
+			<item>
+				<id>7_4_6</id>
+				<sid>632</sid>
+				<c>效果都不错。</c>
+				<e>They're all effective.</e>
+				<cm>2029</cm>
+				<cf>2030</cf>
+				<au_e>2031</au_e>
+			</item>
+			<item>
+				<id>7_4_7</id>
+				<sid>633</sid>
+				<c>有副作用吗？</c>
+				<e>Does it have any side effects?</e>
+				<cm>2032</cm>
+				<cf>2033</cf>
+				<au_e>2034</au_e>
+			</item>
+			<item>
+				<id>7_4_8</id>
+				<sid>634</sid>
+				<c>别吃辣的东西。</c>
+				<e>You'd better avoid spicy food.</e>
+				<cm>2035</cm>
+				<cf>2036</cf>
+				<au_e>2037</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>7_5_0</id>
+				<sid></sid>
+				<c>急诊</c>
+				<e>Emergency</e>
+				<cm>2038</cm>
+				<cf></cf>
+				<au_e>2039</au_e>
+			</item>
+			<item>
+				<id>7_5_1</id>
+				<sid>635</sid>
+				<c>是急救中心吗？</c>
+				<e>Is this the emergency center?</e>
+				<cm>2040</cm>
+				<cf>2041</cf>
+				<au_e>2042</au_e>
+			</item>
+			<item>
+				<id>7_5_2</id>
+				<sid>636</sid>
+				<c>请赶快派辆车来。</c>
+				<e>Could you send an abbulance right now?</e>
+				<cm>2043</cm>
+				<cf>2044</cf>
+				<au_e>2045</au_e>
+			</item>
+			<item>
+				<id>7_5_3</id>
+				<sid>637</sid>
+				<c>撞车了</c>
+				<e>He has had a car crash.</e>
+				<cm>2046</cm>
+				<cf>2047</cf>
+				<au_e>2048</au_e>
+			</item>
+			<item>
+				<id>7_5_4</id>
+				<sid>638</sid>
+				<c>请不要移动病人。</c>
+				<e>You'd better not move the patient.</e>
+				<cm>2049</cm>
+				<cf>2050</cf>
+				<au_e>2051</au_e>
+			</item>
+			<item>
+				<id>7_5_5</id>
+				<sid>639</sid>
+				<c>他流了好多血。</c>
+				<e>He is bleeding badly.</e>
+				<cm>2052</cm>
+				<cf>2053</cf>
+				<au_e>2054</au_e>
+			</item>
+			<item>
+				<id>7_5_6</id>
+				<sid>640</sid>
+				<c>没有生命危险吧？</c>
+				<e>Is he in danger?</e>
+				<cm>2055</cm>
+				<cf>2056</cf>
+				<au_e>2057</au_e>
+			</item>
+			<item>
+				<id>7_5_7</id>
+				<sid>641</sid>
+				<c>不要紧。</c>
+				<e>It shouldn't be anything serious.</e>
+				<cm>2058</cm>
+				<cf>2059</cf>
+				<au_e>2060</au_e>
+			</item>
+			<item>
+				<id>7_5_8</id>
+				<sid>642</sid>
+				<c>最好住院观察几天。</c>
+				<e>He'd better stay in the ward for observation for a few days.</e>
+				<cm>2061</cm>
+				<cf>2062</cf>
+				<au_e>2063</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>7_6_0</id>
+				<sid></sid>
+				<c>交费取药</c>
+				<e>Paying for Treatment &amp; Filing Prescriptions</e>
+				<cm>2064</cm>
+				<cf></cf>
+				<au_e>2065</au_e>
+			</item>
+			<item>
+				<id>7_6_1</id>
+				<sid>643</sid>
+				<c>大夫， 取药。</c>
+				<e>I'd like to fill this prescription</e>
+				<cm>2066</cm>
+				<cf>2067</cf>
+				<au_e>2068</au_e>
+			</item>
+			<item>
+				<id>7_6_2</id>
+				<sid>644</sid>
+				<c>请您先去缴费</c>
+				<e>Please pay first.</e>
+				<cm>2069</cm>
+				<cf>2070</cf>
+				<au_e>2071</au_e>
+			</item>
+			<item>
+				<id>7_6_3</id>
+				<sid>645</sid>
+				<c>这瓶是外用的。</c>
+				<e>This bottle is for external use.</e>
+				<cm>2072</cm>
+				<cf>2073</cf>
+				<au_e>2074</au_e>
+			</item>
+			<item>
+				<id>7_6_4</id>
+				<sid>646</sid>
+				<c>您别弄错了。</c>
+				<e>Take care not to mix them up.</e>
+				<cm>2075</cm>
+				<cf>2076</cf>
+				<au_e>2077</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>7_7_0</id>
+				<sid></sid>
+				<c>探病</c>
+				<e>Visiting a Friend in the Hospital</e>
+				<cm>2078</cm>
+				<cf></cf>
+				<au_e>3001</au_e>
+			</item>
+			<item>
+				<id>7_7_1</id>
+				<sid>647</sid>
+				<c>好点了吗？</c>
+				<e>Are you feeling better now?</e>
+				<cm>2079</cm>
+				<cf>2080</cf>
+				<au_e>2081</au_e>
+			</item>
+			<item>
+				<id>7_7_2</id>
+				<sid>648</sid>
+				<c>你的气色好多了.</c>
+				<e>You look much better now.</e>
+				<cm>2082</cm>
+				<cf>2083</cf>
+				<au_e>2084</au_e>
+			</item>
+			<item>
+				<id>7_7_3</id>
+				<sid>649</sid>
+				<c>在医院里真没意思。</c>
+				<e>It's really boring to stay in the hospital.</e>
+				<cm>2085</cm>
+				<cf>2086</cf>
+				<au_e>2087</au_e>
+			</item>
+			<item>
+				<id>7_7_4</id>
+				<sid>650</sid>
+				<c>等你出院了咱们去打网球。</c>
+				<e>After you leave the hospital, we can go and play tennis.</e>
+				<cm>2088</cm>
+				<cf>2089</cf>
+				<au_e>2090</au_e>
+			</item>
+			<item>
+				<id>7_7_5</id>
+				<sid>651</sid>
+				<c>该打针了。</c>
+				<e>It's time for an injection.</e>
+				<cm>2091</cm>
+				<cf>2092</cf>
+				<au_e>2093</au_e>
+			</item>
+			<item>
+				<id>7_7_6</id>
+				<sid>652</sid>
+				<c>我最讨厌打针。</c>
+				<e>I hate injections.</e>
+				<cm>2094</cm>
+				<cf>2095</cf>
+				<au_e>2096</au_e>
+			</item>
+			<item>
+				<id>7_7_7</id>
+				<sid>653</sid>
+				<c>很疼。</c>
+				<e>It hurts.</e>
+				<cm>2097</cm>
+				<cf>2098</cf>
+				<au_e>2099</au_e>
+			</item>
+			<item>
+				<id>7_7_8</id>
+				<sid>654</sid>
+				<c>他这个星期能出院吗？</c>
+				<e>Can she leave the hospital this week?</e>
+				<cm>2100</cm>
+				<cf>2101</cf>
+				<au_e>2102</au_e>
+			</item>
+			<item>
+				<id>7_7_9</id>
+				<sid>655</sid>
+				<c>恐怕不行。</c>
+				<e>I'm afraid not.</e>
+				<cm>2103</cm>
+				<cf>2104</cf>
+				<au_e>2105</au_e>
+			</item>
+			<item>
+				<id>7_7_10</id>
+				<sid>656</sid>
+				<c>她的病情已经稳定了。</c>
+				<e>Her illness is already under control.</e>
+				<cm>2106</cm>
+				<cf>2107</cf>
+				<au_e>2108</au_e>
+			</item>
+			<item>
+				<id>7_7_11</id>
+				<sid>657</sid>
+				<c>好好休息。</c>
+				<e>Have a good rest.</e>
+				<cm>2109</cm>
+				<cf>2110</cf>
+				<au_e>2111</au_e>
+			</item>
+			<item>
+				<id>7_7_12</id>
+				<sid>658</sid>
+				<c>很快就会好的。</c>
+				<e>She'll recover soon.</e>
+				<cm>2112</cm>
+				<cf>2113</cf>
+				<au_e>2114</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>7_8_0</id>
+				<sid></sid>
+				<c>中医</c>
+				<e>Tranditional Chinese Medicine</e>
+				<cm>2115</cm>
+				<cf></cf>
+				<au_e>2116</au_e>
+			</item>
+			<item>
+				<id>7_8_1</id>
+				<sid>659</sid>
+				<c>我最近总是失眠。</c>
+				<e>I've been having troble sleeping recently.</e>
+				<cm>2117</cm>
+				<cf>2118</cf>
+				<au_e>2119</au_e>
+			</item>
+			<item>
+				<id>7_8_2</id>
+				<sid>660</sid>
+				<c>是不是压力太大了？</c>
+				<e>Too much presure maybe.</e>
+				<cm>2120</cm>
+				<cf>2121</cf>
+				<au_e>2122</au_e>
+			</item>
+			<item>
+				<id>7_8_3</id>
+				<sid>661</sid>
+				<c>我最近非常忙。</c>
+				<e>I'm very busy these days.</e>
+				<cm>2123</cm>
+				<cf>2124</cf>
+				<au_e>2125</au_e>
+			</item>
+			<item>
+				<id>7_8_4</id>
+				<sid>662</sid>
+				<c>常常感到疲劳。</c>
+				<e>I often feel tired.</e>
+				<cm>2126</cm>
+				<cf>2127</cf>
+				<au_e>2128</au_e>
+			</item>
+			<item>
+				<id>7_8_5</id>
+				<sid>663</sid>
+				<c>有时候会头晕。</c>
+				<e>I feel a bit dizzy sometimes.</e>
+				<cm>2129</cm>
+				<cf>2130</cf>
+				<au_e>2131</au_e>
+			</item>
+			<item>
+				<id>7_8_6</id>
+				<sid>664</sid>
+				<c>多吃蔬菜水果。</c>
+				<e>You should eat more vegitables and fruits.</e>
+				<cm>2132</cm>
+				<cf>2133</cf>
+				<au_e>2134</au_e>
+			</item>
+			<item>
+				<id>7_8_7</id>
+				<sid>665</sid>
+				<c>平时要注意什么？</c>
+				<e>Do you have any other advice?</e>
+				<cm>2135</cm>
+				<cf>2136</cf>
+				<au_e>2137</au_e>
+			</item>
+			<item>
+				<id>7_8_8</id>
+				<sid>666</sid>
+				<c>别整天忙工作。</c>
+				<e>You'd better not overwork yourself.</e>
+				<cm>2139</cm>
+				<cf>2140</cf>
+				<au_e>2141</au_e>
+			</item>
+			<item>
+				<id>7_8_9</id>
+				<sid>667</sid>
+				<c>有空多锻炼身体。</c>
+				<e>You should exercise more when you are free.</e>
+				<cm>2142</cm>
+				<cf>2143</cf>
+				<au_e>2144</au_e>
+			</item>
+			<item>
+				<id>7_8_10</id>
+				<sid>668</sid>
+				<c>健康最重要。</c>
+				<e>Health matters most.</e>
+				<cm>2145</cm>
+				<cf>2146</cf>
+				<au_e>2147</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>8_0_0</id>
+			<sid></sid>
+			<c>学习</c>
+			<e>Schooling</e>
+			<cm>2148</cm>
+			<cf></cf>
+			<au_e>2150</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>8_1_0</id>
+				<sid></sid>
+				<c>幼儿园</c>
+				<e>Preschool</e>
+				<cm>2152</cm>
+				<cf></cf>
+				<au_e>2153</au_e>
+			</item>
+			<item>
+				<id>8_1_1</id>
+				<sid>669</sid>
+				<c>有没有班车？</c>
+				<e>Is there a shuttle service?</e>
+				<cm>2154</cm>
+				<cf>2155</cf>
+				<au_e>2156</au_e>
+			</item>
+			<item>
+				<id>8_1_2</id>
+				<sid>670</sid>
+				<c>每天几点接送？</c>
+				<e>When should I drop off and pick up my child every day?</e>
+				<cm>2157</cm>
+				<cf>2158</cf>
+				<au_e>2159</au_e>
+			</item>
+			<item>
+				<id>8_1_3</id>
+				<sid>671</sid>
+				<c>早上八点以前到</c>
+				<e>You'd better drop him off before 8am.</e>
+				<cm>2160</cm>
+				<cf>2161</cf>
+				<au_e>2162</au_e>
+			</item>
+			<item>
+				<id>8_1_4</id>
+				<sid>672</sid>
+				<c>一个班有几位老师？</c>
+				<e>How many teachers in each class?</e>
+				<cm>2163</cm>
+				<cf>2164</cf>
+				<au_e>2165</au_e>
+			</item>
+			<item>
+				<id>8_1_5</id>
+				<sid>673</sid>
+				<c>我能先参观一下吗？</c>
+				<e>Can I have a look around?</e>
+				<cm>2166</cm>
+				<cf>2167</cf>
+				<au_e>2168</au_e>
+			</item>
+			<item>
+				<id>8_1_6</id>
+				<sid>674</sid>
+				<c>今天玩得高兴吗？</c>
+				<e>Did you have fun today?</e>
+				<cm>2169</cm>
+				<cf>2170</cf>
+				<au_e>2171</au_e>
+			</item>
+			<item>
+				<id>8_1_7</id>
+				<sid>675</sid>
+				<c>中午睡了一个小时。</c>
+				<e>She slept at noon for one hour.</e>
+				<cm>2172</cm>
+				<cf>2173</cf>
+				<au_e>2174</au_e>
+			</item>
+			<item>
+				<id>8_1_8</id>
+				<sid>676</sid>
+				<c>元旦我们放三天假。</c>
+				<e>We'll have three days off for new years holiday.</e>
+				<cm>2175</cm>
+				<cf>2176</cf>
+				<au_e>2177</au_e>
+			</item>
+			<item>
+				<id>8_1_9</id>
+				<sid>677</sid>
+				<c>祝您新年快乐</c>
+				<e>Happy new year.</e>
+				<cm>2178</cm>
+				<cf>2179</cf>
+				<au_e>2180</au_e>
+			</item>
+			<item>
+				<id>8_1_10</id>
+				<sid>678</sid>
+				<c>这张贺卡送给您。</c>
+				<e>This greeting card is for you.</e>
+				<cm>2181</cm>
+				<cf>2182</cf>
+				<au_e>2183</au_e>
+			</item>
+			<item>
+				<id>8_1_11</id>
+				<sid>679</sid>
+				<c>我太喜欢了。</c>
+				<e>I really like it.</e>
+				<cm>2184</cm>
+				<cf>2185</cf>
+				<au_e>2186</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>8_2_0</id>
+				<sid></sid>
+				<c>大学课堂</c>
+				<e>University Classes</e>
+				<cm>2187</cm>
+				<cf></cf>
+				<au_e>2188</au_e>
+			</item>
+			<item>
+				<id>8_2_1</id>
+				<sid>680</sid>
+				<c>王老师好</c>
+				<e>Good morning, professor Wang.</e>
+				<cm>2189</cm>
+				<cf>2190</cf>
+				<au_e>2191</au_e>
+			</item>
+			<item>
+				<id>8_2_2</id>
+				<sid>681</sid>
+				<c>大家好, 我们开始上课。</c>
+				<e>Good morning, everyone. Let's begin.</e>
+				<cm>2192</cm>
+				<cf>2194</cf>
+				<au_e>2196</au_e>
+			</item>
+			<item>
+				<id>8_2_3</id>
+				<sid>682</sid>
+				<c>他病了，让我跟您说一下。</c>
+				<e>He asked me to let you know that he is ill.</e>
+				<cm>2197</cm>
+				<cf>2198</cf>
+				<au_e>2199</au_e>
+			</item>
+			<item>
+				<id>8_2_4</id>
+				<sid>683</sid>
+				<c>我知道了。</c>
+				<e>I know</e>
+				<cm>2200</cm>
+				<cf>2201</cf>
+				<au_e>2202</au_e>
+			</item>
+			<item>
+				<id>8_2_5</id>
+				<sid>684</sid>
+				<c>请打开书，翻到第十六页。</c>
+				<e>Open your book please and turn to page 16.</e>
+				<cm>2203</cm>
+				<cf>2204</cf>
+				<au_e>2205</au_e>
+			</item>
+			<item>
+				<id>8_2_6</id>
+				<sid>685</sid>
+				<c>Happy用汉语怎么说？</c>
+				<e>How do you say happy in Chinese?</e>
+				<cm>2206</cm>
+				<cf>2207</cf>
+				<au_e>2208</au_e>
+			</item>
+			<item>
+				<id>8_2_7</id>
+				<sid>686</sid>
+				<c>这个字怎么念？</c>
+				<e>How do you pronounce this character?</e>
+				<cm>2209</cm>
+				<cf>2210</cf>
+				<au_e>2211</au_e>
+			</item>
+			<item>
+				<id>8_2_8</id>
+				<sid>687</sid>
+				<c>跟我读。</c>
+				<e>Read after me.</e>
+				<cm>2212</cm>
+				<cf>2213</cf>
+				<au_e>2214</au_e>
+			</item>
+			<item>
+				<id>8_2_9</id>
+				<sid>688</sid>
+				<c>对了</c>
+				<e>That's right.</e>
+				<cm>2215</cm>
+				<cf>2216</cf>
+				<au_e>2217</au_e>
+			</item>
+			<item>
+				<id>8_2_10</id>
+				<sid>689</sid>
+				<c>很好</c>
+				<e>Very good</e>
+				<cm>2218</cm>
+				<cf>2219</cf>
+				<au_e>2220</au_e>
+			</item>
+			<item>
+				<id>8_2_11</id>
+				<sid>690</sid>
+				<c>有问题吗？</c>
+				<e>Any questions?</e>
+				<cm>2221</cm>
+				<cf>2222</cf>
+				<au_e>2223</au_e>
+			</item>
+			<item>
+				<id>8_2_12</id>
+				<sid>691</sid>
+				<c>这个字是什么意思？</c>
+				<e>What does this character mean?</e>
+				<cm>2224</cm>
+				<cf>2225</cf>
+				<au_e>2226</au_e>
+			</item>
+			<item>
+				<id>8_2_13</id>
+				<sid>692</sid>
+				<c>请您翻译一下</c>
+				<e>Please translate this sentence.</e>
+				<cm>2227</cm>
+				<cf>2228</cf>
+				<au_e>2229</au_e>
+			</item>
+			<item>
+				<id>8_2_14</id>
+				<sid>693</sid>
+				<c>请您再说一遍。</c>
+				<e>Would you say it again?</e>
+				<cm>2230</cm>
+				<cf>2231</cf>
+				<au_e>2232</au_e>
+			</item>
+			<item>
+				<id>8_2_15</id>
+				<sid>694</sid>
+				<c>请慢一点说。</c>
+				<e>Could you say it a bit more slowly?</e>
+				<cm>2233</cm>
+				<cf>2234</cf>
+				<au_e>2235</au_e>
+			</item>
+			<item>
+				<id>8_2_16</id>
+				<sid>695</sid>
+				<c>听懂了吗？</c>
+				<e>Do you understand?</e>
+				<cm>2236</cm>
+				<cf>2237</cf>
+				<au_e>2238</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>8_3_0</id>
+				<sid></sid>
+				<c>图书馆</c>
+				<e>Library</e>
+				<cm>2239</cm>
+				<cf></cf>
+				<au_e>2240</au_e>
+			</item>
+			<item>
+				<id>8_3_1</id>
+				<sid>696</sid>
+				<c>我想借这本书。</c>
+				<e>I'd like borrow to this book.</e>
+				<cm>2241</cm>
+				<cf>2242</cf>
+				<au_e>2243</au_e>
+			</item>
+			<item>
+				<id>8_3_2</id>
+				<sid>697</sid>
+				<c>一本书能借多长时间？</c>
+				<e>How long can I keep a book?</e>
+				<cm>2244</cm>
+				<cf>2245</cf>
+				<au_e>2246</au_e>
+			</item>
+			<item>
+				<id>8_3_3</id>
+				<sid>698</sid>
+				<c>学生只能借一个月</c>
+				<e>Student can keep a book for a month.</e>
+				<cm>2247</cm>
+				<cf>2248</cf>
+				<au_e>2249</au_e>
+			</item>
+			<item>
+				<id>8_3_4</id>
+				<sid>699</sid>
+				<c>到期还可以续借吗？</c>
+				<e>Can I renew a book when it's due?</e>
+				<cm>2250</cm>
+				<cf>2251</cf>
+				<au_e>2252</au_e>
+			</item>
+			<item>
+				<id>8_3_5</id>
+				<sid>700</sid>
+				<c>过期了怎么办？</c>
+				<e>What if I forget to return the due book?</e>
+				<cm>2253</cm>
+				<cf>2254</cf>
+				<au_e>2255</au_e>
+			</item>
+			<item>
+				<id>8_3_6</id>
+				<sid>701</sid>
+				<c>这儿可以无线上网吗？</c>
+				<e>Do you have wireless access to the Internet here?</e>
+				<cm>2256</cm>
+				<cf>2257</cf>
+				<au_e>2258</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>8_4_0</id>
+				<sid></sid>
+				<c>大学生聊天</c>
+				<e>University Students Chatting</e>
+				<cm>2259</cm>
+				<cf></cf>
+				<au_e>2260</au_e>
+			</item>
+			<item>
+				<id>8_4_1</id>
+				<sid>702</sid>
+				<c>你是哪个系的？</c>
+				<e>Which department are you in?</e>
+				<cm>2261</cm>
+				<cf>2262</cf>
+				<au_e>2263</au_e>
+			</item>
+			<item>
+				<id>8_4_2</id>
+				<sid>703</sid>
+				<c>我是计算机系的。</c>
+				<e>I'm in the computer science department.</e>
+				<cm>2264</cm>
+				<cf>2265</cf>
+				<au_e>2266</au_e>
+			</item>
+			<item>
+				<id>8_4_3</id>
+				<sid>704</sid>
+				<c>你学什么专业？</c>
+				<e>What's your major?</e>
+				<cm>2267</cm>
+				<cf>2268</cf>
+				<au_e>2269</au_e>
+			</item>
+			<item>
+				<id>8_4_4</id>
+				<sid>705</sid>
+				<c>我学经济。</c>
+				<e>I'm major in economics.</e>
+				<cm>2270</cm>
+				<cf>2271</cf>
+				<au_e>2272</au_e>
+			</item>
+			<item>
+				<id>8_4_5</id>
+				<sid>706</sid>
+				<c>你喜欢你的专业吗？</c>
+				<e>Do you like your major?</e>
+				<cm>2273</cm>
+				<cf>2274</cf>
+				<au_e>2275</au_e>
+			</item>
+			<item>
+				<id>8_4_6</id>
+				<sid>707</sid>
+				<c>难不难？</c>
+				<e>Is it difficult?</e>
+				<cm>2276</cm>
+				<cf>2277</cf>
+				<au_e>2278</au_e>
+			</item>
+			<item>
+				<id>8_4_7</id>
+				<sid>708</sid>
+				<c>我们的课很有意思。</c>
+				<e>Our lessons are very interesting.</e>
+				<cm>2279</cm>
+				<cf>2280</cf>
+				<au_e>2281</au_e>
+			</item>
+			<item>
+				<id>8_4_8</id>
+				<sid>709</sid>
+				<c>老师的水平都很高。</c>
+				<e>Our professors are all at a high level of proficiency.</e>
+				<cm>2282</cm>
+				<cf>2283</cf>
+				<au_e>2284</au_e>
+			</item>
+			<item>
+				<id>8_4_9</id>
+				<sid>710</sid>
+				<c>他们都很严格。</c>
+				<e>They are rather strict with us.</e>
+				<cm>2285</cm>
+				<cf>2286</cf>
+				<au_e>2287</au_e>
+			</item>
+			<item>
+				<id>8_4_10</id>
+				<sid>711</sid>
+				<c>有两个人不及格。</c>
+				<e>Two students failed the exam.</e>
+				<cm>2288</cm>
+				<cf>2289</cf>
+				<au_e>2290</au_e>
+			</item>
+			<item>
+				<id>8_4_11</id>
+				<sid>712</sid>
+				<c>可以补考吗？</c>
+				<e>Is there a make up exam?</e>
+				<cm>2291</cm>
+				<cf>2292</cf>
+				<au_e>2293</au_e>
+			</item>
+			<item>
+				<id>8_4_12</id>
+				<sid>713</sid>
+				<c>下次再聊。</c>
+				<e>We can talk more next time.</e>
+				<cm>2294</cm>
+				<cf>2295</cf>
+				<au_e>2296</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>8_5_0</id>
+				<sid></sid>
+				<c>谈论网吧</c>
+				<e>Talking about Internet Bars</e>
+				<cm>2297</cm>
+				<cf></cf>
+				<au_e>2298</au_e>
+			</item>
+			<item>
+				<id>8_5_1</id>
+				<sid>714</sid>
+				<c>哪儿有网吧？</c>
+				<e>Where can I find Internet bar?</e>
+				<cm>2299</cm>
+				<cf>2300</cf>
+				<au_e>2301</au_e>
+			</item>
+			<item>
+				<id>8_5_2</id>
+				<sid>715</sid>
+				<c>我想查查邮件。</c>
+				<e>I want to check my mail.</e>
+				<cm>2302</cm>
+				<cf>2303</cf>
+				<au_e>2304</au_e>
+			</item>
+			<item>
+				<id>8_5_3</id>
+				<sid>716</sid>
+				<c>多少钱一个小时？</c>
+				<e>How much for one hour?</e>
+				<cm>2305</cm>
+				<cf>2306</cf>
+				<au_e>2307</au_e>
+			</item>
+			<item>
+				<id>8_5_4</id>
+				<sid>717</sid>
+				<c>差不多三四块吧</c>
+				<e>Maybe three or four yuan.</e>
+				<cm>2308</cm>
+				<cf>2309</cf>
+				<au_e>2310</au_e>
+			</item>
+			<item>
+				<id>8_5_5</id>
+				<sid>718</sid>
+				<c>你平时在哪儿上网？</c>
+				<e>Where do you go online normally?</e>
+				<cm>2311</cm>
+				<cf>2312</cf>
+				<au_e>2313</au_e>
+			</item>
+			<item>
+				<id>8_5_6</id>
+				<sid>719</sid>
+				<c>我的笔记本电脑突然坏了。</c>
+				<e>My laptop suddenly went down.</e>
+				<cm>2314</cm>
+				<cf>2315</cf>
+				<au_e>2316</au_e>
+			</item>
+			<item>
+				<id>8_5_7</id>
+				<sid>720</sid>
+				<c>我没有安装这个软件。</c>
+				<e>I haven't installed this software</e>
+				<cm>2317</cm>
+				<cf>2318</cf>
+				<au_e>2319</au_e>
+			</item>
+			<item>
+				<id>8_5_8</id>
+				<sid>721</sid>
+				<c>可以免费下载。</c>
+				<e>You can download it free.</e>
+				<cm>2320</cm>
+				<cf>2321</cf>
+				<au_e>2322</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>8_6_0</id>
+				<sid></sid>
+				<c>报名</c>
+				<e>Enronment</e>
+				<cm>2323</cm>
+				<cf></cf>
+				<au_e>2324</au_e>
+			</item>
+			<item>
+				<id>8_6_1</id>
+				<sid>722</sid>
+				<c>下学期他想来这儿学习</c>
+				<e>She wants to study here next semester.</e>
+				<cm>2325</cm>
+				<cf>2326</cf>
+				<au_e>2327</au_e>
+			</item>
+			<item>
+				<id>8_6_2</id>
+				<sid>723</sid>
+				<c>一个学期的学费是多少？</c>
+				<e>What are the tution fees for one semester?</e>
+				<cm>2328</cm>
+				<cf>2329</cf>
+				<au_e>2330</au_e>
+			</item>
+			<item>
+				<id>8_6_3</id>
+				<sid>724</sid>
+				<c>你以前学过汉语吗？</c>
+				<e>Have you studied Chinese before?</e>
+				<cm>2331</cm>
+				<cf>2332</cf>
+				<au_e>2333</au_e>
+			</item>
+			<item>
+				<id>8_6_4</id>
+				<sid>725</sid>
+				<c>我听不懂。</c>
+				<e>I don't understand.</e>
+				<cm>2334</cm>
+				<cf>2335</cf>
+				<au_e>2336</au_e>
+			</item>
+			<item>
+				<id>8_6_5</id>
+				<sid>726</sid>
+				<c>我的汉语不好。</c>
+				<e>My chinese is not good.</e>
+				<cm>2337</cm>
+				<cf>2338</cf>
+				<au_e>2339</au_e>
+			</item>
+			<item>
+				<id>8_6_6</id>
+				<sid>727</sid>
+				<c>我会说一点汉语。</c>
+				<e>I can speak only a little Chinese.</e>
+				<cm>2340</cm>
+				<cf>2341</cf>
+				<au_e>2342</au_e>
+			</item>
+			<item>
+				<id>8_6_7</id>
+				<sid>728</sid>
+				<c>您会说英语吗？</c>
+				<e>Do you speak English?</e>
+				<cm>2343</cm>
+				<cf>2344</cf>
+				<au_e>2345</au_e>
+			</item>
+			<item>
+				<id>8_6_8</id>
+				<sid>729</sid>
+				<c>什么时候开学？</c>
+				<e>When does the semester begin?</e>
+				<cm>2346</cm>
+				<cf>2347</cf>
+				<au_e>2348</au_e>
+			</item>
+			<item>
+				<id>8_6_9</id>
+				<sid>730</sid>
+				<c>九月一日报到。</c>
+				<e>Students are supposed to register on Sep 1st.</e>
+				<cm>2349</cm>
+				<cf>2350</cf>
+				<au_e>2351</au_e>
+			</item>
+			<item>
+				<id>8_6_10</id>
+				<sid>731</sid>
+				<c>我报名</c>
+				<e>I'd like to enroll</e>
+				<cm>2352</cm>
+				<cf>2353</cf>
+				<au_e>2354</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>9_0_0</id>
+			<sid></sid>
+			<c>娱乐</c>
+			<e>Recreation</e>
+			<cm>2355</cm>
+			<cf></cf>
+			<au_e>2356</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>9_1_0</id>
+				<sid></sid>
+				<c>在酒吧</c>
+				<e>In the bar</e>
+				<cm>2357</cm>
+				<cf></cf>
+				<au_e>2358</au_e>
+			</item>
+			<item>
+				<id>9_1_1</id>
+				<sid>732</sid>
+				<c>坐这儿行吗？</c>
+				<e>Is this seat OK?</e>
+				<cm>2359</cm>
+				<cf>2360</cf>
+				<au_e>2361</au_e>
+			</item>
+			<item>
+				<id>9_1_2</id>
+				<sid>733</sid>
+				<c>这儿真舒服.</c>
+				<e>It's so comfortable here.</e>
+				<cm>2362</cm>
+				<cf>2363</cf>
+				<au_e>2364</au_e>
+			</item>
+			<item>
+				<id>9_1_3</id>
+				<sid>734</sid>
+				<c>我喜欢它的风格。</c>
+				<e>I like the decor.</e>
+				<cm>2365</cm>
+				<cf>2366</cf>
+				<au_e>2367</au_e>
+			</item>
+			<item>
+				<id>9_1_4</id>
+				<sid>735</sid>
+				<c>这儿能吸烟吗？</c>
+				<e>May I smoke here?</e>
+				<cm>2368</cm>
+				<cf>2369</cf>
+				<au_e>2370</au_e>
+			</item>
+			<item>
+				<id>9_1_5</id>
+				<sid>736</sid>
+				<c>我们不吸烟。</c>
+				<e>We don't smoke.</e>
+				<cm>2371</cm>
+				<cf>2372</cf>
+				<au_e>2373</au_e>
+			</item>
+			<item>
+				<id>9_1_6</id>
+				<sid>737</sid>
+				<c>你想去外边坐一会儿吗？</c>
+				<e>How about sit outside for a little while？</e>
+				<cm>2374</cm>
+				<cf>2375</cf>
+				<au_e>2376</au_e>
+			</item>
+			<item>
+				<id>9_1_7</id>
+				<sid>738</sid>
+				<c>打开窗户行吗？</c>
+				<e>Do you mind if I open the window?</e>
+				<cm>2377</cm>
+				<cf>2378</cf>
+				<au_e>2379</au_e>
+			</item>
+			<item>
+				<id>9_1_8</id>
+				<sid>739</sid>
+				<c>行</c>
+				<e>Go ahead.</e>
+				<cm>2380</cm>
+				<cf>2381</cf>
+				<au_e>2382</au_e>
+			</item>
+			<item>
+				<id>9_1_9</id>
+				<sid>740</sid>
+				<c>你喝什么？</c>
+				<e>What would you like to drink？</e>
+				<cm>2383</cm>
+				<cf>2384</cf>
+				<au_e>2385</au_e>
+			</item>
+			<item>
+				<id>9_1_10</id>
+				<sid>741</sid>
+				<c>你们有什么果汁？</c>
+				<e>What fruit juice do you have?</e>
+				<cm>2386</cm>
+				<cf>2387</cf>
+				<au_e>2388</au_e>
+			</item>
+			<item>
+				<id>9_1_11</id>
+				<sid>742</sid>
+				<c>非常适合女孩子</c>
+				<e>It's very popular with the girls.</e>
+				<cm>2389</cm>
+				<cf>2390</cf>
+				<au_e>2391</au_e>
+			</item>
+			<item>
+				<id>9_1_12</id>
+				<sid>743</sid>
+				<c>想不想试试？</c>
+				<e>Do you want to have a try?</e>
+				<cm>2392</cm>
+				<cf>2393</cf>
+				<au_e>2394</au_e>
+			</item>
+			<item>
+				<id>9_1_13</id>
+				<sid>744</sid>
+				<c>要小杯的。</c>
+				<e>A small glass, please.</e>
+				<cm>2395</cm>
+				<cf>2396</cf>
+				<au_e>2397</au_e>
+			</item>
+			<item>
+				<id>9_1_14</id>
+				<sid>745</sid>
+				<c>不加糖</c>
+				<e>No sugar, please.</e>
+				<cm>2398</cm>
+				<cf>2399</cf>
+				<au_e>2400</au_e>
+			</item>
+			<item>
+				<id>9_1_15</id>
+				<sid>746</sid>
+				<c>今天是情人节。</c>
+				<e>It's Valentine's day today.</e>
+				<cm>2401</cm>
+				<cf>2402</cf>
+				<au_e>2403</au_e>
+			</item>
+			<item>
+				<id>9_1_16</id>
+				<sid>747</sid>
+				<c>今天有什么表演？</c>
+				<e>Is there a performance today?</e>
+				<cm>2404</cm>
+				<cf>2405</cf>
+				<au_e>2406</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>9_2_0</id>
+				<sid></sid>
+				<c>在迪厅</c>
+				<e>In the Disco</e>
+				<cm>2407</cm>
+				<cf></cf>
+				<au_e>2408</au_e>
+			</item>
+			<item>
+				<id>9_2_1</id>
+				<sid>748</sid>
+				<c>咱们去跳舞吧。</c>
+				<e>How about going dancing with me？</e>
+				<cm>2409</cm>
+				<cf>2410</cf>
+				<au_e>2411</au_e>
+			</item>
+			<item>
+				<id>9_2_2</id>
+				<sid>749</sid>
+				<c>我真的不想去。</c>
+				<e>I really don't want to go.</e>
+				<cm>2412</cm>
+				<cf>2413</cf>
+				<au_e>2414</au_e>
+			</item>
+			<item>
+				<id>9_2_3</id>
+				<sid>750</sid>
+				<c>音乐太响了。</c>
+				<e>The music is too loud.</e>
+				<cm>2415</cm>
+				<cf>2416</cf>
+				<au_e>2417</au_e>
+			</item>
+			<item>
+				<id>9_2_4</id>
+				<sid>751</sid>
+				<c>今天是周末。放松一下吧。</c>
+				<e>Anyway, it's the weekend. Let's relax.</e>
+				<cm>2418</cm>
+				<cf>2419</cf>
+				<au_e>2420</au_e>
+			</item>
+			<item>
+				<id>9_2_5</id>
+				<sid>752</sid>
+				<c>这里的气氛很好。</c>
+				<e>The atmosphere is very nice here.</e>
+				<cm>2421</cm>
+				<cf>2422</cf>
+				<au_e>2423</au_e>
+			</item>
+			<item>
+				<id>9_2_6</id>
+				<sid>753</sid>
+				<c>那个歌手很受欢迎。</c>
+				<e>That singer is very popular.</e>
+				<cm>2424</cm>
+				<cf>2425</cf>
+				<au_e>2426</au_e>
+			</item>
+			<item>
+				<id>9_2_7</id>
+				<sid>754</sid>
+				<c>我认识他</c>
+				<e>I know him.</e>
+				<cm>2427</cm>
+				<cf>2428</cf>
+				<au_e>2429</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>9_3_0</id>
+				<sid></sid>
+				<c>在电影院</c>
+				<e>At the Movie Theater</e>
+				<cm>2430</cm>
+				<cf></cf>
+				<au_e>2431</au_e>
+			</item>
+			<item>
+				<id>9_3_1</id>
+				<sid>755</sid>
+				<c>请问电影几点开演？</c>
+				<e>When does the movie begin?</e>
+				<cm>2432</cm>
+				<cf>2433</cf>
+				<au_e>2434</au_e>
+			</item>
+			<item>
+				<id>9_3_2</id>
+				<sid>756</sid>
+				<c>最早的一场是下午四点。</c>
+				<e>The earliest show is at 4 in the afternoon.</e>
+				<cm>2435</cm>
+				<cf>2436</cf>
+				<au_e>2437</au_e>
+			</item>
+			<item>
+				<id>9_3_3</id>
+				<sid>757</sid>
+				<c>门口有一个小卖部。</c>
+				<e>There is a snack bar at the entrance.</e>
+				<cm>2438</cm>
+				<cf>2439</cf>
+				<au_e>2440</au_e>
+			</item>
+			<item>
+				<id>9_3_4</id>
+				<sid>758</sid>
+				<c>你觉得这部片子怎么样？</c>
+				<e>What do you think of this movie?</e>
+				<cm>2441</cm>
+				<cf>2442</cf>
+				<au_e>2443</au_e>
+			</item>
+			<item>
+				<id>9_3_5</id>
+				<sid>759</sid>
+				<c>太感人了</c>
+				<e>It's so touching.</e>
+				<cm>2444</cm>
+				<cf>2445</cf>
+				<au_e>2446</au_e>
+			</item>
+			<item>
+				<id>9_3_6</id>
+				<sid>760</sid>
+				<c>我都哭了</c>
+				<e>I even cried.</e>
+				<cm>2447</cm>
+				<cf>2448</cf>
+				<au_e>2449</au_e>
+			</item>
+			<item>
+				<id>9_3_7</id>
+				<sid>761</sid>
+				<c>没有想象的那么好</c>
+				<e>Not as good as I had thought.</e>
+				<cm>2450</cm>
+				<cf>2451</cf>
+				<au_e>2452</au_e>
+			</item>
+			<item>
+				<id>9_3_8</id>
+				<sid>762</sid>
+				<c>马马虎虎</c>
+				<e>Just so so.</e>
+				<cm>2453</cm>
+				<cf>2454</cf>
+				<au_e>2455</au_e>
+			</item>
+			<item>
+				<id>9_3_9</id>
+				<sid>763</sid>
+				<c>画面非常漂亮。</c>
+				<e>The cinematography is extremely beautiful.</e>
+				<cm>2456</cm>
+				<cf>2457</cf>
+				<au_e>2458</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>9_4_0</id>
+				<sid></sid>
+				<c>在卡拉OK</c>
+				<e>At Karaoke Bar</e>
+				<cm>2459</cm>
+				<cf></cf>
+				<au_e>2460</au_e>
+			</item>
+			<item>
+				<id>9_4_1</id>
+				<sid>764</sid>
+				<c>请问三号包间在哪儿？</c>
+				<e>Excuse me, where is booth No. 3?</e>
+				<cm>2461</cm>
+				<cf>2462</cf>
+				<au_e>2463</au_e>
+			</item>
+			<item>
+				<id>9_4_2</id>
+				<sid>765</sid>
+				<c>我刚点了一首英文歌</c>
+				<e>I just select an English song.</e>
+				<cm>2464</cm>
+				<cf>2465</cf>
+				<au_e>2466</au_e>
+			</item>
+			<item>
+				<id>9_4_3</id>
+				<sid>766</sid>
+				<c>咱们一起唱吧。</c>
+				<e>Let's sing together.</e>
+				<cm>2467</cm>
+				<cf>2468</cf>
+				<au_e>2469</au_e>
+			</item>
+			<item>
+				<id>9_4_4</id>
+				<sid>767</sid>
+				<c>你会唱法文歌吗？</c>
+				<e>Can you sing Franch songs?</e>
+				<cm>2470</cm>
+				<cf>2471</cf>
+				<au_e>2472</au_e>
+			</item>
+			<item>
+				<id>9_4_5</id>
+				<sid>768</sid>
+				<c>这首歌最近特别流行。</c>
+				<e>This song has been very popular recently.</e>
+				<cm>2473</cm>
+				<cf>2474</cf>
+				<au_e>2475</au_e>
+			</item>
+			<item>
+				<id>9_4_6</id>
+				<sid>769</sid>
+				<c>你最喜欢的歌手是谁？</c>
+				<e>Who is your favorite singer?</e>
+				<cm>2476</cm>
+				<cf>2477</cf>
+				<au_e>2478</au_e>
+			</item>
+			<item>
+				<id>9_4_7</id>
+				<sid>770</sid>
+				<c>这位歌星有很多歌谜。</c>
+				<e>This singer has many fans.</e>
+				<cm>2479</cm>
+				<cf>2480</cf>
+				<au_e>2481</au_e>
+			</item>
+			<item>
+				<id>9_4_8</id>
+				<sid>771</sid>
+				<c>我喜欢听歌，但是不喜欢唱歌。</c>
+				<e>I like listening, but not singing.</e>
+				<cm>2482</cm>
+				<cf>2483</cf>
+				<au_e>2484</au_e>
+			</item>
+			<item>
+				<id>9_4_9</id>
+				<sid>772</sid>
+				<c>你平时喜欢听什么音乐？</c>
+				<e>What music do you like?</e>
+				<cm>2485</cm>
+				<cf>2486</cf>
+				<au_e>2487</au_e>
+			</item>
+			<item>
+				<id>9_4_10</id>
+				<sid>773</sid>
+				<c>有时听民歌，有时听流行歌曲。</c>
+				<e>Sometimes I listen to Chinese folk music and sometimes pop music.
+				</e>
+				<cm>2488</cm>
+				<cf>2489</cf>
+				<au_e>2490</au_e>
+			</item>
+			<item>
+				<id>9_4_11</id>
+				<sid>774</sid>
+				<c>我就爱听摇滚乐</c>
+				<e>I like rock and roll very much.</e>
+				<cm>2491</cm>
+				<cf>2492</cf>
+				<au_e>2493</au_e>
+			</item>
+			<item>
+				<id>9_4_12</id>
+				<sid>775</sid>
+				<c>萝卜白菜，各有所爱。</c>
+				<e>Different strokes for different folks.</e>
+				<cm>2494</cm>
+				<cf>2495</cf>
+				<au_e>2496</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>9_5_0</id>
+				<sid></sid>
+				<c>看演出</c>
+				<e>Attending a Performance</e>
+				<cm>2497</cm>
+				<cf></cf>
+				<au_e>2498</au_e>
+			</item>
+			<item>
+				<id>9_5_1</id>
+				<sid>776</sid>
+				<c>你是在哪儿买的？</c>
+				<e>Where did you buy it?</e>
+				<cm>2499</cm>
+				<cf>2500</cf>
+				<au_e>2501</au_e>
+			</item>
+			<item>
+				<id>9_5_2</id>
+				<sid>777</sid>
+				<c>我是在网上订的</c>
+				<e>I booked it online.</e>
+				<cm>2502</cm>
+				<cf>2503</cf>
+				<au_e>2504</au_e>
+			</item>
+			<item>
+				<id>9_5_3</id>
+				<sid>778</sid>
+				<c>她最喜欢看杂技。</c>
+				<e>She likes watching acrobatic shows most.</e>
+				<cm>2505</cm>
+				<cf>2506</cf>
+				<au_e>2507</au_e>
+			</item>
+			<item>
+				<id>9_5_4</id>
+				<sid>779</sid>
+				<c>剧场离这儿远不远？</c>
+				<e>Is that theater far from here?</e>
+				<cm>2508</cm>
+				<cf>2509</cf>
+				<au_e>2510</au_e>
+			</item>
+			<item>
+				<id>9_5_5</id>
+				<sid>780</sid>
+				<c>半个小时能到吗？</c>
+				<e>Can we get there in half an hour?</e>
+				<cm>2511</cm>
+				<cf>2512</cf>
+				<au_e>2513</au_e>
+			</item>
+			<item>
+				<id>9_5_6</id>
+				<sid>781</sid>
+				<c>我们得早点去。</c>
+				<e>We'd better set out early.</e>
+				<cm>2514</cm>
+				<cf>2515</cf>
+				<au_e>2516</au_e>
+			</item>
+			<item>
+				<id>9_5_7</id>
+				<sid>782</sid>
+				<c>吃完饭就该出发了</c>
+				<e>Let's get going right after the meal.</e>
+				<cm>2517</cm>
+				<cf>2518</cf>
+				<au_e>2519</au_e>
+			</item>
+			<item>
+				<id>9_5_8</id>
+				<sid>783</sid>
+				<c>请问这是第几排？</c>
+				<e>Excuse me, which row is it?</e>
+				<cm>2520</cm>
+				<cf>2521</cf>
+				<au_e>2522</au_e>
+			</item>
+			<item>
+				<id>9_5_9</id>
+				<sid>784</sid>
+				<c>他们演得很好</c>
+				<e>It's a great performance.</e>
+				<cm>2523</cm>
+				<cf>2524</cf>
+				<au_e>2525</au_e>
+			</item>
+			<item>
+				<id>9_5_10</id>
+				<sid>785</sid>
+				<c>你喜欢就好。</c>
+				<e>As long as you like it.</e>
+				<cm>2526</cm>
+				<cf>2527</cf>
+				<au_e>2528</au_e>
+			</item>
+			<item>
+				<id>9_5_11</id>
+				<sid>786</sid>
+				<c>我爱你</c>
+				<e>I love you.</e>
+				<cm>2529</cm>
+				<cf>2530</cf>
+				<au_e>2531</au_e>
+			</item>
+			<item>
+				<id>9_5_12</id>
+				<sid>787</sid>
+				<c>别说这个了。</c>
+				<e>Don't mention it any more.</e>
+				<cm>2532</cm>
+				<cf>2533</cf>
+				<au_e>2534</au_e>
+			</item>
+			<item>
+				<id>9_5_13</id>
+				<sid>788</sid>
+				<c>再给我一点时间。</c>
+				<e>Give me some more time.</e>
+				<cm>2535</cm>
+				<cf>2536</cf>
+				<au_e>2537</au_e>
+			</item>
+			<item>
+				<id>9_5_14</id>
+				<sid>789</sid>
+				<c>我还没想好。</c>
+				<e>I haven't decided yet.</e>
+				<cm>2538</cm>
+				<cf>2539</cf>
+				<au_e>2540</au_e>
+			</item>
+			<item>
+				<id>9_5_15</id>
+				<sid>790</sid>
+				<c>我太高兴了。</c>
+				<e>I'm so happy.</e>
+				<cm>2541</cm>
+				<cf>2542</cf>
+				<au_e>2543</au_e>
+			</item>
+			<item>
+				<id>9_5_16</id>
+				<sid>791</sid>
+				<c>我不同意。</c>
+				<e>I disagree.</e>
+				<cm>2544</cm>
+				<cf>2545</cf>
+				<au_e>2546</au_e>
+			</item>
+			<item>
+				<id>9_5_17</id>
+				<sid>792</sid>
+				<c>还不如在家听CD呢。</c>
+				<e>Listening to a CD at home is even better.</e>
+				<cm>2547</cm>
+				<cf>2548</cf>
+				<au_e>2549</au_e>
+			</item>
+			<item>
+				<id>9_5_18</id>
+				<sid>793</sid>
+				<c>现场的效果完全不一样。</c>
+				<e>Seeling it live will be totally different.</e>
+				<cm>2550</cm>
+				<cf>2551</cf>
+				<au_e>2552</au_e>
+			</item>
+			<item>
+				<id>9_5_19</id>
+				<sid>794</sid>
+				<c>就是</c>
+				<e>You're right.</e>
+				<cm>2553</cm>
+				<cf>2554</cf>
+				<au_e>2555</au_e>
+			</item>
+			<item>
+				<id>9_5_20</id>
+				<sid>795</sid>
+				<c>那可不一定。</c>
+				<e>That's not necessary true.</e>
+				<cm>2556</cm>
+				<cf>2557</cf>
+				<au_e>2558</au_e>
+			</item>
+			<item>
+				<id>9_5_21</id>
+				<sid>796</sid>
+				<c>车来了。</c>
+				<e>Here comes the car.</e>
+				<cm>2559</cm>
+				<cf>2560</cf>
+				<au_e>2561</au_e>
+			</item>
+			<item>
+				<id>9_5_22</id>
+				<sid>797</sid>
+				<c>我能跟你合个影吗？</c>
+				<e>Could I take a picture with you?</e>
+				<cm>2562</cm>
+				<cf>2563</cf>
+				<au_e>2564</au_e>
+			</item>
+			<item>
+				<id>9_5_23</id>
+				<sid>798</sid>
+				<c>我得到他的签名了。</c>
+				<e>I've got his autograph.</e>
+				<cm>2565</cm>
+				<cf>2566</cf>
+				<au_e>2567</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>9_6_0</id>
+				<sid></sid>
+				<c>看京剧</c>
+				<e>Watching Peking Opera</e>
+				<cm>2568</cm>
+				<cf></cf>
+				<au_e>2569</au_e>
+			</item>
+			<item>
+				<id>9_6_1</id>
+				<sid>799</sid>
+				<c>我请你去看京剧</c>
+				<e>How about watching Peking Opera with me, my treat.</e>
+				<cm>2570</cm>
+				<cf>2571</cf>
+				<au_e>2572</au_e>
+			</item>
+			<item>
+				<id>9_6_2</id>
+				<sid>800</sid>
+				<c>真的吗？</c>
+				<e>Really?</e>
+				<cm>2573</cm>
+				<cf>2574</cf>
+				<au_e>2575</au_e>
+			</item>
+			<item>
+				<id>9_6_3</id>
+				<sid>801</sid>
+				<c>太好了。</c>
+				<e>Great!</e>
+				<cm>2576</cm>
+				<cf>2577</cf>
+				<au_e>2578</au_e>
+			</item>
+			<item>
+				<id>9_6_4</id>
+				<sid>802</sid>
+				<c>好主意。</c>
+				<e>Good idea.</e>
+				<cm>2579</cm>
+				<cf>2580</cf>
+				<au_e>2581</au_e>
+			</item>
+			<item>
+				<id>9_6_5</id>
+				<sid>803</sid>
+				<c>我还没看过京剧呢.</c>
+				<e>I never watched Peking opera before.</e>
+				<cm>2582</cm>
+				<cf>2583</cf>
+				<au_e>2584</au_e>
+			</item>
+			<item>
+				<id>9_6_6</id>
+				<sid>804</sid>
+				<c>有没有字幕?</c>
+				<e>Are there subtitles?</e>
+				<cm>2585</cm>
+				<cf>2586</cf>
+				<au_e>2587</au_e>
+			</item>
+			<item>
+				<id>9_6_7</id>
+				<sid>805</sid>
+				<c>我怕听不懂.</c>
+				<e>I‘m afraid I won't be able to understand what they're saying .
+				</e>
+				<cm>2588</cm>
+				<cf>2589</cf>
+				<au_e>2590</au_e>
+			</item>
+			<item>
+				<id>9_6_8</id>
+				<sid>806</sid>
+				<c>不会有问题的。</c>
+				<e>You won't have any problem.</e>
+				<cm>2591</cm>
+				<cf>2592</cf>
+				<au_e>2593</au_e>
+			</item>
+			<item>
+				<id>9_6_9</id>
+				<sid>807</sid>
+				<c>我要回去换件衣服。</c>
+				<e>I want to go back and get changed.</e>
+				<cm>2594</cm>
+				<cf>2595</cf>
+				<au_e>2596</au_e>
+			</item>
+			<item>
+				<id>9_6_10</id>
+				<sid>808</sid>
+				<c>你能等我一会儿吗？</c>
+				<e>Wait a minute, please.</e>
+				<cm>2597</cm>
+				<cf>2598</cf>
+				<au_e>2599</au_e>
+			</item>
+			<item>
+				<id>9_6_11</id>
+				<sid>809</sid>
+				<c>我马上就来。</c>
+				<e>I'll be there soon.</e>
+				<cm>2600</cm>
+				<cf>2601</cf>
+				<au_e>2602</au_e>
+			</item>
+			<item>
+				<id>9_6_12</id>
+				<sid>810</sid>
+				<c>不见不散</c>
+				<e>I'll wait until you come.</e>
+				<cm>2603</cm>
+				<cf>2604</cf>
+				<au_e>2605</au_e>
+			</item>
+			<item>
+				<id>9_6_13</id>
+				<sid>811</sid>
+				<c>我们的座位在哪里？</c>
+				<e>Could you tell me where our seats are?</e>
+				<cm>2606</cm>
+				<cf>2607</cf>
+				<au_e>2608</au_e>
+			</item>
+			<item>
+				<id>9_6_14</id>
+				<sid>812</sid>
+				<c>今天的演员都非常有名。</c>
+				<e>The performancers today are all very famous.</e>
+				<cm>2609</cm>
+				<cf>2610</cf>
+				<au_e>2611</au_e>
+			</item>
+			<item>
+				<id>9_6_15</id>
+				<sid>813</sid>
+				<c>演出就要开始了。</c>
+				<e>The show will start soon.</e>
+				<cm>2612</cm>
+				<cf>2613</cf>
+				<au_e>2614</au_e>
+			</item>
+			<item>
+				<id>9_6_16</id>
+				<sid>814</sid>
+				<c>咱们把手机关了吧。</c>
+				<e>Let's turn off our cell phones.</e>
+				<cm>2615</cm>
+				<cf>2616</cf>
+				<au_e>2617</au_e>
+			</item>
+			<item>
+				<id>9_6_17</id>
+				<sid>815</sid>
+				<c>多漂亮的脸谱。</c>
+				<e>What beautiful painted faces.</e>
+				<cm>2618</cm>
+				<cf>2619</cf>
+				<au_e>2620</au_e>
+			</item>
+			<item>
+				<id>9_6_18</id>
+				<sid>816</sid>
+				<c>太棒了</c>
+				<e>Great!</e>
+				<cm>2621</cm>
+				<cf>2622</cf>
+				<au_e>2623</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>9_7_0</id>
+				<sid></sid>
+				<c>在博物馆</c>
+				<e>At the Museum</e>
+				<cm>2624</cm>
+				<cf></cf>
+				<au_e>2625</au_e>
+			</item>
+			<item>
+				<id>9_7_1</id>
+				<sid>817</sid>
+				<c>等一下</c>
+				<e>Just a moment.</e>
+				<cm>2626</cm>
+				<cf>2627</cf>
+				<au_e>2628</au_e>
+			</item>
+			<item>
+				<id>9_7_2</id>
+				<sid>818</sid>
+				<c>我把相机拿出来。</c>
+				<e>I'll take out my camera.</e>
+				<cm>2629</cm>
+				<cf>2630</cf>
+				<au_e>2631</au_e>
+			</item>
+			<item>
+				<id>9_7_3</id>
+				<sid>819</sid>
+				<c>这儿可以拍照吗？</c>
+				<e>Is photography permitted here?</e>
+				<cm>2632</cm>
+				<cf>2633</cf>
+				<au_e>2634</au_e>
+			</item>
+			<item>
+				<id>9_7_4</id>
+				<sid>820</sid>
+				<c>请不要使用闪光灯。</c>
+				<e>Please don't use a flash.</e>
+				<cm>2635</cm>
+				<cf>2636</cf>
+				<au_e>2637</au_e>
+			</item>
+			<item>
+				<id>9_7_5</id>
+				<sid>821</sid>
+				<c>有解说员吗？</c>
+				<e>Is there a guide available?</e>
+				<cm>2638</cm>
+				<cf>2639</cf>
+				<au_e>2640</au_e>
+			</item>
+			<item>
+				<id>9_7_6</id>
+				<sid>822</sid>
+				<c>每半个小时一次</c>
+				<e>Once every half hour.</e>
+				<cm>2641</cm>
+				<cf>2642</cf>
+				<au_e>2643</au_e>
+			</item>
+			<item>
+				<id>9_7_7</id>
+				<sid>823</sid>
+				<c>最近还有什么新展览？</c>
+				<e>Are there any new exhibitons?</e>
+				<cm>2644</cm>
+				<cf>2645</cf>
+				<au_e>2646</au_e>
+			</item>
+			<item>
+				<id>9_7_8</id>
+				<sid>824</sid>
+				<c>你们博物馆有网站吗？</c>
+				<e>Does you museum have a website?</e>
+				<cm>2647</cm>
+				<cf>2648</cf>
+				<au_e>2649</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<topic>
+		<item>
+			<id>10_0_0</id>
+			<sid></sid>
+			<c>运动</c>
+			<e>Sports</e>
+			<cm>2651</cm>
+			<cf></cf>
+			<au_e>2653</au_e>
+		</item>
+		<chapter>
+			<item>
+				<id>10_1_0</id>
+				<sid></sid>
+				<c>晨练</c>
+				<e>Morning exercise</e>
+				<cm>2654</cm>
+				<cf></cf>
+				<au_e>2655</au_e>
+			</item>
+			<item>
+				<id>10_1_1</id>
+				<sid>825</sid>
+				<c>该起床了。</c>
+				<e>Time to get up.</e>
+				<cm>2656</cm>
+				<cf>2657</cf>
+				<au_e>2658</au_e>
+			</item>
+			<item>
+				<id>10_1_2</id>
+				<sid>826</sid>
+				<c>别睡了。</c>
+				<e>Wake up.</e>
+				<cm>2659</cm>
+				<cf>2660</cf>
+				<au_e>2661</au_e>
+			</item>
+			<item>
+				<id>10_1_3</id>
+				<sid>827</sid>
+				<c>我还困着呢。</c>
+				<e>I'm still sleepy.</e>
+				<cm>2662</cm>
+				<cf>2663</cf>
+				<au_e>2664</au_e>
+			</item>
+			<item>
+				<id>10_1_4</id>
+				<sid>828</sid>
+				<c>我要洗个澡。</c>
+				<e>I want to take a shower.</e>
+				<cm>2665</cm>
+				<cf>2666</cf>
+				<au_e>2667</au_e>
+			</item>
+			<item>
+				<id>10_1_5</id>
+				<sid>829</sid>
+				<c>早上的空气真好。</c>
+				<e>The air is so fresh in the morning.</e>
+				<cm>2668</cm>
+				<cf>2669</cf>
+				<au_e>2670</au_e>
+			</item>
+			<item>
+				<id>10_1_6</id>
+				<sid>830</sid>
+				<c>我们去散散步吧。</c>
+				<e>Let's go for a walk.</e>
+				<cm>2671</cm>
+				<cf>2672</cf>
+				<au_e>2673</au_e>
+			</item>
+			<item>
+				<id>10_1_7</id>
+				<sid>831</sid>
+				<c>您练了多久了？</c>
+				<e>How long have you been practicing?</e>
+				<cm>2674</cm>
+				<cf>2675</cf>
+				<au_e>2676</au_e>
+			</item>
+			<item>
+				<id>10_1_8</id>
+				<sid>832</sid>
+				<c>我天天都来。</c>
+				<e>I come here everyday.</e>
+				<cm>2677</cm>
+				<cf>2678</cf>
+				<au_e>2679</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>10_2_0</id>
+				<sid></sid>
+				<c>健康与锻炼</c>
+				<e>Health and Exercise</e>
+				<cm>2680</cm>
+				<cf></cf>
+				<au_e>2681</au_e>
+			</item>
+			<item>
+				<id>10_2_1</id>
+				<sid>833</sid>
+				<c>你喜欢什么运动？</c>
+				<e>What's your favorite sport?</e>
+				<cm>2682</cm>
+				<cf>2683</cf>
+				<au_e>2684</au_e>
+			</item>
+			<item>
+				<id>10_2_2</id>
+				<sid>834</sid>
+				<c>我个子不高，可是我喜欢打篮球。</c>
+				<e>I'm not tall, but I'd like to play basketball.</e>
+				<cm>2685</cm>
+				<cf>2686</cf>
+				<au_e>2687</au_e>
+			</item>
+			<item>
+				<id>10_2_3</id>
+				<sid>835</sid>
+				<c>您经常锻炼吗？</c>
+				<e>Do you often exercise?</e>
+				<cm>2688</cm>
+				<cf>2689</cf>
+				<au_e>2690</au_e>
+			</item>
+			<item>
+				<id>10_2_4</id>
+				<sid>836</sid>
+				<c>您多长时间锻炼一次？</c>
+				<e>How often do you exercise?</e>
+				<cm>2691</cm>
+				<cf>2692</cf>
+				<au_e>2693</au_e>
+			</item>
+			<item>
+				<id>10_2_5</id>
+				<sid>837</sid>
+				<c>几乎没有时间锻炼。</c>
+				<e>I don't really have time to exercise.</e>
+				<cm>2694</cm>
+				<cf>2695</cf>
+				<au_e>2696</au_e>
+			</item>
+			<item>
+				<id>10_2_6</id>
+				<sid>838</sid>
+				<c>最近事情很多。</c>
+				<e>I've been busy recently.</e>
+				<cm>2697</cm>
+				<cf>2698</cf>
+				<au_e>2699</au_e>
+			</item>
+			<item>
+				<id>10_2_7</id>
+				<sid>839</sid>
+				<c>我下班以后也挺忙的。</c>
+				<e>I'm also busy after work.</e>
+				<cm>2700</cm>
+				<cf>2701</cf>
+				<au_e>2702</au_e>
+			</item>
+			<item>
+				<id>10_2_8</id>
+				<sid>840</sid>
+				<c>睡得太少。</c>
+				<e>I havn't got much sleep.</e>
+				<cm>2703</cm>
+				<cf>2704</cf>
+				<au_e>2705</au_e>
+			</item>
+			<item>
+				<id>10_2_9</id>
+				<sid>841</sid>
+				<c>这个月又胖了。</c>
+				<e>I put some weight back on against this month.</e>
+				<cm>2706</cm>
+				<cf>2707</cf>
+				<au_e>2708</au_e>
+			</item>
+			<item>
+				<id>10_2_10</id>
+				<sid>842</sid>
+				<c>我想减肥。</c>
+				<e>I want to lose weight.</e>
+				<cm>2709</cm>
+				<cf>2710</cf>
+				<au_e>2711</au_e>
+			</item>
+			<item>
+				<id>10_2_11</id>
+				<sid>843</sid>
+				<c>什么方法最有效?</c>
+				<e>Which method do you think works best?</e>
+				<cm>2712</cm>
+				<cf>2713</cf>
+				<au_e>2714</au_e>
+			</item>
+			<item>
+				<id>10_2_12</id>
+				<sid>844</sid>
+				<c>每个人的情况不一样。</c>
+				<e>It varies from person to person.</e>
+				<cm>2715</cm>
+				<cf>2716</cf>
+				<au_e>2717</au_e>
+			</item>
+			<item>
+				<id>10_2_13</id>
+				<sid>845</sid>
+				<c>最重要的是坚持。</c>
+				<e>The most important thing is to keep at it.</e>
+				<cm>2718</cm>
+				<cf>2719</cf>
+				<au_e>2720</au_e>
+			</item>
+			<item>
+				<id>10_2_14</id>
+				<sid>846</sid>
+				<c>你想玩什么？</c>
+				<e>What would you like to play?</e>
+				<cm>2721</cm>
+				<cf>2722</cf>
+				<au_e>2723</au_e>
+			</item>
+			<item>
+				<id>10_2_15</id>
+				<sid>847</sid>
+				<c>好久没打网球了。</c>
+				<e>It has been a long time since I played tennis.</e>
+				<cm>2724</cm>
+				<cf>2725</cf>
+				<au_e>2726</au_e>
+			</item>
+			<item>
+				<id>10_2_16</id>
+				<sid>848</sid>
+				<c>好学吗？</c>
+				<e>Is it easy to learn?</e>
+				<cm>2727</cm>
+				<cf>2728</cf>
+				<au_e>2729</au_e>
+			</item>
+			<item>
+				<id>10_2_17</id>
+				<sid>849</sid>
+				<c>我一点基础都没有。</c>
+				<e>I haven't the slightest experience.</e>
+				<cm>2730</cm>
+				<cf>2731</cf>
+				<au_e>2732</au_e>
+			</item>
+			<item>
+				<id>10_2_18</id>
+				<sid>850</sid>
+				<c>初级班挺简单的。</c>
+				<e>The beginner class is quite easy.</e>
+				<cm>2733</cm>
+				<cf>2734</cf>
+				<au_e>2735</au_e>
+			</item>
+			<item>
+				<id>10_2_19</id>
+				<sid>851</sid>
+				<c>要不要叫小杨一起去</c>
+				<e>Shall we ask XiaoYang to come with us?</e>
+				<cm>2736</cm>
+				<cf>2737</cf>
+				<au_e>2738</au_e>
+			</item>
+			<item>
+				<id>10_2_20</id>
+				<sid>852</sid>
+				<c>她的网球打得好吗？</c>
+				<e>Is she good at tennis?</e>
+				<cm>2739</cm>
+				<cf>2740</cf>
+				<au_e>2741</au_e>
+			</item>
+			<item>
+				<id>10_2_21</id>
+				<sid>853</sid>
+				<c>我们再约时间吧。</c>
+				<e>Let's do this again sometime.</e>
+				<cm>2742</cm>
+				<cf>2743</cf>
+				<au_e>2744</au_e>
+			</item>
+			<item>
+				<id>10_2_22</id>
+				<sid>854</sid>
+				<c>我想订明天的网球场。</c>
+				<e>I'd like to book a tennis court for tomorrow.</e>
+				<cm>2746</cm>
+				<cf>2747</cf>
+				<au_e>2748</au_e>
+			</item>
+			<item>
+				<id>10_2_23</id>
+				<sid>855</sid>
+				<c>什么时间？</c>
+				<e>What time?</e>
+				<cm>2749</cm>
+				<cf>2750</cf>
+				<au_e>2751</au_e>
+			</item>
+			<item>
+				<id>10_2_24</id>
+				<sid>856</sid>
+				<c>下午三点到五点。</c>
+				<e>From 3pm to 5pm.</e>
+				<cm>2752</cm>
+				<cf>2753</cf>
+				<au_e>2754</au_e>
+			</item>
+			<item>
+				<id>10_2_25</id>
+				<sid>857</sid>
+				<c>需要请教练吗?</c>
+				<e>Do you need coach?</e>
+				<cm>2755</cm>
+				<cf>2756</cf>
+				<au_e>2757</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>10_3_0</id>
+				<sid></sid>
+				<c>比赛</c>
+				<e>Games</e>
+				<cm>2758</cm>
+				<cf></cf>
+				<au_e>2759</au_e>
+			</item>
+			<item>
+				<id>10_3_1</id>
+				<sid>858</sid>
+				<c>他打得真好。</c>
+				<e>He plays really well.</e>
+				<cm>2760</cm>
+				<cf>2761</cf>
+				<au_e>2762</au_e>
+			</item>
+			<item>
+				<id>10_3_2</id>
+				<sid>859</sid>
+				<c>他是最棒的。</c>
+				<e>He is the best.</e>
+				<cm>2763</cm>
+				<cf>2764</cf>
+				<au_e>2765</au_e>
+			</item>
+			<item>
+				<id>10_3_3</id>
+				<sid>860</sid>
+				<c>我看一般。</c>
+				<e>I think he is just so so.</e>
+				<cm>2766</cm>
+				<cf>2767</cf>
+				<au_e>2768</au_e>
+			</item>
+			<item>
+				<id>10_3_4</id>
+				<sid>861</sid>
+				<c>该你上场了</c>
+				<e>It's your turn.</e>
+				<cm>2769</cm>
+				<cf>2770</cf>
+				<au_e>2771</au_e>
+			</item>
+			<item>
+				<id>10_3_5</id>
+				<sid>862</sid>
+				<c>你开玩笑。</c>
+				<e>You're kidding.</e>
+				<cm>2772</cm>
+				<cf>2773</cf>
+				<au_e>2774</au_e>
+			</item>
+			<item>
+				<id>10_3_6</id>
+				<sid>863</sid>
+				<c>你肯定行</c>
+				<e>You can do it.</e>
+				<cm>2775</cm>
+				<cf>2776</cf>
+				<au_e>2777</au_e>
+			</item>
+			<item>
+				<id>10_3_7</id>
+				<sid>864</sid>
+				<c>相信我。</c>
+				<e>Believe me.</e>
+				<cm>2778</cm>
+				<cf>2779</cf>
+				<au_e>2780</au_e>
+			</item>
+			<item>
+				<id>10_3_8</id>
+				<sid>865</sid>
+				<c>我做做准备活动。</c>
+				<e>Let's do some warming up.</e>
+				<cm>2781</cm>
+				<cf>2782</cf>
+				<au_e>2783</au_e>
+			</item>
+			<item>
+				<id>10_3_9</id>
+				<sid>866</sid>
+				<c>准备好了吗？</c>
+				<e>Are you ready?</e>
+				<cm>2784</cm>
+				<cf>2785</cf>
+				<au_e>2786</au_e>
+			</item>
+			<item>
+				<id>10_3_10</id>
+				<sid>867</sid>
+				<c>零比零。开始。</c>
+				<e>Nil-nil, start.</e>
+				<cm>2787</cm>
+				<cf>2788</cf>
+				<au_e>2789</au_e>
+			</item>
+			<item>
+				<id>10_3_11</id>
+				<sid>868</sid>
+				<c>好球</c>
+				<e>Nice ball.</e>
+				<cm>2790</cm>
+				<cf>2791</cf>
+				<au_e>2792</au_e>
+			</item>
+			<item>
+				<id>10_3_12</id>
+				<sid>869</sid>
+				<c>加油。</c>
+				<e>Come on.</e>
+				<cm>2793</cm>
+				<cf>2794</cf>
+				<au_e>2795</au_e>
+			</item>
+			<item>
+				<id>10_3_13</id>
+				<sid>870</sid>
+				<c>你打得不错。</c>
+				<e>You play well.</e>
+				<cm>2796</cm>
+				<cf>2797</cf>
+				<au_e>2798</au_e>
+			</item>
+			<item>
+				<id>10_3_14</id>
+				<sid>871</sid>
+				<c>你比他打得更好。</c>
+				<e>You can play better than him.</e>
+				<cm>2799</cm>
+				<cf>2800</cf>
+				<au_e>2801</au_e>
+			</item>
+			<item>
+				<id>10_3_15</id>
+				<sid>872</sid>
+				<c>我想看世界杯。</c>
+				<e>I want to watch the world cup.</e>
+				<cm>2802</cm>
+				<cf>2803</cf>
+				<au_e>2804</au_e>
+			</item>
+			<item>
+				<id>10_3_16</id>
+				<sid>873</sid>
+				<c>今天晚上有球赛。</c>
+				<e>There is a soccer tonight.</e>
+				<cm>2805</cm>
+				<cf>2806</cf>
+				<au_e>2807</au_e>
+			</item>
+			<item>
+				<id>10_3_17</id>
+				<sid>874</sid>
+				<c>谁和谁比？</c>
+				<e>Which two teams are competing?</e>
+				<cm>2808</cm>
+				<cf>2809</cf>
+				<au_e>2810</au_e>
+			</item>
+			<item>
+				<id>10_3_18</id>
+				<sid>875</sid>
+				<c>比赛开始了。</c>
+				<e>The game has started.</e>
+				<cm>2811</cm>
+				<cf>2812</cf>
+				<au_e>2813</au_e>
+			</item>
+			<item>
+				<id>10_3_19</id>
+				<sid>876</sid>
+				<c>谁赢了？</c>
+				<e>Who is the winner?</e>
+				<cm>2814</cm>
+				<cf>2815</cf>
+				<au_e>2816</au_e>
+			</item>
+			<item>
+				<id>10_3_20</id>
+				<sid>877</sid>
+				<c>你希望谁赢？</c>
+				<e>Who do you want to win?</e>
+				<cm>2817</cm>
+				<cf>2818</cf>
+				<au_e>2819</au_e>
+			</item>
+			<item>
+				<id>10_3_21</id>
+				<sid>878</sid>
+				<c>我的梦想是参加奥运会。</c>
+				<e>My dream is to take part in the Olympic Game.</e>
+				<cm>2820</cm>
+				<cf>2821</cf>
+				<au_e>2822</au_e>
+			</item>
+			<item>
+				<id>10_3_22</id>
+				<sid>879</sid>
+				<c>我怎么没想到呢？</c>
+				<e>Why didn't I think of that?</e>
+				<cm>2823</cm>
+				<cf>2824</cf>
+				<au_e>2825</au_e>
+			</item>
+			<item>
+				<id>10_3_23</id>
+				<sid>880</sid>
+				<c>怪不得你游得这么好。</c>
+				<e>No wonder you're so good at swimming.</e>
+				<cm>2826</cm>
+				<cf>2827</cf>
+				<au_e>2828</au_e>
+			</item>
+			<item>
+				<id>10_3_24</id>
+				<sid>881</sid>
+				<c>我想学游泳。</c>
+				<e>I want to learn to swim.</e>
+				<cm>2829</cm>
+				<cf>2830</cf>
+				<au_e>2831</au_e>
+			</item>
+			<item>
+				<id>10_3_25</id>
+				<sid>882</sid>
+				<c>你教教我吧。</c>
+				<e>Could you teach me, please.</e>
+				<cm>2832</cm>
+				<cf>2833</cf>
+				<au_e>2834</au_e>
+			</item>
+			<item>
+				<id>10_3_26</id>
+				<sid>883</sid>
+				<c>你经常打保龄吗？</c>
+				<e>Do you often go bowling?</e>
+				<cm>2835</cm>
+				<cf>2836</cf>
+				<au_e>2837</au_e>
+			</item>
+			<item>
+				<id>10_3_27</id>
+				<sid>884</sid>
+				<c>你跟我一起去吧。</c>
+				<e>You could come with me.</e>
+				<cm>2838</cm>
+				<cf>2839</cf>
+				<au_e>2840</au_e>
+			</item>
+			<item>
+				<id>10_3_28</id>
+				<sid>885</sid>
+				<c>您穿几号的鞋？</c>
+				<e>What's your shoe size?</e>
+				<cm>2841</cm>
+				<cf>2842</cf>
+				<au_e>2843</au_e>
+			</item>
+			<item>
+				<id>10_3_29</id>
+				<sid>886</sid>
+				<c>给我一双三十七码的。</c>
+				<e>Size 37 for me.</e>
+				<cm>2844</cm>
+				<cf>2845</cf>
+				<au_e>2846</au_e>
+			</item>
+			<item>
+				<id>10_3_30</id>
+				<sid>887</sid>
+				<c>换一双新一点的行吗？</c>
+				<e>Can I have a new pair?</e>
+				<cm>2847</cm>
+				<cf>2848</cf>
+				<au_e>2849</au_e>
+			</item>
+		</chapter>
+		<chapter>
+			<item>
+				<id>10_4_0</id>
+				<sid></sid>
+				<c>爬山与跑步</c>
+				<e>Hiking &amp; Running</e>
+				<cm>2850</cm>
+				<cf></cf>
+				<au_e>2851</au_e>
+			</item>
+			<item>
+				<id>10_4_1</id>
+				<sid>888</sid>
+				<c>好热</c>
+				<e>It's so hot.</e>
+				<cm>2852</cm>
+				<cf>2853</cf>
+				<au_e>2854</au_e>
+			</item>
+			<item>
+				<id>10_4_2</id>
+				<sid>889</sid>
+				<c>我都出汗了。</c>
+				<e>I'm sweet.</e>
+				<cm>2855</cm>
+				<cf>2856</cf>
+				<au_e>2857</au_e>
+			</item>
+			<item>
+				<id>10_4_3</id>
+				<sid>890</sid>
+				<c>等等我。</c>
+				<e>Wait for me.</e>
+				<cm>2858</cm>
+				<cf>2859</cf>
+				<au_e>2860</au_e>
+			</item>
+			<item>
+				<id>10_4_4</id>
+				<sid>891</sid>
+				<c>我有点爬不动了。</c>
+				<e>I'm afrarid I can't go any further.</e>
+				<cm>2861</cm>
+				<cf>2862</cf>
+				<au_e>2863</au_e>
+			</item>
+			<item>
+				<id>10_4_5</id>
+				<sid>892</sid>
+				<c>休息一会儿吧。</c>
+				<e>Take a break.</e>
+				<cm>2864</cm>
+				<cf>2865</cf>
+				<au_e>2866</au_e>
+			</item>
+			<item>
+				<id>10_4_6</id>
+				<sid>893</sid>
+				<c>感觉好极了。</c>
+				<e>It feels great.</e>
+				<cm>2867</cm>
+				<cf>2868</cf>
+				<au_e>2869</au_e>
+			</item>
+			<item>
+				<id>10_4_7</id>
+				<sid>894</sid>
+				<c>你只要有信心就可以了。</c>
+				<e>Just be confident.</e>
+				<cm>2870</cm>
+				<cf>2871</cf>
+				<au_e>2872</au_e>
+			</item>
+			<item>
+				<id>10_4_8</id>
+				<sid>895</sid>
+				<c>小心</c>
+				<e>Be careful.</e>
+				<cm>2873</cm>
+				<cf>2874</cf>
+				<au_e>2875</au_e>
+			</item>
+			<item>
+				<id>10_4_9</id>
+				<sid>896</sid>
+				<c>跑步的好处可多了。</c>
+				<e>There are many advantage of running.</e>
+				<cm>2876</cm>
+				<cf>2877</cf>
+				<au_e>2878</au_e>
+			</item>
+			<item>
+				<id>10_4_10</id>
+				<sid>897</sid>
+				<c>你一般跑多长时间？</c>
+				<e>How long do you usually run?</e>
+				<cm>2879</cm>
+				<cf>2880</cf>
+				<au_e>2881</au_e>
+			</item>
+			<item>
+				<id>10_4_11</id>
+				<sid>898</sid>
+				<c>我的脚受伤了。</c>
+				<e>My foot is hurt.</e>
+				<cm>2882</cm>
+				<cf>2883</cf>
+				<au_e>2884</au_e>
+			</item>
+			<item>
+				<id>10_4_12</id>
+				<sid>899</sid>
+				<c>太可怕了。</c>
+				<e>That's terrible.</e>
+				<cm>2885</cm>
+				<cf>2886</cf>
+				<au_e>2887</au_e>
+			</item>
+			<item>
+				<id>10_4_13</id>
+				<sid>900</sid>
+				<c>你自己去吧。</c>
+				<e>Why not go by yourself?</e>
+				<cm>2888</cm>
+				<cf>2889</cf>
+				<au_e>2890</au_e>
+			</item>
+		</chapter>
+	</topic>
+	<basic>
+		<sid>1</sid>
+		<sid>3</sid>
+		<sid>4</sid>
+		<sid>6</sid>
+		<sid>19</sid>
+		<sid>18</sid>
+		<sid>20</sid>
+		<sid>16</sid>
+		<sid>37</sid>
+		<sid>15</sid>
+		<sid>120</sid>
+		<sid>64</sid>
+		<sid>7</sid>
+		<sid>26</sid>
+		<sid>27</sid>
+		<sid>39</sid>
+		<sid>22</sid>
+		<sid>24</sid>
+		<sid>25</sid>
+		<sid>65</sid>
+		<sid>69</sid>
+		<sid>17</sid>
+		<sid>42</sid>
+		<sid>48</sid>
+		<sid>47</sid>
+		<sid>78</sid>
+		<sid>83</sid>
+		<sid>96</sid>
+		<sid>95</sid>
+		<sid>91</sid>
+		<sid>88</sid>
+		<sid>89</sid>
+		<sid>104</sid>
+		<sid>108</sid>
+		<sid>138</sid>
+		<sid>112</sid>
+		<sid>57</sid>
+		<sid>147</sid>
+		<sid>114</sid>
+		<sid>145</sid>
+		<sid>184</sid>
+		<sid>170</sid>
+		<sid>189</sid>
+		<sid>225</sid>
+		<sid>178</sid>
+		<sid>179</sid>
+		<sid>195</sid>
+		<sid>196</sid>
+		<sid>202</sid>
+		<sid>204</sid>
+		<sid>205</sid>
+		<sid>203</sid>
+		<sid>241</sid>
+		<sid>222</sid>
+		<sid>219</sid>
+		<sid>230</sid>
+		<sid>237</sid>
+		<sid>242</sid>
+		<sid>301</sid>
+		<sid>313</sid>
+		<sid>312</sid>
+		<sid>318</sid>
+		<sid>319</sid>
+		<sid>320</sid>
+		<sid>322</sid>
+		<sid>340</sid>
+		<sid>208</sid>
+		<sid>335</sid>
+		<sid>272</sid>
+		<sid>182</sid>
+		<sid>345</sid>
+		<sid>714</sid>
+		<sid>361</sid>
+		<sid>379</sid>
+		<sid>380</sid>
+		<sid>385</sid>
+		<sid>365</sid>
+		<sid>557</sid>
+		<sid>594</sid>
+		<sid>354</sid>
+		<sid>605</sid>
+		<sid>353</sid>
+		<sid>77</sid>
+		<sid>123</sid>
+		<sid>895</sid>
+		<sid>49</sid>
+		<sid>725</sid>
+		<sid>728</sid>
+		<sid>726</sid>
+		<sid>693</sid>
+		<sid>694</sid>
+		<sid>786</sid>
+		<sid>790</sid>
+		<sid>801</sid>
+		<sid>808</sid>
+		<sid>809</sid>
+		<sid>259</sid>
+		<sid>215</sid>
+		<sid>72</sid>
+		<sid>73</sid>
+	</basic>
+</ec>

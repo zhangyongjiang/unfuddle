@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.simpligility.android.sdk-deployer</groupId>
+	<artifactId>android-platforms</artifactId>
+    <packaging>pom</packaging>
+    <name>Android Platforms</name>
+
+    <parent>
+        <groupId>com.simpligility.android.sdk-deployer</groupId>
+        <artifactId>maven-android-sdk-deployer</artifactId>
+        <version>0.11</version>
+    </parent>
+
+    <properties>
+        <jar.directory>${sdk.platforms.path}/${project.artifactId}</jar.directory>
+        <jar.path>${jar.directory}/android.jar</jar.path>
+        <jar.version>${Platform.Version}_r${Pkg.Revision}</jar.version>
+    </properties>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>properties-maven-plugin</artifactId>
+                    <version>1.0-alpha-2</version>
+                    <executions>
+                        <execution>
+                            <phase>initialize</phase>
+                            <goals>
+                                <goal>read-project-properties</goal>
+                            </goals>
+                            <configuration>
+                                <files>
+                                    <file>${jar.directory}/source.properties</file>
+                                </files>
+                            </configuration>
+                        </execution>
+                    </executions>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+    <profiles>
+        <profile>
+            <id>all</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <modules>
+                <module>android-3</module>
+                <module>android-4</module>
+                <module>android-7</module>
+                <module>android-8</module>
+                <module>android-9</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>1.5</id>
+            <modules>
+                <module>android-3</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>1.6</id>
+            <modules>
+                <module>android-4</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>2.1</id>
+            <modules>
+                <module>android-7</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>2.2</id>
+            <modules>
+                <module>android-8</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>2.3</id>
+            <modules>
+                <module>android-9</module>
+            </modules>
+        </profile>
+    </profiles>
+</project>

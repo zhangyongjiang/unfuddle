@@ -1,0 +1,977 @@
+4701		99501	AK	Anchorage	1340 Fairbanks St. 
+2754		99701	AK	Fairbanks	3627 Airport Way 
+3410		99701	AK	Fairbanks	30 College Rd 
+1832		99603	AK	Homer	90 Sterling Hwy 
+1820		99801	AK	Juneau	3033 Vintage Blvd 
+1808		99611	AK	Kenai	10576 Kenai Spur Hwy 
+1818		99901	AK	Ketchikan	2417 Tongass Ave 
+1090		99615	AK	Kodiak	2685 Mill Bay Rd 
+2522		99615	AK	Kodiak	LIQUOR STORE 502 Marine Way 
+1821		99705	AK	North Pole	301 N. Santa Claus Ln 
+2728		99664	AK	Seward	1907 Seward Highway 
+548		99669	AK	Soldotna	44428 Sterling Hwy S 
+1834		99685	AK	Unalaska	2029 Airport Beach Road 
+1726		85086	AZ	Anthem	3655 W. Anthem Way . 
+253		85220	AZ	Apache Junction	3185 W. Apache Trail 
+1275		85602	AZ	Benson	599 W. 4TH. St. 
+261		85603	AZ	Bisbee	101 Naco Road 
+248		86442	AZ	Bullhead City	1751 Hwy 95 
+1706		85222	AZ	Casa Grande	1637 N. Trekell Rd 
+1543		85331	AZ	Cave Creek	29834 N.Cave Creek Rd 
+1566		85248	AZ	Chandler	4970 S. Alma School Rd. 
+1604		85224	AZ	Chandler	1159 W. Chandler Blvd 
+1605		85225	AZ	Chandler	1060 E. Ray Rd 
+1747		86323	AZ	Chino Valley	1031 N. US Hwy 89 
+1732		85228	AZ	Coolidge	1449 N. Arizona Blvd 
+2052		86326	AZ	Cottonwood	1635 E. Cottonwood Ln 
+1225		86004	AZ	Flagstaff	1500 E. Cedar Ave 
+2028		86001	AZ	Flagstaff	1201 S. Plaza Way 
+270		86004	AZ	Flagstaff	4910 N. Hwy 89 
+2835		85232	AZ	Florence	3325 North Hunt Highway 
+1474		86427	AZ	Fort Mohave	4823 S. Hwy 95 
+1291		85268	AZ	Fountain Hills	13733 Fountain Hills Blvd 
+1534		85296	AZ	Gilbert	90 S. Val Vista Dr. 
+1748		85234	AZ	Gilbert	5137 E. Baseline Rd 
+1510		85308	AZ	Glendale	20205 N. 67TH Ave No.100 
+1636		85306	AZ	Glendale	5860 W. Thunderbird 
+2058		85302	AZ	Glendale	5080 W. Olive 
+3187		85501	AZ	Globe	240 S. Hill St. 
+1511		85338	AZ	Goodyear	14175 W. Indian School Road 
+2618		85338	AZ	Goodyear	440N. Estrella Parkway 
+3151		85338	AZ	Goodyear	9890 South Estrella Parkway 
+2044		85614	AZ	Green Valley	260 W. Continental 
+3189		86025	AZ	Holbrook	702 W. Hopi Dr. 
+1887		86401	AZ	Kingman	3970 Stockton Hill Rd 
+2017		86401	AZ	Kingman	3125 Stockton Hill 
+216		86403	AZ	Lake Havasu	1650 McCulloch Blvd N 
+2069		85929	AZ	Lakeside	20 W. White Mountain Blvd 
+1567		85213	AZ	Mesa	2740 E. University Dr. 
+1637		85206	AZ	Mesa	3622 E. Southern Avenue 
+1717		85201	AZ	Mesa	1960 W. Main St. 
+247		85202	AZ	Mesa	1225 W. Guadalupe 
+2644		85207	AZ	Mesa	1855 N. Power Rd 
+2676		85208	AZ	Mesa	9101 E. Baseline 
+1274		85539	AZ	Miami	4567 E. Us Hwy 60 
+1229		85621	AZ	Nogales	465 West Mariposa Road 
+1521		85737	AZ	Oro Valley	12122 N Rancho Vistoso Blv 
+1170		85027	AZ	Phoenix	18631 N. 19TH Ave 
+1201		85044	AZ	Phoenix	4005 E. Chandler Blvd 
+1202		85032	AZ	Phoenix	3131 E. Thunderbird Rd 
+1515		85020	AZ	Phoenix	810 E. Glendale Ave. 
+1591		85040	AZ	Phoenix	6202 S. 16TH St. 
+1654		85033	AZ	Phoenix	4811 N. 83rd Ave 
+174		85013	AZ	Phoenix	520 W. Osborn Road 
+1979		85022	AZ	Phoenix	13440 N. 7TH St. 
+1980		85048	AZ	Phoenix	1334 E. Chandler Blvd 
+2042		85016	AZ	Phoenix	3132 E. Camelback Rd 
+240		85023	AZ	Phoenix	3450 W. Bell Rd 
+257		85051	AZ	Phoenix	8021 N. 35TH Ave 
+2651		85004	AZ	Phoenix	340 E. Mcdowell 
+2716		85018	AZ	Phoenix	4750 E. Indian School Rd. 
+413		85022	AZ	Phoenix	550 E. Bell Rd 
+752		85044	AZ	Phoenix	4747 E. Elliot Rd 
+249		86040	AZ	Page	650 Elm St. 
+2075		85344	AZ	Parker	121 W. Riverside Dr. 
+1536		85541	AZ	Payson	401 E. Hwy 260 
+1662		85345	AZ	Peoria	10641 W. Olive Ave 
+1841		85381	AZ	Peoria	12320 N. 83RD Ave 
+2799		85383	AZ	Peoria	28455 N.VISTANCIA BLVD 
+3154		85345	AZ	Peoria	6817 W. Peoria 
+1170		85027	AZ	Phoenix	18631 N. 19TH Ave 
+1201		85044	AZ	Phoenix	4005 E. Chandler Blvd 
+1202		85032	AZ	Phoenix	3131 E. Thunderbird Rd 
+1515		85020	AZ	Phoenix	810 E. Glendale Ave. 
+1591		85040	AZ	Phoenix	6202 S. 16TH St. 
+1654		85033	AZ	Phoenix	4811 N. 83rd Ave 
+174		85013	AZ	Phoenix	520 W. Osborn Road 
+1979		85022	AZ	Phoenix	13440 N. 7TH St. 
+1980		85048	AZ	Phoenix	1334 E. Chandler Blvd 
+2042		85016	AZ	Phoenix	3132 E. Camelback Rd 
+240		85023	AZ	Phoenix	3450 W. Bell Rd 
+257		85051	AZ	Phoenix	8021 N. 35TH Ave 
+2651		85004	AZ	Phoenix	340 E. Mcdowell 
+2716		85018	AZ	Phoenix	4750 E. Indian School Rd. 
+413		85022	AZ	Phoenix	550 E. Bell Rd 
+752		85044	AZ	Phoenix	4747 E. Elliot Rd 
+245		86301	AZ	Prescott	1044 Willow Creek Rd 
+274		86301	AZ	Prescott	450 White Spar Rd 
+1055		86314	AZ	Prescott Valley	7720 E. Hwy 69 
+1819		85242	AZ	Queen Creek	18495 E Queen Creek Rd. 
+1771		85629	AZ	Sahuarita	1301 W. Duval Mine Rd 
+1126		85259	AZ	Scottsdale	11275 E. Via Linda 
+1253		85255	AZ	Scottsdale	23565 N. Scottsdale Rd 
+1491		85250	AZ	Scottsdale	7920 E. Chaparral 
+1549		85260	AZ	Scottsdale	14696 N. Frank Lloyd Wright Blvd. 
+1663		85255	AZ	Scottsdale	20901 N. Pima Rd. 
+1750		85254	AZ	Scottsdale	6501 E Greenway Parkway Bldg 4 
+1849		85266	AZ	Scottsdale	32551 N. Scottsdale Rd 
+2032		85254	AZ	Scottsdale	10773 N. Scottsdale Rd 
+2088		85254	AZ	Scottsdale	4857 E. Greenway 
+1207		86336	AZ	Sedona	2300 W. Hwy 89A 
+1733		85901	AZ	Show Low	900 W. Deuce Of Clubs 
+2083		85635	AZ	Sierra Vista	2190 E. Fry Blvd 
+2076		85938	AZ	Springerville	203 S. Mountain Ave 
+236		85351	AZ	Sun City	10926 W. Bell Rd 
+2054		85375	AZ	Sun City West	13503 Camino Del Sol 
+1520		85374	AZ	Surprise	14505 W. Grand Ave 
+1997		85374	AZ	Surprise	17049 West Bell Road 
+2699		85379	AZ	Surprise	13828 W. Waddell Rd. 
+1487		85282	AZ	Tempe	926 E. BRdway 
+1535		85284	AZ	Tempe	1515 E. Elliot Rd. 
+2648		85552	AZ	Thatcher	2125 W. Highay 70 
+1255		85704	AZ	Tucson	7110 N. Oracle 
+1684		85719	AZ	Tucson	1940 E. Broadway Blvd 
+1874		85730	AZ	Tucson	6360 E. Golf Links 
+1983		85745	AZ	Tucson	2140 W. Grant 
+1984		85749	AZ	Tucson	9125 E. Tanque Verde 
+1985		85742	AZ	Tucson	9705 N. Thornydale Rd 
+1986		85747	AZ	Tucson	9050 E. Valencia Rd 
+1988		85715	AZ	Tucson	7177 E. Tanque Verde 
+1989		85730	AZ	Tucson	9460 E. Golf Links 
+2060		85719	AZ	Tucson	1767 E. Prince Rd 
+2080		85712	AZ	Tucson	5548 E. Grant 
+234		85710	AZ	Tucson	8740 E. Broadway Blvd 
+250		85718	AZ	Tucson	4752 E. Sunrise Dr. 
+255		85745	AZ	Tucson	1551 W St. Marys Rd 
+2611		85748	AZ	Tucson	10380 E. Broadway Blvd 
+267		85746	AZ	Tucson	2940 W. Valencia 
+1749		85743	AZ	Tuscon	9100 N. Silverbell Rd 
+1584		85390	AZ	Wickenburg	1999 W. Wickenburg Way 
+272		85643	AZ	Willcox	650 N. Bisbee Ave 
+1639		86046	AZ	Williams	637 W. Route 66 
+239		86047	AZ	Winslow	1601 N. Park Dr. 
+2708		94501	CA	Alameda	2227 South Shore Center 
+951		94502	CA	Alameda	867 Island Dr. 
+962		94507	CA	Alamo	200 Alamo Plaza 
+676		94706	CA	Albany	1500 Solano Ave 
+1883		94503	CA	American Canyon	103 American Canyon Road 
+273		96007	CA	Anderson	2601 Balls Ferry Rd 
+1259		94509	CA	Antioch	3365 Deer Valley Rd 
+640		95003	CA	Aptos	16 Rancho Del Mar 
+793		95521	CA	Arcata	600 F St 
+3122		95603	CA	Auburn	2550 Bell Rd 
+1215		94565	CA	Bay Point	660 Bailey Rd 
+1138		94002	CA	Belmont	1100 El Camino 
+668		94002	CA	Belmont	2100 Ralston Ave 
+774		94510	CA	Benicia	50 Solano Sq. 
+691		94709	CA	Berkeley	1444 Shattuck Place 
+1234		94513	CA	Brentwood	1125 Second St 
+2621		94513	CA	Brentwood	3110 Balfour Rd. 
+1547		94010	CA	Burlingame	1450 Howard Ave. 
+948		94010	CA	Burlingame	1450 Howard Ave 
+4178		96013	CA	Burney	37264 Main St 
+1618		95682	CA	Cameron Park	3380 Coach Ln 
+1293		95008	CA	Campbell	2341 So Winchester Blvd 
+3241		95008	CA	Campbell	950 W. Hamilton Avenue 
+2669		93923	CA	Carmel	5 Crossroads Blvd. 
+706		93923	CA	Carmel	104 Midvalley 
+1560		95608	CA	Carmichael	4040 Manzanita Ave 
+3010		94552	CA	Castro Valley	4015 East Castro Valley Blvd 
+768		94546	CA	Castro Valley	20629 Redwood Rd 
+1125		95973	CA	Chico	1366 E. Ave 
+1651		95926	CA	Chico	720 Mangrove Way 
+256		95926	CA	Chico	1016 W Sacramento Ave 
+1531		95621	CA	Citrus Heights	7301 Greenback 
+1195		94517	CA	Clayton	5431 Clayton Rd. 
+984		95422	CA	Clearlake	14922 Olympic Dr. 
+1192		94521	CA	Concord	4309 Clayton Rd 
+595		94520	CA	Concord	2250 F Monument Blvd 
+955		94520	CA	Concord	2600 Willow Pass Rd 
+2295		96021	CA	Corning	600 Edith St. 
+2318		94925	CA	Corte Madera	137 Corte Madera Town Center 
+954		95531	CA	Crescent City	475 M St. 
+3031		94015	CA	Daly City	601 Westlake Center 
+1211		94506	CA	Danville	3496 Camino Tassajara 
+1205		95616	CA	Davis	1451 W Covell Blvd 
+1561		95616	CA	Davis	2121 Cowell 
+2841		93940	CA	Del Rey Oaks	815 Canyon Del Rey Blvd. 
+1917		94514	CA	Discovery Bay	14840 Hwy. 4 
+1258		95620	CA	Dixon	1235 Stratford Ave 
+1932		94568	CA	Dublin	4440 Tassajara Road 
+1953		94568	CA	Dublin	7499 Dublin Blvd 
+2940		94530	CA	El Cerrito	11450 San Pablo Ave 
+751		94530	CA	El Cerrito	10636 San Pablo Ave. 
+2683		95762	CA	El Dorado Hills	2207 Francisco Drive 
+1647		95758	CA	Elk Grove	5021 Laguna Blvd 
+2908		95503	CA	Eureka	2555 Harris St 
+641		95503	CA	Eureka	2520 Harris St 
+1846		95628	CA	Fair Oaks	8925 Madison Avenue 
+1895		95628	CA	Fair Oaks	5450 Dewey Dr. 
+1127		94533	CA	Fairfield	2401 Waterman Dr. 
+1722		94533	CA	Fairfield	5051 Business Ctr Dr. 
+786		95018	CA	Felton	6255 Graham Hill Rd 
+1794		95630	CA	Folsom	1850 Prairie City Rd 
+975		95540	CA	Fortuna	701 S Fortuna Blvd 
+999		94404	CA	Foster City	921 E Hillsdale Blvd 
+1931		94539	CA	Fremont	46848 Mission Blvd 
+309		94538	CA	Fremont	39100 Argonaut Way 
+993		94538	CA	Fremont	3902 Washington Blvd 
+978		95437	CA	Ft Bragg	660 S Main St 
+1505		95020	CA	Gilroy	905 First St. 
+111		95945	CA	Grass Valley	105 Neal St 
+2842		95945	CA	Grass Valley	867 Sutton Way 
+2287		95948	CA	Gridley	1596 St Hwy 99 
+950		95446	CA	Guerneville	16405 Hwy 116 
+308		94019	CA	Half Moon Bay	70 Cabrillo Hwy 
+797		94544	CA	Hayward	231 W Jackson St. 
+971		94541	CA	Hayward	22280 Foothill Blvd 
+998		95448	CA	Healdsburg	1115 Vine St. 
+1757		95023	CA	Hollister	591 Tres Pinos Rd 
+2778		95642	CA	Jackson	12110 INDUSTRY ROAD 
+1232		93930	CA	King City	530 Canal St 
+1592		96143	CA	Kings Beach	7815 N. Lake Blvd 
+783		94549	CA	Lafayette	3540 Mt Diablo Blvd 
+983		95453	CA	Lakeport	1071 11TH St 
+1761		95648	CA	Lincoln	405 S. Hwy 65 
+1257		94550	CA	Livermore	4495 First St 
+910		94550	CA	Livermore	1554 First St 
+1648		95242	CA	Lodi	2449 W. Kettleman Ln 
+737		94022	CA	Los Altos	160 First St 
+1245		95032	CA	Los Gatos	15549 Union Ave 
+2815		95030	CA	Los Gatos	470 N. Santa Cruz Ave. 
+742		95032	CA	Los Gatos	1500 Pollard Rd 
+3124		95336	CA	Manteca	1187 S. Main St 
+939		94553	CA	Martinez	3334 Alhambra Ave 
+972		94553	CA	Martinez	6688 Alhambra Ave. 
+1640		95519	CA	McKinleyville	1503 City Center Road 
+1709		94025	CA	Menlo Park	325 S Sharon Park Drive 
+2719		94025	CA	Menlo Park	525 El Camino Real 
+2718		94941	CA	Mill Valley	110 Strawberry Village #100 
+788		94941	CA	Mill Valley	1 Camino Alto 
+618		94030	CA	Millbrae	525 El Camino Real 
+1879		95035	CA	Milpitas	555 E Calaveras Blvd 
+1661		95350	CA	Modesto	2001 Mchenry Ave Suite C 
+969		94556	CA	Moraga	1355 Moraga Way 
+1455		95037	CA	Morgan Hill	840 E Dunne Ave 
+1891		95037	CA	Morgan Hill	100 Tennant Ave. 
+1108		94040	CA	Mountain View	1750 Miramonte 
+705		94043	CA	Mountain View	570 N. Shoreline Blvd. 
+781		94040	CA	Mountain View	2580 California St. 
+2449		94558	CA	Napa	3375 Jefferson St 
+913		94558	CA	Napa	1620 Clay St 
+1224		94560	CA	Newark	5877 Jarvis Ave 
+2828		94949	CA	Novato	5720 Nave Dr. 
+979		94947	CA	Novato	900 Diablo Ave 
+1119		94610	CA	Oakland	3747 Grand Ave 
+638		94619	CA	Oakland	4100 Redwood Rd 
+654		94611	CA	Oakland	2096 Mountain Blvd 
+669		94618	CA	Oakland	5130 Broadway Blvd 
+687		94618	CA	Oakland	6310 College Ave 
+908		94602	CA	Oakland	3550 Fruitvale Ave 
+967		94563	CA	Orinda	2 Camino Sobrante 
+761		93950	CA	Pacific Grove	1212 Forest Ave 
+3008		94044	CA	Pacifica	12 Manor Plz 
+304		94044	CA	Pacifica	1380 Linda Mar Blvd 
+1682		94306	CA	Palo Alto	2811 Middlefield Rd 
+302		95969	CA	Paradise	6020 Clark Rd 
+796		94952	CA	Petaluma	373 S Mcdowell Rd 
+1714		94564	CA	Pinole	1421 Tara Hill Dr 
+1724		95667	CA	Placerville	3955 Missouri Flat Rd. 
+1541		94523	CA	Pleasant Hill	1978 Contra Costa Blvd 
+2941		94523	CA	Pleasant Hill	707 Contra Costa Blvd. 
+902		94523	CA	Pleasant Hill	200 Golf Club Rd 
+928		94523	CA	Pleasant Hill	600 Patterson Blvd 
+1502		94566	CA	Pleasanton	1701 Santa Rita Rd 
+2856		94566	CA	Pleasanton	6790 Bernal Ave 
+1825		95726	CA	Pollock Pines	6498 Pony Express Trail 
+1204		93907	CA	Prunedale	17539 Vierra Canyon Rd 
+262		95971	CA	Quincy	20 E Main St 
+1746		95670	CA	Rancho Cordova	10635 Folsom Blvd 
+1826		96002	CA	Redding	1070 E. Cypress Ave 
+1954		96001	CA	Redding	2275 Pine Street 
+305		94063	CA	Redwood City	1071 El Camino 
+747		94061	CA	Redwood City	850 Woodside Rd 
+926		94805	CA	Richmond	4925 Macdonald Ave 
+1866		95677	CA	Rocklin	2220 Sunset Blvd 
+2286		95677	CA	Rocklin	4805 Granite Dr 
+976		94572	CA	Rodeo	605 Parker Bldg A 
+918		94928	CA	Rohnert Park	6340 Commerce Blvd 
+1617		95661	CA	Roseville	8640 Sierra College Blvd 
+1890		95678	CA	Roseville	1080 Pleasant Grove Blvd. 
+1899		95661	CA	Roseville	989 Sunrise Blvd. 
+2620		95747	CA	Roseville	9045 Woodcreek Oaks Blvd. 
+1289		95829	CA	Sacramento	8377 Elk Grove Florin Rd 
+1530		95825	CA	Sacramento	3320 Arden Way 
+190		95825	CA	Sacramento	424 Howe Ave 
+2242		95816	CA	Sacramento	1025 Alhambra Blvd 
+2263		95842	CA	Sacramento	5345 Elkhorn Blvd 
+2684		95814	CA	Sacramento	1814 19th St. 
+2697		95835	CA	Sacramento	2851 Del Paso Road 
+2605		94574	CA	Saint Helena	1026 Hunt Ave 
+1110		93906	CA	Salinas	1546 N. Main 
+2654		93905	CA	Salinas	1516 Constitution Blvd. 
+1723		94960	CA	San Anselmo	838 Sir Francis Drake 
+1206		94133	CA	San Francisco	350 Bay St. 
+1490		94103	CA	San Francisco	2300 - 16TH St. Unit No.203 
+1507		94114	CA	San Francisco	2020 Market St 
+1711		94123	CA	San Francisco	15 Marina Blvd 
+2606		94107	CA	San Francisco	298 King Street 
+2646		94118	CA	San Francisco	735 7th Ave. 
+4601		94111	CA	San Francisco	145 Jackson St. 
+667		94131	CA	San Francisco	5290 Diamond Hts Blvd 
+739		94110	CA	San Francisco	3350 Mission St 
+759		94127	CA	San Francisco	625 Monterey Blvd 
+785		94121	CA	San Francisco	850 La Playa St. 
+909		94116	CA	San Francisco	730 Taraval St. 
+964		94112	CA	San Francisco	4950 Mission St 
+985		94122	CA	San Francisco	2350 Noriega St. 
+995		94115	CA	San Francisco	1335 Webster St 
+1217		95129	CA	San Jose	1600 Saratoga Ave 
+1465		95129	CA	San Jose	5146 Stevens Creek 
+1476		95126	CA	San Jose	1300 W. San Carlos 
+1483		95125	CA	San Jose	1530 HAMILTON AVENUE 
+1574		95118	CA	San Jose	4950 Almaden Expwy 
+3018		95128	CA	San Jose	1305 S. Winchester 
+316		95136	CA	San Jose	179 Branham Ln 
+695		95120	CA	San Jose	6477 Almaden Expwy 
+767		95129	CA	San Jose	6150 Bollinger Rd 
+929		95132	CA	San Jose	2558 Berryessa Rd 
+987		95121	CA	San Jose	1771 E Capitol Expwy 
+988		95127	CA	San Jose	3002 Story Rd 
+997		95118	CA	San Jose	1663 Branham Ln 
+2315		94579	CA	San Leandro	699 Lewelling 
+790		94577	CA	San Leandro	555 Bancroft Ave 
+994		94577	CA	San Leandro	1499 Washington Ave 
+639		94402	CA	San Mateo	100 de Anza Blvd 
+694		94401	CA	San Mateo	860 N Delaware St 
+970		94402	CA	San Mateo	1655 El Camino Real 
+653		94901	CA	San Rafael	700 B St 
+932		94903	CA	San Rafael	950 Las Gallinas Ave. 
+2712		94582	CA	San Ramon	11060 Bollinger Canyon Rd. 
+982		94583	CA	San Ramon	2505 San Ramon Valley Blvd. 
+1526		95050	CA	Santa Clara	3071 Stevens Creek 
+1990		95054	CA	Santa Clara	3970 Rivermark Plaza 
+700		95051	CA	Santa Clara	2760 Homestead Rd 
+763		95050	CA	Santa Clara	2605 The Alameda Ave. 
+2607		95060	CA	Santa Cruz	2111 Mission Street 
+799		95062	CA	Santa Cruz	117 Morrissey Blvd 
+1265		95405	CA	Santa Rosa	2785 Yulupa Ave 
+1562		95404	CA	Santa Rosa	2751 Fourth St. 
+1576		95403	CA	Santa Rosa	2300 Mendocino Ave 
+713		95409	CA	Santa Rosa	100 Calistoga Rd 
+956		95401	CA	Santa Rosa	1799 Marlow Rd. 
+919		95070	CA	Saratoga	12876 Saratoga Sunnyvale Rd 
+300		95066	CA	Scotts Valley	253 Mt Hermon Road 
+933		95472	CA	Sebastopol	406 N Main St 
+911		95476	CA	Sonoma	477 W Napa St 
+3127		95370	CA	Sonora	1291 Sanguinetti Rd 
+1929		95073	CA	Soquel	2720 41st Street 
+1824		96150	CA	South Lake Tahoe	1020 Johnson Ln 
+3027		94080	CA	South San Francisco	170 El Camino Real 
+777		94080	CA	South San Francisco	30 Chestnut Ave 
+1769		95204	CA	Stockton	2808 Country Club 
+2707		95207	CA	Stockton	6445 Pacific Avenue 
+1196		94087	CA	Sunnyvale	639 So Bernardo Ave 
+1439		94087	CA	Sunnyvale	785 East El Camino Real 
+2887		94087	CA	Sunnyvale	150 E. El Camino Real 
+313		94087	CA	Sunnyvale	1601 Hollenbeck Ave 
+1218		96130	CA	Susanville	2970 Main St. 
+2258		96145	CA	Tahoe City	850 No Lake Blvd 
+2600		95376	CA	Tracy	1801 W. 11th St. 
+1266		96161	CA	Truckee	11290 Donner Pass Rd 
+1968		95380	CA	Turlock	3051 Countryside Dr. 
+1583		95482	CA	Ukiah	653 S. State St 
+1197		94587	CA	Union City	1790 Decoto Rd 
+1109		95688	CA	Vacaville	2090 Harbison Dr. 
+1631		94591	CA	Vallejo	122 Robles Dr 
+968		94590	CA	Vallejo	709 Lincoln Rd W 
+989		94590	CA	Vallejo	774 Adm Callaghan Ln 
+1701		94598	CA	Walnut Creek	2941 Ygnacio Valley 
+697		94595	CA	Walnut Creek	1972 Tice Valley Blvd 
+917		94596	CA	Walnut Creek	600 S Broadway 
+936		94598	CA	Walnut Creek	710 Bancroft Rd 
+2840		95019	CA	Watsonville	2010 Freedom Blvd. 
+2269		95691	CA	West Sacramento	1298 W. Capitol Ave 
+965		95490	CA	Willits	845 S. Main St 
+1434		95492	CA	Windsor	9080 Brooks Rd 
+1681		81101	CO	Alamosa	1301 Main St. 
+1107		80004	CO	Arvada	12680 W. 64th Avenue 
+1998		80003	CO	Arvada	7561 W. 80th Ave. 
+330		80002	CO	Arvada	9517 Ralston Rd. 
+137		80014	CO	Aurora	12200 E. Mississippi 
+139		80010	CO	Aurora	16921 E. Quincy Ave. 
+1928		80013	CO	Aurora	18730 E. Hampden Ave 
+1974		80016	CO	Aurora	22675 E. Aurora Pkwy 
+2138		80012	CO	Aurora	1730 So. Buckley Rd. 
+2612		80302	CO	Aurora	1677 S. Havana 
+1615		80302	CO	Boulder	3325 28th St. 
+2911		80302	CO	Boulder	2798 Arapahoe 
+2919		80302	CO	Boulder	4800 E. Baseline Rd. 
+2917		80601	CO	Brighton	1605 Bridge St. 
+1146		80020	CO	Broomfield	6775 W. 120TH Ave. 
+2624		80020	CO	Broomfield	3602 W. 144th Ave. 
+2520		80807	CO	Burlington	111-18TH St. 
+3728		81212	CO	Canon City	1414 Main St. 
+1877		80104	CO	Castle Rock	880 South Perry St. 
+1967		80108	CO	Castle Rock	560 Castle Pines Pkwy 
+1933		80015	CO	Centennial	20153 E. Smoky Hill Rd. 
+1286		80904	CO	Colorado Springs	3275 West Colorado Ave 
+1466		80909	CO	Colorado Springs	1121 N. Circle Dr. 
+1499		80922	CO	Colorado Springs	2890 No Powers 
+1577		80906	CO	Colorado Springs	6520 S. Academy Blvd 
+1792		80916	CO	Colorado Springs	1425 S. Murray Blvd 
+2811		80917	CO	Colorado Springs	3335 N. Academy 
+2816		80906	CO	Colorado Springs	1920 So. Nevada Ave. 
+2839		80919	CO	Colorado Springs	840 Village Center Dr 
+812		80907	CO	Colorado Springs	2210 N. Wahsatch Ave 
+835		80918	CO	Colorado Springs	5060 N. Academy Blvd. 
+2792		80433	CO	Conifer	27152 Main Street 
+1892		81321	CO	Cortez	1580 E. Main St. 
+635		81625	CO	Craig	1295 Victory Way 
+1863		81416	CO	Delta	1550 Hwy 92 
+100		80206	CO	Denver	3110 East First Ave. 
+1038		80222	CO	Denver	1653 S. Colorado Blvd. 
+1115		80224	CO	Denver	7150 Leetsdale Dr 
+1145		80227	CO	Denver	1955 So. Sheridan Blvd 
+1248		80211	CO	Denver	2660 N. Federal Bvd. 
+1267		80222	CO	Denver	6440 E. Yale Ave 
+141		80239	CO	Denver	4884 Chambers Rd. 
+1463		80210	CO	Denver	2150 S Downing St 
+1614		80218	CO	Denver	560 Corona St. 
+2246		80205	CO	Denver	757 E. 20th Ave. 
+244		80211	CO	Denver	3800 W. 44TH Ave 
+2714		80220	CO	Denver	6220 East 14th Ave. 
+29		80222	CO	Denver	4950 E. Hampden Ave. 
+1532		80107	CO	Elizabeth	220 S. Elizabeth St. 
+1040		80111	CO	Englewood	8200 So. Quebec 
+17		80110	CO	Englewood	201 E. Jefferson 
+8		80112	CO	Englewood	7375 Arapahoe Rd. 
+1667		80516	CO	Erie	3333 Arapahoe Rd. No.B 
+920		80517	CO	Estes Park	451 E. Wonderview Ave. 
+10		80439	CO	Evergreen	3851 So. Hwy 74 
+1644		80831	CO	Falcon	7655 Mclaughlin Rd 
+4615		80831	CO	Falcon	FUEL STATION 7507 McLaughlin Rd 
+1635		80260	CO	Federal Heights	10300 Federal Blvd 
+1828		80504	CO	Firestone	8134 Weld County Road 13 
+4614		80520	CO	Firestone	FUEL STATION 8206 County Rd 13 
+1071		80524	CO	Fort Collins	460-A S. College Ave. 
+1552		80525	CO	Fort Collins	1426 E. Harmony Rd. 
+2913		80521	CO	Fort Collins	2160 W. Drake Rd. Unit 6 
+1045		80621	CO	Fort Lupton	1300 Dexter St. 
+2341		80701	CO	Fort Morgan	620 W. Platte Ave. 
+1975		80817	CO	Fountain	6925 Mesa Ridge Pkwy 
+1568		80442	CO	Fraser	40 County Rd. 804 
+836		80443	CO	Frisco	1008 Summit Blvd 
+1132		81601	CO	Glenwood Springs	2001 Grand 
+322		80401	CO	Golden	1701 Jackson St. 
+1533		81504	CO	Grand Junction	2901 F Road 
+2625		81506	CO	Grand Junction	681 Horizon Dr 
+632		81503	CO	Grand Junction	2148 Broadway Blvd. 
+2666		80632	CO	Greeley	4548 Centerplace Dr 
+2918		80631	CO	Greeley	3526 W. Tenth St. 
+320		80634	CO	Greeley	1122 11TH. Ave. 
+617		81230	CO	Gunnison	112 So. Spruce St. 
+1480		80129	CO	Highlands Ranch	9255 S. Broadway 
+390		80452	CO	Idaho Springs	2425 Miner St. 
+3723		81050	CO	La Junta	315 W. 2ND St 
+2342		80226	CO	Lakewood	11088 W. Jewell 
+344		80215	CO	Lakewood	9160 W. Colfax 
+41		80228	CO	Lakewood	13111 W. Alameda Pkwy. 
+1721		81052	CO	Lamar	906 E. Olive 
+2824		80461	CO	Leadville	1900 Hwy 24 
+1249		80123	CO	Littleton	7500 So. Pierce 
+1599		80127	CO	Littleton	12442 W. Ken Caryl Avenue 
+27		80127	CO	Littleton	5025 S. Kipling 
+2722		80125	CO	Littleton	8355 N. Rampart Range Road 
+2791		80120	CO	Littleton	181 W. Mineral Avenue 
+1548		80129	CO	Lone Tree	9229 E. Lincoln Ave 
+1116		80501	CO	Longmont	1050 Ken Pratt Bvd. 
+1634		80501	CO	Longmont	1630 Pace 
+2910		80501	CO	Longmont	1632 Hover Road 
+2915		80537	CO	Loveland	860 Cleveland 
+914		80537	CO	Loveland	2321 W. Eisenhower 
+2810		81144	CO	Monte Vista	1200 Second Ave. 
+1131		81401	CO	Montrose	1329 So. Townsend Ave. 
+1440		80132	CO	Monument	624 Hwy 105 
+1446		80134	CO	Parker	11051 So. Parker Rd. 
+1760		81007	CO	Pueblo	1017 N Market Plaza 
+3714		81008	CO	Pueblo	617 W. 29TH 
+3715		81001	CO	Pueblo	1322 E. 8TH St. 
+3729		81005	CO	Pueblo	1231 So. Prairie 
+2817		81201	CO	Salida	232 G St. 
+637		80477	CO	Steamboat Springs	37500 E. U.S. Hwy 40 
+1656		80027	CO	Superior	1601 Coalton Rd. 
+1873		80229	CO	Thornton	771 Thornton Pkwy 
+242		80229	CO	Thornton	3904 E. 120TH. Ave. 
+722		81082	CO	Trinidad	457 W. Main St. 
+631		81657	CO	Vail	2131 N. Frontage Rd. W. 
+3727		81089	CO	Walsenburg	222 W. Seventh 
+1587		80030	CO	Westminster	7353 Federal Blvd 
+1595		80021	CO	Westminster	8543 Church Ranch Blvd 
+1685		80234	CO	Westminster	12900 Zuni St. 
+1479		80033	CO	Wheat Ridge	3900 Wadsworth Blvd 
+1791		80550	CO	Windsor	1535 Main St. 
+1578		80863	CO	Woodland Park	1101 East U.S. Highway 24 
+4613		80863	CO	Woodland Park	FUEL STATION 1039 Us Hwy 24 
+1177		20019	DC	Washington	322 40th St. NE 
+1276		20012	DC	Washington	6500 Piney Branch Rd NW 
+1395		20016	DC	Washington	4203 Davenport St NW 
+1445		20020	DC	Washington	2845 Alabama Ave SE 
+2737		20001	DC	Washington	490 L St NW 
+2892		20024	DC	Washington	1100 4TH ST SW 
+2912		20007	DC	Washington	1855 Wisconsin Ave NW 
+4202		20009	DC	Washington	1747 Columbia Rd NW 
+4205		20003	DC	Washington	415 14th St. SE 
+4270		20002	DC	Washington	1601 Maryland Avenue NE 
+4832		20015	DC	Washington	5545 Connecticut Ave NW 
+4873		20011	DC	Washington	3830 Georgia Ave NW 
+4928		20037	DC	Washington	2550 Virginia Ave NW 
+693		20007	DC	Washington	4865 Macarthur Blvd NW 
+923		20009	DC	Washington	1701 Corcoran St NW 
+1763		19901	DE	Dover	190 John Hunn Brown Rd 
+4030		19702	DE	Newark	2400 Peoples Plaza 
+2706		19971	DE	Rehoboth Beach	19266 Coastal Highway 
+3040		19810	DE	Wilmington	2522 Foulk Rd 
+214		96701	HI	Aiea	98-1277 Kaahumanu St 
+2893		96720	HI	Hilo	381 East Maka'ala St. 
+201		96814	HI	Honolulu	1121 S Beretania St 
+203		96813	HI	Honolulu	1360 Pali Hwy 
+204		96822	HI	Honolulu	2855 E Manoa Rd 
+211		96818	HI	Honolulu	848 Ala Lilikoi St 
+215		96825	HI	Honolulu	377 Keahole St 
+2747		96816	HI	Honolulu	888 Kapahulu Avenue 
+2944		96814	HI	Honolulu	1234 S. Beretania Street 
+220		96732	HI	Kahului	170 E Kamehameha Ave 
+1087		96734	HI	Kailua	200 Hamakua 
+205		96734	HI	Kailua	1060 Keolu Dr. 
+2208		96734	HI	Kailua	25 Kaneohe Bay Dr. 
+1501		96740	HI	Kailua Kona	75-1027 Henry St 
+207		96744	HI	Kaneohe	46065 Kamehameha 
+1209		96746	HI	Kapaa	4-831 Kuhio Hwy 
+1263		96707	HI	Kapolei	590 Farrington No.400 
+1500		96753	HI	Kihei	277 Pi'Ikea Ave 
+1222		96761	HI	Lahaina	1221 Honapiilani Hwy 
+2218		96789	HI	Mililani	94-780B Meheula Pkwy 
+2954		83805	ID	Bonners Ferry	6519 S. Main St. 
+ERROR	http://local.safeway.com/id/coeur-d-alene.html
+ERROR	http://local.safeway.com/id/coeur-d-alene.html
+2641		83501	ID	Lewiston	2330 Nez Perce Dr. 
+383		83843	ID	Moscow	1320 S. Blaine St. 
+350		83864	ID	Sandpoint	702 N. 5TH Ave 
+1460		21401	MD	Annapolis	1781 Forest Dr. 
+2629		21401	MD	Annapolis	2635 Housley Rd. 
+2764		21012	MD	Arnold	1451 S Ritchie Hwy 
+1469		21228	MD	Baltimore	5660 Baltimore National Pike 
+1481		21224	MD	Baltimore	2610 Boston St. 
+1482		21218	MD	Baltimore	2401 N. Charles St. 
+1513		21214	MD	Baltimore	4401 Harford Rd. 
+1652		21015	MD	Bel Air	225 Brierhill Dr 
+1716		20816	MD	Bethesda	4701 Sangamore Rd. 
+2848		20815	MD	Bethesda	5000 Bradley Blvd 
+853		20814	MD	Bethesda	7625 Old Georgetown Rd 
+1804		20716	MD	Bowie	4101 Northview Dr. 
+2713		20720	MD	Bowie	12410 Fairwood Parkway 
+4114		20715	MD	Bowie	3268 Superior Ln 
+2853		20613	MD	Brandywine	15916 South Crain Hwy 
+1344		20616	MD	Bryans Road	3129 Marshall Hall Rd 
+1939		21619	MD	Chester	1925 Main Street 
+1443		20735	MD	Clinton	8785 Branch Ave 
+1565		20905	MD	Cloverly	15411 New Hampshire Ave 
+1370		21045	MD	Columbia	8775 Cloudleap Ct. 
+1553		21044	MD	Columbia	5485 Harpers Farm Rd. 
+2794		20872	MD	Damascus	9807 Main St 
+1129		20754	MD	Dunkirk	10276 Southern Md Blvd 
+952		21601	MD	Easton	139 N Washington St 
+2608		21037	MD	Edgewater	52 West Central Ave. 
+1678		21784	MD	Eldersburg	1313 Londontowne Blvd. 
+1281		21042	MD	Ellicott City	10000 Baltimore Ntl. Pike 
+1459		21043	MD	Ellicott City	4370 Montgomery Rd. 
+1882		20744	MD	Fort Washington	990 E. Swan Creek Rd. 
+1075		21701	MD	Frederick	927 West 7th St. 
+1089		20878	MD	Gaithersburg	12251 Darnestown Rd. 
+1620		20879	MD	Gaithersburg	20211 Goshen Rd 
+1596		21054	MD	Gambrills	2466 Chapel Lake Dr. 
+1579		20874	MD	Germantown	19718 Germantown Rd. 
+107		20770	MD	Greenbelt	7595 Greenbelt Rd 
+1926		21076	MD	Hanover	7643 Arundel Mills Blvd 
+1410		20782	MD	Hyattsville	3511 Hamilton St 
+2753		20895	MD	Kensington	10541 Connecticut Ave 
+1938		20646	MD	La Plata	40 Shining Willow Way 
+4868		20707	MD	Laurel	14100 Baltimore Ave 
+1559		21769	MD	Middletown	815 E. Main St. 
+1815		21771	MD	Mount Airy	337 E. Ridgeville Blvd 
+1758		21236	MD	Nottingham	9645 Belair Rd. 
+2797		20832	MD	Olney	3333 Spartan Rd 
+1657		21117	MD	Owings Mills	10335 Reisterstown Rd. 
+4872		20745	MD	Oxon Hill	6235 Oxon Hill Rd 
+ERROR	http://local.safeway.com/md/parkville.html
+1539		21122	MD	Pasadena	4211 Mountain Rd. 
+1399		21131	MD	Phoenix	3499 Sweet Air Rd. 
+945		20854	MD	Potomac	10104 River Rd. 
+1731		20678	MD	Prince Frederick	80 W. Dares Beach Rd. 
+1213		20851	MD	Rockville	1902 Veirs Mill Rd 
+1315		20852	MD	Rockville	5200 Randolph Road 
+1668		20853	MD	Rockville	5510 Norbeck Rd 
+1715		20850	MD	Rockville	403 Redland Blvd 
+1956		20850	MD	Rockville	14939 Shady Grove Rd. 
+124		20743	MD	Seat Pleasant	6300 Central Ave 
+1351		21146	MD	Severna Park	540 Benfield Rd. 
+1369		20910	MD	Silver Spring	909 Thayer Ave 
+4115		20904	MD	Silver Spring	13814 Outlet Dr. 
+4817		20901	MD	Silver Spring	116 University Blvd 
+870		20903	MD	Silver Spring	10101 New Hampshire Ave 
+2979		21204	MD	Towson	1017 York Rd. 
+1415		20772	MD	Upper Marlboro	7605 Crain Hwy 
+105		20601	MD	Waldorf	10 King St. 
+2661		20603	MD	Waldorf	3051 Waldorf Pazza Dr. 
+128		21793	MD	Walkersville	151 Walkers Village Way 
+1616		21158	MD	Westminster	444 WMC Dr. #116 
+3256		59711	MT	Anaconda	1525 W. Park 
+289		59715	MT	Bozeman	901 W. Main St. 
+2999		59715	MT	Bozeman	1735 W. Main St. 
+259		59701	MT	Butte	310 W. Front St. 
+3279		59701	MT	Butte	2500 Massachusetts Ave 
+1158		59722	MT	Deer Lodge	201 N Main St 
+1581		59725	MT	Dillon	570 N. Montana St. 
+3269		59840	MT	Hamilton	101 E. Main St. 
+1486		59601	MT	Helena	611 N. Montana St. 
+1573		59801	MT	Missoula	3801 S. Reserve St. 
+2619		59802	MT	Missoula	800 West Broadway 
+1646		59860	MT	Polson	146 S. Shore Route 
+2106		59937	MT	Whitefish	6580 Hwy 93 S. 
+549		69301	NE	Alliance	500 E. Third St. 
+2563		69337	NE	Chadron	230 Morehead St. 
+557		69153	NE	Ogallala	611 N. Spruce 
+556		69361	NE	Scottsbluff	601 Broadway Blvd. 
+2555		69162	NE	Sidney	1944 Illinois St. 
+1438		87410	NM	Aztec	415 N. Main St 
+2004		87401	NM	Farmington	3540 E. Main St. 
+683		87401	NM	Farmington	730 W. Main St. 
+1743		87301	NM	Gallup	980 N. Hwy 666 
+1517		89406	NV	Fallon	890 W. Williams 
+2255		89415	NV	Hawthorne	Hwy 95 
+4160		89419	NV	Lovelock	400 Dartmouth Ave 
+1210		89523	NV	Reno	5150 Mae Anne Ave 
+4628		89523	NV	Reno	FUEL STATION 5150F Mae Ann Avenue 
+2656		89436	NV	Sparks	2858 Vista Blvd. 
+4626		89436	NV	Sparks	FUEL STATION 2808 Vista Blvd. 
+1537		89448	NV	Zephyr Cove	212 Elk Point Dr 
+1659		97321	OR	Albany	1990 14th Avenue SE 
+1889		97006	OR	Aloha	20535 SW Tualatin Valley Hwy. 
+4292		97520	OR	Ashland	585 Siskiyou Blvd 
+2627		97103	OR	Astoria	3250 Leif Erickson Dr. 
+4381		97814	OR	Baker City	1205 Campbell St. 
+1073		97008	OR	Beaverton	6194 S.W. Murray Blvd 
+2631		97007	OR	Beaverton	14555 SW Teal Blvd 
+1504		97701	OR	Bend	2650 N E Hwy 20 
+1888		97702	OR	Bend	320 W. Century Blvd. 
+514		97701	OR	Bend	642 N.E. 3RD 
+4469		97720	OR	Burns	246 W. Monroe St. 
+2604		97013	OR	Canby	1051 SW 1st Ave 
+1231		97015	OR	Clackamas	12032 S.E. Sunnyside Rd 
+4318		97016	OR	Clatskanie	401 W. Columbia River Hwy 
+1556		97420	OR	Coos Bay	230 E. Johnson 
+4262		97423	OR	Coquille	155 E. First St. 
+1690		97330	OR	Corvallis	590 NE Circle Blvd. 
+1765		97333	OR	Corvallis	5270 Sw Philomath Blvd 
+4333		97333	OR	Corvallis	450 S.W.THIRD Ave 
+1458		97424	OR	Cottage Grove	1500 E. Main St. 
+4404		97338	OR	Dallas	138 W.ELLENDALE 
+521		97009	OR	Damascus	20151 S.E. Highway 212 
+371		97828	OR	Enterprise	601 W. N. St. 
+420		97401	OR	Eugene	1500 Coburg Rd 
+4288		97401	OR	Eugene	145 E. 18TH St. 
+4513		97405	OR	Eugene	350 E. 40TH 
+363		97439	OR	Florence	700 Hwy 101 
+406		97116	OR	Forest Grove	2836 Pacific Ave 
+4387		97027	OR	Gladstone	95 82ND Dr. 
+290		97526	OR	Grants Pass	115 East 7th St 
+379		97527	OR	Grants Pass	1640 Williams Hwy 
+1070		97030	OR	Gresham	1001 S.W. Highland Dr. 
+430		97030	OR	Gresham	1455 N.E. Division 
+444		97838	OR	Hermiston	990 Hwy 395 S. 
+1203		97123	OR	Hillsboro	2525 SE Tualatin Valley Hwy. 
+1230		97124	OR	Hillsboro	2177 N.W. 185TH. 
+1123		97031	OR	Hood River	2249 Cascade Ave 
+386		97448	OR	Junction City	1755 Ivy St. 
+1516		97303	OR	Keizer	4990 River Rd 
+1766		97603	OR	Klamath Falls	2740 S. 6TH 
+4395		97601	OR	Klamath Falls	211 N. Eighth St. 
+1827		97850	OR	La Grande	2111 Adams Ave. 
+1047		97035	OR	Lake Oswego	17779 Boones Ferry Rd 
+508		97034	OR	Lake Oswego	401 A Ave 
+4316		97630	OR	Lakeview	244 N. F St. 
+1558		97355	OR	Lebanon	1983 S. Main Street 
+415		97367	OR	Lincoln City	4101 N.W. Logan Rd 
+1960		97741	OR	Madras	80 Ne Cedar 
+1601		97128	OR	Mcminnville	2490 N. Hwy 99 W. 
+1643		97501	OR	Medford	3169 Crater Lake Hwy 
+525		97504	OR	Medford	1003 Medford Ctr 
+1590		97862	OR	Milton Freewater	455 N. Columbia 
+1529		97267	OR	Milwaukie	15099 S.E. Mcloughlin Blvd. 
+2690		97206	OR	Milwaukie	4320 SE King Road 
+2696		97267	OR	Milwaukie	14840 SE WEBSTER RD 
+1751		97038	OR	Molalla	1524 West Main Street 
+4287		97458	OR	Myrtle Point	725 Ash St. 
+2623		97132	OR	Newberg	1140 N. Springbrook Rd 
+378		97365	OR	Newport	2220 N. Coast Hwy 
+1557		97459	OR	North Bend	1735 Virginia 
+2993		97045	OR	Oregon City	13434 Colton Place 
+1642		97801	OR	Pendleton	203 Sw 20TH Ave 
+1223		97217	OR	Portland	11919 North Jantzen Ave. 
+1269		97230	OR	Portland	1541 N.E. 181ST Ave. 
+1447		97213	OR	Portland	6901 N.E. Sandy Blvd 
+1451		97230	OR	Portland	221 N.E. 122ND Ave 
+1523		97206	OR	Portland	4515 S.E. Woodstock 
+1525		97225	OR	Portland	13485 Nw Cornell Rd 
+1612		97232	OR	Portland	1100 NE Broadway 
+1627		97202	OR	Portland	3930 Se Powell Blvd 
+1951		97203	OR	Portland	8330 N. Ivanhoe Street 
+2448		97201	OR	Portland	1010 SW Jefferson 
+2790		97209	OR	Portland	1303 NW Lovejoy 
+3134		97214	OR	Portland	2800 S.E. Hawthorne 
+382		97236	OR	Portland	3527 S.E.122ND 
+4342		97216	OR	Portland	101 S.E. 82ND Ave 
+4510		97225	OR	Portland	6745 SW Beaverton Hillsdale Hwy 
+509		97211	OR	Portland	5920 N.E. Martin Luther King Blvd 
+512		97219	OR	Portland	8145 S.W. Barbur Blvd. 
+1665		97756	OR	Redmond	1705 S. Highway 97 
+284		97467	OR	Reedsport	1499 Hwy 101 
+1666		97470	OR	Roseburg	1539 Nw Stephens 
+1629		97301	OR	Salem	1265 Center Street 
+1935		97302	OR	Salem	5660 Commercial St. SE 
+412		97304	OR	Salem	1455 Edgewater St. N.W. 
+429		97303	OR	Salem	3380 Lancaster Dr. N.E. 
+782		97055	OR	Sandy	37601 Hwy 26 
+1260		97138	OR	Seaside	401 S. Roosevelt 
+1800		97140	OR	Sherwood	20685 Sw Roy Rogers 
+1580		97381	OR	Silverton	301 Westfield St 
+1094		97477	OR	Springfield	1891 PIONEER PARKWAY EAST 
+311		97477	OR	Springfield	5415 Main St. 
+424		97051	OR	St Helens	795 Lower Columbia River Hwy 
+1527		97383	OR	Stayton	1535 N. 1ST St. 
+1710		97386	OR	Sweet Home	1540 Main St. 
+1489		97058	OR	The Dalles	520 Mt. Hood St. 
+1478		97223	OR	Tigard	15570 S W Pacific Hwy 
+2723		97141	OR	Tillamook	1815 4th Street 
+1542		97060	OR	Troutdale	2501 SW Cherry Park Rd. 
+1713		97068	OR	West Linn	22000 Salamo Rd 
+1976		97071	OR	Woodburn	1550 N. Pacific Hwy 
+1554		57701	SD	Rapid City	730 Mountain View Rd. 
+581		57701	SD	Rapid City	2120 Mt. Rushmore Rd. 
+583		57783	SD	Spearfish	1606 N. Ave. 
+1019		22307	VA	Alexandria	1624 Belle View 
+1283		22309	VA	Alexandria	8646 Richmond Hwy 
+1285		22310	VA	Alexandria	6130 Rose Hill Dr. 
+1428		22304	VA	Alexandria	299 S Van Dorn St. 
+1847		22315	VA	Alexandria	5980 Kingstowne Towne Center 
+1950		22306	VA	Alexandria	7451 Mount Vernon Square 
+4003		22302	VA	Alexandria	3526 King St 
+866		22314	VA	Alexandria	500 S. Royal St 
+878		22308	VA	Alexandria	7900 Ft Hunt Rd. 
+1588		22003	VA	Annandale	7414 Little River Turnpike 
+1048		22209	VA	Arlington	1525 Wilson Blvd 
+1358		22205	VA	Arlington	5101 Wilson Blvd 
+4007		22207	VA	Arlington	3713 Lee Hwy 
+764		22207	VA	Arlington	2500 North Harrison St. 
+2650		20148	VA	Ashburn	43150 Broadlands Ctr. Pl. #140 
+2635		20136	VA	Bristow	12821 Braemar Village Plaza 
+1606		22015	VA	Burke	9596 Old Keene Mill Rd. 
+4002		22015	VA	Burke	5727 Burke Centre Parkway 
+1538		22701	VA	Culpeper	309 Southgate Shopping Ctr. 
+1702		22193	VA	Dale City	4215 Cheshire Station Plaza 
+1365		22032	VA	Fairfax	9525 Braddock Rd. 
+1431		22033	VA	Fairfax	12200 Fairfax Towne Center 
+2616		22031	VA	Fairfax	3043 Nutley St. 
+4001		22030	VA	Fairfax	10350 Willard Way 
+1304		22042	VA	Falls Church	7397 Lee Hwy 
+1462		22041	VA	Falls Church	5821 Crossroads Ctr Way 
+2883		22044	VA	Falls Church	6118 Arlington Blvd 
+1417		22066	VA	Great Falls	9881 Georgetown Pike 
+1689		20170	VA	Herndon	413 Elden Street 
+4218		20175	VA	Leesburg	437 S. King St 
+1300		22101	VA	Mclean	1330 Chain Bridge Rd. 
+4933		22101	VA	Mclean	6244 Old Dominion Dr 
+1300		22101	VA	Mclean	1330 Chain Bridge Rd. 
+4933		22101	VA	Mclean	6244 Old Dominion Dr 
+942		20118	VA	Middleburg	12 W. Washington St. 
+1570		20191	VA	Reston	2304 Hunter's Woods Plaza 
+5		20191	VA	Reston	11120 S. Lakes Dr. 
+907		22151	VA	Springfield	5204 Port Royal Rd. 
+1084		20165	VA	Sterling	30 Pidgeon Hill Dr 
+1759		20164	VA	Sterling	22350 S. Sterling Blvd 
+1801		20186	VA	Warrenton	189 W. Lee Hwy 
+1270		22191	VA	Woodbridge	2042 Daniel Stuart Sq. 
+1298		22192	VA	Woodbridge	4240 Merchant Plaza 
+1331		22192	VA	Woodbridge	2205 Old Bridge Rd. 
+1546		98520	WA	Aberdeen	221 W Heron 
+593		98221	WA	Anacortes	911 11TH St 
+1522		98223	WA	Arlington	20500 Olympic Place 
+534		98223	WA	Arlington	3532 172ND St 
+531		98002	WA	Auburn	101 Auburn Way S. 
+1252		98110	WA	Bainbridge Island	253 High School Rd. NE 
+4313		98604	WA	Battle Ground	904 W. Main St. 
+1571		98528	WA	Belfair	23961 N.E. State Route 3 
+1600		98004	WA	Bellevue	300 Bellevue Way NE 
+3472		98006	WA	Bellevue	3903 Factoria Mall S E 
+490		98005	WA	Bellevue	1645 140TH Ave. N.E. 
+544		98390	WA	Bonney Lake	21301 Highway 410 
+1864		98021	WA	Bothell	24040 Bothell Everett Hwy 
+3395		98011	WA	Bothell	18221 Bothell Way NE 
+535		98012	WA	Bothell	20711 Bothell Hwy 
+1467		98312	WA	Bremerton	900 N Callow 
+1524		98311	WA	Bremerton	1401 N.E. Mcwilliams 
+1664		98166	WA	Burien	138 Sw 148TH St 
+1287		98607	WA	Camas	800 N.E. Third 
+1495		98531	WA	Centralia	1129 Harrison 
+3525		98532	WA	Chehalis	1100 S. Market Blvd 
+3265		98816	WA	Chelan	106 W. Manson Rd 
+1740		99004	WA	Cheney	2710 1ST St. 
+337		99109	WA	Chewelah	W. 10 Colville Ave 
+1135		98922	WA	Cle Elum	804 W. First 
+385		99114	WA	Colville	391 N. Main St 
+792		98042	WA	Covington	17051 SE 272nd 
+251		99122	WA	Davenport	1202-1220 Morgan St. 
+1186		98198	WA	Des Moines	27035 Pacific Highway South 
+3540		98198	WA	Des Moines	21401 Pacific Hwy S 
+1572		98019	WA	Duvall	14020 Main St. Ne 
+3521		98802	WA	East Wenatchee	510 Grant Rd 
+1297		98026	WA	Edmonds	23632 Highway 99 
+1630		98926	WA	Ellensburg	400 N. Ruby St 
+494		98022	WA	Enumclaw	152 Roosevelt Ave E 
+1544		98823	WA	Ephrata	1150 Basin St S.W. 
+1484		98201	WA	Everett	4128 Rucker Ave 
+2645		98208	WA	Everett	5802 134th Place S.E. 
+474		98201	WA	Everett	1715 Broadway Dr. 
+503		98204	WA	Everett	11031 19TH Ave S E 
+517		98203	WA	Everett	7601 Evergreen Way 
+1555		98003	WA	Federal Way	1207 S. 320th Street 
+3501		98023	WA	Federal Way	2109 S W 336TH St 
+477		98003	WA	Federal Way	28810 Military Rd S. 
+2949		98335	WA	Gig Harbor	4831 Point Fosdick Dr. NW 
+541		98335	WA	Gig Harbor	4831 Point Fosdick Dr N.W. 
+547		98338	WA	Graham	10105 224th Street E. 
+3247		99133	WA	Grand Coulee	320 Midway Ave. 
+1593		98930	WA	Grandview	610 E. Wine Country Rd 
+4405		98665	WA	Hazel Dell	408 N.E. 81st Street 
+1624		98027	WA	Issaquah	735 NW Gilman Blvd. 
+2637		98626	WA	Kelso	411 Three Rivers Dr. 
+3500		98028	WA	Kenmore	6850 NE Bothell Way 
+335		99336	WA	Kennewick	2825 W. Kennewick Ave 
+1294		98032	WA	Kent	210 Washington Avenue S. 
+1966		98030	WA	Kent	13101 S.E. Kent Kangley Road 
+459		98031	WA	Kent	20830 108th Avenue S.E. 
+1142		98033	WA	Kirkland	12519 N E 85TH St 
+2734		98033	WA	Kirkland	10020 NE 137th 
+526		98034	WA	Kirkland	14444 124th Avenue NE 
+1977		98503	WA	Lacey	6200 Pacific Ave Se 
+543		98503	WA	Lacey	4700 Yelm Road SE 
+1803		98258	WA	Lake Stevens	717 Hwy. 9 
+1645		98499	WA	Lakewood	10223 Gravelly Lake Drive SW 
+1589		98826	WA	Leavenworth	116 Riverbend Drive 
+1741		99019	WA	Liberty Lake	1233 N. Liberty Lake Rd 
+1078		98632	WA	Longview	2930 Ocean Beach Hwy 
+91		98632	WA	Longview	1227 15th Avenue 
+1930		98264	WA	Lynden	8071 Guide Meridian Rd #101 
+1506		98036	WA	Lynnwood	19715 Hwy 99 
+3523		98036	WA	Lynnwood	14826 Highway 99 North 
+1471		98038	WA	Maple Valley	26916 Maple Valley Rd 
+1485		98270	WA	Marysville	1258 State St. 
+1514		98012	WA	Mill Creek	13314 Bothell Evertt Hwy 
+3545		98354	WA	Milton	900 E Meridian Suite 12 
+537		98272	WA	Monroe	19651 Hwy 2 
+3252		98837	WA	Moses Lake	601 S. Pioneer Way Suite 
+1472		98273	WA	Mt Vernon	315 E. College 
+558		98059	WA	Newcastle	6911 Coal Creek Parkway SE 
+1159		99156	WA	Newport	121 W Walnut 
+1528		98045	WA	North Bend	460 S. W. Mt Si Blvd 
+3518		98277	WA	Oak Harbor	31565 Sr 20 No.1 
+1173		98516	WA	Olympia	1243 Marvin Rd N E 
+1464		98502	WA	Olympia	3215 Harrison Ave N.W. 
+1952		98516	WA	Olympia	4280 Martin Way E. 
+1194		98841	WA	Omak	607 Omache Dr. 
+1844		98360	WA	Orting	215 Whitesell St Nw 
+1492		98362	WA	Port Angeles	110 E. 3RD St. 
+1922		98362	WA	Port Angeles	2709 E. Hwy 101 
+1082		98366	WA	Port Orchard	3355 Bethel Rd. S.E. 
+4608		98368	WA	Port Townsend	CONVENIENCE STORE 2611 Sims Way 
+538		98368	WA	Port Townsend	442 W. Sims Way 
+2639		99163	WA	Pullman	430 S E Bishop Blvd 
+1496		98371	WA	Puyallup	1405 E. Main 
+1798		98373	WA	Puyallup	11501 Canyon Rd E. 
+2640		98373	WA	Puyallup	13308 Meridian E 
+3228		98375	WA	Puyallup	5616 176th Street East 
+422		98371	WA	Puyallup	611 S Meridian 
+464		98052	WA	Redmond	17246 Remond Way East 
+496		98052	WA	Redmond	15000 N E 24TH 
+1468		98056	WA	Renton	4300 NE 4TH 
+1563		98055	WA	Renton	200 S. 3RD St 
+366		98056	WA	Renton	2725 N.E. Sunset Blvd 
+519		98058	WA	Renton	17230 140th Avenue SE 
+333		99352	WA	Richland	1803 George Washington Way 
+555		98074	WA	Sammamish	630 228th Ave. NE 
+1062		98116	WA	Seattle	4754 42ND Ave S W 
+1143		98117	WA	Seattle	8340 15TH Ave Nw 
+1477		98107	WA	Seattle	1423 Nw Market St 
+1493		98188	WA	Seattle	4011 S. 164TH 
+1508		98118	WA	Seattle	3820 Rainier Ave S 
+1550		98115	WA	Seattle	7300 Roosevelt Way NE 
+1551		98112	WA	Seattle	1410 E. John St. 
+1586		98125	WA	Seattle	12318 15th Ave. NE 
+1845		98103	WA	Seattle	8704 Greenwood Ave N 
+1885		98119	WA	Seattle	516 1st Ave W 
+1923		98126	WA	Seattle	9620 28TH Ave Sw 
+1965		98118	WA	Seattle	9262 Rainier Ave S 
+1993		98122	WA	Seattle	2201 E. Madison Street 
+219		98118	WA	Seattle	3900 S. Othello St. 
+2932		98116	WA	Seattle	2622 California Ave W 
+3091		98105	WA	Seattle	4732 Brooklyn N.E. 
+368		98109	WA	Seattle	2100 Queen Anne Ave N. 
+423		98115	WA	Seattle	7340 35th Ave. N.E. 
+488		98105	WA	Seattle	3020 NE 45th Street 
+1448		98382	WA	Sequim	680F W. Washington 
+585		98584	WA	Shelton	600 Franklin St 
+442		98133	WA	Shoreline	15332 Aurora Ave N 
+497		98155	WA	Shoreline	17202 15TH Ave N E 
+1680		98383	WA	Silverdale	2890 NW Bucklin Hill Rd. 
+1076		98290	WA	Snohomish	1119 13TH St. 
+1242		99203	WA	Spokane	E 2509 29TH Ave 
+1299		99218	WA	Spokane	10100 N Newport Hwy 
+1494		99205	WA	Spokane	2507 W. Wellesley Avenue 
+1799		99207	WA	Spokane	3919 N. Market St. 
+3248		99205	WA	Spokane	W. 902 Francis Ave 
+3255		99202	WA	Spokane	E. 933 Mission Ave 
+342		99205	WA	Spokane	W. 1616 N.W. Blvd 
+1273		99212	WA	Spokane Valley	N 1441 Argonne Rd 
+1473		99216	WA	Spokane Valley	14020 E. Sprague Ave 
+563		98944	WA	Sunnyside	613 S. 6th St. 
+1246		98406	WA	Tacoma	6201 6TH Ave 
+1436		98404	WA	Tacoma	1624 72ND St. E 
+1437		98408	WA	Tacoma	1302 S. 38th 
+1594		98408	WA	Tacoma	707 S. 56TH 
+1978		98407	WA	Tacoma	2637 N. Pearl St. 
+329		98405	WA	Tacoma	1112 S. M St. 
+3424		98406	WA	Tacoma	2411 N. Proctor 
+486		98466	WA	Tacoma	3842 Bridgeport Way 
+551		98444	WA	Tacoma	15805 Pacific Ave S. 
+584		98948	WA	Toppenish	711 W. First Ave 
+1503		98501	WA	Tumwater	500 Cleveland 
+1103		98661	WA	Vancouver	6701 E. Mill Plain 
+1519		98684	WA	Vancouver	13719 SE Mill Plain Blvd 
+1611		98661	WA	Vancouver	6711 NE 63rd Street 
+1653		98684	WA	Vancouver	2615 Ne 112TH Ave 
+1704		98682	WA	Vancouver	6700 Ne 162ND Ave Suite 500 
+1842		98686	WA	Vancouver	13023 Ne Hwy 99, Suite 1 
+400		98663	WA	Vancouver	3707 N. Main St. 
+4520		98662	WA	Vancouver	11696 N.E. 76TH St. 
+1160		99362	WA	Walla Walla	1600 Plaza Way 
+307		99362	WA	Walla Walla	215 E. Rose St. 
+1687		98671	WA	Washougal	3307 Evergreen Blvd Bld 5 
+1449		98801	WA	Wenatchee	501 N. Miller St. 
+533		98072	WA	Woodinville	19150 N E Woodinville Duvall 
+1762		98674	WA	Woodland	1725 Pacific Ave 
+1235		98902	WA	Yakima	2204 A W. Nob Hill Blvd 
+1660		98901	WA	Yakima	905 E. Meade 
+462		98902	WA	Yakima	205 N. 5TH Ave 
+502		98908	WA	Yakima	5702 Summitview Ave 
+1619		98597	WA	Yelm	1109 Yelm Ave. E. 
+2468		82609	WY	Casper	300 E. Wyoming Blvd 
+433		82604	WY	Casper	1375 Cy Avevue 
+2469		82001	WY	Cheyenne	469 Cole Center 
+2667		82007	WY	Cheyenne	700 S. Greeley Hwy. 
+467		82633	WY	Douglas	1900 E. Richards 
+2761		82520	WY	Lander	1165 Main St 
+2466		82070	WY	Laramie	554 N. Third St. 
+461		82501	WY	Riverton	709 N. Federal Blvd. 
+2664		82801	WY	Sheridan	169 Coffeen 
+2462		82201	WY	Wheatland	1307 16TH St. 

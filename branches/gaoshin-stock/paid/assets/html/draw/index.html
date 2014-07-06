@@ -1,0 +1,744 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+* {
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);	
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+canvas {
+}
+
+#div_swap {
+	position:absolute;top:0px;left:0px;z-index:99;background-color:rgba(255,255,255,0);
+}
+
+.clsHelp {
+position:absolute;z-index:100;
+background-color:rgba(255,255,255,1);
+}
+
+li span {
+	vertical-align:top; 
+    display:inline-block; 
+    line-height:1.2;
+}
+
+#chart {
+	margin-left:50px;
+	margin-top:50px;
+}
+</style>
+<script src="../common.js"></script>
+<script src="kinetic-v3.1.0.js"></script>
+<script type="text/javascript" src="../jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="../json2.js"></script>
+<script style="" src="Point.js"></script>
+<script style="" src="Line.js"></script>
+<script style="" src="Circle.js"></script>
+<script style="" src="Text.js"></script>
+<script style="" src="Parallel.js"></script>
+
+<script>
+sysMenus = getSystemMenu();
+currentColor = "red";
+
+colorTable = new Array("Silver", "Gray", "Black", "Red", "Maroon", "Yellow", "Olive", "Lime", "Green", "Aqua", "Teal", "Blue", "Navy", "Fuchsia", "Purple");
+colorMenu = {
+	items: [
+	    {
+		    items: [
+				{id: 300, label: 'Silver', color: 0xC0C0C0}, 
+				{id: 301, label: 'Gray', color: 0x808080 },
+				{id: 302, label: 'Black', color: 0x000000 },
+				{id: 303, label: 'Red', color: 0xFF0000 },
+				{id: 304, label: 'Maroon', color: 0x800000}, 
+			]
+		},
+	    {
+		    items: [
+				{id: 305, label: 'Yellow', color: 0xFFFF00 },
+				{id: 306, label: 'Olive', color: 0x808000 },
+				{id: 307, label: 'Lime', color: 0x00FF00 },
+				{id: 308, label: 'Green', color: 0x008000 },
+				{id: 309, label: 'Aqua', color: 0x00FFFF },
+			]
+		},
+	    {
+		    items: [
+				{id: 310, label: 'Teal', color: 0x008080 },
+				{id: 311, label: 'Blue', color: 0x0000FF },
+				{id: 312, label: 'Navy', color: 0x000080 },
+				{id: 313, label: 'Fuchsia', color: 0xFF00FF}, 
+				{id: 314, label: 'Purple', color: 0x800080},
+			]
+		},
+	]	
+};
+
+function searchColor(name) {
+	for(var i=0; i<colorMenu.items.length; i++) {
+		var item = colorMenu.items[i];
+		for(var j=0; j<item.items.length; j++) {
+			if(item.items[j].label == name)
+				return item.items[j].color;
+		}
+	}
+}
+
+portraitMenus = {
+		items: [
+		        {
+					items: [
+				        {id: 11, label: 'New Line'},
+				        {id: 12, label: 'New Circle'},
+				        {id: 13, label: 'New Text'},
+				        {id: 16, label: 'New Parallel'},
+				        {id: 14, label: 'Deselect'},
+				        {id: 15, label: 'Deselect All'},
+		        	]
+		        },
+		        {
+					items: [
+				        {id: 16, label: 'Line Color', color: searchColor(currentColor)},
+				        {id: 16, label: 'Save & Share'},
+				        {id: 17, label: 'Remove Selected'},
+				        {id: 18, label: 'Remove All'},
+				        {id: 11, label: 'Chart Settings'},
+		        	]
+		        },
+		        sysMenus,
+		]
+};
+
+function restore() {
+	try {
+		saved = android.getConf("currentChart");
+		if(saved != null) {
+			android.deleteConf("currentChart");
+		}
+		else {
+			saved = android.getConf(window.location.href+"");
+		}
+		if(saved) {
+			var objects = JSON.parse(saved);
+			for(var i=0; i<objects.length; i++) {
+				var obj = objects[i];
+				if(obj.type == 'Text') {
+					createText(obj);
+				}
+				if(obj.type == 'Line') {
+					createLine(obj);
+				}
+				if(obj.type == 'Circle') {
+					createCircle(obj);
+				}
+				if(obj.type == 'Parallel') {
+					createParallel(obj);
+				}
+			}
+		}
+		for ( var i = 0; i < gaoshin.objects.length; i++) {
+			gaoshin.objects[i].setSelected(false);
+		}
+	} catch (e) {
+		alert(e);
+	}
+}
+
+function setActive(active) {
+	if(active || active == 'true') {
+		android.setMenus(JSON.stringify(portraitMenus));
+	}
+}
+
+Refresh = function() {
+	android.log("refresh");
+	saveChart("currentChart", false);
+	window.location.reload();
+}
+
+function onMenu(id, label) {
+	if(onSysMenu(id, label)) {
+		return;
+	}
+	
+	if(label == 'New Line') {
+		newLine();
+		gaoshin.stage.draw();
+		showHint();
+		return;
+	}
+	
+	if(label == 'New Circle') {
+		newCircle();
+		gaoshin.stage.draw();
+		showHint();
+		return;
+	}
+	
+	if(label == 'New Text') {
+		newText();
+		gaoshin.stage.draw();
+		showHint();
+		return;
+	}
+	
+	if(label == 'New Parallel') {
+		newParallel();
+		gaoshin.stage.draw();
+		showHint();
+		return;
+	}
+	
+	if(label == 'Remove Selected') {
+		removeSelected();
+		gaoshin.stage.draw();
+		return;
+	}
+	
+	if(label == 'Remove All') {
+		removeAll();
+		android.deleteConf(window.location.href+"");
+		gaoshin.stage.draw();
+		android.shake();
+		return;
+	}
+
+	if(label == 'Deselect') {
+		unselect();
+		gaoshin.stage.draw();
+		return;
+	}
+
+	if(label == 'Deselect All') {
+		for ( var i = 0; i < gaoshin.objects.length; i++) {
+			gaoshin.objects[i].setSelected(false);
+		}
+		gaoshin.stage.draw();
+		return;
+	}
+
+	if(label == 'Save & Share') {
+		$('#div_swap').hide();
+		saveChart(window.location.href, true);
+		gaoshin.stage.draw();
+		setTimeout("delayedSave()",300);
+		return;
+	}
+
+	if(label == 'Chart Settings') {
+		try {
+			window.location = "plugin.html?" + JSON.parse(android.getCurrentPlugin()).id;
+		} catch (e) {alert(e)};
+		return;
+	}
+
+	if(label == 'Line Color') {
+		android.setMenus(JSON.stringify(colorMenu));
+		setTimeout("android.showMenus()",300);
+		return;
+	}
+
+	id = parseInt(id);
+	if(id >= 300 && id <= 314) {
+		currentColor = colorTable[id-300];
+		setActive(true);
+	}
+}
+
+function saveChart(key, removeSel) {
+	var array = new Array();
+	for ( var i = 0; i < gaoshin.objects.length; i++) {
+		if(removeSel) {
+			gaoshin.objects[i].setSelected(false);
+		}
+		gaoshin.objects[i].save(array);
+	}
+	var json = JSON.stringify(array);
+	android.saveConf(key, json);
+}
+
+function showHint() {
+	try {
+		android.shake();
+		var value = android.getConf('hintCount');
+		if(value == null) {
+			value = 0;
+		}
+		else {
+			value = parseInt(value);
+		}
+		value ++;
+		android.saveConf('hintCount', value+"");
+		if(value<4) {
+			android.toast('Long touch and then drag the shell shape to move object');
+		}
+	}
+	catch (e) {
+		android.log(e);
+	}
+}
+
+function delayedSave() {
+	save();
+	$('#div_swap').show();
+}
+
+function unselect() {
+	if(gaoshin.currentPoint != null) {
+		gaoshin.currentPoint.parent.setSelected(false);
+		gaoshin.currentPoint = null;
+	}
+}
+
+	symbol = window.location.search.substring(1);
+	gaoshin = {
+		currentPoint: null,
+		editModeCnt: 0,
+		lastTouchPos: null,
+		lastTouchMoveTime: 0,
+		firstMove: true,
+		lastX: null,
+		lastY: null,
+		objects: new Array(),
+		colorSelected: "black",
+		colorUnselected: "grey",
+	};
+	
+	try {
+		useMouse = false;
+	} catch (e) {
+		useMouse = true;
+		android = {
+			log : function(msg) {
+				writeMessage(gaoshin.stage, msg);
+			}
+		}
+	}
+	
+	function inEditMode() {
+		return !$('#div_swap').is(":visible")
+	}
+	
+	function save() {
+		android.save();
+	}
+	
+	function onLongClick() {
+		android.log("onLongClick");
+		if(clicked != null) {
+			android.setAllowScrolling(false);
+			android.toast("Start dragging current object");
+			return;
+		}
+
+		var x = gaoshin.lastTouchPos.x;
+		var y = gaoshin.lastTouchPos.y;
+		for ( var i = 0; i < gaoshin.objects.length; i++) {
+			var obj = gaoshin.objects[i];
+			var dis = obj.distanceFrom(x, y);
+			if(dis<12) {
+				if(obj instanceof Line) {
+				}
+				else if(obj instanceof Circle) {
+				}
+				else if(obj instanceof Text) {
+					obj.change();
+					gaoshin.stage.draw();
+					return;
+				}
+				else if(obj instanceof Parallel) {
+				}
+			}
+		}
+	}
+	
+	function onDblClick() {
+		return;
+		if($('#div_swap').is(":visible")) {
+			android.log("onDblClick. Hide cover");
+			if(gaoshin.editModeCnt < 2) {
+				android.toast("Enter edit mode.\nIn edit mode, you cannot scroll chart.\nTo exit edit mode, double tap the chart area.");
+			}
+			gaoshin.editModeCnt++;
+			$('#div_swap').hide();
+		} 
+		else {
+			android.log("onDblClick. Show cover");
+			showCover();
+		}
+	}
+	
+	function onScroll() {
+		android.log("onScroll");
+		gaoshin.stage.draw();
+	}
+	
+	function help() {
+	}
+	
+	function enterEditMode() {
+		if(!inEditMode()) {
+			onDblClick();
+		}
+	}
+	
+	function removeSelected() {
+		var total = 0;
+		for ( var i = 0; i < gaoshin.objects.length; i++) {
+			if (gaoshin.objects[i].selected) {
+				total ++;
+			}
+		}
+		
+		if (total == 0) {
+			android.toast("No current line selected");
+		} else {
+			if (confirm("Are you sure to delete current selected objects?")) {
+				for ( var i = gaoshin.objects.length-1; i >=0; i--) {
+					if (gaoshin.objects[i].selected) {
+						try {
+							var p0 = gaoshin.objects[i].startPoint.getShape();
+							gaoshin.stage.remove(p0);
+						} catch (e) {}
+							
+						try {
+							var p1 = gaoshin.objects[i].endPoint.getShape();
+							gaoshin.stage.remove(p1);
+						} catch (e) {}
+							
+						try {
+							var p1 = gaoshin.objects[i].startPoint1.getShape();
+							gaoshin.stage.remove(p1);
+						} catch (e) {}
+							
+						try {
+							var p2 = gaoshin.objects[i].getShape();
+							gaoshin.stage.remove(p2);
+						} catch (e) {}
+						
+						gaoshin.objects.splice(i, 1);
+					}
+				}
+				gaoshin.currentPoint = null;
+			}
+		}
+	}
+	
+	function removeAll() {
+		if (confirm("Are you sure to remove all?")) {
+			gaoshin.objects = new Array();
+			gaoshin.currentPoint = null;
+			gaoshin.stage.removeAll();
+			android.deleteConf(window.location.href+"");
+		}
+	}
+	
+	function search(x, y) {
+		for ( var i = 0; i < gaoshin.objects.length; i++) {
+			if (gaoshin.objects[i].startPoint.inside(x, y)) {
+				return gaoshin.objects[i].startPoint;
+			}
+			
+			if (gaoshin.objects[i].endPoint && gaoshin.objects[i].endPoint.inside(x, y)) {
+				return gaoshin.objects[i].endPoint;
+			}
+			
+			if (gaoshin.objects[i].startPoint1 && gaoshin.objects[i].startPoint1.inside(x, y)) {
+				return gaoshin.objects[i].startPoint1;
+			}
+		}
+		return null;
+	}
+
+	function writeMessage(stage, message) {
+		var context = stage.getContext();
+		stage.clear();
+		context.font = "18pt Calibri";
+		context.fillStyle = "black";
+		context.fillText(message, 10, 25);
+	}
+	
+	function distance(a, b)
+	{
+	    var dx = a.x - b.x;
+	    var dy = a.y - b.y;
+	    return Math.sqrt(dx*dx + dy*dy);
+	}
+
+	function Segment(a, b)
+	{
+	    var ab = {
+	        x: b.x - a.x,
+	        y: b.y - a.y
+	    };
+	    var length = distance(a, b);
+
+	    function cross(c) {
+	        return ab.x * (c.y-a.y) - ab.y * (c.x-a.x);
+	    };
+
+	    this.distanceFrom = function(c) {
+	        return Math.min(distance(a,c),
+	                        distance(b,c),
+	                        Math.abs(cross(c) / length));
+	    };
+	}
+	
+	function showCover() {
+		android.log("showCover");
+		$('#div_swap').width($('#container').width());
+		$('#div_swap').height($('#container').height());
+		$('#div_swap').show();
+	}
+	
+	function getTouchPos(evt) {
+		var scale = android.getScale() / 1;
+		var displayWidth = android.getDisplayWidth();
+		var displayHeight = android.getDisplayHeight();
+		var scrollbarHeight = Math.floor(displayHeight / scale);
+		var scrollbarWidth = Math.floor(displayWidth / scale);
+		var top = Math.floor(android.getOffsetTop() / android.getScale());
+		var left = Math.floor(android.getOffsetLeft() / android.getScale());
+		var touch = evt.touches[0];
+		var touchX = touch.clientX + left;
+		var touchY = touch.clientY + top;
+		return {x:touchX, y:touchY};
+	}
+	
+	function onTouchStart ( evt ) {
+		android.log("onTouchStart");
+		if(evt.touches !== undefined && evt.touches.length == 1) {
+			var pos = getTouchPos(evt);
+			eventStart(pos.x, pos.y);
+		}
+	}
+
+	function onTouchEnd ( evt ) {
+		android.log("onTouchEnd");
+		android.setAllowScrolling(true);
+		gaoshin.stage.draw();
+		clicked = null;
+	}
+
+	function onTouchMove ( evt ) {
+		android.log("onTouchMove");
+		if(android.isAllowScrolling() == 'false' && evt.touches !== undefined && evt.touches.length == 1) {// Only deal with
+			var pos = getTouchPos(evt);
+			eventMove(pos.x, pos.y);
+		}
+	}
+
+	window.onload = function() {
+		try {
+			startLoad();
+		} catch (e) {
+			alert(e);
+		}
+	}
+
+	function startLoad() {
+		setActive(true);
+		android.setUseWideViewPort('false');
+		$('#container').width($('#chart').width() + 100);
+		$('#container').height($('#chart').height() + 100);
+		$('#div_swap').width($('#container').width());
+		$('#div_swap').height($('#container').height());
+		
+		gaoshin.stage = new Kinetic.Stage("container", $('#chart').width()+100, $('#chart').height()+100);
+		document.getElementById('div_swap').addEventListener( "touchstart", function(event) {onTouchStart(event);}, false);
+		document.getElementById('div_swap').addEventListener( "touchend", function(event) {onTouchEnd(event);}, false);
+		document.getElementById('div_swap').addEventListener( "touchmove", function(event) {onTouchMove(event);}, false);
+		var canvas = gaoshin.stage.getCanvas();
+		onDblClick();
+		
+		eventStart = function(x, y) {
+			android.log("touchstart main: " + x + ", " + y);
+			gaoshin.lastTouchPos = {x:x, y:y};
+			gaoshin.firstMove = true;
+			gaoshin.lastX = null;
+			gaoshin.lastY = null;
+			
+				clicked = search(x, y);
+				if (clicked != null) {
+					gaoshin.currentPoint = clicked;
+					gaoshin.currentPoint.parent.setSelected(true);
+					gaoshin.stage.draw();
+					return true;
+				}
+				else {
+					var found = false;
+					for ( var i = 0; i < gaoshin.objects.length; i++) {
+						var obj = gaoshin.objects[i];
+						var dis = obj.distanceFrom(x, y);
+						if(dis<12) {
+							if(obj instanceof Line) {
+								var minX = Math.min(obj.startPoint.x, obj.endPoint.x);
+								var maxX = Math.max(obj.startPoint.x, obj.endPoint.x);
+								var minY = Math.min(obj.startPoint.y, obj.endPoint.y);
+								var maxY = Math.max(obj.startPoint.y, obj.endPoint.y);
+								if(x > minX && x < maxX && y > minY && y < maxY) {
+									obj.setSelected(!obj.selected);
+									gaoshin.currentPoint = null;
+									found = true;
+								}
+							}
+							else if(obj instanceof Circle) {
+								obj.setSelected(!obj.selected);
+								gaoshin.currentPoint = null;
+								found = true;
+							}
+							else if(obj instanceof Text) {
+								obj.setSelected(!obj.selected);
+								gaoshin.currentPoint = obj.selected ? obj.startPoint : null;
+								found = true;
+							}
+							else if(obj instanceof Parallel) {
+								obj.setSelected(!obj.selected);
+								gaoshin.currentPoint = obj.selected ? obj.startPoint : null;
+								found = true;
+							}
+						}
+						if(found) break;
+					}
+					if(found) {
+						gaoshin.stage.draw();
+					}
+					return false;
+				}
+		};
+
+		eventMove = function(x, y) {
+			gaoshin.lastTouchPos = {x:x, y:y};
+			if(gaoshin.firstMove) {
+				gaoshin.firstMove = false;
+				return;
+			}
+
+			var now = new Date().getTime();
+			var diff = now - gaoshin.lastTouchMoveTime;
+			if (diff < 10) {
+				return;
+			}
+			gaoshin.lastTouchMoveTime = now;
+
+				var shape = search(x, y);
+				if (gaoshin.currentPoint != null
+						&& gaoshin.currentPoint.parent.selected && shape != null) {
+					gaoshin.currentPoint.parent.setSelected(true);
+
+					var diff = gaoshin.currentPoint.setPosition(x, y+pointRadius());
+					
+					if(gaoshin.currentPoint.parent instanceof Circle) {
+						if(gaoshin.currentPoint.same(gaoshin.currentPoint.parent.startPoint)) {
+							gaoshin.currentPoint.parent.endPoint.move(diff);
+						}
+					}
+					
+					if(gaoshin.currentPoint.parent instanceof Parallel) {
+						if(gaoshin.currentPoint.same(gaoshin.currentPoint.parent.startPoint)) {
+						}
+						if(gaoshin.currentPoint.same(gaoshin.currentPoint.parent.startPoint1)) {
+						}
+					}
+					
+					gaoshin.stage.draw();
+				}
+		};
+
+		eventEnd = function(x, y) {
+			android.log("touchend main");
+		};
+
+		gaoshin.stage.addEventListener("touchmove", function() {
+			try {
+				var pos = gaoshin.stage.getTouchPos();
+				eventMove(pos.x, pos.y);
+			} catch (e) {
+				android.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!" + e);
+			}
+		}, false);
+
+		gaoshin.stage.addEventListener("touchend", function() {
+			try {
+				var pos = gaoshin.stage.getTouchPos();
+				eventEnd(pos.x, pos.y);
+			} catch (e) {
+				android.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!" + e);
+			}
+		}, false);
+
+		gaoshin.stage.addEventListener("touchstart", function() {
+			try {
+				var pos = gaoshin.stage.getTouchPos();
+				eventStart(pos.x, pos.y);
+			} catch (e) {
+				android.log("!!!!!!!!!!!!!!!!!!!!!!!!!!!" + e);
+			}
+		}, false);
+
+		gaoshin.stage.addEventListener("mousemove", function() {
+			try {
+				var pos = gaoshin.stage.getMousePos();
+				eventMove(pos.x, pos.y);
+			} catch (e) {
+				writeMessage(gaoshin.stage, e);
+			}
+		}, false);
+
+		gaoshin.stage.addEventListener("mouseup", function() {
+			try {
+				var pos = gaoshin.stage.getMousePos();
+				eventEnd(pos.x, pos.y);
+			} catch (e) {
+				writeMessage(gaoshin.stage, e);
+			}
+		}, false);
+
+		gaoshin.stage.addEventListener("mousedown", function() {
+			try {
+				var pos = gaoshin.stage.getMousePos();
+				eventStart(pos.x, pos.y);
+			} catch (e) {
+				writeMessage(gaoshin.stage, e);
+			}
+		}, false);
+		
+		restore();
+		onScroll();
+	};
+</script>
+</head>
+<body><div id="container" style='position:absolute; top:0px; left:0; z-index:1; clear: both;'>
+</div>
+
+<script type='text/javascript'>
+document.write('<img id="chart" src="http://realtime.bigcharts.com/big.chart' + window.location.search + '"/>');
+</script>
+
+<div id='div_swap'>
+</div>
+
+<div style='margin-top:20px;margin-left:50px;width:100%;'>
+<strong>Tips:</strong>
+<ul>
+	<li>Press menu to access all features</li>
+	<li>Press menu and then select 'Chart Settings' to add/remove indicators</li>
+	<li>Press menu and then select 'Save &amp; Share' to share the chart with your friends</li>
+	<li>Long touch and then drag <img valign='middle' src='hand.png' border="0"/> to move objects</li>
+	<li>Long touch on a text object to change the text</li>
+	<li>On some devices, sometimes you need refresh page (press Menu -&gt; Refresh) when you cannot move an object or cannot create a new object</li> 
+</ul>
+</div>
+
+</body>
+</html>
+
+
+

@@ -1,0 +1,80 @@
+body,table,th,td,button,input,select,textarea,pre,samp {
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+body {
+	background-color:#fff;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	border:none;
+	vertical-align:middle;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+#footer {
+	margin-top:36px;
+	font-size:0.8em;
+	color:#666;
+	width:100%;
+	margin-bottom:10px;
+	text-align:center;
+}
+
+#footer .item {
+	padding:10px;
+}
+
+.apps {
+	text-align:center;
+	width:100%;
+}
+
+.app {
+	text-align:center;
+	padding:10px;
+	width:60px;
+	height:60px;
+}
+
+.app-name {
+	margin-top:8px;
+	font-size:0.8em;
+}
+
+.title {
+	font-size: 1.6em;
+	margin-bottom:8px;
+}
+
+.seperator {
+	clear:both;
+	height:1px;
+}
+
+.navi {
+	text-align:center;
+	padding:4px;
+	border:solid 2px #CD7F32;
+}
+
+.navi-item {
+	font-size:1.2em;
+}
+
+.navi-img {
+	width:24px;
+}
+

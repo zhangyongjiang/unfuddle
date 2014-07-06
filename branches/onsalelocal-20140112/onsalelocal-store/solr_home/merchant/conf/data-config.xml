@@ -1,0 +1,20 @@
+<dataConfig>
+    <dataSource type="JdbcDataSource" name="db_store" driver="com.mysql.jdbc.Driver" url="${dataimporter.request.db_store}" user="root" password="" batchSize="-1"/>
+
+    <document name="places" onImportStart="com.gaoshin.onsalelocal.search.ImportOnStartListener" onImportEnd="com.gaoshin.onsalelocal.search.ImportOnEndListener">
+        <entity name="ITEM0" dataSource="db_store"
+            transformer="com.gaoshin.onsalelocal.search.PlaceTransformer"
+            query="select * from Store p where ((p.updated &gt; ${dataimporter.request.startTime} and p.updated &lt;= ${dataimporter.request.endTime}) or (p.id='${dataimporter.request.id}'))  ">
+            <field column="id" name="id" />
+            <field column="name" name="name" />
+            <field column="latitude" name="location_0_coordinate" />
+            <field column="longitude" name="location_1_coordinate" />
+            <field column="logo" name="img_url" />
+            <field column="address" name="address" />
+            <field column="city" name="city" />
+            <field column="state" name="state" />
+            <field column="country" name="country" />
+            <field column="phone" name="phone" />
+        </entity>
+    </document>
+</dataConfig>

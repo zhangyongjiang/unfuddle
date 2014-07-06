@@ -1,0 +1,3810 @@
+2493076	2110 W Walnut St, Rogers, AR 72756
+2493077	2020 S Muskogee Ave, Tahlequah, OK 74464
+2493078	406 S Walton Blvd, Bentonville, AR 72712
+2493079	2721 Boca Chica Blvd, Brownsville, TX 78521
+2493080	4080 W Northern Ave, Pueblo, CO 81005
+2493081	2251 E State Highway 54, Linton, IN 47441
+2493082	6800 W Us Highway 34, Plano, IL 60545
+2493083	5315 Cortez Rd W, Bradenton, FL 34210
+2493084	2700 4Th St Sw, Waverly, IA 50677
+2493085	1215 E 16Th Ave, Cordele, GA 31015
+2493086	2401 Us Hwy 14 E, Richland Center, WI 53581
+2493087	250 W 65Th St, Loveland, CO 80538
+2493088	1150 Us Highway 60 E, Republic, MO 65738
+2493089	500 S Bishop Ave, Rolla, MO 65401
+2493090	720 E Us Highway 74, Rockingham, NC 28379
+2493091	434 S Columbia Ave, Rincon, GA 31326
+2493092	120 Frances Ln, Beaver Dam, WI 53916
+2493093	1795 E State Road 163, Clinton, IN 47842
+2493094	4000 S Bolger Rd, Independence, MO 64055
+2493095	7555 N Mesa St, El Paso, TX 79912
+2493096	410 N Canal Blvd, Thibodaux, LA 70301
+2493097	2010 Paxville Hwy, Manning, SC 29102
+2493098	1099 Indian Dr, Eastman, GA 31023
+2493099	3105 E Us Highway 50, Canon City, CO 81212
+2493100	406 E 22Nd St, Stuttgart, AR 72160
+2493101	1550 Blake Ave, Albert Lea, MN 56007
+2493102	500 Warren County Ctr, Warrenton, MO 63383
+2493103	3820 State Highway 64 W, Tyler, TX 75704
+2493104	1140 E Stuart Dr, Galax, VA 24333
+2493105	414 S Main St, Swainsboro, GA 30401
+2493106	1608 Veterans Blvd, Mccomb, MS 39648
+2493107	3200 John Williams Blvd, Bedford, IN 47421
+2493108	150 Concord Commons Pl Sw, Concord, NC 28027
+2493109	401 River Rd, East Peoria, IL 61611
+2493110	3826 S Suncoast Blvd, Homosassa, FL 34448
+2493111	196 Shawnee Mall Dr, Shawnee, OK 74804
+2493112	805 Hwy 9 Bypass Wes, Lancaster, SC 29720
+2493114	2101 S Highway 77, Lynn Haven, FL 32444
+2493115	1600 E Tipton St, Seymour, IN 47274
+2493116	705 E Dixon Blvd, Shelby, NC 28152
+2493117	141 Dorman Centre Dr, Spartanburg, SC 29301
+2493118	197 Plaza Dr, Forest City, NC 28043
+2493119	1317 N Main St Ste A1, Summerville, SC 29483
+2493120	2103 State St N, Waseca, MN 56093
+2493121	2241 Rockford St, Mount Airy, NC 27030
+2493122	15427 S First St, Milan, TN 38358
+2493123	15955 Fm 529 Rd, Houston, TX 77095
+2493124	1310 N Texas Blvd, Weslaco, TX 78596
+2493125	488 Highway 71 W, Bastrop, TX 78602
+2493126	2008 W Grant Ave, Pauls Valley, OK 73075
+2493127	5050 Troup Hwy, Tyler, TX 75707
+2493128	745 Us Highway 287, Lafayette, CO 80026
+2493129	2214 N 1St St, Carrizo Springs, TX 78834
+2493130	6065 Jonesboro Rd, Morrow, GA 30260
+2493131	589 W Highway 92, Williamsburg, KY 40769
+2493132	2301 S Harper Rd, Corinth, MS 38834
+2493133	2406 Lubbock Hwy, Lamesa, TX 79331
+2493134	407 E State Road 114, Levelland, TX 79336
+2493135	3186 Highway 171 N, Fayette, AL 35555
+2493136	1015 New Moody Ln, La Grange, KY 40031
+2493137	1920 Highway 73, Atchison, KS 66002
+2493138	5302 N Garland Ave, Garland, TX 75040
+2493139	3300 Tri City Dr, Newcastle, OK 73065
+2493140	1302 Gilmer Ave, Tallassee, AL 36078
+2493141	16750 S Townsend Ave, Montrose, CO 81401
+2493142	1309 Highway 35 S, Forest, MS 39074
+2493143	1405 Middle Rd, Fulton, KY 42041
+2493144	1227 Burkemont Ave, Morganton, NC 28655
+2493145	136 E Jarman St, Hazlehurst, GA 31539
+2493146	150 W El Dorado Blvd, Friendswood, TX 77546
+2493147	1608 W Magnolia Ave, Geneva, AL 36340
+2493148	935 Blowing Rock Blvd, Lenoir, NC 28645
+2493149	2400 N Hervey St, Hope, AR 71801
+2493150	4253 Denny Ave, Pascagoula, MS 39581
+2493151	1506 N Texana St, Hallettsville, TX 77964
+2493152	2001 Us Highway #1, Sebastian, FL 32958
+2493153	231 Eastside Dr, Newton, MS 39345
+2493154	134 Courtright Rd, Martin, TN 38237
+2493155	88 Highland Crossing, East Ellijay, GA 30539
+2493156	610 Wesley Dr, Wood River, IL 62095
+2493157	1830 Us Highway 82 W, Tifton, GA 31793
+2493158	1710 Central Texas Expy, Lampasas, TX 76550
+2493159	1655 Sunset Dr, Grenada, MS 38901
+2493160	1680 Fort Campbell Blvd, Clarksville, TN 37042
+2493161	1401 Gray Hwy, Macon, GA 31211
+2493162	3535 Apalachee Pkwy, Tallahassee, FL 32311
+2493163	2005 Hutchings Ave, Ballinger, TX 76821
+2493164	1998 State Road 44, New Smyrna Beach, FL 32168
+2493165	1608 S Division St, Guthrie, OK 73044
+2493166	3111 Browns Mill Rd, Johnson City, TN 37604
+2493167	3570 Sw Archer Rd, Gainesville, FL 32608
+2493168	10991 San Jose Blvd Ste 1, Jacksonville, FL 32223
+2493169	6830 Normandy Blvd, Jacksonville, FL 32205
+2493170	3838 S Semoran Blvd, Orlando, FL 32822
+2493171	8701 Us Highway 19, Port Richey, FL 34668
+2493172	4400 13Th St, Saint Cloud, FL 34769
+2493173	4001 Se Federal Hwy, Stuart, FL 34997
+2493174	2381 Pass Rd, Biloxi, MS 39531
+2493175	525 Kimball Crossing Dr, Kimball, TN 37347
+2493176	2000 N Walnut St, Cameron, MO 64429
+2493177	6767 103Rd St, Jacksonville, FL 32210
+2493178	1991 M. L. King Jr., Andalusia, AL 36420
+2493179	1405 Tahoka Rd, Brownfield, TX 79316
+2493180	845 Broadmeadow Rd, Rantoul, IL 61866
+2493181	10300 E. Hwy 350, Raytown, MO 64138
+2493182	3010 Blake Ave, Glenwood Springs, CO 81601
+2493183	261 Cooper Creek Dr, Mocksville, NC 27028
+2493184	250 Turner St, Aberdeen, NC 28315
+2493185	400 Tiney Browning Blvd, Port Lavaca, TX 77979
+2493186	501 E Pawnee St, Wichita, KS 67211
+2493187	65 Wal Mart Dr, Mountain Home, AR 72653
+2493188	1706 Military St S, Hamilton, AL 35570
+2493189	4538 Us Highway 231, Wetumpka, AL 36092
+2493190	14507 Plank Rd, Baker, LA 70714
+2493191	3450 Fm 1960 Rd W, Houston, TX 77068
+2493192	2461 E Gulf To Lake Hwy, Inverness, FL 34453
+2493193	4450 E Mccain Blvd, North Little Rock, AR 72117
+2493194	4283 Carter St, Vidalia, LA 71373
+2493195	1900 Highway 165 S, Oakdale, LA 71463
+2493196	705 S Constitution Ave, Oak Grove, LA 71263
+2493197	1806 Julia St, Rayville, LA 71269
+2493198	2700 S Santa Fe Ave, Chanute, KS 66720
+2493199	833 Sterlington Hwy, Farmerville, LA 71241
+2493200	1572 Anderson Hwy, Hartwell, GA 30643
+2493201	855 N Church St, Thomaston, GA 30286
+2493202	1851 Highway 192 W, London, KY 40741
+2493203	409 Sylamore Ave, Mountain View, AR 72560
+2493204	612 E Main St, Hohenwald, TN 38462
+2493205	1845 N Highway 81, Duncan, OK 73533
+2493206	6001 N Central Expy, Plano, TX 75023
+2493207	12300 Lake June Rd, Balch Springs, TX 75180
+2493208	3451 Tamiami Trl E, Naples, FL 34112
+2493209	1010 Highway 12 W, Starkville, MS 39759
+2493210	7207 N M1 Hwy, Gladstone, MO 64119
+2493211	2592 N Columbia St, Milledgeville, GA 31061
+2493212	3886 Ga Hwy 17, Toccoa, GA 30577
+2493213	1636 Sandifer Blvd, Seneca, SC 29678
+2493214	1201 Highway 31 Nw, Hartselle, AL 35640
+2493215	300 Greenbriar Dr, Normal, IL 61761
+2493216	1381 S Main St, Boerne, TX 78006
+2493217	2004 Us Highway 74 W, Wadesboro, NC 28170
+2493218	7162 Highway 1, Mansura, LA 71350
+2493219	13201 Ranch Road 620 N, Austin, TX 78717
+2493220	2001 S 1St St, Chickasha, OK 73018
+2493221	922 E Main St, Laurens, SC 29360
+2493222	901 Nc Highway 16 S, Taylorsville, NC 28681
+2493223	1226 E Dixie Dr, Asheboro, NC 27203
+2493224	781 Leonard Ave, Albemarle, NC 28001
+2493225	1226 Freeport Road, De Funiak Springs, FL 32433
+2493226	1150 S 4Th St, Hartsville, SC 29550
+2493227	3255 La Highway 1 S, Port Allen, LA 70767
+2493228	13750 East Fwy, Houston, TX 77015
+2493229	7202 Watts Rd, Madison, WI 53719
+2493230	200 Walmart Way, Morehead, KY 40351
+2493231	300 Walmart Cir, Booneville, MS 38829
+2493232	499 Indian Mound Dr, Mount Sterling, KY 40353
+2493233	1965 N State St, Greenfield, IN 46140
+2493234	1618 W Mcclain Ave, Scottsburg, IN 47170
+2493235	1308 S Harris St, Sandersville, GA 31082
+2493236	970 E Liberty St, York, SC 29745
+2493237	511 N Highway 52, Moncks Corner, SC 29461
+2493238	168 Walmart Drive, Flippin, AR 72634
+2493239	3130 Lawrence Rd, Wichita Falls, TX 76308
+2493240	755 S 20Th Ave, Safford, AZ 85546
+2493241	1313 Highway 45 S, West Point, MS 39773
+2493242	1815 Brothers Blvd, College Station, TX 77845
+2493243	10824 Parallel Pkwy, Kansas City, KS 66109
+2493244	255 - 16Th St Sw, Sioux Center, IA 51250
+2493245	6020 Harrison Rd, Macon, GA 31206
+2493246	1435 E Main St, Fredericksburg, TX 78624
+2493247	5070 Fayetteville Rd, Lumberton, NC 28358
+2493248	169 Norman Station Blvd, Mooresville, NC 28117
+2493249	2110 N State Hwy #3, North Vernon, IN 47265
+2493250	2473 Hackworth Rd, Birmingham, AL 35214
+2493251	432 S Broad St, New Tazewell, TN 37825
+2493252	929 S Pine St, Vivian, LA 71082
+2493253	100 Sycamore Estates Dr, Aurora, IN 47001
+2493254	2897 Veterans Memorial Pkwy, Saint Charles, MO 63303
+2493255	1801 S State Road 57, Washington, IN 47501
+2493256	4001 Behrman Pl, New Orleans, LA 70114
+2493257	360 Harbison Blvd, Columbia, SC 29212
+2493258	1165 Walmart Way, Radcliff, KY 40160
+2493259	1347 W Broad St, Elizabethtown, NC 28337
+2493260	3500 Brumback Blvd, Kenosha, WI 53144
+2493261	1001 Highway 98 Byp, Columbia, MS 39429
+2493262	1920 S Arkansas St, Springhill, LA 71075
+2493263	501 S Park Dr, Broken Bow, OK 74728
+2493264	10445 Dixie Hwy, Louisville, KY 40272
+2493265	8320 Lockwood Ridge Rd, Sarasota, FL 34243
+2493266	13490 Beach Blvd, Jacksonville, FL 32224
+2493267	8808 Beach Blvd, Jacksonville, FL 32216
+2493268	34301 Highway 43, Thomasville, AL 36784
+2493269	2750 S Woodlands Village Blvd, Flagstaff, AZ 86001
+2493270	1800 Us Highway 51, Stoughton, WI 53589
+2493271	201 Highlands Boulevard Dr, Manchester, MO 63011
+2493272	4101 Highway 121, Bedford, TX 76021
+2493273	60 Airport Rd, Arden, NC 28704
+2493274	1515 Highway 278 E, Amory, MS 38821
+2493275	790 Greensburg Commons Ctr, Greensburg, IN 47240
+2493276	1785 Cobb Pkwy S, Marietta, GA 30060
+2493277	174 Cypress Point Pkwy, Palm Coast, FL 32164
+2493278	2401 Augusta Rd, West Columbia, SC 29169
+2493279	1825 Rockbridge Rd, Stone Mountain, GA 30087
+2493280	1030 Norwood Park Blvd, Austin, TX 78753
+2493281	2121 Highway 146 Byp, Liberty, TX 77575
+2493282	2200 N State St, Iola, KS 66749
+2493283	10835 Saint Charles Rock Rd, Saint Ann, MO 63074
+2493284	301 Parkway Plz, Barbourville, KY 40906
+2493285	3150 Harrison St, Batesville, AR 72501
+2493286	120 Jill Dr, Berea, KY 40403
+2493287	501 Hampton Pointe B, Hillsborough, NC 27278
+2493288	1625 Simpson Hwy #49, Magee, MS 39111
+2493289	2701 Louisville Ave, Monroe, LA 71201
+2493290	373 S Illinois Ave, Oak Ridge, TN 37830
+2493291	460 Highway 90, Waveland, MS 39576
+2493292	2050 False River Dr, New Roads, LA 70760
+2493293	1511 Benvenue Rd, Rocky Mount, NC 27804
+2493294	1515 N Loop 1604 E, San Antonio, TX 78232
+2493295	171 Yoder Avenue, Avon, CO 81620
+2493296	1500 S Lynn Riggs Blvd, Claremore, OK 74017
+2493297	2716 N Central Ave, Humboldt, TN 38343
+2493298	3201 E Platte Ave, Colorado Springs, CO 80909
+2493299	890 Odum Rd, Gardendale, AL 35071
+2493300	4331 8Th St S, Wisconsin Rapids, WI 54494
+2493301	4928 State Road 674, Wimauma, FL 33598
+2493302	3451 Nelson Rd, Lake Charles, LA 70605
+2493303	9218 S State Road 228, Macclenny, FL 32063
+2493304	3132 College Dr, Baton Rouge, LA 70808
+2493305	725 No. Tyndall Pkwy, Callaway, FL 32404
+2493306	3600 Youngfield St, Wheat Ridge, CO 80033
+2493307	306 N Generals Blvd, Lincolnton, NC 28092
+2493308	1800 S Wood Dr, Okmulgee, OK 74447
+2493309	1024 N Main St, Nicholasville, KY 40356
+2493310	21101 Mcguire Rd, Harvard, IL 60033
+2493311	1095 Industrial Pkwy, Saraland, AL 36571
+2493312	13300 Cortez Blvd, Brooksville, FL 34613
+2493313	115 W Willow St, Colby, KS 67701
+2493314	450 W Belmont Dr, Calhoun, GA 30701
+2493315	1213 E Trinity Mills Rd, Carrollton, TX 75006
+2493316	305 Holly Springs Plz, Franklin, NC 28734
+2493317	1741 E Florence Blvd, Casa Grande, AZ 85122
+2493318	12100 Lem Turner Rd, Jacksonville, FL 32218
+2493319	3051 E Jackson Blvd, Jackson, MO 63755
+2493320	2500 S Kirkman Rd, Orlando, FL 32811
+2493321	6110 W Kellogg Dr, Wichita, KS 67209
+2493322	8970 Pensacola Blvd, Pensacola, FL 32534
+2493323	5500 Thomasville Rd, Tallahassee, FL 32312
+2493324	2650 Creighton Rd, Pensacola, FL 32504
+2493325	899 Blanding Blvd, Orange Park, FL 32065
+2493326	1626 Highway 12 S, Ashland City, TN 37015
+2493327	260 Bobby Jones Expy, Augusta, GA 30907
+2493328	2680 Rt. 83, Round Lake Beach, IL 60073
+2493329	2780 John Hawkins Pkwy, Hoover, AL 35244
+2493330	1500 E Wrangler Blvd, Seminole, OK 74868
+2493331	5401 S White Mountain Rd, Show Low, AZ 85901
+2493332	9901 Grant St, Thornton, CO 80229
+2493333	2604 N Main St, Belton, TX 76513
+2493334	470 No. Mayo Trail, Paintsville, KY 41240
+2493335	175 Walmart Plaza Dr, Monticello, KY 42633
+2493336	5025 Nw Loop 410, San Antonio, TX 78229
+2493337	1002 N Spence Ave, Goldsboro, NC 27534
+2493338	590 E Jackson Blvd, Erwin, NC 28339
+2493339	1550 Skibo Rd, Fayetteville, NC 28303
+2493340	1840 E Us Highway 36, Urbana, OH 43078
+2493341	8801 Baseline Rd, Little Rock, AR 72209
+2493342	500 N Highway 90 Byp, Sierra Vista, AZ 85635
+2493343	5811 Elmore Ave, Davenport, IA 52807
+2493344	250 Highlands Square Dr, Hendersonville, NC 28792
+2493345	976 Commonwealth Blvd, Martinsville, VA 24112
+2493346	3027 Wade Hampton Blvd, Taylors, SC 29687
+2493347	5800 Us Highway 98 N, Lakeland, FL 33809
+2493349	120 Daniel Boone Plz, Hazard, KY 41701
+2493350	7525 Winchester Rd, Memphis, TN 38125
+2493351	610 W 29Th St, San Angelo, TX 76903
+2493352	2425 South Zero St, Fort Smith, AR 72901
+2493353	6675 Business Center Dr, Highlands Ranch, CO 80130
+2493354	710 E Ben White Blvd, Austin, TX 78704
+2493355	1521 Interstate 35 N, Bellmead, TX 76705
+2493356	901 Us Highway 401 S, Laurinburg, NC 28352
+2493357	2424 W Jefferson St, Joliet, IL 60435
+2493358	1608 N Swenson St, Stamford, TX 79553
+2493359	60 S Stewart Rd, Corbin, KY 40701
+2493360	2700 S Shackleford Rd, Little Rock, AR 72205
+2493361	11228 Old 63 S, Lucedale, MS 39452
+2493362	4601 Ramsey St, Fayetteville, NC 28311
+2493363	1850 N Main St, Rushville, IN 46173
+2493364	401 N Burkhardt Rd, Evansville, IN 47715
+2493365	2281 Us Highway 68 S, Bellefontaine, OH 43311
+2493366	10741 W Florissant Ave, Saint Louis, MO 63136
+2493367	2171 Oneal Ln, Baton Rouge, LA 70816
+2493368	1905 Mccoy Rd, Sun Prairie, WI 53590
+2493369	200 Columbus Corners Dr, Whiteville, NC 28472
+2493370	1915 S Hurstbourne Pkwy, Louisville, KY 40220
+2493371	1910 Martin Luther King Blvd, Malvern, AR 72104
+2493372	1201 Knox Ave, North Augusta, SC 29841
+2493373	2400 Highway 19 N, Meridian, MS 39307
+2493374	4515 College Ave, Snyder, TX 79549
+2493375	6310 S Us Highway 85-87, Fountain, CO 80817
+2493376	1362 W Main St, Whitewater, WI 53190
+2493377	2440 N Lebanon St, Lebanon, IN 46052
+2493378	3711 S Taylor Dr, Sheboygan, WI 53081
+2493379	611 State Highway 54, Black River Falls, WI 54615
+2493380	1506 Fir St, Perry, OK 73077
+2493381	10411 N Freeway 45, Houston, TX 77037
+2493382	1911 W Parker Rd, Jonesboro, AR 72404
+2493383	2881 North Ave, Grand Junction, CO 81501
+2493384	2151 E Main St, Spartanburg, SC 29307
+2493385	140 E College Dr, Concordia, KS 66901
+2493386	14500 Us Highway 301 S, Starke, FL 32091
+2493387	3700 Hwy 280/431 N., Phenix City, AL 36867
+2493388	1940 Venture Dr, Ottumwa, IA 52501
+2493389	7520 Garners Ferry Rd, Columbia, SC 29209
+2493390	3141 Garden Rd, Burlington, NC 27215
+2493391	1049 Durham Rd Ste A, Roxboro, NC 27573
+2493392	2825 Progress Way, Wilmington, OH 45177
+2493393	1715 N Commerce St, Ardmore, OK 73401
+2493394	1801 Us Highway 421, Wilkesboro, NC 28697
+2493395	7150 E Speedway Blvd, Tucson, AZ 85710
+2493396	2400 N Franklin St, Christiansburg, VA 24073
+2493397	3209 Deans Bridge Rd, Augusta, GA 30906
+2493398	3240 Southwestern, Marion, IN 46952
+2493399	1100 S 1St St, Madill, OK 73446
+2493400	1126 W Us Highway 77, San Benito, TX 78586
+2493401	2201 N Young Blvd, Chiefland, FL 32626
+2493402	2025 N Marine Blvd, Jacksonville, NC 28546
+2493403	2003 E Rodeo Dr, Cottonwood, AZ 86326
+2493404	2705 Grand Ave, Carthage, MO 64836
+2493405	1000 W Shawnee St, Muskogee, OK 74401
+2493406	3105 Dr M L King Jr Blvd, New Bern, NC 28562
+2493407	5350 Clearbrook Village Ln, Roanoke, VA 24014
+2493408	780 Commonwealth Dr, Norton, VA 24273
+2493409	620 S Interstate 35, Georgetown, TX 78628
+2493410	2501 Walton Blvd, Warsaw, IN 46582
+2493411	3800 Deerfield Dr, Janesville, WI 53546
+2493412	233 S New York Ave, Alamogordo, NM 88310
+2493413	2080 No. St. Route 50, Bourbonnais, IL 60914
+2493414	7700 W Quincy Ave, Littleton, CO 80123
+2493415	1851 W Main St, Salem, VA 24153
+2493416	2311 S Jefferson Ave, Mount Pleasant, TX 75455
+2493417	5555 S Us Hwy #41, Terre Haute, IN 47802
+2493418	5448 Whittlesey Blvd Ste B, Columbus, GA 31909
+2493419	670 Lillington Hwy, Spring Lake, NC 28390
+2493420	1200 Se Military Dr, San Antonio, TX 78214
+2493421	3795 Buford Dr, Buford, GA 30519
+2493422	2032 Dell Range Blvd, Cheyenne, WY 82009
+2493423	1536 Egg Harbor Rd, Sturgeon Bay, WI 54235
+2493424	125 Bleachery Blvd, Asheville, NC 28805
+2493425	6777 Clinton Hwy, Knoxville, TN 37912
+2493426	7550 Norris Fwy, Knoxville, TN 37938
+2493427	200 Starlite Dr, Kingfisher, OK 73750
+2493428	7420 Chapman Hwy, Knoxville, TN 37920
+2493429	1299 N Brightleaf Blvd, Smithfield, NC 27577
+2493430	160 Lowes Blvd, Lexington, NC 27292
+2493431	3315 N University St, Peoria, IL 61604
+2493432	100 W White Park Dr, Nogales, AZ 85621
+2493433	455 E Wetmore Rd, Tucson, AZ 85705
+2493434	2250 No. Diers Ave, Grand Island, NE 68803
+2493435	567 Ivy Tech Dr, Madison, IN 47250
+2493436	700 Mikes Pike St, Winslow, AZ 86047
+2493437	240 Mall Rd, Logansport, IN 46947
+2493438	297 Hwy 32 By-Pass E, Ashdown, AR 71822
+2493439	2450 Allentown Rd, Lima, OH 45805
+2493440	2400 Michigan St, Sidney, OH 45365
+2493441	1601 Cornhusker Dr, South Sioux City, NE 68776
+2493442	301 Town Center Blvd, Van Wert, OH 45891
+2493443	100 South Ragus Rd, Claypool, AZ 85532
+2493444	1233 N Lee Hwy, Lexington, VA 24450
+2493445	1193 N Main St, Marion, VA 24354
+2493446	548 Cc Camp Rd, Elkin, NC 28621
+2493447	4701 Buena Vista Rd, Columbus, GA 31907
+2493448	10060 Two Notch Rd, Columbia, SC 29223
+2493449	20221 E 1110 County Rd, Elk City, OK 73644
+2493450	5401 Fairington Rd, Lithonia, GA 30038
+2493451	335 S Red Bank Rd, Evansville, IN 47712
+2493452	300 W Esplanade Ave, Kenner, LA 70065
+2493453	1028 Richmond Avenue C., Staunton, VA 24401
+2493454	3471 Old Halifax Rd, South Boston, VA 24592
+2493455	3911 Bienville Blvd, Ocean Springs, MS 39564
+2493456	1430 Austin Hwy, San Antonio, TX 78209
+2493457	5135 Carolina Beach Rd, Wilmington, NC 28412
+2493458	3306 N University Dr, Sunrise, FL 33351
+2493459	1000 Graves St, Chillicothe, MO 64601
+2493460	3900 Wards Rd, Lynchburg, VA 24502
+2493461	1330 No. Eisenhower Dr, Beckley, WV 25801
+2493462	5625 S Nc 41 Hwy, Wallace, NC 28466
+2493463	5110 Jefferson Hwy, Harahan, LA 70123
+2493464	570 Pamlico Plz, Washington, NC 27889
+2493465	300 Nc Highway 24, Morehead City, NC 28557
+2493466	410 Grand Valley Blvd, Martinsville, IN 46151
+2493467	2501 Highway 180 E, Silver City, NM 88061
+2493468	2110 Bells Hwy, Walterboro, SC 29488
+2493469	7400 Rivers Ave, North Charleston, SC 29406
+2493470	1219 W Doolin Ave, Blackwell, OK 74631
+2493471	204 Town Center Rd, Fayetteville, WV 25840
+2493472	3400 Singing Hills Blvd, Sioux City, IA 51106
+2493473	15017 Emerald Coast Pkwy, Destin, FL 32541
+2493474	1681 Eatonton Rd, Madison, GA 30650
+2493475	5695 Highway 95 N, Lake Havasu City, AZ 86404
+2493476	2222 Crest View Dr, Hudson, WI 54016
+2493477	3500 E Main St, Merrill, WI 54452
+2493478	2720 Watson Blvd, Warner Robins, GA 31093
+2493479	11217 State Route 41, West Union, OH 45693
+2493480	300 N Beeline Hwy, Payson, AZ 85541
+2493481	111 N Perkins Rd, Stillwater, OK 74075
+2493482	2840 Highway 95, Bullhead City, AZ 86442
+2493483	735 Whitfield Dr, Columbus, IN 47201
+2493484	4500 Fayetteville Rd, Raleigh, NC 27603
+2493485	4004 Lawrenceville Hwy Nw, Lilburn, GA 30047
+2493486	200 S State Road 434, Altamonte Springs, FL 32714
+2493487	2255 Highway 71, Marianna, FL 32448
+2493488	204 No. Anderson Lane, Hendersonville, TN 37075
+2493489	3801 Running Brook Farms Blvd, Johnsburg, IL 60050
+2493490	2304 Lincolnway E, Goshen, IN 46526
+2493491	210 Greenville Blvd Sw, Greenville, NC 27834
+2493492	1923 E Kearney St, Springfield, MO 65803
+2493493	2609 7Th St, Las Vegas, NM 87701
+2493494	2555 W Apache Trl, Apache Junction, AZ 85120
+2493495	508 Nw Bypass 72, Greenwood, SC 29649
+2493496	350 Robert Smalls Pkwy, Beaufort, SC 29906
+2493497	6 Conley Rd, La Junta, CO 81050
+2493498	3000 E Franklin Blvd, Gastonia, NC 28056
+2493499	1706 W Reynolds St, Pontiac, IL 61764
+2493500	3801 Turtle Creek Dr, Coral Springs, FL 33067
+2493501	2501 E North St, Kendallville, IN 46755
+2493502	1815 S Story St, Boone, IA 50036
+2493503	2015 S Green Ave, Purcell, OK 73080
+2493504	8001 Us Highway 19 N, Pinellas Park, FL 33781
+2493505	1101 Beville Rd, Daytona Beach, FL 32119
+2493506	5226 Sigmon Rd, Wilmington, NC 28403
+2493507	2203 Avenue A West, Oskaloosa, IA 52577
+2493508	4500 S 108Th St, Greenfield, WI 53228
+2493509	1340 W Mccord St, Centralia, IL 62801
+2493510	920 Hwy 12, Baraboo, WI 53913
+2493511	10224 Coors Byp Nw, Albuquerque, NM 87114
+2493512	4545 Hypoluxo Rd, Lake Worth, FL 33463
+2493513	1126 E Lynchburg Salem Tpke, Bedford, VA 24523
+2493514	1800 S Jefferson Ave, Lebanon, MO 65536
+2493515	2500 Daniel Mccall Dr, Lufkin, TX 75904
+2493516	1911 Epps Bridge Pkwy, Athens, GA 30606
+2493517	776 S Route 59, Naperville, IL 60540
+2493518	250 Furniture Dr, Cornelia, GA 30531
+2493519	820 S Rand Rd, Lake Zurich, IL 60047
+2493520	4600 7Th St, Bay City, TX 77414
+2493521	2350 S Pleasant Valley Rd, Winchester, VA 22601
+2493522	1530 Walmart Dr, Lebanon, OH 45036
+2493523	4400 W Tennessee St, Tallahassee, FL 32304
+2493524	10750 Westview Dr, Houston, TX 77043
+2493525	8301 Rogers Ave, Fort Smith, AR 72903
+2493526	1801 W Main St, Troy, OH 45373
+2493527	18680 S Nogales Hwy, Sahuarita, AZ 85629
+2493528	4308 E Grand Ave, Laramie, WY 82070
+2493529	1205 S Il Route 31, Crystal Lake, IL 60014
+2493530	01 I-25 Interchange, Belen, NM 87002
+2493531	2200 17Th St., Spirit Lake, IA 51360
+2493532	1815 Scott St, Napoleon, OH 43545
+2493533	3050 E State Route 69, Prescott, AZ 86301
+2493534	1530 W Us Highway 50, O Fallon, IL 62269
+2493535	5311 Coldwater Rd, Fort Wayne, IN 46825
+2493537	850 S Barrington Rd, Streamwood, IL 60107
+2493538	1980 Freedom Pkwy, Washington, IL 61571
+2493539	7700 N Alger Rd, Alma, MI 48801
+2493540	1165 Superior Dr, Saint Johns, MI 48879
+2493541	671 Southpark Blvd, Colonial Heights, VA 23834
+2493542	402 W Plaza Dr, Columbia City, IN 46725
+2493543	351 River Hill Dr, Ashland, KY 41101
+2493544	1470 S Court St, Circleville, OH 43113
+2493545	4730 Encore Blvd, Mount Pleasant, MI 48858
+2493546	2052 N State Route 53, Fremont, OH 43420
+2493547	310 W 5Th St, Benton, KY 42025
+2493548	351 S Washburn St, Oshkosh, WI 54904
+2493549	300 No. Park Drive, Keokuk, IA 52632
+2493550	8917 E 34 Rd, Cadillac, MI 49601
+2493551	1950 Havemann Rd, Celina, OH 45822
+2493552	707 S 8Th St, Colorado Springs, CO 80905
+2493553	806 Laurel St, Creston, IA 50801
+2493554	6294 Forest Hill Blvd, Greenacres, FL 33415
+2493555	2600 N Highway 64, Guymon, OK 73942
+2493556	1330 S Providence Center Dr, Cedar City, UT 84720
+2493557	625 W Telegraph St, Washington, UT 84780
+2493558	2875 W Mrtn Luther K, Fayetteville, AR 72704
+2493559	99 W 1280 N, Tooele, UT 84074
+2493560	5303 Bowen Drive, Mason, OH 45040
+2493561	1017 West Haul Road, Page, AZ 86040
+2493562	4370 Eastgate Square Dr, Cincinnati, OH 45245
+2493563	9890 Hutchinson Park Dr, Jacksonville, FL 32225
+2493564	2826 East Harbor Rd, Port Clinton, OH 43452
+2493565	2501 West Ave, Rice Lake, WI 54868
+2493566	3705 Tower Ave, Superior, WI 54880
+2493567	1996 E Main St, Ashland, OH 44805
+2493568	4115 Calumet Ave, Manitowoc, WI 54220
+2493569	3 Town Center Dr, Bowling Green, MO 63334
+2493570	200 Academy Dr, Ripley, WV 25271
+2493571	100 Lincoln Ave, Beardstown, IL 62618
+2493572	3209 Pineville Matthews Rd, Charlotte, NC 28226
+2493573	2440 W Mason St, Green Bay, WI 54303
+2493574	5211 Broadway St, Quincy, IL 62305
+2493575	8401 Anderson Blvd, Fort Worth, TX 76120
+2493576	125 N 2Nd St, Evanston, WY 82930
+2493577	1733 N Federal Blvd, Riverton, WY 82501
+2493578	3040 Battlefield Pkwy, Fort Oglethorpe, GA 30742
+2493579	7245 Us 31 S, Indianapolis, IN 46227
+2493580	1923 North Wood, Gilmer, TX 75644
+2493581	3803 Osborne Dr W, Hastings, NE 68901
+2493582	201 Gateway Blvd, Rock Springs, WY 82901
+2493583	501 Willow Ln, Greenville, AL 36037
+2493584	70 Hospitality Dr, Xenia, OH 45385
+2493585	8180 S Tryon St, Charlotte, NC 28273
+2493586	515 Mount Cross Rd, Danville, VA 24540
+2493587	2824 Appalachian Hwy, Jacksboro, TN 37757
+2493588	539 E Central Ave, Jamestown, TN 38556
+2493589	205 House Carlson Dr, Batesville, MS 38606
+2493590	2020 Gunbarrel Rd Ste 250, Chattanooga, TN 37421
+2493591	401 N Us Highway 75, Denison, TX 75020
+2493592	700 19Th Ave Se, Willmar, MN 56201
+2493593	1717 N Shawano St, New London, WI 54961
+2493594	1752 No. Frontage, Hastings, MN 55033
+2493595	1881 E Madison Ave, Mankato, MN 56001
+2493596	2900 S Pacific Ave, Yuma, AZ 85365
+2493597	2485 Highway 92, Washington, IA 52353
+2493598	1351 Veterans Pkwy, Clarksville, IN 47129
+2493599	200 Wal St, Summersville, WV 26651
+2493600	354 Private Drive 288, South Point, OH 45680
+2493601	2400 Morthland Dr, Valparaiso, IN 46383
+2493602	3855 Lamar Ave, Paris, TX 75462
+2493603	950 E Greenville Pike, Winchester, IN 47394
+2493604	209 Lakeshore Pkwy, Homewood, AL 35209
+2493605	7011 W Waters Ave, Tampa, FL 33634
+2493606	3001 Broadway Ave, Yankton, SD 57078
+2493608	2300 S Douglas Hwy, Gillette, WY 82718
+2493609	1800 Peery Dr, Farmville, VA 23901
+2493610	5780 Franklin St, Michigan City, IN 46360
+2493611	7001 Concourse Pkwy, Douglasville, GA 30134
+2493612	555 E Townline Rd, Vernon Hills, IL 60061
+2493613	184 Old Winnfield Rd, Jonesboro, LA 71251
+2493614	7219 Walton St, Rockford, IL 61108
+2493615	1500 N Jefferson Way, Indianola, IA 50125
+2493616	14000 E Exposition Ave, Aurora, CO 80012
+2493617	3371 S Alabama Ave, Monroeville, AL 36460
+2493618	4109 S Staples St, Corpus Christi, TX 78411
+2493619	7680 Brandt Pike, Huber Heights, OH 45424
+2493620	1334 Flammang Dr, Waterloo, IA 50702
+2493621	21410 S Cicero Ave, Matteson, IL 60443
+2493622	3738 Battleground Ave, Greensboro, NC 27410
+2493623	520 N Jefferson St, Lewisburg, WV 24901
+2493624	1310 Preacher Rd/Hgw, West Plains, MO 65775
+2493625	3215 Williams Ave, Woodward, OK 73801
+2493626	1201 29Th St Se, Watertown, SD 57201
+2493627	14941 N Dale Mabry Hwy, Tampa, FL 33618
+2493628	251 Premier Blvd, Roanoke Rapids, NC 27870
+2493629	6244 Wilmington Pike, Dayton, OH 45459
+2493630	8800 Kingsridge Dr, Dayton, OH 45458
+2493631	254 Cassidy Blvd, Pikeville, KY 41501
+2493632	1220 W Main St, Manchester, IA 52057
+2493633	3030 N Rock Rd, Wichita, KS 67226
+2493634	1695 Coffeen Ave, Sheridan, WY 82801
+2493635	103 E Carlisle, Maquoketa, IA 52060
+2493636	432 S George Nigh Expy, Mcalester, OK 74501
+2493637	7625 Doering Dr, Florence, KY 41042
+2493638	1800 S University Dr, Miramar, FL 33025
+2493639	800 W Warner Rd, Chandler, AZ 85225
+2493640	35404 Us Highway 19 N, Palm Harbor, FL 34684
+2493641	2201 Michigan Ave, Arnold, MO 63010
+2493642	W190N9855 Appleton Ave, Germantown, WI 53022
+2493643	1404 W Wilson St, Borger, TX 79007
+2493644	300 W Copans Rd, Pompano Beach, FL 33064
+2493645	3221 W 86Th St, Indianapolis, IN 46268
+2493646	100 Walmart Dr, Jackson, OH 45640
+2493647	12862 State Road 21, De Soto, MO 63020
+2493648	3820 7Th Ave Se, Aberdeen, SD 57401
+2493649	8451 Colerain Ave, Cincinnati, OH 45239
+2493650	721 Beverly Pike, Elkins, WV 26241
+2493651	11400 West Broad Street Road, Glen Allen, VA 23060
+2493652	12000 Iron Bridge Rd, Chester, VA 23831
+2493653	7430 Bell Creek Rd, Mechanicsville, VA 23111
+2493654	1831 Lake Ave, Storm Lake, IA 50588
+2493655	101 Tanglewood Pkwy N, Elizabeth City, NC 27909
+2493656	2645 Blairs Ferry Rd Ne, Cedar Rapids, IA 52402
+2493657	2801 E Market St Bldg B, York, PA 17402
+2493658	202 Park Plaza Dr, New Albany, MS 38652
+2493659	710 N Davis Ave, Cleveland, MS 38732
+2493660	620 Dundee Ave, East Dundee, IL 60118
+2493661	5845 W Bell Rd, Glendale, AZ 85308
+2493662	7975 W Peoria Ave, Peoria, AZ 85345
+2493663	2717 Rock Island Pl, Bismarck, ND 58504
+2493664	3209 S Louise Ave, Sioux Falls, SD 57106
+2493665	3993 Tyrone Blvd N, St Petersburg, FL 33709
+2493666	1270 York Rd, Gettysburg, PA 17325
+2493667	2233 6Th St., Brookings, SD 57006
+2493668	359 N Lexington Springmill Rd, Ontario, OH 44906
+2493669	201 73Rd St, South Haven, MI 49090
+2493670	9990 Belvedere Rd, West Palm Beach, FL 33411
+2493671	950 Edelweiss Parkway, Gaylord, MI 49735
+2493672	2825 1St Ave, Spearfish, SD 57783
+2493673	550 Emily Dr, Clarksburg, WV 26301
+2493674	2551 32Nd Ave S, Grand Forks, ND 58201
+2493675	840 S Oak St, Iowa Falls, IA 50126
+2493676	4205 Commerce Dr, Lafayette, IN 47905
+2493677	1200 E Walnut St, Watseka, IL 60970
+2493678	2020 N 75Th Ave, Phoenix, AZ 85035
+2493679	5219 Highway 51 N, Senatobia, MS 38668
+2493680	900 N Main St, Gunnison, CO 81230
+2493681	6701 S 27Th St, Franklin, WI 53132
+2493682	323 S Arlington St, Salisbury, NC 28144
+2493683	314 W Army Trail Rd, Bloomingdale, IL 60108
+2493684	3223 E Hammer Ln, Stockton, CA 95212
+2493685	2150 N Waterman Ave, El Centro, CA 92243
+2493686	9245 159Th St, Orland Hills, IL 60487
+2493687	8300 E 96Th St, Fishers, IN 46037
+2493688	304 E Arbor Ln, Eden, NC 27288
+2493689	201 N Nellis Blvd, Las Vegas, NV 89110
+2493690	State Hwy 84 West, Caruthersville, MO 63830
+2493691	6005 S Eastern Ave, Las Vegas, NV 89119
+2493692	3950 Austin Peay Hwy, Memphis, TN 38128
+2493693	13020 Riverdale Dr Nw, Coon Rapids, MN 55448
+2493694	44665 Valley Central Way, Lancaster, CA 93536
+2493695	4490 Gallia St, New Boston, OH 45662
+2493696	4001 2Nd Ave W, Williston, ND 58801
+2493697	4024 Elkhart Rd Ste 2, Goshen, IN 46526
+2493698	2456 3Rd Ave W, Dickinson, ND 58601
+2493699	1275 N Hermitage Rd, Hermitage, PA 16148
+2493700	240 Wal Mart Way, Maysville, KY 41056
+2493701	3509 E Race Ave, Searcy, AR 72143
+2493702	505 Touring Dr, Auburn, IN 46706
+2493703	250 Wolf Run, Mukwonago, WI 53149
+2493704	1851 W Highway 40, Vernal, UT 84078
+2493705	255 S Highway 55, Price, UT 84501
+2493706	6225 Colony St, Bakersfield, CA 93307
+2493707	355 Oro Dam Blvd E, Oroville, CA 95965
+2493708	1555 Us Highway 41, Schererville, IN 46375
+2493709	1315 Highway 25 N, Buffalo, MN 55313
+2493710	970 Mansell Rd, Roswell, GA 30076
+2493711	1015 Lewis St, Oxford, NC 27565
+2493712	2021 N State Highway 121, Bonham, TX 75418
+2493713	10617 E Washington St, Indianapolis, IN 46229
+2493714	4731 13Th Ave S, Fargo, ND 58103
+2493715	1977 W Cleveland Ave, Madera, CA 93637
+2493716	3615 S Rainbow Blvd, Las Vegas, NV 89103
+2493717	1401 S Dewey St, North Platte, NE 69101
+2493718	1133 Ew Connector Sw, Austell, GA 30106
+2493719	2225 Plaza Pkwy, Modesto, CA 95350
+2493720	15272 Bear Valley Rd, Victorville, CA 92395
+2493721	16205 S Military Trl, Delray Beach, FL 33484
+2493722	415 Conley Rd, Columbia, MO 65201
+2493723	5851 Nw 177Th St, Hialeah, FL 33015
+2493724	6535 Grayson Rd, Harrisburg, PA 17111
+2493725	901 N Van Dyke Rd, Bad Axe, MI 48413
+2493726	800 E Chicago St, Coldwater, MI 49036
+2493727	911 Hebron Rd, Heath, OH 43056
+2493728	555 Colemans Crossing Blvd, Marysville, OH 43040
+2493729	200 South Bolingbrook Drive, Bolingbrook, IL 60440
+2493730	10938 S Memorial Dr, Tulsa, OK 74133
+2493731	4617 E Bell Rd, Phoenix, AZ 85032
+2493732	11701 Metcalf Ave, Overland Park, KS 66210
+2493733	2214 Fayetteville Rd, Van Buren, AR 72956
+2493734	219 Highway 412, Ash Flat, AR 72513
+2493735	911 S China Lake Blvd, Ridgecrest, CA 93555
+2493736	2001 E 151St St, Carmel, IN 46033
+2493737	3401 Freedom Dr, Springfield, IL 62704
+2493738	1841 Suite A-Ja Cochran Bypass, Chester, SC 29706
+2493739	1200 N Lacrosse St, Rapid City, SD 57701
+2493740	4600 Mobile Hwy Ste 122, Pensacola, FL 32506
+2493741	5764 Highway 153, Hixson, TN 37343
+2493742	10180 Us Highway 522 S, Lewistown, PA 17044
+2493743	1025 S Main St, Red Bluff, CA 96080
+2493744	100 Se 29Th St, Grand Rapids, MN 55744
+2493745	180 Veterans Dr N, Huntingdon, TN 38344
+2493746	100 Elm Ridge Center Dr, Greece, NY 14626
+2493747	4845 24Th Ave, Fort Gratiot, MI 48059
+2493748	1650 W Valencia Rd, Tucson, AZ 85746
+2493749	2628 S Main St, High Point, NC 27263
+2493750	1525 Glenn School Rd, Durham, NC 27704
+2493751	2203 Loveridge Rd, Pittsburg, CA 94565
+2493752	2900 Main St, Susanville, CA 96130
+2493753	4400 E 2Nd St, Casper, WY 82609
+2493754	2936 E 79Th Ave, Merrillville, IN 46410
+2493755	1200 Marketplace Dr, Rochester, NY 14623
+2493756	1201 W Petree Rd, Anadarko, OK 73005
+2493757	2578 Douglas Ave, Brewton, AL 36426
+2493758	1101 N 18Th St, Centerville, IA 52544
+2493759	2801 W State Route 18, Tiffin, OH 44883
+2493760	2150 Wilkes Barre Twnsp Mktpl, Wilkes Barre, PA 18702
+2493761	2601 Fashion Pl, Bakersfield, CA 93306
+2493762	1111 Holton Dr, Le Mars, IA 51031
+2493763	2000 W Memorial Rd, Oklahoma City, OK 73134
+2493764	415 34Th St N, Dilworth, MN 56529
+2493765	5500 Milan Rd Ste 200, Sandusky, OH 44870
+2493766	2150 E National Ave, Brazil, IN 47834
+2493767	4810 North St, Nacogdoches, TX 75965
+2493768	1906 Fort Jones Rd, Yreka, CA 96097
+2493769	1900 Cunningham Dr, Hampton, VA 23666
+2493770	4611 State Highway 29 S, Alexandria, MN 56308
+2493771	21 County Road 120, Saint Cloud, MN 56303
+2493772	15091 18Th St Ne, Little Falls, MN 56345
+2493773	2000 S West Ave, Waukesha, WI 53189
+2493774	3900 S Broadway, Minot, ND 58701
+2493775	6304 N 99Th St, Omaha, NE 68134
+2493776	3176 S Eufaula Ave, Eufaula, AL 36027
+2493777	2100 Peace Tree Vlg, Rochester, IN 46975
+2493778	100 Mccord Rd, Pontotoc, MS 38863
+2493779	1665 N Atherton St, State College, PA 16803
+2493780	1529 Washington St, Williamston, NC 27892
+2493781	1680 Packard Hwy, Charlotte, MI 48813
+2493782	377 N Rolling Meadows Dr, Fond Du Lac, WI 54937
+2493783	120 Ajk Blvd, Lewisburg, PA 17837
+2493784	250 S 12Th Ave, Hanford, CA 93230
+2493785	6131 E Southern Ave, Mesa, AZ 85206
+2493786	1700 S 13Th St, Decatur, IN 46733
+2493787	3770 Us Highway 395 S, Carson City, NV 89705
+2493788	921 25Th St Sw, Jamestown, ND 58401
+2493789	2121 Us Highway 79 S, Henderson, TX 75654
+2493790	825 E Green Bay Ave, Saukville, WI 53080
+2493791	7011 Main St, American Canyon, CA 94503
+2493792	5225 Alexander Rd, Dublin, VA 24084
+2493793	110 Berlin Rd, Weston, WV 26452
+2493794	7295 Glory Rd, Baxter, MN 56425
+2493795	1835 S Us Highway 231, Crawfordsville, IN 47933
+2493796	16086 Conneaut Lake Rd, Meadville, PA 16335
+2493797	150 Western Ave Nw, Faribault, MN 55021
+2493798	2205 Harrison Rd Se, Thomson, GA 30824
+2493799	60 W Bromley Ln, Brighton, CO 80601
+2493800	1433 S Sam Houston Blvd, Houston, MO 65483
+2493801	40130 10Th St W, Palmdale, CA 93551
+2493802	4101 W Vernon Ave, Kinston, NC 28504
+2493803	1116 Crossroads Dr, Statesville, NC 28625
+2493804	135 Town Center Loop, Waynesville, NC 28786
+2493805	2500 Forest Hills Rd W, Wilson, NC 27893
+2493806	4801 W Clara Ln, Muncie, IN 47304
+2493807	3304 Eastway Dr, Charlotte, NC 28205
+2493808	1601 No. Cass St, Wabash, IN 46992
+2493809	6590 Grand Ave, Gurnee, IL 60031
+2493810	3915 Gateway Dr, Eau Claire, WI 54701
+2493811	910 Unity Rd, Crossett, AR 71635
+2493812	1135 Berkshire Blvd, Wyomissing, PA 19610
+2493813	8525 S 71St Plz, Papillion, NE 68133
+2493814	2500 Lake Shore Dr E, Ashland, WI 54806
+2493815	4238 Recreation Dr, Canandaigua, NY 14424
+2493816	17850 Garland Groh Blvd, Hagerstown, MD 21740
+2493817	2136 Campbellsville Rd, Lebanon, KY 40033
+2493818	730 Us Highway 66 E, Tell City, IN 47586
+2493819	4765 Commercial Dr, New Hartford, NY 13413
+2493820	2863 Heritage Dr, Delafield, WI 53018
+2493821	3107 Market Pl, Onalaska, WI 54650
+2493822	12101 E 96Th St N, Owasso, OK 74055
+2493823	15885 Sw 88Th St, Kendall, FL 33196
+2493824	930 Mount Prospect Plz, Mt Prospect, IL 60056
+2493825	2448 Chesapeake Square Ring Rd, Chesapeake, VA 23321
+2493826	524 S Fremont St, Shenandoah, IA 51601
+2493827	72 Bedford Sq, Everett, PA 15537
+2493828	1730 No. Garfield Road, Pierre, SD 57501
+2493829	5469 S Redwood Rd, Taylorsville, UT 84123
+2493830	1200 N Main St, Suffolk, VA 23434
+2493831	657 Phoenix Dr, Virginia Beach, VA 23452
+2493832	5650 S Chambers Rd, Aurora, CO 80015
+2493833	322 Brownsville Loop, Lonoke, AR 72086
+2493834	4224 N Prospect St, Decatur, IL 62526
+2493835	7701 Frontage Rd, Overland Park, KS 66204
+2493836	1120 S Mount Vernon Ave, Colton, CA 92324
+2493837	2050 W Redlands Blvd, Redlands, CA 92373
+2493838	4875 Sugar Hill Rd, Marion, NC 28752
+2493839	210 Hwy #2 West, Devils Lake, ND 58301
+2493840	3300 State Highway 210 W, Fergus Falls, MN 56537
+2493841	8465 Elk Grove Blvd, Elk Grove, CA 95758
+2493842	3 Commerce Dr, Hooksett, NH 03106
+2493843	745 W Hill Field Rd, Layton, UT 84041
+2493844	3200 Lusk Dr, Neosho, MO 64850
+2493845	925 Keyser Ave, Natchitoches, LA 71457
+2493846	13425 Community Rd, Poway, CA 92064
+2493847	955 Elbert St, Elberton, GA 30635
+2493848	1000 North Wickham R, Melbourne, FL 32935
+2493849	800 Foxcroft Ave, Martinsburg, WV 25401
+2493850	1501 Helen Power Dr, Vacaville, CA 95687
+2493851	1860 N Road, Waterloo, NY 13165
+2493852	16280 Dresden Ave, East Liverpool, OH 43920
+2493853	4848 S 900 W, Riverdale, UT 84405
+2493854	2016 N Wayne St, Angola, IN 46703
+2493855	950 California Ave Sw, Camden, AR 71701
+2493856	950 Highway 80 E, Clinton, MS 39056
+2493857	1600 Montclair Rd, Irondale, AL 35210
+2493858	1111 Missouri Ave N, Largo, FL 33770
+2493859	2071 N Main St, Canton, IL 61520
+2493860	32 Tygart Mall Loop, Fairmont, WV 26554
+2493861	8155 Elliott Rd, Easton, MD 21601
+2493862	150 Solomons Island Rd N, Prince Frederick, MD 20678
+2493863	11930 Acton Ln, Waldorf, MD 20601
+2493864	2500 Tiffin Ave, Findlay, OH 45840
+2493865	21400 Perry Ave, Big Rapids, MI 49307
+2493866	1701 Aroy Dr, Washington, MO 63090
+2493867	1550 Scenic Hwy N, Snellville, GA 30078
+2493868	919 Highway 1 W, Iowa City, IA 52246
+2493869	1221 E Main St, Marshall, MN 56258
+2493870	5101 Se 14Th St, Des Moines, IA 50320
+2493871	1640 S Washington St, Millersburg, OH 44654
+2493873	171 Burgess Road, Harrisonburg, VA 22801
+2493874	822 Broadway St, Berlin, WI 54923
+2493875	2321 Charles St, Anderson, IN 46013
+2493876	4200 Western Ave, Connersville, IN 47331
+2493877	#1 Memorial Drive, Potosi, MO 63664
+2493878	1660 Tappahannock Blvd, Tappahannock, VA 22560
+2493879	990 State Route 5 And 20, Geneva, NY 14456
+2493880	404 Arrowhead Dr, Denison, IA 51442
+2493881	1621 E M 21, Owosso, MI 48867
+2493882	2610 N Prospect Ave, Champaign, IL 61822
+2493883	1455 E Lake Cook Rd, Wheeling, IL 60090
+2493884	36 Jerome Drive, Dover, DE 19901
+2493885	900 South Route 83, Villa Park, IL 60181
+2493886	1300 Highway 15 S, Hutchinson, MN 55350
+2493887	30 Trinity Point Dr, Washington, PA 15301
+2493888	2700 Clearlake Rd, Cocoa, FL 32922
+2493889	2545 Il Route 26 S, Freeport, IL 61032
+2493890	939 N Dupont Blvd, Milford, DE 19963
+2493891	3501 Route 42, Turnersville, NJ 08012
+2493892	201 Walton Road, Harlan, KY 40831
+2493893	1902 Empire Blvd, Webster, NY 14580
+2493894	3601 E Main St, Richmond, IN 47374
+2493895	1380 W Elliot Rd, Tempe, AZ 85284
+2493896	2560 N Perris Blvd, Perris, CA 92571
+2493897	3951 W Ashley Cir, Charleston, SC 29414
+2493898	59 Waltons Way, Somersworth, NH 03878
+2493899	560 W Poplar Ave, Collierville, TN 38017
+2493900	1546 Marion-Mt. Gilead Road, Marion, OH 43302
+2493901	6600 Glenwood Ave, Raleigh, NC 27612
+2493902	3921 Wilder Rd, Bay City, MI 48706
+2493903	30 Manchester Rd, Derry, NH 03038
+2493904	3850 E Grand River Ave, Howell, MI 48843
+2493905	4625 Redwood Dr, Rohnert Park, CA 94928
+2493906	17251 Foothill Blvd, Fontana, CA 92335
+2493907	4740 Mall Dr, Hermantown, MN 55811
+2493908	3167 S State Road 3, New Castle, IN 47362
+2493909	6819 Walton Ln, Gloucester, VA 23061
+2493910	822 City Ave S, Ripley, MS 38663
+2493911	1018 Riley St, Folsom, CA 95630
+2493912	379 W Pontoon Rd, Granite City, IL 62040
+2493913	270 Lafayette Rd, Seabrook, NH 03874
+2493914	4001 College Ave, Bluefield, VA 24605
+2493915	1001 73Rd St, Des Moines, IA 50324
+2493916	2028 N Center Ave, Somerset, PA 15501
+2493917	3100 Johnson Ferry Rd, Marietta, GA 30062
+2493918	4540 Main St. B 3079, Shallotte, NC 28459
+2493919	1355 Sandhill Rd, Orem, UT 84058
+2493920	20 Industrial Dr, Du Bois, PA 15801
+2493921	1210 Mineral Wells Ave, Paris, TN 38242
+2493922	20245 Route 19, Cranberry Twp, PA 16066
+2493923	1500 S Centerville Rd, Sturgis, MI 49091
+2493924	3600 Washburn Way, Klamath Falls, OR 97603
+2493925	12401 Jefferson Ave, Newport News, VA 23602
+2493926	3310 Nc Highway 87 S, Sanford, NC 27332
+2493927	3290 S Santiam Hwy, Lebanon, OR 97355
+2493928	1901 Market Way, Watertown, WI 53094
+2493929	5900 Perkiomen Ave, Reading, PA 19606
+2493930	321 Yellowstone Ave, Cody, WY 82414
+2493931	10260 S Harlem Ave, Bridgeview, IL 60455
+2493932	914 E Oklahoma Blvd, Alva, OK 73717
+2493933	975 Hilton Heights Rd, Charlottesville, VA 22901
+2493934	819 Bennie Rd, Cortland, NY 13045
+2493935	701 Grand Central Ave, Vienna, WV 26105
+2493936	2700 W Broadway St, Princeton, IN 47670
+2493937	3025 Lancaster Dr Ne, Salem, OR 97305
+2493938	254 Lowell Rd, Hudson, NH 03051
+2493939	1360 Town Centre Dr, Eagan, MN 55123
+2493940	2014 Kitttyhawk Rd, Carroll, IA 51401
+2493941	500 Gallery Blvd, Scarborough, ME 04074
+2493942	2350 W Kettleman Ln, Lodi, CA 95242
+2493943	3520 W Sunshine St, Springfield, MO 65807
+2493944	2150 N Telegraph Rd, Monroe, MI 48162
+2493945	7083 W 48Th St, Fremont, MI 49412
+2493946	1102 Million Dollar Hwy, Saint Marys, PA 15857
+2493947	3002 Stacey Allison Way, Woodburn, OR 97071
+2493948	100 Lunger Dr, Bloomsburg, PA 17815
+2493949	177 Forest Gate Dr, Pisgah Forest, NC 28768
+2493950	85 State Route 101A, Amherst, NH 03031
+2493951	265 Camden St, Rockland, ME 04841
+2493952	1121 E Caro Rd, Caro, MI 48723
+2493953	2950 New Pinery Rd, Portage, WI 53901
+2493954	2500 Malcolm Ave, Newport, AR 72112
+2493955	1311 S Jackson St, Jacksonville, TX 75766
+2493956	1801 Marketplace Dr, Garland, TX 75041
+2493957	4801 S Cooper St, Arlington, TX 76017
+2493958	1501 Sw Wanamaker Rd, Topeka, KS 66604
+2493959	1710 Apple Glen Blvd, Fort Wayne, IN 46804
+2493960	79295 Us Hwy 111, La Quinta, CA 92253
+2493961	233 5Th Ave Ext, Gloversville, NY 12078
+2493962	265 N Route 73, West Berlin, NJ 08091
+2493963	1805 Central Park Drive, Steamboat Springs, CO 80487
+2493964	701 Olds St, Jonesville, MI 49250
+2493965	800 James Bowie Dr, New Boston, TX 75570
+2493966	26 W Merritt Blvd, Fishkill, NY 12524
+2493967	1170 N Military Hwy, Norfolk, VA 23502
+2493968	3883 Burbank Rd, Wooster, OH 44691
+2493969	6788 State Route 31 E, Newark, NY 14513
+2493970	1100 S Randall Rd, Elgin, IL 60123
+2493971	3680 W Shaw Ave, Fresno, CA 93711
+2493972	7106 Knightdale Blvd, Knightdale, NC 27545
+2493973	1350 N 1St St, Hermiston, OR 97838
+2493974	2131 W Galena Blvd, Aurora, IL 60506
+2493975	180 Cedar Falls Rd, Menomonie, WI 54751
+2493976	1831 Highway 1 S, Greenville, MS 38701
+2493977	1 Hilltop Plz, Kittanning, PA 16201
+2493978	9101 Albemarle Rd, Charlotte, NC 28227
+2493980	495 Eisenhower Dr, Hanover, PA 17331
+2493981	2515 Ellsworth Rd, Ypsilanti, MI 48197
+2493982	8386 Sudley Rd, Manassas, VA 20109
+2493983	1819 E Noble Ave, Visalia, CA 93292
+2493984	6545 Landmark Dr, Park City, UT 84098
+2493985	250 Crossroads Dr, Plover, WI 54467
+2493986	305 Commerce Dr, Mullins, SC 29574
+2493987	159 Highway 15 S, Louisville, MS 39339
+2493988	297 Grant Ave, Auburn, NY 13021
+2493989	3949 Route 31, Liverpool, NY 13090
+2493990	5601 E Ramon Rd, Palm Springs, CA 92264
+2493991	1800 Carl D Silver Pkwy, Fredericksburg, VA 22401
+2493992	135 Ne Terry Ln, Grants Pass, OR 97526
+2493993	2405 Vestal Pkwy E, Vestal, NY 13850
+2493994	1601 E Us Highway 223, Adrian, MI 49221
+2493995	9451 Fm 1960 Bypass, Humble, TX 77338
+2493996	3041 N Rainbow Blvd, Las Vegas, NV 89108
+2493997	4380 Leavitt Rd, Lorain, OH 44053
+2493998	600 Ne Coronado, Blue Springs, MO 64014
+2493999	1205 S Main St, Manteca, CA 95337
+2494000	1521 Sams Cir, Chesapeake, VA 23320
+2494001	4424 W Wendover Ave, Greensboro, NC 27407
+2494002	2375 Ne Highway 99W, Mcminnville, OR 97128
+2494003	950 Route 37 W, Toms River, NJ 08755
+2494004	4700 S Flamingo Rd, Cooper City, FL 33330
+2494005	199 W 5Th St, Douglas, AZ 85607
+2494006	4980 E Silver Springs Blvd, Ocala, FL 34470
+2494007	3 South 100 Rt 53, Glen Ellyn, IL 60137
+2494008	320 E Hanes Mill Rd, Winston Salem, NC 27105
+2494009	1800 Lawrence St, Gainesville, TX 76240
+2494010	1730 Lincon Way E, Chambersburg, PA 17201
+2494011	7300 W Mcnab Rd, North Lauderdale, FL 33068
+2494012	14000 Worth Ave, Woodbridge, VA 22192
+2494013	1231 S Sanderson Ave, Hemet, CA 92545
+2494015	12195 Singletree Ln, Eden Prairie, MN 55344
+2494016	900 Stillwater Ave, Bangor, ME 04401
+2494017	9303 Mentor Ave, Mentor, OH 44060
+2494018	3001 E Highway 7, Montevideo, MN 56265
+2494019	2540 Rockwood Ave, Calexico, CA 92231
+2494020	301 S Village Rd, El Dorado, KS 67042
+2494021	1000 E Pulaski Hwy, Elkton, MD 21921
+2494022	5815 Norell Ave N, Oak Park Heights, MN 55082
+2494023	1610 S Riverside Ave, Rialto, CA 92376
+2494024	34440 Vine St, Willowick, OH 44095
+2494025	8000 Lakeland Ave N, Brooklyn Park, MN 55445
+2494026	1410 E Bridge St, Redwood Falls, MN 56283
+2494027	615 Wilton Rd, Farmington, ME 04938
+2494028	280 Woodward Rd, Westminster, MD 21157
+2494029	100 Mount Auburn Ave, Auburn, ME 04210
+2494030	150 E Route 70, Marlton, NJ 08053
+2494031	1690 Se Harvest Dr, Pullman, WA 99163
+2494032	20823 State Route 3, Watertown, NY 13601
+2494033	2750 Prospect Ave, Helena, MT 59601
+2494034	1776 Plainfield Pike, Cranston, RI 02921
+2494035	2931 S Mccall Rd, Englewood, FL 34224
+2494036	407 George Claus Blvd, Severn, MD 21144
+2494037	2700 Wasco St, Hood River, OR 97031
+2494038	1250 W Henderson Ave, Porterville, CA 93257
+2494039	530 N 2Nd E, Rexburg, ID 83440
+2494040	621 Montara Rd, Barstow, CA 92311
+2494041	3439 William St, Cape Girardeau, MO 63701
+2494042	2051 Newmark Ave, Coos Bay, OR 97420
+2494043	7901 Watt Ave, Antelope, CA 95843
+2494044	3400 Floral Ave, Selma, CA 93662
+2494045	Pa. Rt.18/Wal-Mart Plaza Shpg., Monaca, PA 15061
+2494046	900 Commerce Blvd, Dickson City, PA 18519
+2494047	400 Butler Cmns, Butler, PA 16001
+2494048	6520 Carlisle Pike Ste 550, Mechanicsburg, PA 17050
+2494049	1015 N Loyalsock Ave, Montoursville, PA 17754
+2494050	1550 N Main St, North Logan, UT 84341
+2494051	11619 Island Ave, Island City, OR 97850
+2494052	2206 N Baltimore St, Kirksville, MO 63501
+2494053	2702 N Salisbury Blvd, Salisbury, MD 21801
+2494054	420 Buckland Hills Dr, Manchester, CT 06042
+2494055	9450 Joliet Rd, Hodgkins, IL 60525
+2494056	3300 Crain Hwy, Bowie, MD 20716
+2494057	4141 Pearl Rd, Medina, OH 44256
+2494058	3750 W Market St, Fairlawn, OH 44333
+2494059	8250 Razorback Rd, Colorado Springs, CO 80920
+2494060	801 Meacham Rd, Elk Grove Village, IL 60007
+2494061	150 Smith Rd, Saint Charles, IL 60174
+2494062	2663 Canyon Springs Pkwy, Riverside, CA 92507
+2494063	333 S Westwood Blvd, Poplar Bluff, MO 63901
+2494064	1500 1St St, Kennett, MO 63857
+2494065	385 N Overland Ave, Burley, ID 83318
+2494066	3901 Harrison Ave, Butte, MT 59701
+2494067	1201 S 25Th E, Ammon, ID 83406
+2494068	1150 Harter Rd, Yuba City, CA 95993
+2494069	950 Edwards Ferry Rd Ne, Leesburg, VA 20176
+2494070	565 Jensen Grove Dr, Blackfoot, ID 83221
+2494071	42 Fairhaven Commons Way, Fairhaven, MA 02719
+2494072	724 Brattleboro Rd, Hinsdale, NH 03451
+2494073	2292 Main St, Green Bay, WI 54311
+2494074	1540 Military Rd, Niagara Falls, NY 14304
+2494076	900 E Washington Blvd, Crescent City, CA 95531
+2494077	2887 S Arlington Rd, Akron, OH 44312
+2494078	479 N Mckinley St, Corona, CA 92879
+2494079	131 W Gypsy Lane Rd, Bowling Green, OH 43402
+2494080	4210 Highland Ave, Highland, CA 92346
+2494081	57980 29 Palms Hwy, Yucca Valley, CA 92284
+2494082	5571 W Hillsboro Blvd, Coconut Creek, FL 33073
+2494083	170 Town Center Pkwy, Santee, CA 92071
+2494084	250 Hartford Ave, Bellingham, MA 02019
+2494085	250 W Broadway, Lincoln, ME 04457
+2494086	2200 Brookmeade Dr, Columbia, TN 38401
+2494087	5250 Commercial St Se, Salem, OR 97306
+2494088	525 Route 72 W, Manahawkin, NJ 08050
+2494089	12549 Foothill Blvd, Rancho Cucamonga, CA 91739
+2494090	3999 Alpine Ave Nw, Comstock Park, MI 49321
+2494091	781 Main St, Presque Isle, ME 04769
+2494092	160 Nw 25Th St, Newport, OR 97365
+2494093	341 State Route 104, Oswego, NY 13126
+2494094	8160 Macedonia Commons Blvd, Macedonia, OH 44056
+2494095	4313 Corunna Rd, Flint, MI 48532
+2494096	1308 Highway 33 S, Cloquet, MN 55720
+2494097	58 Plaistow Rd, Plaistow, NH 03865
+2494098	2121 Lincoln St, Rhinelander, WI 54501
+2494099	17 Myrick St, Ellsworth, ME 04605
+2494100	137 W North Ave, Northlake, IL 60164
+2494101	315 Furr St, South Hill, VA 23970
+2494102	150 Town Centre Dr, Johnstown, PA 15904
+2494103	3763 I-75 Business Spur, Sault Sainte Marie, MI 49783
+2494104	23605 Airport Rd, Coshocton, OH 43812
+2494105	7050 S Cicero Ave, Bedford Park, IL 60638
+2494106	15 Tibbetts Dr, Brunswick, ME 04011
+2494107	4900 Garth Rd, Baytown, TX 77521
+2494108	279 Troy Rd, Rensselaer, NY 12144
+2494109	1950 Auto Center Drive, Glendora, CA 91740
+2494110	2629 N Park Dr, Holland, MI 49424
+2494111	4700 N 27Th St, Lincoln, NE 68521
+2494112	1169 S Main St, Mansfield, PA 16933
+2494113	43 Stephenville St, Massena, NY 13662
+2494114	902 Engh Rd, Omak, WA 98841
+2494115	400 Three Springs Dr, Weirton, WV 26062
+2494116	10401 Bennett Rd, Fredonia, NY 14063
+2494117	2203 Patsy Ln, Excelsior Springs, MO 64024
+2494118	1532 Memorial Dr E, Ahoskie, NC 27910
+2494119	1775 E Idaho Ave, Ontario, OR 97914
+2494120	8450 University Ave Ne, Fridley, MN 55432
+2494121	705 Retail Way, Louisburg, NC 27549
+2494122	1930 Main St, Sanford, ME 04073
+2494123	3849 Northridge Dr, Rockford, IL 61114
+2494124	2525 King Ave W, Billings, MT 59102
+2494125	11225 Tamiami Trl N, Naples, FL 34110
+2494126	4534 E Us Highway 83, Rio Grande City, TX 78582
+2494127	470 Route 211 E, Middletown, NY 10940
+2494128	1450 E Main St, Carbondale, IL 62901
+2494129	1505 N Dale Mabry Hwy, Tampa, FL 33607
+2494130	6711 Alexandria Pike, Alexandria, KY 41001
+2494131	1920 E Markland Ave, Kokomo, IN 46901
+2494132	2111 Fulkerth Rd, Turlock, CA 95380
+2494133	258 Post Rd, Westerly, RI 02891
+2494134	3201 Manawa Centre Dr, Council Bluffs, IA 51501
+2494135	4235 Veteran Dr, Geneseo, NY 14454
+2494136	1105 Boston Rd, Springfield, MA 01119
+2494137	645 S Philadelphia Blvd, Aberdeen, MD 21001
+2494138	900 Walmart Way, Midlothian, VA 23113
+2494139	1730 E Jackson St, Macomb, IL 61455
+2494140	280 Washington St, Hudson, MA 01749
+2494141	3400 55Th St Nw, Rochester, MN 55901
+2494142	2700 Las Positas Rd, Livermore, CA 94551
+2494143	350 E Fairmount Ave, Lakewood, NY 14750
+2494144	17 Ludlow Rd, Houlton, ME 04730
+2494145	14 Bowen St, Claremont, NH 03743
+2494146	1400 County Rd 64, Horseheads, NY 14845
+2494147	1872 Route 88, Brick, NJ 08724
+2494148	2505 N Oak Dr, Plymouth, IN 46563
+2494149	15960 Dam Rd, Clearlake, CA 95422
+2494150	1870 W Main St, Salem, IL 62881
+2494151	625 School St, Putnam, CT 06260
+2494152	45485 Miramar Way, California, MD 20619
+2494153	955 Mutual Way, Appleton, WI 54913
+2494154	1670 Mitchell Rd, Ceres, CA 95307
+2494155	830 Curran Hwy, North Adams, MA 01247
+2494156	3549 Russett Grn, Laurel, MD 20724
+2494157	340 Westwind Dr, Norwalk, OH 44857
+2494158	555 E Genesee St, Lapeer, MI 48446
+2494159	900 Pleasant Grove Blvd, Roseville, CA 95678
+2494160	701 W Central Ave, Lompoc, CA 93436
+2494161	825 Malerich Dr, Lincoln, IL 62656
+2494162	1760 Columbus Pike, Delaware, OH 43015
+2494163	3313 W State Rd 45, Bloomington, IN 47403
+2494164	1540 W Foothill Blvd, Upland, CA 91786
+2494165	6265 Brockport Spencerport Rd, Brockport, NY 14420
+2494166	25 Consumer Sq, Plattsburgh, NY 12901
+2494167	4240 Yellowstone Ave, Chubbuck, ID 83202
+2494168	2551 E Hallandale Beach Blvd, Hallandale Beach, FL 33009
+2494169	579 Troy/Schenectady Road, Latham, NY 12110
+2494170	1417 Highway 62 65 N, Harrison, AR 72601
+2494171	1712 E Ohio St, Clinton, MO 64735
+2494172	1941 W Morton Ave, Jacksonville, IL 62650
+2494173	5400 N Croatan Hwy Ste 100, Kitty Hawk, NC 27949
+2494174	5125 E Kings Canyon Rd, Fresno, CA 93727
+2494175	7150 Camino Arroyo, Gilroy, CA 95020
+2494176	979 Route#1 South, North Brunswick, NJ 08902
+2494177	4200 Dodge St, Dubuque, IA 52003
+2494178	2420 Supercenter Dr Ne, Kannapolis, NC 28083
+2494179	306 5Th St, Clarkston, WA 99403
+2494180	1005 N Stratford Rd, Moses Lake, WA 98837
+2494181	1566 W Main Street Ext, Grove City, PA 16127
+2494182	401 Constant Friendship Blvd, Abingdon, MD 21009
+2494183	2608 Green Mount Com, Belleville, IL 62221
+2494184	2107 S 11Th St, Niles, MI 49120
+2494185	742 Main St, North Oxford, MA 01537
+2494186	80 Waterville Commons Dr, Waterville, ME 04901
+2494187	2129 W Houghton Lake Dr, Houghton Lake, MI 48629
+2494188	13059 Fair Lakes Parkway, Fairfax, VA 22033
+2494189	810 North Highway, Colville, WA 99114
+2494190	355 Walmart Dr, Uniontown, PA 15401
+2494191	905 S College Ave, Rensselaer, IN 47978
+2494192	36 Paramount Dr, Raynham, MA 02767
+2494193	474 Boston Post Rd, North Windham, CT 06256
+2494194	1355 E Lehman St, Lebanon, PA 17046
+2494195	809 Hunter Hwy, Tunkhannock, PA 18657
+2494196	3010 W Grant Line Rd, Tracy, CA 95304
+2494198	12500 Country Club Mall Rd, Lavale, MD 21502
+2494199	5200 Van Buren Blvd, Riverside, CA 92503
+2494200	3615 Crater Lake Hwy, Medford, OR 97504
+2494201	937 Park Circle Dr, Brookfield, MO 64628
+2494202	1101 Sanguinetti Rd, Sonora, CA 95370
+2494203	30600 Dyer St, Union City, CA 94587
+2494204	2001 N Rose Ave, Oxnard, CA 93036
+2494205	1501 Wagoner Avenue, Greenville, OH 45331
+2494206	2700 Mountaineer Blvd, South Charleston, WV 25309
+2494207	909 E Wishkah St, Aberdeen, WA 98520
+2494208	45415 Dulles Crossing Plz, Sterling, VA 20166
+2494209	3055 Loughborough Dr, Merced, CA 95348
+2494210	1500 Us Highway 62 W, Princeton, KY 42445
+2494211	2106 Mount Holly Rd, Burlington, NJ 08016
+2494212	709 S Broadway, Pennsville, NJ 08070
+2494213	2348 Route #19, Warsaw, NY 14569
+2494214	2044 Forest Ave, Chico, CA 95928
+2494215	8118 Perry Hills Ct, Nottingham, MD 21236
+2494216	201 Civic Center Dr, Augusta, ME 04330
+2494217	1573 Main St, Palmyra, ME 04965
+2494218	2701 N Texas St, Fairfield, CA 94533
+2494219	2600 Plank Road Commons, Altoona, PA 16602
+2494220	1002 W Beacon St, Philadelphia, MS 39350
+2494221	300 E Lake Mead Pkwy, Henderson, NV 89015
+2494222	3396 Stockton Hill Rd, Kingman, AZ 86409
+2494223	1155 Airport Park Blvd, Ukiah, CA 95482
+2494224	470 N Airport Rd, Willows, CA 95988
+2494225	10355 Wicklow Way, Jackson, CA 95642
+2494226	344 Loudon Rd, Concord, NH 03301
+2494227	16 Old Gick Rd, Saratoga Springs, NY 12866
+2494228	750 Us Hwy 202, Rindge, NH 03461
+2494229	1725 New Hope Church Rd, Raleigh, NC 27609
+2494230	2200 Greengate Centre Cir, Greensburg, PA 15601
+2494231	2041 N Redbud Blvd, Mckinney, TX 75069
+2494232	3180 Richmond Rd, Lexington, KY 40509
+2494233	412 Oaks Xing, Plainwell, MI 49080
+2494234	1400 Mall Dr, Benton Harbor, MI 49022
+2494235	6001 Mahoning Ave, Austintown, OH 44515
+2494236	220 Route 6 & 209, Milford, PA 18337
+2494237	8445 Walbrook Dr, Knoxville, TN 37923
+2494238	2727 Dunvale Rd, Houston, TX 77063
+2494240	180 Levittown Ctr, Levittown, PA 19055
+2494241	300 W Valley View Rd, Talent, OR 97540
+2494242	772 N Airport Rd, Cleveland, OK 74020
+2494243	3101 A St, Anchorage, AK 99503
+2494244	8900 Old Seward Hwy, Anchorage, AK 99515
+2494246	10000 Brookpark Rd, Cleveland, OH 44130
+2494247	1350 S Seward Meridian Pkwy, Wasilla, AK 99654
+2494248	20120 Pinebrook Blvd, Bend, OR 97702
+2494249	31700 Grape St, Lake Elsinore, CA 92532
+2494250	804 Pike St, Marietta, OH 45750
+2494251	3225 Us Highway 41 W, Marquette, MI 49855
+2494252	2970 Military Ave, Baxter Springs, KS 66713
+2494253	6020 B Dr N, Battle Creek, MI 49014
+2494254	23106 Us Highway 19 N, Clearwater, FL 33765
+2494255	12701 Towne Center Dr, Cerritos, CA 90703
+2494256	215 Four H Camp Rd, Morgantown, WV 26508
+2494257	1500 N 7Th Ave, Bozeman, MT 59715
+2494259	1700 Dallas Pkwy, Plano, TX 75093
+2494260	850 East County Rd E, Vadnais Heights, MN 55127
+2494261	4133 Veterans Memorial Dr, Batavia, NY 14020
+2494262	13245 Lee Hwy, Bristol, VA 24202
+2494263	1516 N 18Th St, Ozark, AR 72949
+2494264	230 State Highway, Franklin, NJ 07416
+2494265	8651 Nw 13Th Ter, Doral, FL 33126
+2494266	3000 Ford Street Ext, Ogdensburg, NY 13669
+2494267	710 Horatio St, Utica, NY 13502
+2494268	1800 University Dr, Vista, CA 92083
+2494269	3005 Cranberry Hwy, East Wareham, MA 02538
+2494270	100 E Street Rd, Warminster, PA 18974
+2494271	460 Fairview Ave, Hudson, NY 12534
+2494272	3900 Morse Rd, Columbus, OH 43219
+2494273	180 Niblick Rd, Paso Robles, CA 93446
+2494274	185 Saint Robert Blvd, Saint Robert, MO 65584
+2494275	500 East Highway 270, Holdenville, OK 74848
+2494276	1150 S Main St, Cheboygan, MI 49721
+2494277	2720 S Quillan St, Kennewick, WA 99337
+2494278	4854 W Us Highway 10, Ludington, MI 49431
+2494279	550 Providence Hwy, Walpole, MA 02081
+2494280	1201 Route 300, Newburgh, NY 12550
+2494281	13307 Midway Rd, Farmers Branch, TX 75244
+2494282	2425 E 2Nd St, Reno, NV 89502
+2494283	5783 S Transit Rd, Lockport, NY 14094
+2494284	4620 Black Horse Pike, Mays Landing, NJ 08330
+2494285	2291 N 2Nd St, Millville, NJ 08332
+2494286	401 Coke Ave, Hillsboro, TX 76645
+2494287	14501 Lakewood Blvd, Paramount, CA 90723
+2494288	5335 Highway 280, Birmingham, AL 35242
+2494289	4915 N Pima Rd, Scottsdale, AZ 85251
+2494290	1607 W Bethany Home Rd, Phoenix, AZ 85015
+2494291	1621 Main St, Chipley, FL 32428
+2494292	231 Bluebell Dr Sw, New Philadelphia, OH 44663
+2494293	891 Route #9, Queensbury, NY 12804
+2494294	1575 W Pacheco Blvd, Los Banos, CA 93635
+2494295	301 Massachusetts Ave, Lunenburg, MA 01462
+2494296	301 Ranch Dr, Milpitas, CA 95035
+2494297	333 N Interstate Dr, Norman, OK 73069
+2494298	5396 State Highway 12, Norwich, NY 13815
+2494299	100 E Wallace Kneeland Blvd, Shelton, WA 98584
+2494300	30 Memorial Dr, Avon, MA 02322
+2494301	4000 New Boston Rd, Texarkana, TX 75501
+2494302	3360 Pentagon Blvd, Beavercreek, OH 45431
+2494303	7455 W Colfax Ave, Lakewood, CO 80214
+2494304	95-550 Lanikuhana Ave, Mililani, HI 96789
+2494305	4300 Rib Mountain Dr, Wausau, WI 54401
+2494306	295 Plymouth St, Halifax, MA 02338
+2494307	100 Supercenter Dr, Clearfield, PA 16830
+2494308	1205 W Ferdon St, Litchfield, IL 62056
+2494309	2460 Lafayette Rd, Portsmouth, NH 03801
+2494310	1301 Sw 37Th St, Topeka, KS 66611
+2494311	10606 N Mall Dr, Baton Rouge, LA 70809
+2494312	5017 W Highway 290, Austin, TX 78735
+2494313	7735 N Tryon St, Charlotte, NC 28262
+2494314	139 Merchant Pl, Cobleskill, NY 12043
+2494315	801 James Madison Hwy, Culpeper, VA 22701
+2494316	5450 New Hope Commons Dr, Durham, NC 27707
+2494317	285 Plainfield Rd, West Lebanon, NH 03784
+2494318	780 Lynnway, Lynn, MA 01905
+2494319	800 W Gibson St, Jasper, TX 75951
+2494320	46 N South Rd, North Conway, NH 03860
+2494321	1675 S Christopher Columbus Bl, Philadelphia, PA 19148
+2494322	326 N Broadway, Salem, NH 03079
+2494323	60 Fairgrounds Mkt Pl, Skowhegan, ME 04976
+2494324	970 Torringford St, Torrington, CT 06790
+2494325	2601 Macarthur Rd, Whitehall, PA 18052
+2494326	101 Sanford Farms Shopping Ctr, Amsterdam, NY 12010
+2494327	4000 Hwy 93 South, Missoula, MT 59804
+2494328	1575 Coshocton Ave, Mount Vernon, OH 43050
+2494329	620 S Applegate St, Winona, MS 38967
+2494330	710 Dennery Rd, San Diego, CA 92154
+2494331	12555 W Sunrise Blvd, Sunrise, FL 33323
+2494332	141 Washington Ave Extension, Albany, NY 12205
+2494333	50 Boulder Way, Biddeford, ME 04005
+2494334	2635 Pleasant Hill Rd, Duluth, GA 30096
+2494335	677 Timpany Blvd, Gardner, MA 01440
+2494336	750 Middle Country Rd, Middle Island, NY 11953
+2494337	506 State Rd, North Dartmouth, MA 02747
+2494338	200 Otis St, Northborough, MA 01532
+2494339	1869 Plaza Dr, Olean, NY 14760
+2494340	2802 Outer Road Drive, Marion, IL 62959
+2494341	3500 S Crater Rd, Petersburg, VA 23805
+2494342	4501 Rosewood Dr, Pleasanton, CA 94588
+2494343	465 Bridgeport Ave, Shelton, CT 06484
+2494344	317 S Cascade Dr, Springville, NY 14141
+2494345	6438 Basile Rowe, East Syracuse, NY 13057
+2494346	270 Indian Run St, Exton, PA 19341
+2494347	1731 Blakeslee Boulevard Dr E, Lehighton, PA 18235
+2494348	801 W Main St, Lewisville, TX 75067
+2494349	220 Salem Tpke, Norwich, CT 06360
+2494350	101 Nassau Park Blvd, Princeton, NJ 08540
+2494352	141 Springfield Rd, Westfield, MA 01085
+2494353	18401 State Hwy 13, Branson West, MO 65737
+2494354	2144 W Indiantown Rd, Jupiter, FL 33458
+2494355	3382 Murphy Canyon Rd, San Diego, CA 92123
+2494356	379 South St, Calais, ME 04619
+2494357	1017 Mulberry Ave, Selmer, TN 38375
+2494358	55 Brooksby Village Way, Danvers, MA 01923
+2494359	1240 Main St, Oxford, ME 04270
+2494360	1180 Fall River Ave, Seekonk, MA 02771
+2494361	980 N Susquehanna Trl, Selinsgrove, PA 17870
+2494362	2000 N Wenatchee Ave, Wenatchee, WA 98801
+2494363	18600 Eagle River Rd, Eagle River, AK 99577
+2494364	4855 Kietzke Ln, Reno, NV 89509
+2494365	3201 W Broadway Blvd, Sedalia, MO 65301
+2494366	1720 E Main St, Woodland, CA 95776
+2494367	1215 S Main St, Bryan, OH 43506
+2494368	995 Razorback Dr, Houghton, MI 49931
+2494369	100 Mall Dr, Steubenville, OH 43952
+2494370	5885 Kingstowne Blvd, Alexandria, VA 22315
+2494371	4900 U.S. Hwy #9, Howell, NJ 07731
+2494372	3411 E Kolonels Way, Port Angeles, WA 98362
+2494373	2016 Millennium Blvd, Cortland, OH 44410
+2494374	700 American Blvd E, Bloomington, MN 55420
+2494375	50739 Valley Plaza Dr, Saint Clairsville, OH 43950
+2494376	4901 S Mill St, Pryor, OK 74361
+2494377	951 Sw Wilshire Blvd, Burleson, TX 76028
+2494378	150 Gold Star Hwy, Groton, CT 06340
+2494379	7101 Gateway Blvd W, El Paso, TX 79925
+2494380	30 Landing Rd, Windham, ME 04062
+2494382	1300 Des Plaines Ave, Forest Park, IL 60130
+2494383	1800 Loucks Rd Ste 100, York, PA 17408
+2494384	27470 Alicia Pkwy, Laguna Niguel, CA 92677
+2494385	7250 Union Park Ave, Midvale, UT 84047
+2494386	1887 Elmira St, Sayre, PA 18840
+2494387	2850 Maple Ave, Zanesville, OH 43701
+2494388	1200 Garth Brooks Blvd, Yukon, OK 73099
+2494389	3290 Sheridan Dr, Amherst, NY 14226
+2494390	1300 Doral Dr, Poland, OH 44514
+2494391	3270 Telegraph Rd, Saint Louis, MO 63125
+2494392	5420 Forest Dr, Columbia, SC 29206
+2494393	2189 75Th St, Darien, IL 60561
+2494394	26502 Towne Centre Dr, Foothill Ranch, CA 92610
+2494395	1410 N Market St, Sparta, IL 62286
+2494396	2021 E Independence St, Springfield, MO 65804
+2494397	333 Main St, Tewksbury, MA 01876
+2494398	9499 Sheridan Blvd, Westminster, CO 80031
+2494399	863 Harvest Ln, Williston, VT 05495
+2494400	7 Dowling Village Blvd, N Smithfield, RI 02896
+2494401	777 Brockton Ave, Abington, MA 02351
+2494402	555 Hubbard Ave Ste 12, Pittsfield, MA 01201
+2494403	373 Benner Pike, State College, PA 16801
+2494404	3930 44Th Avenue Dr, Moline, IL 61265
+2494405	120 Commercial Pkwy, Branford, CT 06405
+2494406	7400 Guilford Dr, Frederick, MD 21704
+2494407	5815 Rome Taberg Rd, Rome, NY 13440
+2494408	651 Main St, Harleysville, PA 19438
+2494409	2523 Lee Blvd, Lehigh Acres, FL 33971
+2494410	1879 E Sherman Blvd, Muskegon, MI 49444
+2494411	8923 W Military Dr, San Antonio, TX 78245
+2494412	110 Davidson Rd, Mount Vernon, IL 62864
+2494414	2675 E Lincoln Ave, Sunnyside, WA 98944
+2494415	440 N Euclid St, Anaheim, CA 92801
+2494416	300 Nw Oaktree Ln, Redmond, OR 97756
+2494417	3333 Us Route 60, Huntington, WV 25705
+2494418	705 College Blvd, Oceanside, CA 92057
+2494419	17 Colby Ct, Bedford, NH 03110
+2494420	2010 Kildaire Farm Rd, Cary, NC 27518
+2494421	6205 Baltimore National Pike, Catonsville, MD 21228
+2494422	1601 Nw Louisiana Ave, Chehalis, WA 98532
+2494423	2705 W Broadway Ave, Sulphur, OK 73086
+2494424	4000 Red Bank Rd, Cincinnati, OH 45227
+2494425	17150 Gale Ave, City Of Industry, CA 91745
+2494426	3722 Easton Nazareth Hwy, Easton, PA 18045
+2494427	13487 Camino Canada, El Cajon, CA 92021
+2494428	55 S White Horse Pike, Hammonton, NJ 08037
+2494429	761 Airport Rd, Hazle Township, PA 18202
+2494430	200 N Cooper Dr, Henderson, NC 27536
+2494431	13484 Northwest Fwy, Houston, TX 77040
+2494432	7910 Richmond Hwy, Alexandria, VA 22306
+2494433	170 Hutton Ranch Rd, Kalispell, MT 59901
+2494434	201 Loop 59, Atlanta, TX 75551
+2494435	1031 Ten Rod Rd, North Kingstown, RI 02852
+2494436	5054 State Highway 23, Oneonta, NY 13820
+2494437	233 Shoemaker Rd, Pottstown, PA 19464
+2494438	1320 Altamont Ave, Schenectady, NY 12303
+2494439	3950 Grandview Dr, Simpsonville, SC 29680
+2494440	8585 Pearl Rd, Strongsville, OH 44136
+2494441	137 W Boylston St, West Boylston, MA 01583
+2494442	1600 E Chestnut Ave, Yakima, WA 98901
+2494443	2400 S Country Club Rd, El Reno, OK 73036
+2494444	1155 S Camino Del Rio, Durango, CO 81303
+2494445	1244 East Green Bay, Shawano, WI 54166
+2494446	2775 Dorchester Sq, Cambridge, MD 21613
+2494447	5323 E Court St N, Burton, MI 48509
+2494448	200 12Th St Sw, Forest Lake, MN 55025
+2494449	5720 College Corner Pike, Oxford, OH 45056
+2494450	333 Boyd Blvd, La Porte, IN 46350
+2494451	323 W Shaw Ave, Clovis, CA 93612
+2494452	1825 Downs Dr, Erie, PA 16509
+2494453	6721 Chesapeake Center Dr, Glen Burnie, MD 21060
+2494454	1616 West Henderson, Cleburne, TX 76031
+2494455	600 Showers Dr, Mountain View, CA 94040
+2494456	2351 Century Dr, West Mifflin, PA 15122
+2494457	69 Prospect Hill Rd, East Windsor, CT 06088
+2494458	650 Centre Of New England Blvd, Coventry, RI 02816
+2494459	1100 New Haven Rd, Naugatuck, CT 06770
+2494460	103 N Caroline St, Herkimer, NY 13350
+2494461	161 Centereach Mall, Centereach, NY 11720
+2494462	2501 W State St, New Castle, PA 16101
+2494463	80 Rio Rancho Rd, Pomona, CA 91766
+2494464	210 Northside Dr, Bennington, VT 05201
+2494465	512 Industrial Park Dr, Trumann, AR 72472
+2494466	9750 Reistertown Road A, Owings Mills, MD 21117
+2494467	75 N Broadway, Chula Vista, CA 91910
+2494468	1275 N Azusa Ave, Covina, CA 91722
+2494469	952 Swede Gulch Rd, Evergreen, CO 80439
+2494470	7901 Brook Rd, Richmond, VA 23227
+2494471	25450 The Old Rd, Stevenson Ranch, CA 91381
+2494472	161 Berlin Rd, Cromwell, CT 06416
+2494473	1201 N Service Rd E, Ruston, LA 71270
+2494474	1501 E Walnut St, Paris, AR 72855
+2494475	250 Summit Park Dr, Pittsburgh, PA 15275
+2494477	5710 Mcfarland Blvd, Northport, AL 35476
+2494478	11328 S Jordan Gtwy, South Jordan, UT 84095
+2494479	3-3300 Kuhio Hwy, Lihue, HI 96766
+2494480	8288 Cincinnati Dayton Rd, West Chester, OH 45069
+2494481	1419 N Country Club Rd, Ada, OK 74820
+2494482	3051 Kinzel Way, Knoxville, TN 37924
+2494483	2800 Wal Mart Dr, Huntington, IN 46750
+2494484	4807 Valley View Blvd Nw, Roanoke, VA 24012
+2494485	905 Singletary Dr, Streetsboro, OH 44241
+2494486	94-595 Kupuohi St, Waipahu, HI 96797
+2494487	321 Ne Kings Valley Hwy, Dallas, OR 97338
+2494488	24801 Brookpark Rd, North Olmsted, OH 44070
+2494489	6797 State Highway 303 Ne, Bremerton, WA 98311
+2494490	3100 Oakland Ave, Indiana, PA 15701
+2494491	1250 Sw Erie St, Oak Harbor, WA 98277
+2494492	1901 S Mississippi Ave, Atoka, OK 74525
+2494493	901 Row River Rd, Cottage Grove, OR 97424
+2494494	75-1015 Henry St, Kailua Kona, HI 96740
+2494495	577 N Germantown Pkwy, Cordova, TN 38018
+2494496	3520 Hudson Dr, Stow, OH 44224
+2494497	3497 Bethel Rd Se, Port Orchard, WA 98366
+2494498	1000 State Route 36, Hornell, NY 14843
+2494499	555 E Main St, Orange, MA 01364
+2494500	300 Leigh Ave, Anna, IL 62906
+2494501	116 Farmington Rd, Rochester, NH 03867
+2494502	155 Waterford Parkway No., Waterford, CT 06385
+2494503	20251 Hwy 18, Apple Valley, CA 92307
+2494504	2034 Lincoln Hwy E, Lancaster, PA 17602
+2494505	4198 Nakoosa Trl, Madison, WI 53714
+2494506	300 Colony Place Rd, Plymouth, MA 02360
+2494507	550 Old Franklin Tpke, Rocky Mount, VA 24151
+2494508	2640 Crossing Cir, Traverse City, MI 49684
+2494509	8301 N Church Rd, Kansas City, MO 64158
+2494510	301 Falls Blvd, Quincy, MA 02169
+2494511	1231 Folly Rd, Charleston, SC 29412
+2494512	1900 W Main St, Corning, AR 72422
+2494513	485 Airport Hwy, Wauseon, OH 43567
+2494514	2101 2Nd Ave Se, Cambridge, MN 55008
+2494515	2500 S Adams Rd, Rochester Hills, MI 48309
+2494516	5033 Transit Rd, Williamsville, NY 14221
+2494517	20910 Frederick Rd, Germantown, MD 20876
+2494518	1180 M 32 W, Alpena, MI 49707
+2494519	3551 N Ridge Rd E, Ashtabula, OH 44004
+2494520	1225 E Loop 304, Crockett, TX 75835
+2494521	4725 Ashford Dunwoody Rd, Atlanta, GA 30338
+2494522	4572 Mega St Nw, North Canton, OH 44720
+2494523	3606 Mayfield Rd, Cleveland Heights, OH 44118
+2494524	500 Route 940, Mount Pocono, PA 18344
+2494525	1470 S Washington St, North Attleboro, MA 02760
+2494526	950 11Th St Sw, Pine City, MN 55063
+2494527	355 Lincoln Ave, East Stroudsburg, PA 18301
+2494528	39 E Main/I-93 Exit 20, Tilton, NH 03276
+2494529	710 S Commercial St, Harrisburg, IL 62946
+2494530	760 Hoosick Rd, Troy, NY 12180
+2494531	844 N Colony Rd, Wallingford, CT 06492
+2494532	840 Post Rd, Warwick, RI 02888
+2494533	1655 W College St, Pulaski, TN 38478
+2494534	762 Supermall Way Sw, Auburn, WA 98001
+2494535	352 Palmer Rd, Ware, MA 01082
+2494536	11110 Causeway Blvd, Brandon, FL 33511
+2494537	950 W Votaw St, Portland, IN 47371
+2494538	220 Veterans Memorial Dr, Kosciusko, MS 39090
+2494539	ERROR
+2494540	ERROR
+2494541	ERROR
+2494542	ERROR
+2494543	2200 Woodbury Ave, Newington, NH 03801
+2494544	300 Keller St, Manchester, NH 03103
+2494545	2000 John Harden Dr, Jacksonville, AR 72076
+2494546	2701 State Highway 50, Commerce, TX 75428
+2494547	85 River Trace Lane, Chillicothe, OH 45601
+2494548	1600 Mountain Ave, Duarte, CA 91010
+2494549	2944 Mountain City Hwy, Elko, NV 89801
+2494550	310 31St Ave Se, Puyallup, WA 98374
+2494551	8500 Jones Maltsberger Rd, San Antonio, TX 78216
+2494552	5360 Southwestern Blvd, Hamburg, NY 14075
+2494554	3200 North Ridge Rd, Ellicott City, MD 21043
+2494555	1850 Anderson Rd, Petoskey, MI 49770
+2494556	4300 Missouri Flat Rd, Placerville, CA 95667
+2494557	18922 Rehoboth Mall Blvd, Rehoboth Beach, DE 19971
+2494558	310 Hedge Ln, Paola, KS 66071
+2494559	100 Sara Way, Belle Vernon, PA 15012
+2494560	2212 Glacier Dr, Saint Croix Falls, WI 54024
+2494561	2295 Gable Rd, Saint Helens, OR 97051
+2494563	1134 Wicker St, Ticonderoga, NY 12883
+2494564	5200 West Pointe Plaza, Columbus, OH 43228
+2494565	9301 Forest Ln, Dallas, TX 75243
+2494566	1701 S Kansas Rd, Newton, KS 67114
+2494567	2100 N Bechtle Ave, Springfield, OH 45504
+2494568	1971 Wentzville Pkwy, Wentzville, MO 63385
+2494569	1920 So. Stepehenson Ave, Iron Mountain, MI 49801
+2494570	2399 North Point Blvd, Dundalk, MD 21222
+2494571	1320 Liberty Rd, Eldersburg, MD 21784
+2494572	700 James Madison Hwy, Warrenton, VA 20186
+2494573	217 Garrisonville Rd, Stafford, VA 22554
+2494574	5940 Highway 167 N, Winnfield, LA 71483
+2494575	210 Walmart Plz, Sylva, NC 28779
+2494576	1505 Main St, Hamilton, OH 45013
+2494577	2024 Genesee St, Oneida, NY 13421
+2494578	1515 Bethlehem Pike, Hatfield, PA 19440
+2494579	195 N West End Blvd, Quakertown, PA 18951
+2494580	2322 Ferguson Rd, Cincinnati, OH 45238
+2494581	4420 Meridian St, Bellingham, WA 98226
+2494582	401 E Capitol Dr, Milwaukee, WI 53212
+2494583	2333 Reno Hwy, Fallon, NV 89406
+2494584	701 Smelter Ave Ne, Great Falls, MT 59404
+2494585	10655 Folsom Blvd, Rancho Cordova, CA 95670
+2494586	1800 N Main, Salinas, CA 93906
+2494587	4381 Cattlemen Rd, Sarasota, FL 34233
+2494588	700 W Rogers Blvd, Skiatook, OK 74070
+2494589	22899 Sussex Hwy, Seaford, DE 19973
+2494590	540 7Th Ave, Longview, WA 98632
+2494591	605 E Main St, Henryetta, OK 74437
+2494592	5900 Britton Pkwy, Dublin, OH 43016
+2494593	4550 Kester Mill Rd, Winston Salem, NC 27103
+2494594	325 E Makaala St, Hilo, HI 96720
+2494595	R.R. #4, Box 82, Keyser, WV 26726
+2494596	1436 Dogwood Dr Se, Conyers, GA 30013
+2494597	1700 Se Meadowbrook Blvd, College Place, WA 99324
+2494598	2125 Nw Stewart Pkwy, Roseburg, OR 97471
+2494599	3412 College Ave, San Diego, CA 92115
+2494600	1406 E Milam St, Mexia, TX 76667
+2494601	777 Old Willow Ave, Honesdale, PA 18431
+2494602	9300 State Route 61, Coal Township, PA 17866
+2494603	857 N Dobson Rd, Mesa, AZ 85201
+2494604	1005 W Sugarland Hwy, Clewiston, FL 33440
+2494605	476999 Highway 95, Ponderay, ID 83852
+2494606	831 Highway 59 S, Cleveland, TX 77327
+2494607	5150 Roe Blvd, Roeland Park, KS 66205
+2494608	4101 N Vermilion St Ste A, Danville, IL 61834
+2494609	2203 Sw Court Ave, Pendleton, OR 97801
+2494610	5859 28Th St Se, Grand Rapids, MI 49546
+2494611	2100 Vista Way, Oceanside, CA 92054
+2494612	13331 Beach Blvd, Westminster, CA 92683
+2494613	200 Watauga Village Dr, Boone, NC 28607
+2494614	1236 Route 22, Phillipsburg, NJ 08865
+2494615	4820 S Clark St, Mexico, MO 65265
+2494616	103 W Polk St, Warsaw, MO 65355
+2494618	100 Colony Ln, Latrobe, PA 15650
+2494619	1885 State Route 57 Ste 100, Hackettstown, NJ 07840
+2494620	601 Frank Stottile Blvd, Kingston, NY 12401
+2494621	5501 Highway 6, Missouri City, TX 77459
+2494622	2600 State Route 59, Ravenna, OH 44266
+2494623	2220 S Bradley Rd, Santa Maria, CA 93455
+2494624	8300 W Overland Rd, Boise, ID 83709
+2494625	810 S Irish Rd, Chilton, WI 53014
+2494626	135 Ne Loop 564, Mineola, TX 75773
+2494627	8760 Northridge Way, Minocqua, WI 54548
+2494628	949 W Grassland Dr, American Fork, UT 84003
+2494629	1825 W Bell Rd, Phoenix, AZ 85023
+2494630	270 Walmart Way, Dahlonega, GA 30533
+2494631	2132 Old Snow Hill Rd, Pocomoke City, MD 21851
+2494632	3721 E Thomas Rd, Phoenix, AZ 85018
+2494633	743 Rainier Ave S, Renton, WA 98057
+2494634	3600 W Mcfadden Ave, Santa Ana, CA 92704
+2494635	700 Marketplace Blvd, Hamilton, NJ 08691
+2494636	698 Shrewsbury Commons Ave, Shrewsbury, PA 17361
+2494637	215 E Grantway St, Du Quoin, IL 62832
+2494638	125 Washington Square Plz, Fredericksburg, VA 22405
+2494639	601 N Lincoln Rd, Escanaba, MI 49829
+2494640	2595 E Imperial Hwy, Brea, CA 92821
+2494641	5502 Monterey Hwy, San Jose, CA 95138
+2494642	19821 Rinaldi St, Porter Ranch, CA 91326
+2494643	951 Avenida Pico, San Clemente, CA 92673
+2494644	167 Hogan Blvd, Mill Hall, PA 17751
+2494645	2021 Lynnhaven Pkwy, Virginia Beach, VA 23456
+2494646	1316 S State St, Jerseyville, IL 62052
+2494647	1 Rutland Shopping Plz, Rutland, VT 05701
+2494648	3133 E Main St, Mohegan Lake, NY 10547
+2494649	2785 Milwaukee Rd, Beloit, WI 53511
+2494650	3767 Gulf Breeze Pkwy, Gulf Breeze, FL 32563
+2494651	3300 S Oates St, Dothan, AL 36301
+2494652	500 Terry Rich Blvd, Saint Clair, PA 17970
+2494653	1110 E Prosperity Ave, Tulare, CA 93274
+2494654	1515 Dana Dr, Redding, CA 96003
+2494655	1040 Green Acres Rd, Eugene, OR 97408
+2494656	15727 E Broadway Ave, Spokane Valley, WA 99037
+2494657	1001 North West, Olney, IL 62450
+2494658	63 Perkins Rd, Clarion, PA 16214
+2494659	2700 W State St, Alliance, OH 44601
+2494660	1720 N Perry St, Ottawa, OH 45875
+2494661	390 Route 315 Hwy, Pittston, PA 18640
+2494662	6087 Us Highway 6, Portage, IN 46368
+2494663	2900 Roosevelt Rd, Marinette, WI 54143
+2494664	2300 N Tustin St, Orange, CA 92865
+2494665	41 Anawana Lake Rd, Monticello, NY 12701
+2494666	28402 Us Highway 119, South Williamson, KY 41503
+2494667	9212 N Colton St, Spokane, WA 99218
+2494669	221E Ne 104Th Ave, Vancouver, WA 98664
+2494670	209 E Ridgeville Blvd, Mount Airy, MD 21771
+2494671	4200 Se 82Nd Ave, Portland, OR 97266
+2494672	6650 Hembree Ln, Windsor, CA 95492
+2494673	13055 W Rancho Santa Fe Blvd, Avondale, AZ 85392
+2494674	117 Wilton Blvd, New Castle, DE 19720
+2494675	1168 W Branch St, Arroyo Grande, CA 93420
+2494676	8400 Rosedale Hwy, Bakersfield, CA 93312
+2494677	44575 Mound Rd, Sterling Heights, MI 48314
+2494678	33201 Van Dyke Ave, Sterling Heights, MI 48312
+2494679	400 Junction Dr, Glen Carbon, IL 62034
+2494680	11416 Ocean Gtwy, Berlin, MD 21811
+2494681	4950 W 23Rd St, Erie, PA 16506
+2494682	2160 C0Mmerce Road, Goodland, KS 67735
+2494683	735 N Gospel St, Paoli, IN 47454
+2494684	1036 Us Highway 211 W, Luray, VA 22835
+2494685	197 Madison Heights Sq, Madison Heights, VA 24572
+2494686	96 Patrick Henry Way, Charles Town, WV 25414
+2494687	4542 Kenowa Ave Sw, Grandville, MI 49418
+2494688	8333 Van Nuys Blvd, Panorama City, CA 91402
+2494689	461 Rt 10 Ledgewood Mall #29, Ledgewood, NJ 07852
+2494690	901 Us Highway 60 E, Morganfield, KY 42437
+2494692	1900 S 314Th St, Federal Way, WA 98003
+2494693	990 W Emmitt Ave, Waverly, OH 45690
+2494694	60 Noble Blvd, Carlisle, PA 17013
+2494695	3900 Dave Ward Dr, Conway, AR 72034
+2494696	100 Nitro Market Pl, Cross Lanes, WV 25313
+2494697	1 Frankel Way, Cockeysville, MD 21030
+2494698	510 Linden St, Chadron, NE 69337
+2494699	3929 N Gloster St, Tupelo, MS 38804
+2494700	1415 Sunset Ave, Clinton, NC 28328
+2494701	5399 W Genesee St, Camillus, NY 13031
+2494702	Route 513 And I-78, Clinton, NJ 08809
+2494703	1123 Jerusalem Ave, Uniondale, NY 11553
+2494704	4375 Lawrenceville Hwy, Tucker, GA 30084
+2494705	150 Barnum Avenue Cutoff, Stratford, CT 06614
+2494706	100 Thruway Plaza Dr, Buffalo, NY 14225
+2494707	304 S Rockwood Dr, Cabot, AR 72023
+2494708	100 Walmart Dr, North Versailles, PA 15137
+2494709	782 E Interstate 30, Rockwall, TX 75087
+2494710	151 Sw 184Th Ave, Pembroke Pines, FL 33029
+2494711	1807 W Craig Rd, North Las Vegas, NV 89032
+2494712	2310 E Serene Ave, Las Vegas, NV 89123
+2494713	1400 164Th St Sw, Lynnwood, WA 98087
+2494714	8924 34Th Ave Ne, Tulalip, WA 98271
+2494715	2301 Freeway Dr, Mount Vernon, WA 98273
+2494716	10 Kimberly Ln, Cranberry, PA 16319
+2494717	3661 Truxel Rd, Sacramento, CA 95834
+2494718	5555 De Zavala Rd, San Antonio, TX 78249
+2494719	5000 10Th Ave, Leavenworth, KS 66048
+2494720	1200 N Highway 77, Waxahachie, TX 75165
+2494721	100 Thf Blvd, Chesterfield, MO 63005
+2494722	300 Walmart Dr, Gibsonia, PA 15044
+2494723	26 Hampton House Rd, Newton, NJ 07860
+2494724	2145 Eastern Ave, Gallipolis, OH 45631
+2494725	721 Us Highway 321 Byp S Unit, Winnsboro, SC 29180
+2494726	170 Heritage Ln, Polson, MT 59860
+2494727	3205 Stower St, Miles City, MT 59301
+2494728	2770 Carson St, Lakewood, CA 90712
+2494729	4019 Central Ave, Hot Springs, AR 71913
+2494730	77 Norman Morgan Blvd, Logan, WV 25601
+2494731	2100 Summit Ridge Plz, Mt Pleasant, PA 15666
+2494732	1850 N Zaragoza Rd, El Paso, TX 79936
+2494733	1875 E Mansfield St, Bucyrus, OH 44820
+2494734	5370 Allentown Pike, Temple, PA 19560
+2494735	3274 Inner Perimeter Rd, Valdosta, GA 31602
+2494736	1307 Highway K, O Fallon, MO 63366
+2494737	3010 Potato Rd, Winnemucca, NV 89445
+2494738	3301 Pontiac Trail Road, Commerce, MI 48382
+2494739	910 Joe Mann Blvd, Midland, MI 48642
+2494740	919 Giacone Dr, Benton, IL 62812
+2494741	1618 W M 43 Hwy, Hastings, MI 49058
+2494742	255 Cochran St, Simi Valley, CA 93065
+2494744	6868 Us Highway 129, Live Oak, FL 32060
+2494745	2701 E Fletcher Ave, Tampa, FL 33612
+2494746	4051 Nicholasville Rd, Lexington, KY 40503
+2494747	100 Valley Pkwy, Whitinsville, MA 01588
+2494749	1100 N 1St St, Jesup, GA 31545
+2494750	29555 Plymouth Rd, Livonia, MI 48150
+2494751	1303 Centennial Ave, Piscataway, NJ 08854
+2494752	561 Main St, Gorham, NH 03581
+2494753	8230 Talbert Ave, Huntington Beach, CA 92646
+2494754	288 Larkin Dr, Monroe, NY 10950
+2494755	12504 U.S. Route 60, Ashland, KY 41102
+2494756	1458 Lake Shore Rd, Gilford, NH 03249
+2494757	175 Beasley Dr, Dickson, TN 37055
+2494758	450 Highland Ave, Salem, MA 01970
+2494759	1091 Millcreek Rd, Allentown, PA 18106
+2494760	7835 150Th St W, Apple Valley, MN 55124
+2494761	10240 Hudson Rd, Woodbury, MN 55129
+2494762	5825 Brockway Rd, Saginaw, MI 48638
+2494763	1451 S Main St, Blackstone, VA 23824
+2494764	160 Kinter Way, Pearisburg, VA 24134
+2494765	461 W Reservoir Rd, Woodstock, VA 22664
+2494766	1919 Davis St, San Leandro, CA 94577
+2494767	1635 Market Place Blvd., Irving, TX 75063
+2494768	1900 W Moore Ave, Terrell, TX 75160
+2494769	#1 Franklin Mills Blvd, Philadelphia, PA 19154
+2494770	100 No. Main Street, Manville, NJ 08835
+2494771	1000 Robert Rd, Grants, NM 87020
+2494772	1604 E Spruce St, Portales, NM 88130
+2494773	1650 Edmonton Rd, Tompkinsville, KY 42167
+2494774	1610 No. Riverside Drive, Espanola, NM 87532
+2494775	1515 W Paradise Dr, West Bend, WI 53095
+2494776	206 U.S. Route 1, Falmouth, ME 04105
+2494777	1601 W State Highway 114, Grapevine, TX 76051
+2494778	72 Main St, North Reading, MA 01864
+2494779	313 Thacker Ave, Covington, VA 24426
+2494780	300 Walmart Dr, Ebensburg, PA 15931
+2494781	21920 Route #119, Punxsutawney, PA 15767
+2494782	167 Northshore Blvd, Slidell, LA 70460
+2494783	3579 S High St, Columbus, OH 43207
+2494784	7401 Samuell Blvd, Dallas, TX 75228
+2494785	3049 S Oakes Rd, Sturtevant, WI 53177
+2494787	1212 S Madison St, Webb City, MO 64870
+2494788	1175 S Arizona Ave, Chandler, AZ 85286
+2494789	1432 E Olive St, Lamar, CO 81052
+2494790	45 Williamson Rd, Greenville, PA 16125
+2494792	316 Indian Ridge Blvd, Mishawaka, IN 46545
+2494793	175 Country Road #6 West, Elkhart, IN 46514
+2494794	175 Ji Bell Ln, Savannah, TN 38372
+2494795	3701 Portage Rd, South Bend, IN 46628
+2494796	615 Meadow St, Littleton, NH 03561
+2494797	282 Berlin Mall Rd Ste 1, Berlin, VT 05602
+2494798	337 Russell St, Hadley, MA 01035
+2494799	1142 S Bridge St, New Martinsville, WV 26155
+2494800	14055 E Wade Hampton Blvd, Greer, SC 29651
+2494801	6801 S Broadway Ave, Tyler, TX 75703
+2494802	1002 Nw Sheridan Rd, Lawton, OK 73505
+2494803	8650 Madison Blvd, Madison, AL 35758
+2494804	2910 Grant Line Rd, New Albany, IN 47150
+2494805	45400 Marketplace Blvd, Chesterfield, MI 48051
+2494806	3700 Owen Rd, Fenton, MI 48430
+2494807	1202 S Kirkwood Rd, Kirkwood, MO 63122
+2494808	11 Harness Rd, Moorefield, WV 26836
+2494809	4893 Lone Tree Way, Antioch, CA 94531
+2494810	1101 W Highway 32, Salem, MO 65560
+2494812	9190 Highland Rd, White Lake, MI 48386
+2494813	1102 N Massey Blvd, Nixa, MO 65714
+2494814	2014 S Irby St, Florence, SC 29505
+2494815	1021 High Point St, Randleman, NC 27317
+2494816	1500 Armory Dr, Franklin, VA 23851
+2494817	1501 Manhattan Blvd, Harvey, LA 70058
+2494818	32225 Temecula Pkwy, Temecula, CA 92592
+2494819	1341 Highway 287 N, Bowie, TX 76230
+2494820	ERROR
+2494821	ERROR
+2494822	541 Seaboard St, Myrtle Beach, SC 29577
+2494823	5919 Trussville Crossings Pkwy, Birmingham, AL 35235
+2494824	500 11Th St Sw, Spencer, IA 51301
+2494825	3615 Sangani Blvd, Diberville, MS 39540
+2494826	3601 29Th Ave Sw, Cedar Rapids, IA 52404
+2494827	5901 U S Highway 49, Hattiesburg, MS 39402
+2494828	9555 S Post Oak Rd, Houston, TX 77096
+2494829	1400 Farmington Ave, Bristol, CT 06010
+2494830	3600 Mallory Ln, Franklin, TN 37067
+2494831	127 Grand View Blvd, Madison, MS 39110
+2494833	537 Johansen Expy, Fairbanks, AK 99701
+2494834	690 Highway 78, Sumiton, AL 35148
+2494835	1107 Shaver St, Pasadena, TX 77506
+2494836	8659 Columbus Pike, Lewis Center, OH 43035
+2494837	2793 Taylor Road Ext, Reynoldsburg, OH 43068
+2494838	33501 S Dixie Hwy, Florida City, FL 33034
+2494839	4625 E Maryland St, Decatur, IL 62521
+2494840	1250 E Magnolia St, Fort Collins, CO 80524
+2494841	100 Interchange Dr, Fulton, MS 38843
+2494842	110 River Oaks Dr, Tarboro, NC 27886
+2494843	600 Carrollton Villa Rica Hwy, Villa Rica, GA 30180
+2494844	1009 Saint Patricks Dr, Perry, GA 31069
+2494845	601 12Th Ave Ne, Norman, OK 73071
+2494846	6051 Florin Rd, Sacramento, CA 95823
+2494847	701 Mcmeans Ave, Bay Minette, AL 36507
+2494848	1110 Battleground Dr, Iuka, MS 38852
+2494849	19910 Bruce B Downs Blvd, Tampa, FL 33647
+2494852	ERROR
+2494853	ERROR
+2494854	ERROR
+2494855	650 Bald Hill Rd, Warwick, RI 02886
+2494856	170 E Fort Morgan Rd, Gulf Shores, AL 36542
+2494857	2514 Halltown Rd, Spruce Pine, NC 28777
+2494858	1620 W Church St, Livingston, TX 77351
+2494859	601 Englewood Pkwy, Englewood, CO 80110
+2494860	5990 Dahlia St, Commerce City, CO 80022
+2494861	1455 Highway 441 S, Clayton, GA 30525
+2494862	1500 N Liberty St, Waynesboro, GA 30830
+2494863	5341 Highway 25, Flowood, MS 39232
+2494864	1811 Monocacy Blvd, Frederick, MD 21701
+2494865	683 Tenney Mountain Hwy, Plymouth, NH 03264
+2494866	1312 E Main St, Stigler, OK 74462
+2494867	4206 N College Ave, Jackson, AL 36545
+2494868	13320 G.C. Peery Hwy, Pounding Mill, VA 24637
+2494869	7373 Peppers Ferry Blvd, Fairlawn, VA 24141
+2494870	3501 8Th St Sw, Altoona, IA 50009
+2494871	15355 N Northsight Blvd, Scottsdale, AZ 85260
+2494872	4505 E Mckellips Rd, Mesa, AZ 85215
+2494873	1955 S Stapley Dr, Mesa, AZ 85204
+2494874	501 Sw 19Th St, Moore, OK 73160
+2494875	1088 W Broadway St, Monticello, IN 47960
+2494876	1675 N Howe St, Southport, NC 28461
+2494877	13770 W Bell Rd, Surprise, AZ 85374
+2494878	1695 N Arizona Blvd, Coolidge, AZ 85128
+2494879	1645 E Bert Kouns Industrial L, Shreveport, LA 71105
+2494880	5108 Cleveland Blvd, Caldwell, ID 83607
+2494881	2100 12Th Ave Rd, Nampa, ID 83686
+2494882	2745 American Legion Blvd, Mountain Home, ID 83647
+2494883	500 W New Circle Rd, Lexington, KY 40511
+2494884	3620 N 6Th St, Beatrice, NE 68310
+2494885	9500 E Us Highway 36, Avon, IN 46123
+2494886	7325 N Keystone Ave, Indianapolis, IN 46240
+2494887	400 W Northfield Dr, Brownsburg, IN 46112
+2494888	3200 Old Boynton Rd, Boynton Beach, FL 33436
+2494889	926 E Collin Raye Dr, De Queen, AR 71832
+2494890	4 College Park Ln, Georgetown, DE 19947
+2494891	100 Mcginnis Dr, Wayne, WV 25570
+2494892	1130 S Main St, Kernersville, NC 27284
+2494893	777 N Main St, Ephraim, UT 84627
+2494894	145 Hill Carter Pkwy, Ashland, VA 23005
+2494895	3801 Tampa Rd, Oldsmar, FL 34677
+2494896	100 Charlton Rd, Sturbridge, MA 01566
+2494897	8745 Branch Ave, Clinton, MD 20735
+2494898	2415 N Main St, Miami, OK 74354
+2494899	709 W Us Highway 79, Rockdale, TX 76567
+2494901	2200 W Danforth Rd, Edmond, OK 73003
+2494902	1801 Belle Isle Blvd, Oklahoma City, OK 73118
+2494903	303 Market Dr, Emporia, VA 23847
+2494904	4000 Hwy #9, Boiling Springs, SC 29316
+2494905	2160 John Wayland Hwy, Harrisonburg, VA 22801
+2494906	12200 Chattanooga Plz, Midlothian, VA 23112
+2494907	100 Buckhannon Crossroads, Buckhannon, WV 26201
+2494908	1500 Hwy 25B North, Heber Springs, AR 72543
+2494909	97 Williams Dr, Spencer, WV 25276
+2494910	4375 Lexington Rd, Athens, GA 30605
+2494911	25 25Th St Se, Rochester, MN 55904
+2494912	2001 N Central Ave, Marshfield, WI 54449
+2494913	9300 Nw 77Th Ave, Hialeah, FL 33016
+2494914	1460 Golf Rd, Rolling Meadows, IL 60008
+2494915	5630 W Touhy Ave, Niles, IL 60714
+2494916	16771 Torrence Ave, Lansing, IL 60438
+2494917	1828 165Th St, Hammond, IN 46320
+2494918	2100 N Main St, Bluffton, IN 46714
+2494919	1550 Nashville Rd, Franklin, KY 42134
+2494920	1055 Ryans Rd, Worthington, MN 56187
+2494921	2410 Sheila Ln, Richmond, VA 23225
+2494922	28270 Walker Rd S, Walker, LA 70785
+2494923	2900 Pike St, Parkersburg, WV 26101
+2494924	1126 Us Highway 9, Old Bridge, NJ 08857
+2494925	2801 Commerce Dr, Coralville, IA 52241
+2494926	3355 S 27Th St, Milwaukee, WI 53215
+2494928	795 Texas Ave, Bridge City, TX 77611
+2494929	1570 Chester Pike, Eddystone, PA 19022
+2494930	2680 S Lincoln Ave, Jerome, ID 83338
+2494931	4400 Highway 278, Hardeeville, SC 29927
+2494932	#1 Wal-Mart Lane, Grafton, WV 26354
+2494933	1051 E Broad St, Fuquay Varina, NC 27526
+2494934	4350 N Nellis Blvd, Las Vegas, NV 89115
+2494935	540 Marks St, Henderson, NV 89014
+2494936	930 N Walnut Creek Dr Ste 800, Mansfield, TX 76063
+2494937	1740 Route 38, Lumberton, NJ 08048
+2494938	1290 E Ontario Ave, Corona, CA 92881
+2494939	17961 S Us Highway 441, Summerfield, FL 34491
+2494940	1549 Route 9, Clifton Park, NY 12065
+2494941	14215 Us Highway 64 W, Siler City, NC 27344
+2494942	7950 Craft Goodman Frontage Rd, Olive Branch, MS 38654
+2494943	10504 S 15Th St, Bellevue, NE 68123
+2494944	320 Mallard Lane, Mason, WV 25260
+2494945	141 Interstate 45 S, Huntsville, TX 77340
+2494946	2320 No. Hanover Pike, Hampstead, MD 21074
+2494947	40 Drury Dr, La Plata, MD 20646
+2494948	180 River Rd, Lisbon, CT 06351
+2494949	16100 W 65Th St, Shawnee, KS 66217
+2494950	201 Se Salem St, Oak Grove, MO 64075
+2494951	8551 N Boardwalk Ave, Kansas City, MO 64154
+2494952	2150 Chili Ave, Rochester, NY 14624
+2494953	700 E Ennis Ave, Ennis, TX 75119
+2494954	160 Pooler Pkwy, Pooler, GA 31322
+2494955	7319 W State St, Boise, ID 83714
+2494956	4051 E Fairview Ave, Meridian, ID 83642
+2494957	6703 Leslie Rd, San Antonio, TX 78254
+2494958	2301 W Wellesley Ave, Spokane, WA 99205
+2494959	5110 Times Square Pl, Okemos, MI 48864
+2494960	3225 Towne Centre Blvd, Lansing, MI 48912
+2494961	409 N Marketplace Blvd, Lansing, MI 48917
+2494962	1801 Highway 78 E, Jasper, AL 35501
+2494963	2501 Route 130 S, Cinnaminson, NJ 08077
+2494964	10562 Belleville Rd, Belleville, MI 48111
+2494965	2001 W Maple Rd, Troy, MI 48084
+2494966	200 Dutch Meadows Ln, Glenville, NY 12302
+2494967	ERROR
+2494968	ERROR
+2494969	ERROR
+2494970	ERROR
+2494971	115 Cobb Mill Rd, Woodville, TX 75979
+2494972	ERROR
+2494973	1471 E Osceola Pkwy, Kissimmee, FL 34744
+2494974	9451 Dunkirk Ln N, Maple Grove, MN 55311
+2494975	8801 Ohio Dr, Plano, TX 75024
+2494976	8060 W Tropical Pkwy, Las Vegas, NV 89149
+2494977	199 Connell Hwy, Newport, RI 02840
+2494978	8500 Washington Blvd, Pico Rivera, CA 90660
+2494979	100 No Londonderry Square, Palmyra, PA 17078
+2494980	2715 S 25Th St, Clinton, IA 52732
+2494981	Us 65 South, Mcgehee, AR 71654
+2494982	5955 Zebulon Rd, Macon, GA 31210
+2494983	2450 Nw Loop 338, Odessa, TX 79763
+2494984	11101 S Parker Rd, Parker, CO 80134
+2494985	121 Peter Pan Rd, Independence, KS 67301
+2494986	13164 Garrett Hwy, Oakland, MD 21550
+2494987	656 New Haven Ave, Derby, CT 06418
+2494988	235 Queen St, Southington, CT 06489
+2494989	665 Boston Post Rd, Old Saybrook, CT 06475
+2494990	255 W Main St, Avon, CT 06001
+2494991	724 Stadium West Blv, Jefferson City, MO 65109
+2494992	1620 N Sarah Dewitt Dr, Gonzales, TX 78629
+2494993	80 Town Line Rd, Rocky Hill, CT 06067
+2494994	180 N King St, Northampton, MA 01060
+2494995	121 Worcester Rd, Framingham, MA 01701
+2494996	66 Parkhurst Rd, Chelmsford, MA 01824
+2494997	700 Oak St, Brockton, MA 02301
+2494998	250 Route 59, Suffern, NY 10901
+2494999	765 Old Country Rd, Riverhead, NY 11901
+2495000	201 Montgomery Xing, Biscoe, NC 27209
+2495001	961 E Columbus Ave, Corry, PA 16407
+2495002	2875 E State St, Salem, OH 44460
+2495003	3018 East Ave, Central Square, NY 13036
+2495004	7555 Telegraph Rd, Taylor, MI 48180
+2495005	13001 Highway 90, Boutte, LA 70039
+2495006	1 Massillon Marketplace Dr Sw, Massillon, OH 44646
+2495007	3990 Nesconset Hwy, East Setauket, NY 11733
+2495008	2465 Hempstead Tpke, East Meadow, NY 11554
+2495009	1850 Veterans Hwy, Islandia, NY 11749
+2495010	1703 S Colorado St, Lockhart, TX 78644
+2495011	1505 County Road 220, Orange Park, FL 32003
+2495012	534 N Harrisville Rd, Harrisville, UT 84404
+2495013	7635 No. La Cholla B, Tucson, AZ 85741
+2495014	1649 Main St, Billings, MT 59105
+2495015	2550 Coors Bldv. Nw, Albuquerque, NM 87120
+2495016	681 Lincoln Ave, Napa, CA 94558
+2495017	6000 Coit Rd, Plano, TX 75023
+2495018	23500 Ne Sandy Blvd, Wood Village, OR 97060
+2495019	605 Saint James Ave, Goose Creek, SC 29445
+2495020	3030 N Main St, Hope Mills, NC 28348
+2495021	1712 E Washington Ave, Navasota, TX 77868
+2495022	409 N Fruitland Blvd, Salisbury, MD 21801
+2495023	10900 Parkside Dr, Knoxville, TN 37934
+2495024	201 Greasy Ridge Rd, Princeton, WV 24740
+2495025	15150 Us Highway 150, Paris, IL 61944
+2495026	814 W Bell Ave, Knoxville, IA 50138
+2495027	8700 N Servite Dr, Milwaukee, WI 53223
+2495028	12080 Highway 169 W, Hibbing, MN 55746
+2495029	2428 W Pinhook Rd, Lafayette, LA 70508
+2495030	200 Marketplace Drive, Richland, MS 39218
+2495031	1725 West Everely Br, Central City, KY 42330
+2495032	5200 Windward Pkwy, Alpharetta, GA 30004
+2495033	100 Commons Dr, Parkesburg, PA 19365
+2495034	9000 Ne Highway 99, Vancouver, WA 98665
+2495035	13310 Telegraph Rd, Santa Fe Springs, CA 90670
+2495036	151 E 5Th St, Long Beach, CA 90802
+2495037	131 Erka Twn Cntr Dr, Eureka, MO 63025
+2495038	37140 47Th St E, Palmdale, CA 93552
+2495039	1731 E Avenue J, Lancaster, CA 93535
+2495040	41200 Murrieta Hot Springs Rd, Murrieta, CA 92562
+2495041	262 Swansea Mall Dr, Swansea, MA 02777
+2495042	650 Main Ave, Norwalk, CT 06851
+2495043	1701 W 133Rd St, Kansas City, MO 64145
+2495044	1401 Il Route 59, Shorewood, IL 60431
+2495045	1583 Highway 10 W, Detroit Lakes, MN 56501
+2495046	3701 E Calumet St, Appleton, WI 54915
+2495047	28804 Gratiot Ave, Roseville, MI 48066
+2495048	1172 Old Highway 7 S, Dardanelle, AR 72834
+2495049	4101 Crenshaw Blvd, Los Angeles, CA 90008
+2495050	2300 W Atlantic Blvd, Pompano Beach, FL 33069
+2495051	6001 Coral Ridge Dr, Coral Springs, FL 33076
+2495052	3164 Berlin Tpke, Newington, CT 06111
+2495053	222 Smokerise Dr, Wadsworth, OH 44281
+2495054	3450 Valley Plaza Pkwy, Ft Wright, KY 41017
+2495055	200 Floyd Dr, Carrollton, KY 41008
+2495056	23561 Us Hwy 59, Porter, TX 77365
+2495057	ERROR
+2495058	ERROR
+2495059	ERROR
+2495060	ERROR
+2495061	ERROR
+2495062	7451 Mccart Ave, Fort Worth, TX 76133
+2495063	ERROR
+2495064	1972 Hwy 431, Boaz, AL 35957
+2495065	8520 N Beach St, Fort Worth, TX 76244
+2495066	ERROR
+2495067	7065 N Ingram Ave, Fresno, CA 93650
+2495068	1155 W Winneconne Ave, Neenah, WI 54956
+2495069	2625 No. Hwy 27, La Fayette, GA 30728
+2495070	44009 Osgood Rd, Fremont, CA 94539
+2495071	150 Walton Ave, Bowling Green, KY 42104
+2495072	1101 E Spruce St, Mitchell, SD 57301
+2495073	201 Walton Way, Cedar Park, TX 78613
+2495074	3217 Silverback Ln, Painted Post, NY 14870
+2495075	345 Highway 6, Sugar Land, TX 77478
+2495076	3022 S Belt Hwy, Saint Joseph, MO 64503
+2495077	ERROR
+2495078	18121 Marsh Ln, Dallas, TX 75287
+2495079	30983 Highway 441 S, Commerce, GA 30529
+2495080	2025 W Business Us Highway 60, Dexter, MO 63841
+2495081	1625 Pelham Rd S, Jacksonville, AL 36265
+2495082	340 E Meighan Blvd, Gadsden, AL 35903
+2495083	6495 Country Club Rd, Murphysboro, IL 62966
+2495084	950 Mackie Dr, Holly Springs, MS 38635
+2495085	3360 Tom Austin Hwy, Springfield, TN 37172
+2495086	905 Highway 16 W, Carthage, MS 39051
+2495087	1450 No. Brindlee Mt, Arab, AL 35016
+2495088	1025 Glenwood Dr, West Monroe, LA 71291
+2495089	2518 Hillsboro Blvd, Manchester, TN 37355
+2495090	3005 Veterans Memorial Dr, Abbeville, LA 70510
+2495091	3108 N Broadway St, Poteau, OK 74953
+2495092	729 Odd Fellows Rd, Crowley, LA 70526
+2495093	200 Northwest Blvd, Franklin, LA 70538
+2495094	891 E La Salle St, Ville Platte, LA 70586
+2495095	4550 Gravois Rd, House Springs, MO 63051
+2495096	1224 Huntsville Hwy, Fayetteville, TN 37334
+2495097	2453 2Nd Ave E, Oneonta, AL 35121
+2495098	973 Gilbert Ferry Rd Se, Attalla, AL 35954
+2495099	201 No. Mattes Avenu, Vandalia, IL 62471
+2495100	109 Wp Malone Dr, Arkadelphia, AR 71923
+2495101	2015 W Foxwood Dr, Raymore, MO 64083
+2495102	2050 West Hwy 76, Branson, MO 65616
+2495103	Texas Hwy 6 & 7 East, Marlin, TX 76661
+2495104	740 Middle St, Weymouth, MA 02188
+2495105	135 Willow Ln, Mcdonough, GA 30253
+2495106	1100 Thornton Rd, Lithia Springs, GA 30122
+2495107	2400 Harding Hwy, Lima, OH 45804
+2495108	1601 Rinehart Rd, Sanford, FL 32771
+2495109	660 S 1750 W, Springville, UT 84663
+2495110	18185 Zane St Nw, Elk River, MN 55330
+2495111	203 Us Loop 290 West, Brenham, TX 77833
+2495112	2760 No. Dirksen Pkwy, Springfield, IL 62702
+2495113	3040 College Park Dr, The Woodlands, TX 77384
+2495114	6259 College Dr, Suffolk, VA 23435
+2495115	1149 Nimmo Pkwy, Virginia Beach, VA 23456
+2495116	1860 E Main St, Othello, WA 99344
+2495117	20307 Mountain Hwy E, Spanaway, WA 98387
+2495118	731 E Rochambeau Dr, Williamsburg, VA 23188
+2495119	2200 Briarcrest Dr, Bryan, TX 77802
+2495120	2610 Pioneer Rd, St George, UT 84790
+2495121	515 E 4Th St, Watkins Glen, NY 14891
+2495122	1286 Eighteen Mile Rd, Central, SC 29630
+2495123	#100 Chippewa Town Centre, Beaver Falls, PA 15010
+2495124	555 W Interstate 30, Garland, TX 75043
+2495125	2501 Lakeview Pkwy, Rowlett, TX 75088
+2495126	25108 Market Place Dr, Katy, TX 77494
+2495127	6700 Hollywood Blvd, Delmont, PA 15626
+2495128	3800 Us Highway 287 W, Vernon, TX 76384
+2495129	7292 Hwy #509, Mansfield, LA 71052
+2495130	400 Bryant Ave, Bryant, AR 72022
+2495131	551 Liberty Dr, Greenwood, AR 72936
+2495132	7671 S 3800 W, West Jordan, UT 84084
+2495133	2025 Paul Bunyan Dr Nw, Bemidji, MN 56601
+2495134	4331 Highway 66 S, Rogersville, TN 37857
+2495135	1425 Ne 163Rd St, North Miami Beach, FL 33162
+2495136	5521 E Arrowhead Pkwy, Sioux Falls, SD 57110
+2495137	2659 Olympic St, Springfield, OR 97477
+2495138	105 W Highway 16, Bristow, OK 74010
+2495139	18551 N 83Rd Ave, Glendale, AZ 85308
+2495140	4524 Challenger Ave, Roanoke, VA 24012
+2495141	15594 State Highway 77, Hayward, WI 54843
+2495142	1819 E Geneva St, Delavan, WI 53115
+2495143	1340 S Beach Blvd, La Habra, CA 90631
+2495144	908 Walton Way, Richmond, MO 64085
+2495145	7235 Market Place Dr, Aurora, OH 44202
+2495146	1397 Leesburg Ave, Washington Court Ho, OH 43160
+2495147	605 Conchester Hwy, Boothwyn, PA 19061
+2495148	108 Washington Towne Blvd N, Edinboro, PA 16412
+2495149	5260 W 7Th St, Reno, NV 89523
+2495150	505 S Dunlap Ave, Savoy, IL 61874
+2495151	4550 W 11Th Ave, Eugene, OR 97402
+2495152	3555 Mullan Rd, Missoula, MT 59808
+2495153	1180 W 19Th St, Higginsville, MO 64037
+2495154	1399 S.E. Blvd, Ephrata, WA 98823
+2495155	2801 Duportail St, Richland, WA 99352
+2495156	61205 Southgate Rd, Cambridge, OH 43725
+2495157	2601 Geo. Washington Mem. Hwy, Yorktown, VA 23693
+2495158	839 Us Highway 130, East Windsor, NJ 08520
+2495159	18201 Wright St, Omaha, NE 68130
+2495160	200 E State Highway 64, Antigo, WI 54409
+2495161	258 River Rd, Mexico, ME 04257
+2495162	1107 S Main St, Jay, OK 74346
+2495163	345 Commonwealth Dr, Wytheville, VA 24382
+2495164	5100 Highway 31, Calera, AL 35040
+2495165	15700 Metcalf Ave, Overland Park, KS 66223
+2495166	9101 N Tarrant Pkwy, North Richland Hill, TX 76182
+2495167	ERROR
+2495168	4001 Hallmark Pkwy, San Bernardino, CA 92407
+2495169	155 Damonte Ranch Pkwy, Reno, NV 89521
+2495170	8700 Andermatt Dr, Lincoln, NE 68526
+2495171	2100 Se Loop 410, San Antonio, TX 78220
+2495172	961 N Market St, Waterloo, IL 62298
+2495173	1490 Hudson Ave, Rochester, NY 14621
+2495174	5741 Buffalo Rd, Harborcreek, PA 16421
+2495175	12910 State Route 664 S, Logan, OH 43138
+2495176	10600 W 21St St N, Wichita, KS 67205
+2495177	621 Uptown Blvd, Cedar Hill, TX 75104
+2495178	1035 Hickory Creek Blvd, Hickory Creek, TX 75065
+2495179	ERROR
+2495180	10200 Sullivan Rd, Baton Rouge, LA 70818
+2495181	1489 Mount Jefferson Rd, West Jefferson, NC 28694
+2495182	5560 Mcclellan Blvd, Anniston, AL 36206
+2495183	101 Pakaula St, Kahului, HI 96732
+2495184	40 International Dr S, Flanders, NJ 07836
+2495185	900 Springfield Rd, Union, NJ 07083
+2495186	7101 Cedar Springs Blvd, Louisville, KY 40291
+2495187	6310 S Elm Pl, Broken Arrow, OK 74011
+2495188	2700 S Kirkwood Rd, Houston, TX 77077
+2495189	12353 Fm 1960 Rd W, Houston, TX 77065
+2495190	255 Fm 518 Rd, Kemah, TX 77565
+2495191	1710 S 4Th St, Nashville, AR 71852
+2495192	9002 N Navarro St, Victoria, TX 77904
+2495193	1257 Bellefontaine St, Wapakoneta, OH 45895
+2495194	9460 W Sam Houston Pkwy S, Houston, TX 77099
+2495195	1624 Nc #14 Highway, Reidsville, NC 27320
+2495196	ERROR
+2495197	525 N Cities Service Hwy, Sulphur, LA 70663
+2495198	10900 E Briarwood Ave, Centennial, CO 80112
+2495199	ERROR
+2495200	ERROR
+2495201	ERROR
+2495202	2020 Heights Dr, Harker Heights, TX 76548
+2495203	6140A Univ Drive, Huntsville, AL 35806
+2495204	215 E Mile 3 Rd, Palmhurst, TX 78573
+2495205	411 Pewaukee Rd, Pewaukee, WI 53072
+2495206	10772 W Carson City Rd, Greenville, MI 48838
+2495207	1701 N Main St, Beaver Dam, KY 42320
+2495208	5501 S Olive St, Pine Bluff, AR 71603
+2495209	18600 Shipman Blackt, Carlinville, IL 62626
+2495210	ERROR
+2495211	501 Wal Mart Dr, Winchester, VA 22603
+2495212	2196 Emporium Dr, Jackson, TN 38305
+2495213	ERROR
+2495214	ERROR
+2495215	1308 S Rock St, Sheridan, AR 72150
+2495216	2750 E Germann Rd, Chandler, AZ 85286
+2495217	14800 Fort Campbell Blvd, Oak Grove, KY 42262
+2495218	3151 Leitchfield Rd, Owensboro, KY 42303
+2495219	1644 Robert St S, Saint Paul, MN 55118
+2495220	4920 Centre Pointe Dr, North Charleston, SC 29418
+2495221	1025 Walton Dr, Fredericktown, MO 63645
+2495222	3240 Wilkinson Blvd, Charlotte, NC 28208
+2495223	29 Sw 1St Ln, Lamar, MO 64759
+2495224	407 Ne Georgia Ave, Sweetwater, TX 79556
+2495225	4215 Canyon Dr, Amarillo, TX 79110
+2495226	300 W 15Th St, Hereford, TX 79045
+2495227	1400 Lawrenceville Hwy, Lawrenceville, GA 30044
+2495228	1123 Highway 79 167 Byp, Fordyce, AR 71742
+2495229	6102 Fm 3009, Schertz, TX 78154
+2495230	ERROR
+2495231	1905 E 7Th St, Atlantic, IA 50022
+2495232	3501 S Locust St, Grand Island, NE 68801
+2495233	2250 Lincoln Ave, Nevada, MO 64772
+2495234	131 Paul Carr Dr, Checotah, OK 74426
+2495235	3800 Silver Lake Rd Ne, Minneapolis, MN 55421
+2495236	3200 Market St, Carson City, NV 89706
+2495237	1174 Pony Express Hwy, Marysville, KS 66508
+2495238	ERROR
+2495239	701 Hopi St, Hiawatha, KS 66434
+2495240	1220 Old Country Rd, Westbury, NY 11590
+2495241	604 N 26Th St, Artesia, NM 88210
+2495242	1530 W Springfield Rd, Taylorville, IL 62568
+2495243	2801 E Interstate 20, Hudson Oaks, TX 76087
+2495244	3413 West Loop, El Campo, TX 77437
+2495245	2223 S Loop 256, Palestine, TX 75801
+2495247	ERROR
+2495248	ERROR
+2495249	1200 S Commerce Way, Perry, UT 84302
+2495250	ERROR
+2495251	2225 W Market St, Bloomington, IL 61705
+2495252	1618 Ohio St, Augusta, KS 67010
+2495253	8915 N Allen Rd, Peoria, IL 61615
+2495254	2717 Highway 54, Peachtree City, GA 30269
+2495255	3245 Lawrenceville Suwanee Rd, Suwanee, GA 30024
+2495256	1208 E Brandon Blvd, Brandon, FL 33511
+2495257	3943 Grand Ave, Chino, CA 91710
+2495258	5010 N 95Th Ave, Glendale, AZ 85305
+2495261	1601 W Edgar Rd, Linden, NJ 07036
+2495262	633 Highway 82 W, Indianola, MS 38751
+2495263	3105 Cobb Pkwy Nw, Kennesaw, GA 30152
+2495264	3050 E Mullan Ave, Post Falls, ID 83854
+2495265	4505 W Charleston Blvd, Las Vegas, NV 89102
+2495266	6225 E State Road 64, Bradenton, FL 34208
+2495267	650 S Trooper Rd, Norristown, PA 19403
+2495268	39500 Ford Rd, Canton, MI 48187
+2495269	7250 Carson Blvd, Long Beach, CA 90808
+2495270	700 Keeaumoku St, Honolulu, HI 96814
+2495272	427 Highway 425 N, Monticello, AR 71655
+2495273	1050 Regional Park Rd, Lebanon, VA 24266
+2495274	112 Carroll Island Rd, Baltimore, MD 21220
+2495275	425 Coit Rd, Plano, TX 75075
+2495276	933 Grand Caillou Rd, Houma, LA 70363
+2495277	2951 S Blue Angel Pkwy, Pensacola, FL 32506
+2495278	929 E State St, Athens, OH 45701
+2495279	51450 Shelby Pkwy, Shelby Township, MI 48315
+2495280	1901 Milwaukee Ave, Burlington, WI 53105
+2495281	6420 Petrie Way Rd, Baltimore, MD 21237
+2495283	7081 Arundel Mills Cir, Hanover, MD 21076
+2495284	70 Pleasant Valley St, Methuen, MA 01844
+2495285	11411 E Kellogg Dr, Wichita, KS 67207
+2495286	1021 Arnold Dr, Martinez, CA 94553
+2495287	732 Center Dr, San Marcos, CA 92069
+2495288	2315 Madison St, Clarksville, TN 37043
+2495289	5825 W Hope Ave, Milwaukee, WI 53216
+2495290	428 Walton Dr, Plymouth, WI 53073
+2495291	4405 Pheasant Ridge Dr Ne, Blaine, MN 55449
+2495292	101 Bluemont Ave, Manhattan, KS 66502
+2495293	101 E David Dr, York, NE 68467
+2495294	5655 E Sam Houston Pkwy N, Houston, TX 77015
+2495295	100 Crossings Blvd, Elverson, PA 19520
+2495296	3201 Princeton Rd, Hamilton, OH 45011
+2495297	1585 Liberty Dr Ste 1, Thomasville, NC 27360
+2495298	130 Commerce St, Wisconsin Dells, WI 53965
+2495299	ERROR
+2495300	2701 Port Covington Dr, Baltimore, MD 21230
+2495301	ERROR
+2495302	ERROR
+2495303	1710 Broadway St, Pearland, TX 77581
+2495304	8101 Old Carriage Ct, Shakopee, MN 55379
+2495305	50 Foster Brook Blvd, Bradford, PA 16701
+2495306	540 Harry Sauner Rd, Hillsboro, OH 45133
+2495307	1360 Eastlake Pkwy, Chula Vista, CA 91915
+2495308	2320 Bob Bullock Loop, Laredo, TX 78043
+2495309	Hwy 150/2206 State S, Chester, IL 62233
+2495310	400 Park Pl, Secaucus, NJ 07094
+2495311	3250 Big Dalton Ave, Baldwin Park, CA 91706
+2495312	605 Fletcher Pkwy, El Cajon, CA 92020
+2495313	7305 Broad St, Brooksville, FL 34601
+2495314	1675 Nw Saint Lucie West Blvd, Port Saint Lucie, FL 34986
+2495315	1053 Frontage Dr E, Wiggins, MS 39577
+2495316	10735 Pendleton Pike, Indianapolis, IN 46236
+2495317	2121 State Highway 16 S, Graham, TX 76450
+2495318	ERROR
+2495319	1401 Galaxy Dr Ne, Lacey, WA 98516
+2495321	7800 Smith Rd, Denver, CO 80207
+2495322	295 Tyler Rd S, Red Wing, MN 55066
+2495323	35 Fresh River Rd, Epping, NH 03042
+2495324	8500 N Wickham Rd, Melbourne, FL 32940
+2495325	1888 Highway 28, Owensville, MO 65066
+2495327	516 School House Rd, Kennett Square, PA 19348
+2495328	ERROR
+2495329	67 Newtown Rd, Danbury, CT 06810
+2495330	900 Boston Post Rd, Guilford, CT 06437
+2495331	2300 Dixwell Ave, Hamden, CT 06514
+2495332	164 Danbury Rd, New Milford, CT 06776
+2495333	680 Connecticut Ave, Norwalk, CT 06854
+2495334	910 Wolcott St, Waterbury, CT 06705
+2495335	350 Winchester St, Keene, NH 03431
+2495336	2900 Pepperell Pkwy, Opelika, AL 36801
+2495344	1717 S College St, Auburn, AL 36832
+2495345	374 William S Canning Blvd, Fall River, MA 02721
+2495346	137 Teaticket Hwy, Teaticket, MA 02536
+2495347	189 Us Highway 46, Saddle Brook, NJ 07663
+2495348	3926 Linden St, Bethlehem, PA 18020
+2495349	2101 Blair Mill Rd, Willow Grove, PA 19090
+2495350	53 W Germantown Pike, Norristown, PA 19401
+2495351	9400 E Hampden Ave, Denver, CO 80231
+2495352	3180 S 5600 W, West Valley City, UT 84120
+2495353	12900 No. I-35 Svc Rd Sb, Austin, TX 78753
+2495354	1003 W Newton St, Versailles, MO 65084
+2495355	4469 Washington Rd, Evans, GA 30809
+2495356	2900 Towne Blvd, Middletown, OH 45044
+2495357	10505 Broadway St, Pearland, TX 77584
+2495358	9401 Liberia Ave, Manassas, VA 20110
+2495359	ERROR
+2495360	ERROR
+2495361	ERROR
+2495362	367 W Cherry St, Alma, AR 72921
+2495363	1315 N 21St St, Newark, OH 43055
+2495364	2850 Maysville Pike, Zanesville, OH 43701
+2495365	1575 Space Center Dr, Colorado Springs, CO 80915
+2495366	311 Route 9W, Glenmont, NY 12077
+2495367	1400 Lead Hill Blvd, Roseville, CA 95661
+2495368	17041 Jefferson Davis Hwy, Dumfries, VA 22026
+2495369	350 Hope Ave, Salt Lake City, UT 84115
+2495370	3919 No. Mall Ave, Fayetteville, AR 72703
+2495371	3101 Floyd Blvd, Sioux City, IA 51108
+2495372	18700 Highway 105 W, Montgomery, TX 77356
+2495374	ERROR
+2495375	ERROR
+2495376	7701 S Raeford Rd, Fayetteville, NC 28304
+2495377	2250 Main St Nw, Los Lunas, NM 87031
+2495378	2101 Gateway Center Dr, Belvidere, IL 61008
+2495379	235 Ridgedale Ave, Cedar Knolls, NJ 07927
+2495380	ERROR
+2495381	2802 W Kingshighway, Paragould, AR 72450
+2495382	3100 E Main St, Cushing, OK 74023
+2495383	1040 Collinsville Crossing Blv, Collinsville, IL 62234
+2495384	ERROR
+2495385	2575 Us Highway 43, Winfield, AL 35594
+2495386	9320 Cedar St, Monticello, MN 55362
+2495387	855 Cherokee Dr, Marshall, MO 65340
+2495388	655 W Sanilac Rd, Sandusky, MI 48471
+2495389	810 Hurst St, Center, TX 75935
+2495390	200 W Interstate 20, Midland, TX 79701
+2495391	5520 Highway 80 E, Pearl, MS 39208
+2495392	ERROR
+2495393	4525 Highway 411, Madisonville, TN 37354
+2495394	ERROR
+2495395	3201 No 16Th St, Parsons, KS 67357
+2495396	2202 Pike Rd, Winfield, KS 67156
+2495398	701 Walton Dr, Farmington, MO 63640
+2495399	2022 E 16Th St, Wellington, KS 67152
+2495401	735 E Highway 377, Granbury, TX 76048
+2495403	1905 N 14Th Ave, Dodge City, KS 67801
+2495404	East Lee Street, Huntsville, AR 72740
+2495405	11207 S State Highway 51, Coweta, OK 74429
+2495406	2900 S. Mem Pkwy, Huntsville, AL 35801
+2495407	2536 Airline Dr, Bossier City, LA 71111
+2495408	105 Centennial Blvd, Lindale, TX 75771
+2495410	209 Arizona Avenue, Holton, KS 66436
+2495411	2004 W Marler Ln, Ozark, MO 65721
+2495412	1907 Se Washington St, Idabel, OK 74745
+2495413	1359 W 2Nd St, Waldron, AR 72958
+2495414	2720 E Highway 190, Copperas Cove, TX 76522
+2495415	61 Plaza Drive, Kimball, WV 24853
+2495416	2101 S Princeton St, Ottawa, KS 66067
+2495417	1100 No. Highway 96, Silsbee, TX 77656
+2495418	100 No. Lhs Drive, Lumberton, TX 77657
+2495419	1202 E Broadway St, Cuero, TX 77954
+2495420	303 E Interstate Dr, Jennings, LA 70546
+2495421	3100 E 1St St, Chandler, OK 74834
+2495422	2100 No. 62Nd St., Fort Smith, AR 72904
+2495423	1225 W I-35 Frontage, Edmond, OK 73034
+2495424	2500 S Main St, Fort Scott, KS 66701
+2495425	275 Walton Dr, Waverly, TN 37185
+2495436	2270 W Main St, Tupelo, MS 38801
+2495447	1349 E Eagle Rd, Weatherford, OK 73096
+2495458	2171 S Highland Ave, Jackson, TN 38301
+2495469	15445 Highway 24, Moulton, AL 35650
+2495480	2410 E Expressway 83, Mission, TX 78572
+2495491	3812 Liberty Hwy, Anderson, SC 29621
+2495502	1200 E Jackson Ave, Mcallen, TX 78503
+2495513	515 E Loop 281, Longview, TX 75605
+2495523	2440 Gilmer Rd, Longview, TX 75604
+2495530	2901 Highway 412 E, Siloam Springs, AR 72761
+2495531	1301 E Highway 24, Moberly, MO 65270
+2495532	1407 N Loop 336 W, Conroe, TX 77304
+2495533	59690 Belleview Dr, Plaquemine, LA 70764
+2495535	1932 Rees St, Breaux Bridge, LA 70517
+2495537	13675 Highway 43, Russellville, AL 35653
+2495539	1015 Highway 80, San Marcos, TX 78666
+2495544	2204 S 5Th St, Leesville, LA 71446
+2495555	570 Enon Springs Rd E, Smyrna, TN 37167
+2495566	1400 Lowes Blvd, Killeen, TX 76542
+2495577	8585 Memorial Blvd, Port Arthur, TX 77640
+2495588	42417 Highway 195, Haleyville, AL 35565
+2495599	4000 Se Green Country Rd, Bartlesville, OK 74006
+2495600	809 N 12Th St, Murray, KY 42071
+2495601	660 E Madison St, Houston, MS 38851
+2495602	1405 E Tyler St, Athens, TX 75751
+2495604	1401 State Highway 100, Port Isabel, TX 78578
+2495605	5131 Greenbriar Rd, Wichita Falls, TX 76302
+2495606	123 Saint Nazaire Rd, Broussard, LA 70518
+2495607	1750 S Broadway St, Sulphur Springs, TX 75482
+2495608	2831 Highway 15, Fairbury, NE 68352
+2495609	2003 E 1St St, Pratt, KS 67124
+2495610	1863 Cr 5300, Coffeyville, KS 67337
+2495611	2700 Central Fwy, Wichita Falls, TX 76306
+2495612	800 S Us Hwy 81/287, Decatur, TX 76234
+2495613	1304 E Main St, Robinson, IL 62454
+2495614	630 Colonial Promenade Pkwy, Alabaster, AL 35007
+2495615	1415 7Th St S, Clanton, AL 35045
+2495616	10675 Highway 5, Brent, AL 35034
+2495617	4691 State Highway 121, Lewisville, TX 75056
+2495618	7401 Interstate Highway 30, Greenville, TX 75402
+2495619	5801 Main St, Zachary, LA 70791
+2495620	1724 W University Dr, Edinburg, TX 78539
+2495621	521 E Chestnut St, Junction City, KS 66441
+2495622	1225 Paris Rd, Mayfield, KY 42066
+2495623	3220 Irving Cobb Dr, Paducah, KY 42003
+2495624	214 Haynes St, Talladega, AL 35160
+2495625	2200 Sparkman Dr Nw, Huntsville, AL 35810
+2495626	11610 Memorial Pkwy Sw, Huntsville, AL 35803
+2495627	12495 State Route 143, Highland, IL 62249
+2495628	2591 12Th St, Carlyle, IL 62231
+2495629	310 Overcreek Way, Sealy, TX 77474
+2495630	3732 W Walker St, Breckenridge, TX 76424
+2495631	1802 S Business 54, Eldon, MO 65026
+2495632	2401 Highway 35 N, Rockport, TX 78382
+2495633	1133 E Gen'L Cavazos, Kingsville, TX 78363
+2495634	109 22Nd St, Hondo, TX 78861
+2495635	3315 S Campbell Ave, Springfield, MO 65807
+2495636	1801 Elizabethtown Rd, Leitchfield, KY 42754
+2495637	1620 E Main St, Madisonville, TX 77864
+2495638	2410 Dodson Ave, Del Rio, TX 78840
+2495639	6235 W Port Ave, Shreveport, LA 71129
+2495640	4999 N Twin City Hwy, Port Arthur, TX 77642
+2495641	1815 E Highland Dr, Jonesboro, AR 72401
+2495642	9550 Mansfield Rd, Shreveport, LA 71118
+2495643	1201 Grindstone Pkwy, Columbia, MO 65201
+2495644	2800 W Nolana Ave, Mcallen, TX 78504
+2495645	1007 N Douglass St, Malden, MO 63863
+2495646	150 Commerce Drive, Fairfield, IL 62837
+2495647	3500 W Alton Gloor Blvd, Brownsville, TX 78520
+2495648	1350 N Main St, Vidor, TX 77662
+2495649	2501 W Wheeler Ave, Aransas Pass, TX 78336
+2495650	10300 Industrial Blvd Ne, Covington, GA 30014
+2495651	2451 S Springfield Ave, Bolivar, MO 65613
+2495652	10 W 2Nd St, Pana, IL 62557
+2495653	496 S Bibb Ave, Eagle Pass, TX 78852
+2495654	400 Highway 35 Byp N, Alvin, TX 77511
+2495655	502 E Fm 351, Beeville, TX 78102
+2495656	3829 Us Highway 77, Corpus Christi, TX 78410
+2495657	305 10Th Street, Floresville, TX 78114
+2495658	1604 W Market St, Bolivar, TN 38008
+2495659	1515 S Loop 288, Denton, TX 76205
+2495660	133 Arkansas Blvd, Texarkana, AR 71854
+2495661	3415 Gerstner Memorial Blvd, Lake Charles, LA 70607
+2495662	1101 W Ruth Ave, Sallisaw, OK 74955
+2495663	1821 S Padre Island Dr, Corpus Christi, TX 78416
+2495670	150 N Interstate 35 E, Lancaster, TX 75146
+2495677	2301 W Kenosha St, Broken Arrow, OK 74012
+2495683	Us Hwy 290/2374 E Au, Giddings, TX 78942
+2495691	1002 N Wells St, Edna, TX 77957
+2495699	2701 S Interstate 35, Round Rock, TX 78664
+2495702	2805 S State Highway 36, Gatesville, TX 76528
+2495709	9334 Dayton Pike, Soddy Daisy, TN 37379
+2495717	819 N Oak St, Pearsall, TX 78061
+2495725	2500 N Main St, Altus, OK 73521
+2495730	885 E Us Highway 60, Monett, MO 65708
+2495731	151 Shetland Dr, Pittsfield, IL 62363
+2495734	101 Dettro Dr, Mattoon, IL 61938
+2495737	301 N Columbia Dr, West Columbia, TX 77486
+2495738	1903 Cobbs Ford Rd, Prattville, AL 36066
+2495739	3300 Iowa St, Lawrence, KS 66046
+2495740	37000 Highway 3089, Donaldsonville, LA 70346
+2495741	12801 Kansas Ave, Bonner Springs, KS 66012
+2495742	10 Clinton Plz, Clinton, IL 61727
+2495743	1940 Pat Thomas Pkwy, Quincy, FL 32351
+2495744	2799 W Thomas St, Hammond, LA 70401
+2495745	1911 E Jackson St, Hugo, OK 74743
+2495746	1250 Flour Bluff Dr, Corpus Christi, TX 78418
+2495747	5130 Hinkleville Rd, Paducah, KY 42001
+2495748	650 Kimmell Rd, Vincennes, IN 47591
+2495749	305 Letton Dr, Paris, KY 40361
+2495750	1025 Highway 34 E, Newnan, GA 30265
+2495751	1913 Highway 45 N, Columbus, MS 39705
+2495752	500 Taylorsville Rd, Shelbyville, KY 40065
+2495753	3670 W Oak St, Jena, LA 71342
+2495754	5505 W Owen K Garriott Rd, Enid, OK 73703
+2495755	1155 Hwy 65 North, Conway, AR 72032
+2495756	268 S 7Th St, Vinita, OK 74301
+2495757	4530 Woodrow Bean, El Paso, TX 79924
+2495758	1621 Highway 15 N, Laurel, MS 39440
+2495759	16759 Hwy 3235, Galliano, LA 70354
+2495761	ERROR
+2495762	1901 Tchoupitoulas St, New Orleans, LA 70130
+2495763	1200 Highland Ave, National City, CA 91950
+2495764	10420 Maysville Rd, Fort Wayne, IN 46835
+2495765	2925 Glendale Ave, Toledo, OH 43614
+2495766	3721 Navarre Ave, Oregon, OH 43616
+2495767	2103 Milam St, Columbus, TX 78934
+2495768	5821 W Central Ave, Toledo, OH 43615
+2495769	8280 N Cortaro Rd, Marana, AZ 85653
+2495770	8450 La Palma Ave, Buena Park, CA 90620
+2495771	1300 Barlow Rd, Fort Morgan, CO 80701
+2495772	4770 Colonial Blvd, Fort Myers, FL 33966
+2495773	6745 N Church Ave, Mulberry, FL 33860
+2495774	6192 Gunn Hwy, Tampa, FL 33625
+2495775	464016 State Road 200, Yulee, FL 32097
+2495776	12690 S Route 59, Plainfield, IL 60585
+2495777	263 Walmart Dr, Camden, DE 19934
+2495778	6702 Seawall Blvd, Galveston, TX 77551
+2495779	2200 Washington Pike, Carnegie, PA 15106
+2495780	19205 State Route 410 E, Bonney Lake, WA 98391
+2495781	ERROR
+2495782	ERROR
+2495783	10000 Bartel Blvd, Galena, IL 61036
+2495784	22605 State Highway 249, Tomball, TX 77375
+2495785	805 Town Center Boulevard, Clayton, NC 27520
+2495786	130 Blackhorse Pike, Audubon, NJ 08106
+2495787	30729 Lyon Center Dr E, New Hudson, MI 48165
+2495788	13420 W Coal Mine Ave, Littleton, CO 80127
+2495789	1125 N Pine St, Deridder, LA 70634
+2495790	920 47Th Ave, Greeley, CO 80634
+2495791	11900 Atlantic Blvd, Jacksonville, FL 32225
+2495792	9885 Collier Blvd, Naples, FL 34114
+2495793	17585 Airline Hwy, Prairieville, LA 70769
+2495794	2900 S Rutherford Blvd, Murfreesboro, TN 37130
+2495795	3035 Hamilton Church Rd, Antioch, TN 37013
+2495796	1540 N Worthey St, Flora, IL 62839
+2495797	1410 S Randall Rd, Algonquin, IL 60102
+2495798	1830 Galleria Blvd, Charlotte, NC 28270
+2495799	6065 Gull Rd, Kalamazoo, MI 49048
+2495800	501 N 9Th St, Kalamazoo, MI 49009
+2495801	35901 Chester Rd, Avon, OH 44011
+2495802	200 Sunrise Mall, Massapequa, NY 11758
+2495803	3576 Us Highway 22, Branchburg, NJ 08876
+2495804	1000 Bypass N, Lawrenceburg, KY 40342
+2495805	5200 S Fort Apache Rd, Las Vegas, NV 89148
+2495806	6301 Nw Quannah Parker Trl, Lawton, OK 73505
+2495807	19503 Normandie Ave, Torrance, CA 90501
+2495808	17432 Se 270Th Pl, Covington, WA 98042
+2495809	ERROR
+2495810	3405 Marron Rd, Oceanside, CA 92056
+2495811	24 Walton Dr, Brewer, ME 04412
+2495812	300 Wootton St, Boonton, NJ 07005
+2495813	1617 E Beach Blvd, Pass Christian, MS 39571
+2495814	1216 Junction Hwy, Kerrville, TX 78028
+2495815	1732 Precinct Line Rd, Hurst, TX 76054
+2495816	8303 W Ridgewood Dr, Parma, OH 44129
+2495817	6594 Mayfield Rd, Mayfield Heights, OH 44124
+2495818	550 Highway 17 N, North Myrtle Beach, SC 29582
+2495819	9165 Cahill Ave, Inver Grove Heights, MN 55076
+2495820	1415 Lawrence Dr, De Pere, WI 54115
+2495821	26270 Northwest Fwy, Cypress, TX 77429
+2495822	190 E Round Grove Rd, Lewisville, TX 75067
+2495823	ERROR
+2495824	ERROR
+2495825	495 Flatbush Ave, Hartford, CT 06106
+2495826	5650 Bay Rd, Saginaw, MI 48604
+2495827	ERROR
+2495828	2545 Rimrock Ave, Grand Junction, CO 81505
+2495829	1701 N Bluff St, Fulton, MO 65251
+2495830	400 Shallowford Rd Nw, Gainesville, GA 30504
+2495831	ERROR
+2495832	300 S Highway 160, Pahrump, NV 89048
+2495833	4600 Roosevelt Blvd Bldg G, Phila, PA 19124
+2495834	1701 W Dorothy Ln, Moraine, OH 45439
+2495835	ERROR
+2495836	ERROR
+2495837	ERROR
+2495838	ERROR
+2495839	1283 Broad St, Sumter, SC 29150
+2495840	ERROR
+2495841	1501 Us Highway 22, Watchung, NJ 07069
+2495842	165 Vaughan Ln, Pell City, AL 35125
+2495843	3101 W Kimberly Rd, Davenport, IA 52806
+2495844	9025 Spencer Hwy, La Porte, TX 77571
+2495845	116 Lucy Ln, Waynesboro, VA 22980
+2495846	10050 Glenwood Ave, Raleigh, NC 27617
+2495847	ERROR
+2495848	10727 Gateway Blvd W, El Paso, TX 79935
+2495849	ERROR
+2495850	ERROR
+2495851	5550 E Woodmen Rd, Colorado Springs, CO 80920
+2495852	5605 W Northern Ave, Glendale, AZ 85301
+2495853	1950 W Main St, Centre, AL 35960
+2495854	4622 Mormon Coulee Rd, La Crosse, WI 54601
+2495855	201 W Marcy Dr, Big Spring, TX 79720
+2495856	9745 Roosevelt Blvd Ste A, Philadelphia, PA 19114
+2495857	ERROR
+2495858	1131 N Beale Rd, Marysville, CA 95901
+2495859	6101 S Aurora Pkwy, Aurora, CO 80016
+2495860	235 E Dorset Dr, Dixon, CA 95620
+2495861	2035 Whiskey Rd, Aiken, SC 29803
+2495862	5500 Grossmont Center Dr, La Mesa, CA 91942
+2495863	16960 W Maple Rd, Omaha, NE 68116
+2495864	3575 State Route 66, Neptune, NJ 07753
+2495865	8315 Fm 78, Converse, TX 78109
+2495866	1603 Vance Jackson Rd, San Antonio, TX 78213
+2495867	8030 Bandera Rd, San Antonio, TX 78250
+2495868	1521 N Cockrell Hill Rd, Dallas, TX 75211
+2495869	2330 Us 19, Murphy, NC 28906
+2495870	1900 Maplewood Commons Dr, Maplewood, MO 63143
+2495871	825 Cartersville Hwy Se, Rome, GA 30161
+2495872	6433 Fallbrook Ave, West Hills, CA 91307
+2495873	1550 S Valley Dr, Las Cruces, NM 88005
+2495874	155 E Courtland St, Morton, IL 61550
+2495875	2750 Cook Rd, West Branch, MI 48661
+2495876	1200 W Main St, Gun Barrel City, TX 75156
+2495877	1700 W Michigan Ave, Jackson, MI 49202
+2495878	27931 Kelly Johnson Pkwy, Santa Clarita, CA 91355
+2495879	11729 Imperial Hwy, Norwalk, CA 90650
+2495880	1421 Frontage Rd, Alamo, TX 78516
+2495881	1021 E Pine St, Deming, NM 88030
+2495882	1052 Turf Farm Rd, Payson, UT 84651
+2495883	10 E 1300 S, Richfield, UT 84701
+2495884	951 E State Highway 152, Mustang, OK 73064
+2495885	3001 Silverberg Dr, Sidney, NE 69162
+2495886	1900 S Jefferson St, Perry, FL 32348
+2495887	815 Shugart Rd, Dalton, GA 30720
+2495888	7855 Moffett Rd, Semmes, AL 36575
+2495889	589 W Main St, Cookeville, TN 38506
+2495890	100 Commerce Cir, Bristol, PA 19007
+2495891	220 Enterprise Dr, Rockaway, NJ 07866
+2495892	ERROR
+2495893	1550 Riverstone Pkwy, Canton, GA 30114
+2495895	ERROR
+2495896	ERROR
+2495897	6674 Winchester Blvd, Canal Winchester, OH 43110
+2495898	1221 Georgesville Rd, Columbus, OH 43228
+2495899	2501 S Market St, Gilbert, AZ 85295
+2495900	5250 W Indian School Rd, Phoenix, AZ 85031
+2495901	591 Joseph Dr, Harrodsburg, KY 40330
+2495902	2501 W Happy Valley Rd Ste 34, Phoenix, AZ 85085
+2495903	802 E Us Highway 80, Forney, TX 75126
+2495904	12721 Moreno Beach Dr, Moreno Valley, CA 92555
+2495905	5255 Elvis Presley Blvd, Memphis, TN 38116
+2495906	330 Sutton Rd Se, Owens Cross Roads, AL 35763
+2495907	475 East Route 173, Antioch, IL 60002
+2495908	1601 Albert Pike Rd, Hot Springs, AR 71913
+2495909	440 Atlanta Hwy N.W., Winder, GA 30680
+2495910	2030 Fruitville Pike, Lancaster, PA 17601
+2495911	375 Lafayette St, London, OH 43140
+2495912	ERROR
+2495913	ERROR
+2495914	ERROR
+2495915	2500 N Martin Luther King Hwy, Lake Charles, LA 70601
+2495916	2050 N Highway 78, Wylie, TX 75098
+2495917	5001 Mckinney Ranch Pkwy, Mckinney, TX 75070
+2495918	5730 W Amarillo Blvd, Amarillo, TX 79106
+2495919	3501 34Th St S, Saint Petersburg, FL 33711
+2495920	14215 Fm 2100 Rd, Crosby, TX 77532
+2495921	8220 N Dale Mabry Hwy, Tampa, FL 33614
+2495922	ERROR
+2495923	6000 Burke Commons Rd, Burke, VA 22015
+2495924	6405 Dobbin Rd, Columbia, MD 21045
+2495925	1000 Easton Rd Ste 200, Wyncote, PA 19095
+2495926	4609 Nw Loop 436, Carthage, TX 75633
+2495927	3460 El Camino Ave, Sacramento, CA 95821
+2495928	1000 Airport Rd, Rifle, CO 81650
+2495929	5675 W 6200 S, Salt Lake City, UT 84118
+2495930	1632 N 2000 W, Clinton, UT 84015
+2495931	1201 Morgantown Rd, Bowling Green, KY 42101
+2495932	567 Route 100 N, Bechtelsville, PA 19505
+2495933	200 Business Park Blvd, Kenedy, TX 78119
+2495934	135 Fairgrounds Memorial Pkwy, Ithaca, NY 14850
+2495935	8064 Brewereton Road, Cicero, NY 13039
+2495936	19301 Cantrell Rd, Little Rock, AR 72223
+2495937	10388 Us 59 Rd, Wharton, TX 77488
+2495938	1228 North Highway 377, Roanoke, TX 76262
+2495939	904 Cypress Pkwy, Kissimmee, FL 34759
+2495940	490 Greenway View Dr, Chattanooga, TN 37411
+2495941	4221 Atlanta Hwy, Loganville, GA 30052
+2495942	2114 S Main St, Wake Forest, NC 27587
+2495943	ERROR
+2495944	ERROR
+2495945	ERROR
+2495946	ERROR
+2495947	3706 Diann Marie Rd, Louisville, KY 40241
+2495948	4208 Pleasant Crossing Blvd, Rogers, AR 72758
+2495949	100 Commercial Ln, Pineville, MO 64856
+2495950	2181 Pelham Pkwy, Pelham, AL 35124
+2495951	2300 Treasury Dr Se, Cleveland, TN 37323
+2495952	13140 South Tamiami Trail, Osprey, FL 34229
+2495953	ERROR
+2495954	1801 N Velasco St, Angleton, TX 77515
+2495955	585 N State St, Lindon, UT 84042
+2495956	1110 W Washington St, Sequim, WA 98382
+2495957	6435 Bells Ferry Rd, Woodstock, GA 30189
+2495958	1555 N Rand Rd, Palatine, IL 60074
+2495959	591 Memorial Dr, Chicopee, MA 01020
+2495960	2911 53Rd Ave E, Braden River, FL 34203
+2495961	8350 Shaver Rd, Portage, MI 49024
+2495962	306 Us Highway 9 N, Woodbridge, NJ 07095
+2495963	3200 Atlantic Blvd Ne, Canton, OH 44705
+2495964	ERROR
+2495965	21150 Kuykendahl Rd, Spring, TX 77379
+2495966	220 N Highway 175, Seagoville, TX 75159
+2495967	6410 Interstate 45, La Marque, TX 77568
+2495968	4431 New Bern Ave, Raleigh, NC 27610
+2495969	77 Green Acres Rd, Valley Stream, NY 11581
+2495970	25 Nichols Dr, Barboursville, WV 25504
+2495971	ERROR
+2495972	223 N Myrtle School Rd, Gastonia, NC 28052
+2495973	550 Us Highway 27, Clermont, FL 34714
+2495974	2730 N West Ave, El Dorado, AR 71730
+2495975	4375 Belvedere Rd, West Palm Beach, FL 33406
+2495976	1280 Gail Gardner Way, Prescott, AZ 86305
+2495977	ERROR
+2495978	1150 Broadway, Chula Vista, CA 91911
+2495979	ERROR
+2495980	ERROR
+2495981	3142 Ambassador Caffery Pkwy, Lafayette, LA 70506
+2495982	3851 Airport Fwy, Fort Worth, TX 76111
+2495983	ERROR
+2495985	1401 N Saginaw Blvd, Saginaw, TX 76179
+2495986	9300 S Interstate 35 Ste B, Austin, TX 78748
+2495987	1881 Robert C Byrd Drive, Mac Arthur, WV 25873
+2495988	308 N Airline Hwy, Gonzales, LA 70737
+2495989	121 W Elmsley St, Greensboro, NC 27406
+2495990	5555 W Atlantic Blvd, Margate, FL 33063
+2495991	9570 Sw Highway 200, Ocala, FL 34481
+2495992	ERROR
+2495993	4435 W Anthem Way, Anthem, AZ 85086
+2495994	1205 E Admiral Doyle Dr, New Iberia, LA 70560
+2495995	6145 N 35Th Ave, Phoenix, AZ 85017
+2495996	7575 W Lower Buckeye Rd, Phoenix, AZ 85043
+2495997	ERROR
+2495998	4840 Shawline St, San Diego, CA 92111
+2495999	877 Freeport Rd, Pittsburgh, PA 15238
+2496000	1229 Ne Evangeline Trwy, Lafayette, LA 70501
+2496001	500 Route 38, Cherry Hill, NJ 08002
+2496002	500 Summit Blvd, Broomfield, CO 80021
+2496003	2501 S Avenue B, Yuma, AZ 85364
+2496004	10001 Southpoint Pkwy, Fredericksburg, VA 22407
+2496005	1238 Putty Hill Ave Ste 5, Towson, MD 21286
+2496006	ERROR
+2496007	4350 Southwest Dr, Abilene, TX 79606
+2496008	4627 S 900 E, Salt Lake City, UT 84117
+2496009	801 N Randall Rd, Batavia, IL 60510
+2496010	1241 E Columbus St, Kenton, OH 43326
+2496011	300 Resort Plaza Dr, Blairsville, PA 15717
+2496012	100 S Conestoga Dr, Shippensburg, PA 17257
+2496013	1650 State Highway 351, Abilene, TX 79601
+2496014	11415 Hydetown Rd, Titusville, PA 16354
+2496015	12850 L St, Omaha, NE 68137
+2496016	11465 Tara Blvd, Lovejoy, GA 30250
+2496017	ERROR
+2496018	ERROR
+2496019	1940 Turner Rd Se, Salem, OR 97302
+2496020	1100 N Estrella Pkwy, Goodyear, AZ 85338
+2496021	4210 John Ben Shephe, Odessa, TX 79762
+2496022	ERROR
+2496023	2786 Commercial Blvd, Chippewa Falls, WI 54729
+2496024	100A E Washington Jackson Rd, Eaton, OH 45320
+2496025	621 E Lake St, Tawas City, MI 48763
+2496026	1450 Morrell Ave, Connellsville, PA 15425
+2496027	2649 Nw 13Th St, Gainesville, FL 32609
+2496028	1775 Washington St, Hanover, MA 02339
+2496029	5055 Library Rd, Bethel Park, PA 15102
+2496030	15050 S Springdale Ave, Middlefield, OH 44062
+2496031	600 Hewitt Dr, Waco, TX 76712
+2496032	2050 N Mall Dr, Alexandria, LA 71301
+2496033	210 Cobb Pkwy S, Marietta, GA 30060
+2496034	5420 Juliet Blvd, Naples, FL 34109
+2496035	980 W Parker St, Baxley, GA 31513
+2496036	770 W El Monte Way, Dinuba, CA 93618
+2496037	955 Frontenac Dr, Winona, MN 55987
+2496038	3902 W Riverside Blvd, Rockford, IL 61101
+2496039	1640 S Galena Ave, Dixon, IL 61021
+2496040	2004 S Pleasant St, Springdale, AR 72764
+2496041	973 Highway 90 E, Morgan City, LA 70380
+2496044	103 W Holbrook Rd, Glenwood, IL 60425
+2496046	ERROR
+2496047	ERROR
+2496048	7725 Hoke Rd, Clayton, OH 45315
+2496049	880 N Highway 190, Covington, LA 70433
+2496050	4004 Tuscarawas St W, Canton, OH 44708
+2496051	3062 S State Rd, Ionia, MI 48846
+2496052	915 E Randol Mill Rd, Arlington, TX 76011
+2496053	175 Outer Loop, Louisville, KY 40214
+2496054	2020 Bashford Manor Ln, Louisville, KY 40218
+2496055	2600 Mcingvale Rd, Hernando, MS 38632
+2496056	1633 Martin Luther King Jr Blv, Houma, LA 70360
+2496057	3250 Vineland Rd, Kissimmee, FL 34746
+2496058	500 E Alice St, Bainbridge, GA 39819
+2496059	ERROR
+2496060	1710 S Greenfield Rd, Mesa, AZ 85206
+2496061	1629 East Cresswell, Opelousas, LA 70570
+2496062	3500 Coors Blvd Sw, Albuquerque, NM 87121
+2496063	250 Richmond Way, New Richmond, WI 54017
+2496064	3604 N Highway 7, Hot Springs Village, AR 71909
+2496065	777 Story Rd, San Jose, CA 95122
+2496066	1450 University Ave W, Saint Paul, MN 55104
+2496067	15333 W National Ave, New Berlin, WI 53151
+2496068	315 Foxon Blvd, New Haven, CT 06513
+2496069	5401 Tinker Diagonal St, Oklahoma City, OK 73115
+2496070	10000 Se 82Nd Ave, Happy Valley, OR 97086
+2496071	1050 N Rohlwing Rd, Addison, IL 60101
+2496072	4650 S Emerson Ave, Indianapolis, IN 46203
+2496073	2711 Elm St, Erie, PA 16504
+2496074	240 Manchester Square Shpg Ctr, Manchester, KY 40962
+2496075	75 North East Plz, North East, MD 21901
+2496076	ERROR
+2496077	1040 Malabar Rd Se, Palm Bay, FL 32907
+2496078	8400 Edgewater Dr, Oakland, CA 94621
+2496079	37 Stafford Ln, Delta, CO 81416
+2496080	5330 Fm1640, Richmond, TX 77469
+2496081	2000 Us Highway 181, Portland, TX 78374
+2496082	1693 Stringtown Rd, Grove City, OH 43123
+2496083	2602 James L Redman Pkwy, Plant City, FL 33566
+2496084	630 Collins Hill Rd, Lawrenceville, GA 30046
+2496085	4700 E Palm Valley Blvd, Round Rock, TX 78665
+2496086	9820 Callabridge Ct, Charlotte, NC 28216
+2496087	201 Walmart Dr, Eatonton, GA 31024
+2496088	930 Highway 711 East, Pembroke, NC 28372
+2496089	3800 N Lovington Hwy, Hobbs, NM 88240
+2496090	700 6Th St N, Socorro, NM 87801
+2496091	7480 Padre Island Hwy, Brownsville, TX 78521
+2496092	500 S Utah Ave, Idaho Falls, ID 83402
+2496093	50 N Macdade Blvd, Glenolden, PA 19036
+2496094	1555 E Main St, Booneville, AR 72927
+2496095	2610 W Haven Rd, Lawrenceville, IL 62439
+2496097	1024 So. State Road, Palatka, FL 32177
+2496098	350 Whitesburg Plaza, Whitesburg, KY 41858
+2496100	39142 Natchez Dr, Slidell, LA 70461
+2496102	5610 San Bernardo Ave, Laredo, TX 78041
+2496103	2423 Us Highway 80 W, Dublin, GA 31021
+2496104	2425 Memorial Dr, Waycross, GA 31503
+2496105	2301 Industrial Rd, Emporia, KS 66801
+2496106	2900 S 9Th St, Salina, KS 67401
+2496107	3003 N Highway 61, Muscatine, IA 52761
+2496110	1309 Nw 12Th Ave, Ava, MO 65608
+2496111	4201 N Belt Hwy, Saint Joseph, MO 64506
+2496112	1410 E Main St, Eastland, TX 76448
+2496113	8551 Whitfield Ave, Leeds, AL 35094
+2496114	2400 Veterans Memorial Pkwy, Orange City, FL 32763
+2496115	6100 W Reno Ave, Oklahoma City, OK 73127
+2496116	3801 W State Highway 31, Corsicana, TX 75110
+2496117	1115 American Way, Boonville, IN 47601
+2496118	475 State Highway 36 N, Caldwell, TX 77836
+2496119	1 Myers St, Carthage, TN 37030
+2496120	2988 Burkesville Rd, Columbia, KY 42728
+2496121	1600 W Main St, Walnut Ridge, AR 72476
+2496122	112 Osbourne Way, Georgetown, KY 40324
+2496123	1201 Stone St, Kilgore, TX 75662
+2496124	1000 Ne Sam Walton Ln, Lees Summit, MO 64086
+2496125	2751 Beaver Run Blvd, Surfside Beach, SC 29575
+2496126	12182 Highway 92, Woodstock, GA 30188
+2496127	207 S Memorial Dr, Tulsa, OK 74112
+2496128	13600 S Alden St, Olathe, KS 66062
+2496129	1414 Parkway, Sevierville, TN 37862
+2496130	2355 Us Highway 1 S, St Augustine, FL 32086
+2496131	2409 E Main St, Russellville, AR 72802
+2496132	1050 E Van Fleet Dr, Bartow, FL 33830
+2496133	2802 S Center St, Marshalltown, IA 50158
+2496134	1590 Dunlawton Ave, Port Orange, FL 32127
+2496135	19740 Alberta St, Oneida, TN 37841
+2496136	20 Ferguson Blvd, Dry Ridge, KY 41035
+2496137	2377 Dave Lyle Blvd, Rock Hill, SC 29730
+2496138	2709 Church St Ste A, Conway, SC 29526
+2496139	202 Sam Walton Dr, Sparta, TN 38583
+2496140	2825 Ledo Rd, Albany, GA 31707
+2496141	11901 Standiford Plaza Dr, Louisville, KY 40229
+2496142	1501 S Range Line Rd, Joplin, MO 64804
+2496143	6300 Oakmont Blvd, Fort Worth, TX 76132
+2496144	805 Us Highway 27 S, Cynthiana, KY 41031
+2496145	2020 N Nelson Dr, Derby, KS 67037
+2496146	1450 Bowens Mill Rd Se, Douglas, GA 31533
+2496147	125 Pavilion Pkwy, Fayetteville, GA 30214
+2496148	1801 W Lincoln St, Harlingen, TX 78552
+2496149	1713 S Park Ave, Herrin, IL 62948
+2496150	7075 Fm 1960 Rd W, Houston, TX 77069
+2496151	5411 2Nd Ave, Kearney, NE 68847
+2496152	3200 Ft Henry Drive, Kingsport, TN 37664
+2496153	101 Highway 47 E, Troy, MO 63379
+2496154	2801 No. Charles St., Pampa, TX 79065
+2496155	5501 Sherwood Way, San Angelo, TX 76904
+2496156	1025 Sawdust Rd, Spring, TX 77380
+2496157	3320 Veterans Dr, Pekin, IL 61554
+2496158	4310 Montgomery Hwy, Dothan, AL 36303
+2496159	1955 E Montgomery Xrd, Savannah, GA 31406
+2496160	4725 Us Highway 80 E, Savannah, GA 31410
+2496161	923 W 11Th St, Hobart, OK 73651
+2496162	4517 N Midland Dr, Midland, TX 79707
+2496163	3650 Stardust Dr, Hannibal, MO 63401
+2496164	301 E Cooper St, Warrensburg, MO 64093
+2496165	2765 W Washington St, Stephenville, TX 76401
+2496166	4500 N Main St Ste A, Roswell, NM 88201
+2496167	2250 Lincoln Ave, Charleston, IL 61920
+2496168	1521 W Granada Blvd, Ormond Beach, FL 32174
+2496169	803 New Franklin Rd, La Grange, GA 30240
+2496170	101 Market Place Blvd, Cartersville, GA 30121
+2496171	2795 North Rd, Orangeburg, SC 29118
+2496172	757 W Wolfe St, Sullivan, IN 47882
+2496173	4166 Jimmy Lee Smith Pkwy, Hiram, GA 30141
+2496174	3034 Rhea County Hwy, Dayton, TN 37321
+2496175	3700 E Main St, Blytheville, AR 72315
+2496176	220 Century Blvd, Bristol, TN 37620
+2496182	900 Hwy 52, Lake City, SC 29560
+2496189	7800 N.W. Expressway, Oklahoma City, OK 73132
+2496195	545 Pine Island Rd, North Fort Myers, FL 33903
+2496199	2812 Main St, Newberry, SC 29108
+2496205	1310 N Fraser St, Georgetown, SC 29440
+2496214	2000 Hobbs Hwy, Seminole, TX 79360
+2496219	805 Enterprise Rd, Dillon, SC 29536
+2496223	9880 Dorchester Rd, Summerville, SC 29485
+2496224	513 N Duncan Byp, Union, SC 29379
+2496225	410 S Dewey Ave, Wagoner, OK 74467
+2496226	230 N Beltline Dr, Florence, SC 29501
+2496236	115 Rolling Hills Cir, Easley, SC 29640
+2496247	1481 N Highway 17, Mount Pleasant, SC 29464
+2496257	730 Tenney St, Kewanee, IL 61443
+2496268	2240 W Dekalb St, Camden, SC 29020
+2496278	6000 Ogeechee Rd, Savannah, GA 31419
+2496289	2111 Claude Bailey Pkwy, Princeton, IL 61356
+2496299	200 Frontier St, Lexington, NE 68850
+2496308	165 Walton Dr, Gaffney, SC 29341
+2496317	150 Altama Connector, Brunswick, GA 31525
+2496318	1100 S Dupree Ave, Brownsville, TN 38012
+2496319	1451 Woodruff Rd, Greenville, SC 29607
+2496329	6134 White Horse Rd, Greenville, SC 29611
+2496339	1040 Chesterfield Hwy, Cheraw, SC 29520
+2496350	10820 Kings Rd, Myrtle Beach, SC 29572
+2496361	651 Highway 28 Byp, Anderson, SC 29624
+2496371	2400 W Pasewalk Ave, Norfolk, NE 68701
+2496380	101 115Th St, Anamosa, IA 52205
+2496387	415 Industrial Ave, Grinnell, IA 50112
+2496392	1661 Jungermann Rd, Saint Peters, MO 63304
+2496399	3175 Cheney Hwy, Titusville, FL 32780
+2496400	350 Park Ridge Rd, Sullivan, MO 63080
+2496401	1941 Neeley Rd, Big Stone Gap, VA 24219
+2496408	4145 Dowlen Rd, Beaumont, TX 77706
+2496414	3101 E Kansas Ave, Garden City, KS 67846
+2496420	300 Clinic Dr, Hopkinsville, KY 42240
+2496431	1756 E Center St, Madisonville, KY 42431
+2496434	1880 N Main St, Shelbyville, TN 37160
+2496440	768 S Jefferson Ave, Cookeville, TN 38501
+2496446	2510 Redmond Cir Nw, Rome, GA 30165
+2496449	7044 Charlotte Pike, Nashville, TN 37209
+2496450	230 E Market St, Clarksville, AR 72830
+2496451	517 Avalon Ave, Muscle Shoals, AL 35661
+2496461	1011 Us Highway 72 E, Athens, AL 35611
+2496472	2800 Spring Avn. S.W, Decatur, AL 35603
+2496482	1815 Decatur Pike, Athens, TN 37303
+2496491	4301 Vine St, Hays, KS 67601
+2496499	725 Campbellsville Byp, Campbellsville, KY 42718
+2496509	3525 Us Highway 27 N, Sebring, FL 33870
+2496520	2111 N Jackson St, Tullahoma, TN 37388
+2496531	915 N Chancery St, Mcminnville, TN 37110
+2496542	2545 E Walnut Ave, Dalton, GA 30721
+2496546	600 Highway 71 N, Mena, AR 71953
+2496547	626 Olive St Sw, Cullman, AL 35055
+2496548	615 S Cumberland St, Lebanon, TN 37087
+2496549	1030 Hunters Crossin, Alcoa, TN 37701
+2496550	3050 Wilma Rudolph Blvd, Clarksville, TN 37040
+2496551	1112 Nashville Pike, Gallatin, TN 37066
+2496552	1601 W Reelfoot Ave, Union City, TN 38261
+2496553	1102 No. Gateway Ave, Rockwood, TN 37854
+2496554	2650 Lake Rd, Dyersburg, TN 38024
+2496555	1075 Cosby Hwy, Newport, TN 37821
+2496556	800 Highway 64 E, Wynne, AR 72396
+2496557	3755 E Andrew Johnson Hwy, Greeneville, TN 37745
+2496558	11697 Us Highway 431, Guntersville, AL 35976
+2496559	2000 Old Fort Pkwy, Murfreesboro, TN 37129
+2496560	2130 N Locust Ave, Lawrenceburg, TN 38464
+2496561	547 W Church St, Lexington, TN 38351
+2496562	475 S Davy Crockett Pkwy, Morristown, TN 37813
+2496563	120 Benjamin H Hill Dr W, Fitzgerald, GA 31750
+2496564	168 Obed Plz Ste 108, Crossville, TN 38555
+2496565	5824 Nolensville Pike, Nashville, TN 37211
+2496566	177 Washington Dr, Somerset, KY 42501
+2496567	650 S Truman Blvd, Festus, MO 63028
+2496568	1001 Over Mountain Dr, Elizabethton, TN 37643
+2496569	2001 Glenn Blvd Sw, Fort Payne, AL 35968
+2496570	100 Walton Ave, Danville, KY 40422
+2496571	1589 Kentucky / Hwy, Jackson, KY 41339
+2496572	1195 Barrett Blvd, Henderson, KY 42420
+2496573	2232 Gallatin Pike N, Madison, TN 37115
+2496574	477 Village Dr, Prestonsburg, KY 41653
+2496575	2600 Sw 19Th Avenue Rd, Ocala, FL 34471
+2496576	4495 Keith St Nw, Cleveland, TN 37312
+2496577	2530 Jackson Ave W, Oxford, MS 38655
+2496578	9053 Highway 107, Sherwood, AR 72120
+2496579	798 W Service Rd, West Memphis, AR 72301
+2496580	1501 Al Highway 14 E, Selma, AL 36703
+2496581	5031 Frederica St, Owensboro, KY 42301
+2496582	1859 Bypass Rd, Winchester, KY 40391
+2496583	27650 State Highway 249, Tomball, TX 77375
+2496584	17030 Us Highway 441, Mount Dora, FL 32757
+2496585	7631 Gall Blvd, Zephyrhills, FL 33541
+2496586	1000 S State St, Clarksdale, MS 38614
+2496587	2150 Iowa Blvd, Vicksburg, MS 39180
+2496588	100 Walmart Dr, Elizabethtown, KY 42701
+2496589	1415 Highway 67 S, Pocahontas, AR 72455
+2496590	4424 Lebanon Pike, Hermitage, TN 37076
+2496591	2345 Happy Valley Rd, Glasgow, KY 42141
+2496592	24833 Johnt Reidprkw, Scottsboro, AL 35768
+2496593	12650 Us Highway 301, Dade City, FL 33525
+2496594	602 Shelia Street, West Helena, AR 72390
+2496595	1501 Skyland Blvd E, Tuscaloosa, AL 35405
+2496596	2202 Highway 82 W, Greenwood, MS 38930
+2496597	2120 Us Highway 92 W, Auburndale, FL 33823
+2496598	820 Eastern Byp, Richmond, KY 40475
+2496599	2710 N Broadway St, Pittsburg, KS 66762
+2496600	301 Leonardwood Rd, Frankfort, KY 40601
+2496601	19100 Murdock Cir, Port Charlotte, FL 33948
+2496602	1735 S Highway 27, Carrollton, GA 30117
+2496603	1420 Highway 231 S, Troy, AL 36081
+2496604	630 E Broadway Blvd, Jefferson City, TN 37760
+2496605	36205 Us Highway 27, Haines City, FL 33844
+2496606	2643 Highway 280, Alexander City, AL 35010
+2496607	1585 Rome Hwy, Cedartown, GA 30125
+2496608	25 Pembroke Dr, Hilton Head, SC 29926
+2496609	3795 E John Rowan Blvd, Bardstown, KY 40004
+2496610	1002 W Taft St, Sapulpa, OK 74066
+2496611	41301 Us Highway 280, Sylacauga, AL 35150
+2496612	969 Us Highway 80 W, Demopolis, AL 36732
+2496613	3501 20Th Ave, Valley, AL 36854
+2496614	600 Boll Weevil Cir, Enterprise, AL 36330
+2496615	2675 Decherd Blvd, Winchester, TN 37398
+2496616	120 Sam Walton Dr, Russellville, KY 42276
+2496617	1334 No. Ellington P, Lewisburg, TN 37091
+2496618	2200 Highway 641 N, Camden, TN 38320
+2496619	Us Hwy 441 Hwy 25E, Middlesboro, KY 40965
+2496620	1051 W Keiser Ave, Osceola, AR 72370
+2496621	1537 S Us Highway 231, Ozark, AL 36360
+2496622	911 Highway 321 N, Lenoir City, TN 37771
+2496623	2500 W Stone Dr, Kingsport, TN 37660
+2496624	100 East I-240 Service Rd, Oklahoma City, OK 73149
+2496625	6626 Fm 1960 Rd E, Humble, TX 77346
+2496626	5600 N Henry Blvd, Stockbridge, GA 30281
+2496627	3401 S 31St St, Temple, TX 76502
+2496628	1511 Camp Jackson Rd, Cahokia, IL 62206
+2496629	300 Iowa Speedway Dr, Newton, IA 50208
+2496630	3015 Grand Ave, Ames, IA 50010
+2496631	3636 Monroe Hwy, Pineville, LA 71360
+2496632	302 Enterprise Dr, Independence, IA 50644
+2496633	1650 Washington St, Pella, IA 50219
+2496634	5200 Fairmont Pkwy, Pasadena, TX 77505
+2496635	525 Brandilynn Blvd, Cedar Falls, IA 50613
+2496636	730 Northside Dr E, Statesboro, GA 30458
+2496637	4610 S Coulter St, Amarillo, TX 79119
+2496638	13427 Highway 27, Trion, GA 30753
+2496639	2151 W Oaklawn Rd, Pleasanton, TX 78064
+2496640	1711 E Lamar St, Americus, GA 31709
+2496641	1480 Us Highway 17 N, Wauchula, FL 33873
+2496642	1000 W Trimble Ave, Berryville, AR 72616
+2496643	1002 Old Us 60 E, Hardinsburg, KY 40143
+2496644	4858 Highway 1, Raceland, LA 70394
+2496645	9248 Parkway E, Birmingham, AL 35206
+2496646	7201 Aaron Aronov Dr, Fairfield, AL 35064
+2496647	750 Academy Dr, Bessemer, AL 35022
+2496648	16503 Nacogdoches Rd, San Antonio, TX 78247
+2496649	3100 Hough Rd, Florence, AL 35630
+2496650	2767 W Us Highway 90, Lake City, FL 32055
+2496651	1313 N Fry Rd, Katy, TX 77449
+2496652	4150 Tamiami Trl S, Venice, FL 34293
+2496653	3701 N Main St, Taylor, TX 76574
+2496654	3503 10Th St, Great Bend, KS 67530
+2496655	1500 E Merritt Island Cswy, Merritt Island, FL 32952
+2496657	3506 Highway 6 S, Houston, TX 77082
+2496658	1538 Highway 190, Eunice, LA 70535
+2496659	818 E 23Rd St, Columbus, NE 68601
+2496660	659 Knox Square Dr, Galesburg, IL 61401
+2496661	3010 E 23Rd St, Fremont, NE 68025
+2496662	3115 Edgar Brown Dr, West Orange, TX 77630
+2496663	5001 Taylor Rd, Punta Gorda, FL 33950
+2496664	3501 S Florida Ave, Lakeland, FL 33803
+2496665	14740 State Hwy #38, Marshfield, MO 65706
+2496666	2050 W Spring St, Monroe, GA 30655
+2496667	2700 Us Highway 281, Marble Falls, TX 78654
+2496668	3100 E Main St, Uvalde, TX 78801
+2496669	705 E Briggs Dr, Macon, MO 63552
+2496670	1045 N Grand Ave, Mount Pleasant, IA 52641
+2496671	1350 Azalea Dr, Waynesboro, MS 39367
+2496672	2300 Sycamore Rd, Dekalb, IL 60115
+2496673	7050 Highway 85, Riverdale, GA 30274
+2496674	1966 Highway 65 S, Clinton, AR 72031
+2496675	200 Us Highway 80 E, Mesquite, TX 75149
+2496676	2623 W 7Th St, Joplin, MO 64801
+2496677	1902 W B St, Mccook, NE 69001
+2496678	2701 E Main St, Alice, TX 78332
+2496679	1500 Se 5Th St, Aledo, IL 61231
+2496680	1701 N 23Rd St, Canyon, TX 79015
+2496681	1905 E 17Th Ave, Hutchinson, KS 67501
+2496682	11391 Dunbarton Blvd, Barnwell, SC 29812
+2496683	5307 Rt. 251, Peru, IL 61354
+2496684	324 W Agency Rd, West Burlington, IA 52655
+2496685	108 Kyden Dr., Marshall, IL 62441
+2496686	250 E Tucker Rd, Liberal, KS 67901
+2496687	1621 North Business 9, Morrilton, AR 72110
+2496688	3001 W Broadway, Columbia, MO 65203
+2496689	2501 Citrus Blvd, Leesburg, FL 34748
+2496690	1605 S Main St, Maryville, MO 64468
+2496691	300 6Th Ave West, Monroe, WI 53566
+2496692	218 Cumberland St, Bogalusa, LA 70427
+2496693	601 No. Fm 1821, Mineral Wells, TX 76067
+2496694	653 Gravois Bluffs Blvd, Fenton, MO 63026
+2496695	571 Walton Blvd, Las Cruces, NM 88001
+2496696	6401 Ne Loop 820, North Richland Hill, TX 76180
+2496697	121 Highway 332 W, Lake Jackson, TX 77566
+2496698	92 Plaza Ln, Oxford, AL 36203
+2496699	Rr 6 Box 1895, Stilwell, OK 74960
+2496700	4151 4Th St Sw, Mason City, IA 50401
+2496705	2725 Se Highway 70, Arcadia, FL 34266
+2496713	2003 S Dumas Ave, Dumas, TX 79029
+2496720	401 W Commerce St, Brownwood, TX 76801
+2496731	2101 S Parrott Ave, Okeechobee, FL 34974
+2496742	4252 Highway 54, Osage Beach, MO 65065
+2496751	960 Brookway Blvd, Brookhaven, MS 39601
+2496762	4444 W Vine St, Kissimmee, FL 34746
+2496773	10270 Front Beach Rd, Panama City Beach, FL 32407
+2496783	1619 Del Prado Blvd S, Cape Coral, FL 33990
+2496793	1750 S Perryville Blvd, Perryville, MO 63775
+2496794	2150 Main St, Boonville, MO 65233
+2496803	3728 N Prince St, Clovis, NM 88101
+2496813	3700 E Interstate 40, Amarillo, TX 79103
+2496823	1101 E Prospect Ave, Ponca City, OK 74601
+2496828	8000 Academy Rd Ne, Albuquerque, NM 87111
+2496837	1283 Us Highway 27 N, Stanford, KY 40484
+2496848	4600 E Main St, Farmington, NM 87402
+2496859	603 E Highway 243, Canton, TX 75103
+2496870	2373 E Main St, Plainfield, IN 46168
+2496881	3251 Cerrillos Rd, Santa Fe, NM 87507
+2496892	60 Highway 79 N, Magnolia, AR 71753
+2496893	1901 1St Ave, Rock Falls, IL 61071
+2496894	301 San Mateo Blvd Se, Albuquerque, NM 87108
+2496895	1344 Illinois Hwy #1, Carmi, IL 62821
+2496896	810 S 37Th St, Bethany, MO 64424
+2496897	400 Eubank Blvd Ne, Albuquerque, NM 87123
+2496898	6586 Ga Highway 40 E, Saint Marys, GA 31558
+2496899	333 E Walnut St, Thayer, MO 65791
+2496900	220 S Highway 97, Sand Springs, OK 74063
+2496901	9350 Cortana Pl, Baton Rouge, LA 70815
+2496903	1126 Highway 38 North, Tipton, IA 52772
+2496904	4200 Dillon Dr, Pueblo, CO 81008
+2496905	Us Highway 19 S, Camilla, GA 31730
+2496906	333 E Us Route 6, Morris, IL 60450
+2496907	1250 W Dallas St, Buffalo, MO 65622
+2496908	2125 West Travis, La Grange, TX 78945
+2496909	601 E Leffler St, Dodgeville, WI 53533
+2496910	6811 Southcrest Pkwy, Southaven, MS 38671
+2496911	155 L0Uetta Crossing, Spring, TX 77373
+2496912	17309 Interstate 30 S, Benton, AR 72015
+2496913	2701 Carlisle Blvd Ne, Albuquerque, NM 87110
+2496914	26180 Us Highway 70 E, Ruidoso Downs, NM 88346
+2496915	4041 Veterans Dr, Ottawa, IL 61350
+2496916	685 Schillinger Rd S, Mobile, AL 36695
+2496917	2460 E Wabash St, Frankfort, IN 46041
+2496918	4735 Jonesboro Rd, Union City, GA 30291
+2496919	404 Hwy 27 No. Bypas, Bremen, GA 30110
+2496920	3653 S Orlando Dr, Sanford, FL 32773
+2496921	361 8Th Ave Ne, Cairo, GA 39828
+2496922	2000 State Road 60 E, Lake Wales, FL 33898
+2496923	2825 N Kansas Expy, Springfield, MO 65803
+2496924	1699 N Woodland Blvd, Deland, FL 32720
+2496925	4215 S Loop 289, Lubbock, TX 79423
+2496926	751 W Oglethorpe Hwy, Hinesville, GA 31313
+2496927	4180 Us Hwy 431, Roanoke, AL 36274
+2496928	3109 E 1St St, Vidalia, GA 30474
+2496929	1209 S Interstate 35, New Braunfels, TX 78130
+2496930	5245 Rangeline Service Rd S, Mobile, AL 36619
+2496931	3322 Avenue I, Scottsbluff, NE 69361
+2496932	2401 S Canal St, Carlsbad, NM 88220
+2496933	3333 Clark St, Alamosa, CO 81101
+2496934	1379 Homer Rd, Minden, LA 71055
+2496935	4040 N Newton St, Jasper, IN 47546
+2496936	101 W Us Highway 60, Mountain View, MO 65548
+2496937	1919 N Main St, Pearland, TX 77581
+2496938	926 Paseo Del Pueblo Sur, Taos, NM 87571
+2496939	314 Sgt. S. Prentiss, Natchez, MS 39120
+2496940	815 S Wheatley St, Ridgeland, MS 39157
+2496941	25800 Hwy 171, Many, LA 71449
+2496942	2406 W Roosevelt Blvd, Monroe, NC 28110
+2496943	1500 Market Place Blvd, Cumming, GA 30041
+2496944	419 Highway 52 Byp W, Lafayette, TN 37083
+2496945	2100 N Main Ave, Mountain Grove, MO 65711
+2496946	4100 W Airport Fwy, Irving, TX 75062
+2496947	5556 Sunset Blvd, Lexington, SC 29072
+2496948	38020 Us Highway 18, Prairie Du Chien, WI 53821
+2496949	14091 Fm 490, Raymondville, TX 78580
+2496950	2500 Progress Pkwy, Shelbyville, IN 46176
+2496951	1326 280Th, Seward, NE 68434
+2496952	3036 1St Ave S, Fort Dodge, IA 50501
+2496953	36 Byrd Blvd, Petal, MS 39465
+2496954	1005 W Ft Scott, Butler, MO 64730
+2496955	15328 Us Highway 19 S, Thomasville, GA 31757
+2496956	94 Cecil St, Camdenton, MO 65020
+2496957	11250 E Colonial Dr, Orlando, FL 32817
+2496958	4115 E Lincoln Way, Sterling, IL 61081
+2496959	1002 Se National Dr, Ankeny, IA 50021
+2496960	401 Linwood Plz, Lindsay, OK 73052
+2496961	6625 S Memorial Dr, Tulsa, OK 74133
+2496962	100 Ozark Dr, Cuba, MO 65453
+2496963	2225 W Interstate 20, Grand Prairie, TX 75052
+2496964	2610 W Dickson St, Fort Stockton, TX 79735
+2496965	1903 S Cedar St, Pecos, TX 79772
+2496966	340 Norman Dr, Valdosta, GA 31601
+2496967	1303 S Main St, Sikeston, MO 63801
+2496968	2115 S Main St, Grove, OK 74344
+2496969	2801 Avenue F Nw, Childress, TX 79201
+2496970	550 South 123 Bypass, Seguin, TX 78155
+2496971	1750 Indianapolis Rd, Greencastle, IN 46135
+2496972	2711 Greenway Dr, Jackson, MS 39204
+2496973	2200 S Mckenzie St, Foley, AL 36535
+2496974	2285 East Ken Pratt Blvd, Longmont, CO 80504
+2496975	1650 W Maloney Ave, Gallup, NM 87301
+2496976	180 N Lee St, Forsyth, GA 31029
+2496977	8101 S John Young Pkwy, Orlando, FL 32819
+2496978	8101 W Judge Perez Dr, Chalmette, LA 70043
+2496979	205 Deadrick Rd, Forrest City, AR 72335
+2496980	201 S Edwards Blvd, Lake Geneva, WI 53147
+2496981	4810 Lapalco Blvd, Marrero, LA 70072
+2496983	1798 Old Stage Rd, Decorah, IA 52101
+2496984	10340 Farm Road 2176, Cassville, MO 65625
+2496985	11210 W Airport Blvd, Stafford, TX 77477
+2496986	6072 U S Highway 98, Hattiesburg, MS 39402
+2496987	2207 S Bridge St, Brady, TX 76825
+2496988	1701 E End Blvd N, Marshall, TX 75670
+2496989	748 Beal Pkwy Nw, Fort Walton Beach, FL 32547
+2496990	3020 S Elliott Ave, Aurora, MO 65605
+2496991	7865 W Us Highway 50, Salida, CO 81201
+2496992	2363 Highway 135 Nw, Corydon, IN 47112
+2496993	16865 Clover Rd, Noblesville, IN 46060
+2496994	1510 W Main St, Sterling, CO 80751
+2496995	11720 E Dr Martin Luther King, Seffner, FL 33584
+2496996	Rt 2/Box 200/Us Hwy, Falfurrias, TX 78355
+2496997	1501 N Interstate 27, Plainview, TX 79072
+2496999	10855 So. Us Hwy #1, Port St Lucie, FL 34952
+2497000	201 Lanny Bridges Ave, Covington, TN 38019
+2497001	3801 Eastern Blvd, Montgomery, AL 36116
+2497002	5555 20Th St, Vero Beach, FL 32966
+2497003	1569 N Expressway, Griffin, GA 30223
+2497004	311 E Route 38, Rochelle, IL 61068
+2497005	27520 Us Highway 98, Daphne, AL 36526
+2497006	904 S Range Ave, Denham Springs, LA 70726
+2497007	1204 Avenue Of Mid America, Effingham, IL 62401
+2497008	2795 Chastain Meadows Pkwy, Marietta, GA 30066
+2497009	6495 Atlanta Hwy, Montgomery, AL 36117
+2497010	4320 Franklin Ave, Waco, TX 76710
+2497011	8445 Us Highway 51 N, Millington, TN 38053
+2497012	6770 Westworth Blvd, Westworth Village, TX 76114
+2497013	949 E Bloomingdale Ave, Brandon, FL 33511
+2497014	10500 W Colonial Dr, Ocoee, FL 34761
+2497015	1239 State Road 436 Ste 101, Casselberry, FL 32707
+2497016	3351 S Ferdon Blvd, Crestview, FL 32536
+2497017	702 W Loop 289, Lubbock, TX 79416
+2497018	#15 Hals Plaza Dr, Piedmont, MO 63957
+2497019	401 E Us Highway 82, Sherman, TX 75092
+2497020	2525 Us Highway 70 Se, Hickory, NC 28602
+2497021	3155 W Wheatland Rd, Dallas, TX 75237
+2497022	407 No. State St, Desloge, MO 63601
+2497023	8400 Highway 64, Bartlett, TN 38133
+2497024	625 Highway 290 E, Hempstead, TX 77445
+2497025	641 Veterans Pkwy S, Moultrie, GA 31788
+2497026	1325 Denver Ave, Loveland, CO 80537
+2497027	527 Lake St, Hazlehurst, MS 39083
+2497028	1700 S Org Blsmtrail, Apopka, FL 32703
+2497029	1001 E Eau Gallie Blvd, Indian Harbour Beac, FL 32937
+2497030	125 E Bestor Dr, Geneseo, IL 61254
+2497031	1800 Progressive Pkwy, Platteville, WI 53818
+2497032	2163 W C 48, Bushnell, FL 33513
+2497033	1700 N State Route 291, Harrisonville, MO 64701
+2497034	11012 No. Williams S, Dunnellon, FL 34432
+2497035	1616 W Airline Hwy, La Place, LA 70068
+2497036	2921 Toupal Dr, Trinidad, CO 81082
+2497037	1836 S Main St, Weatherford, TX 76086
+2497038	9441 Alameda Ave, El Paso, TX 79907
+2497039	222 W Mccoy Blvd, Tomah, WI 54660
+2497040	1835 E Main St, Cortez, CO 81321
+2497041	1485 Commercial Way, Spring Hill, FL 34606
+2497042	355 Cypress Gardens Blvd, Winter Haven, FL 33880
+2497043	9350 Highway 49, Gulfport, MS 39503
+2497044	628 Highway 51 N, Ripley, TN 38063
+2497045	235 Frontage Rd, Picayune, MS 39466
+2497046	1133 N Main St, Viroqua, WI 54665
+2497047	6360 Lake Worth Blvd, Lake Worth, TX 76135
+2497048	5100 Okeechobee Rd, Fort Pierce, FL 34947
+2497049	845 Palm Bay Rd Ne, West Melbourne, FL 32904
+2497050	3712 W Main St, Durant, OK 74701
+2497051	3360 Front St, Winnsboro, LA 71295
+2497052	1385 Amelia Plz, Fernandina Beach, FL 32034
+2497053	2701 N Summit St, Arkansas City, KS 67005
+2497054	1600 W Wisconsin St, Sparta, WI 54656
+2497055	6091 Mer Rouge Rd, Bastrop, LA 71220
+2497056	3103 S 23Rd Ave, Greeley, CO 80631
+2497057	1733 2Nd St S, Meridian, MS 39301
+2497058	1130 W Frontage Rd, Owatonna, MN 55060
+2497059	1210 Giant Dr, Blue Earth, MN 56013
+2497060	133 Sam Walton Lane, Castle Rock, CO 80104
+2497061	1800 W Burlington Ave, Fairfield, IA 52556
+2497062	840 Summit Blvd., Frisco, CO 80443
+2497063	14821 Ben C Pratt/6 Mile Cypre, Fort Myers, FL 33912
+2497064	1575 Land O Lakes Blvd, Lutz, FL 33549
+2497065	8912 Veterans Memorial Blvd, Metairie, LA 70003
+2497066	1445 E Central Ct, Union, MO 63084
+2497067	4965 Highway 90, Milton, FL 32571
+2497068	101 E I65 Service Rd S, Mobile, AL 36606
+2497069	2019 E 81St St, Tulsa, OK 74137
+2497070	205 S Centennial Dr, Mcpherson, KS 67460
+2497071	8745 State Road 54, New Port Richey, FL 34655
+2497072	2125 N Morton St, Franklin, IN 46131
+2497073	823 W State Highway 46, Spencer, IN 47460
+2502666	2801 Northwestern Ave, West Lafayette, IN 47906
+2502667	890 E Main St, Ephrata, PA 17522
+2502668	1450 Johns Lake Rd, Clermont, FL 34711
+2502669	10 Walmart Dr, Moundsville, WV 26041
+2502670	326 W Main St, Freehold, NJ 07728
+2502671	6711 Nc Highway 135, Mayodan, NC 27027
+2502672	ERROR
+2502673	23800 Allen Rd, Woodhaven, MI 48183
+2502674	1815 E Ohio Pike, Amelia, OH 45102
+2502675	7450 Cypress Gardens Blvd, Winter Haven, FL 33884
+2502676	ERROR
+2502677	4820 N Road 68, Pasco, WA 99301
+2502678	160 Springville Station Blvd, Springville, AL 35146
+2502679	3435 Centerville Hwy, Snellville, GA 30039
+2502680	3615 Marietta Hwy, Dallas, GA 30157
+2502681	15220 Montfort Rd, Dallas, TX 75248
+2502682	9598 Rowlett Rd, Houston, TX 77075
+2502683	26471 Carl Boyer Dr, Santa Clarita, CA 91350
+2502684	6067 N Ridge Rd, Madison, OH 44057
+2502685	ERROR
+2502686	5491 Highway 151, Marion, IA 52302
+2502687	3550 Cummings Hwy, Chattanooga, TN 37419
+2502688	6170 S Saginaw Rd, Grand Blanc, MI 48439
+2502689	5065 Pyramid Way, Sparks, NV 89436
+2502690	1207 Princeton Ave, Vermillion, SD 57069
+2502691	1300 E Ash St, Piqua, OH 45356
+2502692	2010 Village Center Dr, Tarentum, PA 15084
+2502697	3461 Horizon Blvd, Bensalem, PA 19020
+2502698	632 Grassfield Pkwy, Chesapeake, VA 23322
+2502699	21200 Olhava Way Nw, Poulsbo, WA 98370
+2502700	1131 Kuala St, Pearl City, HI 96782
+2502701	6100 Ronald Reagan Dr, Lake Saint Louis, MO 63367
+2502702	3301 Tower Rd, Aurora, CO 80011
+2502703	1318 Mebane Oaks Rd, Mebane, NC 27302
+2502704	721 Boyd Rd, Azle, TX 76020
+2502705	2514 Main St, Longmont, CO 80504
+2502706	100 S High Cross Rd, Urbana, IL 61802
+2502707	1251 Centerville Rd, Wilmington, DE 19808
+2502708	430 Se 192Nd Ave, Vancouver, WA 98683
+2502709	6716 Towne Center Blvd, Huntingdon, PA 16652
+2502710	2485 Possum Run Rd, Mansfield, OH 44903
+2502711	2500 W 95Th St, Evergreen Park, IL 60805
+2502712	9 Benton Rd, Travelers Rest, SC 29690
+2502713	25737 Us Route #11, Evans Mills, NY 13637
+2502714	7155 E State St # 12South, Lowville, NY 13367
+2505846	508 10Th St E, Palmetto, FL 34221
+2505847	78 N Mcculloch Blvd, Pueblo West, CO 81007
+2505848	10001 Woodlands Pkwy, Spring, TX 77382
+2505849	1400 W Main St, Farmington, NM 87401
+2505850	1133 No. Emerson Road, Greenwood, IN 46143
+2505851	4700 135Th St, Crestwood, IL 60445
+2505852	ERROR
+2505853	530 S Graham Hopedale Rd, Burlington, NC 27217
+2505854	12751 Washington Township Blvd, Waynesboro, PA 17268
+2505855	200 S Tuttle Rd, Springfield, OH 45505
+2505856	1400 Skyline Blvd, Bismarck, ND 58503
+2505857	2101 Younts Rd, Indian Trail, NC 28079
+2505858	13227 City Square Dr, Jacksonville, FL 32218
+2505859	2427 Gresham Rd Se, Atlanta, GA 30316
+2505860	901 Unser Blvd Se, Rio Rancho, NM 87124
+2505861	1501 E 29Th St, Muncie, IN 47302
+2505862	502 Booth Rd, Warner Robins, GA 31088
+2505863	1725 W Hunt Hwy, Queen Creek, AZ 85143
+2505864	19265 Jeb Stuart Hwy, Stuart, VA 24171
+2505865	ERROR
+2505866	1120 W Pioneer Blvd, Mesquite, NV 89027
+2505908	1540 E 2Nd St, Beaumont, CA 92223
+2505909	5821 Antelope Rd, Sacramento, CA 95842
+2505910	3302 Se Military Dr, San Antonio, TX 78223
+2505911	9205 Gibsonton Dr, Gibsonton, FL 33534
+2505913	1130 Highway 77, Bridgeton, NJ 08302
+2508212	223 Meadowlands Dr, Chardon, OH 44024
+2508213	35 Mike Stewart, Crawfordville, FL 32327
+2508214	4250 Phillips Hwy, Jacksonville, FL 32207
+2508215	ERROR
+2508216	ERROR
+2508217	17000 Tamiami Trl, North Port, FL 34287
+2508218	951 W Belt Line Rd, Desoto, TX 75115
+2508219	13858 State Route 31, Albion, NY 14411
+2508220	1143 Smiley Ave, Cincinnati, OH 45240
+2508221	1755 Highway 59 S, Thief River Falls, MN 56701
+2508222	9500 Clifford St, Fort Worth, TX 76108
+2508223	3465 York Commons Blvd, Dayton, OH 45414
+2508224	ERROR
+2508225	1855 E Wyandot Ave, Upper Sandusky, OH 43351
+2508226	110 Rocky Bottom Dr, Unicoi, TN 37692
+2508228	34500 Monterey Ave, Palm Desert, CA 92211
+2508229	5000 Rhonda Rd, Anderson, CA 96007
+2508230	11400 Highway 99, Everett, WA 98204
+2508231	150 Harrison Ave, Kearny, NJ 07032
+2508232	4005 167Th St, Country Club Hills, IL 60478
+2508492	19501 Nw 27Th Ave, Miami Gardens, FL 33056
+2508494	101 N Congress Ave, Lake Park, FL 33403
+2508495	375 Kings Hwy, Port Charlotte, FL 33983
+2508496	17650 Nw 2Nd Ave, Miami Gardens, FL 33169
+2508497	9011 Ne 23Rd St, Oklahoma City, OK 73141
+2508498	275 Main St, White Plains, NY 10601
+2508499	1355 S Mccord Rd, Holland, OH 43528
+2508500	1200 W Oak St, Amite, LA 70422
+2508501	4401 Highway 83 South, Laredo, TX 78046
+2508502	2107 Pyramid Village Blvd, Greensboro, NC 27405
+2508503	6365 Stagecoach Dr, West Des Moines, IA 50266
+2508504	125 Clarion Rd, Altavista, VA 24517
+2508505	Rr #2, Box 3160, Jonesville, VA 24263
+2508506	4255 Cy Ave, Casper, WY 82604
+2508507	1911 Marsha Sharp Fwy, Lubbock, TX 79415
+2508508	1161 Trenton Ave, Findlay, OH 45840
+2508509	2791 Dakota Ave S, Huron, SD 57350
+2508510	156 Power Center Dr, Dawsonville, GA 30534
+2508511	3285 Henry St, Muskegon, MI 49441
+2508512	3900 Fountain Square Pl, Waukegan, IL 60085
+2508513	690 Old San Antonio Rd, Buda, TX 78610
+2508514	2399 S State Road 46, Terre Haute, IN 47803
+2508515	701 Hawley Ave, Belmont, NC 28012
+2508516	851 Ann St, Montgomery, AL 36107
+2508517	1701 W Fm 646 Rd, League City, TX 77573
+2539624	6051 University Town Centre Dr, Morgantown, WV 26501
+2539625	16218 Jackson Creek Pkwy, Monument, CO 80132
+2539626	3222 State Route 11, Malone, NY 12953
+2539628	1400 Hudson Bridge Rd, Stockbridge, GA 30281
+2539629	3001 North State Road #7, Lauderdale Lakes, FL 33313
+2539630	501 Signal Mountain Rd, Chattanooga, TN 37405
+2539631	8500 W Golf Rd, Niles, IL 60714
+2539632	5875 E Franklin Rd, Nampa, ID 83687
+2539633	1801 Howell Mill Rd Nw, Atlanta, GA 30318
+2539634	3250 Sardis Church Rd, Buford, GA 30519
+2539635	620 Gravel Pike, East Greenville, PA 18041
+2539636	2347 Veterans Memorial Pkwy S, Lafayette, IN 47909
+2539637	2025 Merchant Mile, Columbus, IN 47201
+2539638	7502 Southtown Crossing Blvd, Fort Wayne, IN 46816
+2539639	11493 N Linden Rd, Clio, MI 48420
+2539640	1827 Walnut Grove Ave, Rosemead, CA 91770
+2539641	1725 E Santa Fe St, Gardner, KS 66030
+2539642	46440 Us Route 20, Oberlin, OH 44074
+2539643	4650 W North Ave, Chicago, IL 60639
+2539644	40580 Albrae St, Fremont, CA 94538
+2539645	401 Supercenter Dr, Jefferson City, MO 65101
+2540121	6464 N Decatur Blvd, Las Vegas, NV 89131
+2540122	250 Tallmadge Rd, Kent, OH 44240
+2584321	6149 Old National Hwy, College Park, GA 30349
+2584322	1275 Lake Ave, Woodstock, IL 60098
+2584323	700 W Ireland Rd, South Bend, IN 46614
+2584324	1871 Chamblee Tucker Rd, Chamblee, GA 30341
+2584325	3875 Mundy Mill Rd, Oakwood, GA 30566
+2584326	755 Riverpoint Ct, West Sacramento, CA 95605
+2584327	3950 W Lake Mead Blvd, North Las Vegas, NV 89032
+2584328	6150 S 35Th Ave, Phoenix, AZ 85041
+2584329	12220 Fm 423, Frisco, TX 75034
+2584330	1098 Fredrick Blvd, Portsmouth, VA 23707
+2584331	4781 E Rockton Rd, Roscoe, IL 61073
+2584332	200 W 136Th Ave, Westminster, CO 80234
+2584333	4101 S Mccoll Rd, Edinburg, TX 78539
+2584334	11210 Potranco Rd, San Antonio, TX 78253
+2584335	9235 N Sam Houston Pkwy E, Humble, TX 77396
+2584336	ERROR
+2584337	6210 Annapolis Rd, Landover Hills, MD 20784
+2584338	9151 South Quarry Blvd, Sandy, UT 84094
+2584339	7530 Tidewater Dr, Norfolk, VA 23505
+2594721	30 Catskill Cmns, Catskill, NY 12414
+2594722	11 Jungle Rd, Leominster, MA 01453
+2594723	4800 Us 287 Highway, Arlington, TX 76017
+2594724	51 Silver Spring St, Providence, RI 02904
+2594725	1580 Branan Field Rd, Middleburg, FL 32068
+2594726	101 Howland Blvd, Deltona, FL 32738
+2594727	4433 Vanguard Dr, Sheboygan, WI 53083
+2594728	7494 Us Highway 11, Potsdam, NY 13676
+2594729	1818 State Route #3, Fulton, NY 13069
+2594730	3159 Route 9 S, Rio Grande, NJ 08242
+2594731	ERROR
+2594732	5198 Boulder Hwy, Las Vegas, NV 89122
+2594733	221 W Parrish Ln, Centerville, UT 84014
+2594734	ERROR
+2594735	2300 Us Highway 34, Oswego, IL 60543
+2594736	1060 S Watson Rd, Buckeye, AZ 85326
+2594737	20 Soojian Dr, Leicester, MA 01524
+2594738	200 Kocher Ln, Elizabethville, PA 17023
+2594739	6650 Collier Blvd, Naples, FL 34114
+2594740	2000 Clements Bridge Rd Ste 10, Woodbury, NJ 08096
+2594741	2901 Market St, Warren, PA 16365
+2594742	9360 Navarre Pkwy, Navarre, FL 32566
+2594743	48 State Rt 23, Riverdale, NJ 07457
+2594744	3657 E Main St, Whitehall, OH 43213
+2594745	1400 Hilltop Mall Rd, Richmond, CA 94806
+2594746	1520 South Main Street, Jefferson, WI 53549
+2594747	16502 Meridian E, Puyallup, WA 98375
+2594748	7001 Bridgeport Way W, Lakewood, WA 98499
+2594749	1100 Lejune Dr, Springfield, IL 62703
+2594750	2940 Anvil Block Rd, Ellenwood, GA 30294
+2594751	7100 Raggard Rd, Louisville, KY 40216
+2594752	6520 Earnest Barrett Parkway, Marietta, GA 30064
+2594753	13502 Hamilton View Rd, Riverton, UT 84065
+2594754	3475 Parkway Village Ct, Winston Salem, NC 27127
+2594755	35 Plaza Dr, Tamaqua, PA 18252
+2594756	1010 N 8Th St, Medford, WI 54451
+2594757	308 Nc Highway 55 W, Mount Olive, NC 28365
+2594758	17100 State Route 507 Se, Yelm, WA 98597
+2594759	3580 Memorial Dr, Decatur, GA 30032
+2594760	7010 Auburn Blvd, Citrus Heights, CA 95621
+2594761	4040 Nolensville Pike, Nashville, TN 37211
+2594762	3601 Washington Blvd, Arbutus, MD 21227
+2594763	460 Nm Highway #528, Bernalillo, NM 87004
+2594764	1151 Stonecrest Blvd, Tega Cay, SC 29708
+2594765	4015 Freeport Rd, Natrona Heights, PA 15065
+2594766	3826 Cobb Pkwy Nw, Acworth, GA 30101
+2594767	2801 Cunningham Rd, Cincinnati, OH 45241
+2594768	108 Apple Blossom Dr, Chelan, WA 98816
+2594769	1930 Sahlstrom Dr, Crookston, MN 56716
+2594770	1720 Westridge Rd, New Ulm, MN 56073
+2594771	4545 Lafayette Rd, Indianapolis, IN 46254
+2594772	5991 New Goldenrod Road, Orlando, FL 32822
+2594773	1275 E 2Nd St, Franklin, OH 45005
+2594774	501 N Navy Blvd, Pensacola, FL 32507
+2594775	16241 S Farrell Rd, Lockport, IL 60441
+2594776	101 S Tolbert Dr, Three Rivers, MI 49093
+2594777	2687 N Memorial Dr, Lancaster, OH 43130
+2594778	34520 16Th Ave S, Federal Way, WA 98003
+2594779	240 W Baseline Rd, Mesa, AZ 85210
+2594780	515 Saw Mill Rd, West Haven, CT 06516
+2594781	19600 E Us Highway 24, Woodland Park, CO 80863
+2594782	1250 Goemann Rd, Fairmont, MN 56031
+2594783	201 S Prickly Pear Ave, Benson, AZ 85602
+2594784	2700 Bethel Rd, Columbus, OH 43220
+2594785	6525 Glacier Hwy, Juneau, AK 99801
+2594786	7155 Sheridan Blvd, Westminster, CO 80003
+2594787	566 Us Highway 70 W, Havelock, NC 28532
+2594788	4006 Estes Pkwy, Longview, TX 75603
+2594789	2915 W Market St, Johnson City, TN 37604
+2594790	1606 S Signal Butte Rd, Mesa, AZ 85209
+2594791	5588 Little Debbie Pkwy, Ooltewah, TN 37363
+2594792	ERROR
+2594793	425 State Route 31, Macedon, NY 14502
+2594794	ERROR
+2594795	ERROR
+2594796	2228 W 1700 S, Syracuse, UT 84075
+2594797	2151 Royal Ave, Monona, WI 53713
+2594798	5290 S Power Rd, Gilbert, AZ 85295
+2594799	ERROR
+2594800	561 Yopp Rd, Jacksonville, NC 28540
+2594801	1125 Shreveport Barksdale Hwy, Shreveport, LA 71105
+2594802	1504 N Parham Rd, Richmond, VA 23229
+2594803	ERROR
+2594804	1625 Commerce Dr, Wahpeton, ND 58075
+2594805	1800 Ne 12Th Ave, Gainesville, FL 32641
+2594806	1041 Us Highway 27 N, Avon Park, FL 33825
+2594807	4000 Route #173, Zion, IL 60099
+2594808	2350 Grey Lag Way Road, Lexington, KY 40509
+2594809	21655 N Lake Pleasant Pkwy, Peoria, AZ 85382
+2594810	6475 Gateway Rd, Columbus, GA 31909
+2594811	66 State Road #344, Edgewood, NM 87015
+2594812	2101 S 11Th St, Nebraska City, NE 68410
+2594813	ERROR
+2594814	8801 State Highway 34 S, Quinlan, TX 75474
+2594815	ERROR
+2594816	2410 Us Highway 411 S, Maryville, TN 37801
+2594817	201 Zelkova Ct Nw, Conover, NC 28613
+2594818	16773 Rankin Ave, Dunlap, TN 37327
+2594819	10105 Lima Rd, Fort Wayne, IN 46818
+2594820	4747 E Cactus Rd, Phoenix, AZ 85032
+2594821	ERROR
+2594822	2761 Jensen Ave, Sanger, CA 93657
+2594823	3060 Justin Rd, Highland Village, TX 75077
+2594824	4545 W 6Th Ave, Stillwater, OK 74074
+2594825	1303 Charles St, Park Rapids, MN 56470
+2594826	100 Juniper Ave, Wadena, MN 56482
+2594827	3510 Us Highway 2 W, Havre, MT 59501
+2594828	583 Commerce Drive, Smelterville, ID 83868
+2594829	205 12Th St S, Sauk Centre, MN 56378
+2594830	1000 Chestnut Commons Dr, Elyria, OH 44035
+2594831	534 S Duff Ave, Ames, IA 50010
+2594832	1000 18Th Ave Nw, Austin, MN 55912
+2594833	2607 W. Main St., Shelbyville, IL 62565
+2594834	1850 Sw Gatlin Blvd, Port St Lucie, FL 34953
+2594835	4085 Wedgewood Ln, The Villages, FL 32162
+2594836	ERROR
+2594837	1112 New Pointe Blvd, Leland, NC 28451
+2594838	7131 Highway #73, Denver, NC 28037
+2594839	167 Progress Way, Hurricane, WV 25526
+2594840	400 N Highway 67, Midlothian, TX 76065
+2594841	800 W 10Th St S, Ladysmith, WI 54848
+2594842	2801 Airport Thruway, Columbus, GA 31909
+2594843	440 Wadsworth Blvd, Lakewood, CO 80226
+2594844	3400 Steelyard Dr, Cleveland, OH 44109
+2594845	2000 Orchard Rd, Montgomery, IL 60538
+2594846	ERROR
+2594847	6225 Coliseum Blvd, Alexandria, LA 71303
+2594848	6315 82Nd St, Lubbock, TX 79424
+2594849	8961 Greenback Ln, Orangevale, CA 95662
+2594850	145 Kelley Blvd, Millbrook, AL 36054
+2594851	5475 N Meridian Ave, Wichita, KS 67204
+2594852	1800 E 29Th St, Crete, NE 68333
+2594853	505 Riverstone Pkwy, Kankakee, IL 60901
+2594854	8151 E 32Nd St, Yuma, AZ 85365
+2594855	16077 Highway 280, Chelsea, AL 35043
+2594856	8990 Turkey Lake Rd, Orlando, FL 32819
+2594857	10040 County Road 48, Fairhope, AL 36532
+2594858	11550 Meridian Market Vw, Falcon, CO 80831
+2594859	12900 W Thunderbird Rd, El Mirage, AZ 85335
+2594860	1613 North Main Street, San Luis, AZ 85349
+2594861	ERROR
+2594862	2001 H.R. Ashbaugh Dr., Truth Or Consequenc, NM 87901
+2594863	22209 Rockside Rd, Bedford, OH 44146
+2594864	200 Commerce Dr, Duncansville, PA 16635
+2594865	200 Old Fair Grounds Way, Kilmarnock, VA 22482
+2594866	ERROR
+2594867	7200 Arroyo Crossing Pkwy, Las Vegas, NV 89113
+2594868	ERROR
+2594869	1550 Newlands Dr E, Fernley, NV 89408
+2594870	100 Walmart Dr, Kingwood, WV 26537
+2594871	2301 East Frontage Road, Litchfield, MN 55355
+2594872	2000 W Victory Way, Craig, CO 81625
+2594873	1326 Bush River Rd, Columbia, SC 29210
+2594874	ERROR
+2594875	1101 Branson Hills Pkwy, Branson, MO 65616
+2594876	5851 Mercury Dr, Dearborn, MI 48126
+2594877	3000 Proprietors Pl, Mt Pleasant, SC 29466
+2594878	4901 Dartmouth College Hwy, Woodsville, NH 03785
+2594879	1221 S Hayford Rd, Spokane, WA 99224
+2594880	30830 Old Us 20, Elkhart, IN 46514
+2594881	2900 Kirk Rd, Aurora, IL 60502
+2594882	10710 Chantilly Pkwy, Montgomery, AL 36117
+2594883	1801 Nathan Dean Byp, Rockmart, GA 30153
+2594884	4780 Hickory Blvd, Granite Falls, NC 28630
+2594885	101 Bernhardt Rd, Laurel, MT 59044
+2594886	515 W Broad St, Smithville, TN 37166
+2594887	ERROR
+2594888	8191 Upland Bnd, Camby, IN 46113
+2594889	115 E Church St, Leesville, SC 29070
+2594890	5680 Hammonds Mill Rd, Martinsburg, WV 25404
+2594891	ERROR
+2594892	5455 Atlanta Hwy, Alpharetta, GA 30004
+2594893	12981 Shelbyville Rd, Middletown, KY 40243
+2594894	21055 E Rittenhouse Rd, Queen Creek, AZ 85142
+2594895	7016 Gb Alford Hwy, Holly Springs, NC 27540
+2594896	1205 Eastern Ave, Nashville, NC 27856
+2594897	12001 Maumelle Blvd, North Little Rock, AR 72113
+2594898	275 Walton Dr, Louisa, KY 41230
+2594899	ERROR
+2594900	395 N K 7 Hwy, Olathe, KS 66061
+2594901	10400 Fremont Pike, Perrysburg, OH 43551
+2594902	222 Wilkinson Ln, White House, TN 37188
+2594903	3581 Richland Ave W, Aiken, SC 29801
+2594904	150 Beach Rd, Marina, CA 93933
+2594905	ERROR
+2594906	841 E Gannon Ave, Zebulon, NC 27597
+2594907	ERROR
+2594908	321 Killian Rd, Columbia, SC 29203
+2594909	1601 18Th St, Silvis, IL 61282
+2594910	4021 Lagniappe Way, Tallahassee, FL 32317
+2594911	1780 S Lake Dr, Lexington, SC 29073
+2594912	ERROR
+2594913	ERROR
+2594914	420 Weber Road, Romeoville, IL 60446
+2594915	105 Chickasaw Ridge Dr, Oakland, TN 38060
+2594916	6060 N Fry Rd, Katy, TX 77449
+2594917	970 Gehringer Dr, Fowlerville, MI 48836
+2594918	11601 E Us Highway 40, Kansas City, MO 64133
+2594919	ERROR
+2594920	2908 Us Highway 70 W, Goldsboro, NC 27530
+2594921	912 11Th St E, Bottineau, ND 58318
+2594922	ERROR
+2594923	2500 Dawes Rd, Mobile, AL 36695
+2594924	2505 Lincolnton Hwy, Cherryville, NC 28021
+2594925	ERROR
+2594926	ERROR
+2594927	2400 College Dr, Osceola, IA 50213
+2594928	ERROR
+2594929	10240 Colerain Ave, Cincinnati, OH 45251
+2594930	12200 S. Waco, Glenpool, OK 74033
+2594931	150 Tanner Ln, Clinton, TN 37716
+2594933	ERROR
+2594934	ERROR
+2594935	450 Stewart Ln, Triadelphia, WV 26059
+2594936	10 Riverton Commons Dr, Front Royal, VA 22630
+2594937	85 Crooked Hill Rd, Commack, NY 11725
+2594938	12610 Us Highway 19, Hudson, FL 34667
+2594939	1365 Boston Post Rd, Milford, CT 06460
+2594940	965 Broadhollow Rd, Farmingdale, NY 11735
+2594941	1721 N Custer Rd, Mckinney, TX 75071
+2594942	ERROR
+2594943	ERROR
+2594944	10600 Towne Center Blvd, Dunkirk, MD 20754
+2594945	1804 N Clinton St, Defiance, OH 43512
+2594946	14700 Us Highway 31, Grand Haven, MI 49417
+2594947	11500 Hannon Rd, Eagle Point, OR 97524
+2594948	1861 S San Jacinto Ave, San Jacinto, CA 92583
+2594949	2600 Nw Rochester Rd, Topeka, KS 66617
+2594950	10305 Country Club Road, Ironwood, MI 49938
+2594951	ERROR
+2594952	1220 Theil St, Hartford, WI 53027
+2594953	1881 Baltimore Pike, Hanover, PA 17331
+2594954	8201 N Fm 620, Austin, TX 78726
+2594955	1548 Fm 685, Pflugerville, TX 78660
+2594956	201 Chamber Dr, Milford, OH 45150
+2594957	ERROR
+2594958	ERROR
+2594959	150 State Route 31, Flemington, NJ 08822
+2594960	1070 W Landis Ave, Vineland, NJ 08360
+2594961	2150 E Tangerine Rd, Oro Valley, AZ 85755
+2594962	2257 Hwy 515, Blairsville, GA 30512
+2594963	550 W Honeysuckle Ave, Hayden, ID 83835
+2594965	2100 88Th St, North Bergen, NJ 07047
+2594966	705 Middletown Warwick Rd, Middletown, DE 19709
+2594967	3400 N 85Th St, Lincoln, NE 68507
+2594968	5660 W Grand Pkwy S, Richmond, TX 77406
+2594969	200 Goldie Rd, Youngstown, OH 44505
+2594970	3151 Apex Peakway, Apex, NC 27502
+2594971	252 Cheney Dr W, Twin Falls, ID 83301
+2594972	1001 Shiloh Glenn Dr, Morrisville, NC 27560
+2594973	1150 S 100 W, Logan, UT 84321
+2594974	1001 Warrior Way, Quincy, WV 25015
+2594975	4651 W 121 Ave, Broomfield, CO 80020
+2594976	25 Northbridge Commons Parkway, Weaverville, NC 28787
+2594977	3757 55Th Ave S, Fargo, ND 58104
+2594978	1606 S 72Nd St, Omaha, NE 68124
+2594979	3221 N Monroe St, Tallahassee, FL 32303
+2594980	41650 W Maricopa Casa Grande H, Maricopa, AZ 85138
+2594981	3458 Dickerson Pike, Nashville, TN 37207
+2594982	4225 45Th St, West Palm Beach, FL 33407
+2594983	14501 Hancock Village St, Chesterfield, VA 23832
+2594984	2710 N Main St, High Point, NC 27265
+2594985	300 Pleasant Grove Rd Ste 600, Mount Juliet, TN 37122
+2594986	1007 Red Farmer Dr, Hueytown, AL 35023
+2594987	1705 Expressway 83, Penitas, TX 78576
+2594988	100 W Riverside Dr, Parker, AZ 85344
+2594989	3075 E Tropicana Ave, Las Vegas, NV 89121
+2594992	3925 Pelham Rd, Greenville, SC 29615
+2594993	3101 W Princeton St, Orlando, FL 32808
+2594994	4875 Old York Rd, Rock Hill, SC 29732
+2594995	4500 Weitzel St, Timnath, CO 80547
+2594996	260 Donald E Thurmond Pkwy, Cleveland, GA 30528
+2594997	ERROR
+2594998	2750 W University Dr, Denton, TX 76201
+2594999	3900 E Hillside Dr, Broken Arrow, OK 74014
+2595000	2100 Legacy Cir, Elizabeth, CO 80107
+2595001	12300 Route 47, Huntley, IL 60142
+2595002	18400 Hall Rd, Clinton Township, MI 48038
+2595003	151 Myrtle Ridge Dr, Conway, SC 29526
+2595004	ERROR
+2595005	180 N 3400 W, Hurricane, UT 84737
+2595006	4302 W Gandy Blvd, Tampa, FL 33611
+2595007	164 Camp Creek Pkwy, Gordonsville, VA 22942
+2595009	275 N Gulph Rd, King Of Prussia, PA 19406
+2595010	4689 W Cedar Hills Dr, Cedar Hills, UT 84062
+2595012	1274 S Us 189, Heber City, UT 84032
+2595013	2415 N Bloomington St, Streator, IL 61364
+2595014	4975 Transit Rd, Lancaster, NY 14086
+2595015	6600 W Nob Hill Blvd, Yakima, WA 98908
+2595016	5075 Gosford Rd, Bakersfield, CA 93313
+2595017	2220 State Route 27, Edison, NJ 08817
+2595018	550 Congressional Dr, Lawrence, KS 66049
+2595019	250 Wildcat Dr, Brawley, CA 92227
+2595020	580 Us Highway 9, Lanoka Harbor, NJ 08734
+2595021	15555 Hesperian Blvd, San Leandro, CA 94579
+2595022	405 Murtha Dr, Waynesburg, PA 15370
+2595023	7000 E Michigan Ave, Saline, MI 48176
+2595024	820 Cooper St, Woodbury, NJ 08096
+2595025	2266 Wyoming Blvd Ne, Albuquerque, NM 87112
+2595026	545 Garden City Connector, Murrells Inlet, SC 29576
+2595027	3848 Mchenry Ave, Modesto, CA 95356
+2595028	8599 High Pointe Dr, Newburgh, IN 47630
+2595029	5010 Steiner Way, Grovetown, GA 30813
+2595031	5141 Nc Highway 42 W, Garner, NC 27529
+2595032	175 Highway 274, Lake Wylie, SC 29710
+2595033	1876 Main St W, Locust, NC 28097
+2595034	ERROR
+2595035	ERROR
+2595036	ERROR
+2595038	800 E Southern Ave, Tempe, AZ 85282
+2595040	ERROR
+2595041	ERROR
+2595043	ERROR
+2622222	441 Commerce Dr, Victor, NY 14564
+2622224	220 N Adair St, Cornelius, OR 97113
+2622225	10048 Charlotte Hwy, Indian Land, SC 29707
+2622226	11 Village Pkwy, Fredericksburg, VA 22406
+2622227	26036 Lankford Hwy, Onley, VA 23418
+2622228	25 Tobias Boland Way, Worcester, MA 01607
+2622229	6405 W Pointe Parkway, Post Falls, ID 83854
+2622230	1636 Hendersonville Rd, Asheville, NC 28803
+2622231	136 W State Road 73, Saratoga Springs, UT 84045
+2622232	1180 Dutch Fork Rd, Irmo, SC 29063
+2622233	10251 Shops Ln, Jacksonville, FL 32258
+2622234	Kenai Spur & Marathon Rd., Kenai, AK 99611
+2622235	7101 E 128Th Ave, Brighton, CO 80602
+2622236	5825 Thunder Rd, Concord, NC 28027
+2622237	10400 Highland Rd, Hartland, MI 48353
+2622238	505 Oakville Rd, Appomattox, VA 24522
+2622239	135 Stoneridge Dr, Ruckersville, VA 22968
+2622240	3227 Old Forest Rd, Lynchburg, VA 24501
+2622241	2 Gannett Dr, Johnson City, NY 13790
+2622242	2150 E 1St St, Grimes, IA 50111
+2622243	174 Passaic St, Garfield, NJ 07026
+2622244	170 Cochrane Plz, Morgan Hill, CA 95037
+2622245	1100 Old Philadelphia Rd, Jasper, GA 30143
+2622246	4545 Fayetteville Rd, Raeford, NC 28376
+2622249	29574 7 Mile Rd, Livonia, MI 48152
+2627816	730 W Exchange Pkwy, Allen, TX 75013
+2627820	1118 Silber Rd, Houston, TX 77055
+2627821	1486 Dike Access Rd, Woodland, WA 98674
+2627822	4010 172Nd St, Arlington, WA 98223
+2627823	12236 Montana Ave, El Paso, TX 79938
+2627824	303 Fallston Blvd, Fallston, MD 21047
+2627825	1945 Wall Ave, Ogden, UT 84401
+2627826	ERROR
+2627827	2601 E Huntington Dr, Flagstaff, AZ 86004
+2627828	1325 Main, Taylor, PA 18517
+2627829	50 Newberry Pkwy, Etters, PA 17319
+2627830	1 Coopertown Blvd, Somerdale, NJ 08083
+2627831	8000 Town Dr., Raleigh, NC 27616
+2627832	8840 Benbrook Blvd, Benbrook, TX 76126
+2627833	4412 North Fwy, Houston, TX 77022
+2627834	501 E Lincoln Hwy, New Lenox, IL 60451
+2627835	2525 W Anderson Ln, Austin, TX 78757
+2627836	14030 Abercorn St, Savannah, GA 31419
+2627837	11350 Wickersham Blvd, Gretna, NE 68028
+2627838	1800 Tilden Ridge, Hamburg, PA 19526
+2627839	W159S6530 Moorland Rd, Muskego, WI 53150
+2627840	6660 Godfrey Rd, Godfrey, IL 62035
+2627886	4949 Bill Gardner Pkwy, Locust Grove, GA 30248
+2627888	1375 N Davis Rd., Salinas, CA 93907
+2627889	6303 Richmond Hwy, Alexandria, VA 22306
+2627890	ERROR
+2627891	45555 Michigan Ave, Canton, MI 48188
+2627892	262 Cordele Rd, Albany, GA 31705
+2627894	1196 John Sims Pkwy E, Niceville, FL 32578
+2627895	8555 Preston Rd, Frisco, TX 75034
+2627896	6712 Us Highway 98 W, Santa Rosa Beach, FL 32459
+2627897	800 Commerce Ave, Atwater, CA 95301
+2628361	1179 Riverview St, Grundy, VA 24614
+2628362	201 Hillcrest Pkwy, Chesapeake, VA 23322
+2628363	5900 Littlerock Rd Sw, Tumwater, WA 98512
+2628364	24 Quaker Ridge Blvd, Queensbury, NY 12804
+2628365	201 34Th St N, Saint Petersburg, FL 33713
+2628368	16375 Merchant Ln, King George, VA 22485
+2628369	6185 Retail Rd, Dallas, TX 75231
+2628371	14900 Dix Toledo Rd, Southgate, MI 48195
+2628372	8400 Coral Way, Miami, FL 33155
+2628376	88 E Orangethorpe Ave, Anaheim, CA 92801
+2642410	1010 Martin Luther King Parkway, Durham, NC 27713
+2642411	201 Maranto Manor Dr, Winchester, VA 22602
+2642412	6101 Saratoga Rd, Corpus Christi, TX 78412
+2642413	500 Bayonne Crossing Way, Bayonne, NJ 07002
+2642414	3625 S Federal Hwy, Boynton Beach, FL 33435
+2642415	3715 Ocean Beach Hwy 2, Longview, WA 98632
+2642416	34399 N Cave Creek Rd, Cave Creek, AZ 85331
+2642417	5701 Herrera Drive, Santa Fe, NM 87507
+2642418	11181 Lee Hwy, Fairfax, VA 22030
+2642419	400 S State Rd, Springfield, PA 19064
+2642420	1100 5Th Ave, Hammond, IN 46320
+2642845	13003 TOMBALL PKWY, HOUSTON, TX 77086
+2642846	915 MILLS DRIVE, NORTH HUNTINGDON, PA 15642
+2642847	1330 GOLDFISH FARM RD SE, ALBANY, OR 97322
+2642848	2421 POWELL AVE, NASHVILLE, TN 37204
+2642849	8331 S STEWART AVE, CHICAGO, IL 60620
+2642850	2470 WEST PULLMAN ROAD 2, MOSCOW, ID 83843
+2642851	2765 10TH AVE N, PALM SPRINGS, FL 33461
+2642852	13739 N CENTRAL EXPY, DALLAS, TX 75243
+2642853	12800 PINES BLVD, PEMBROKE PINES, FL 33027
+2643391	1221 FM 1187, Crowley, TX 76036
+2643392	250 VISTA KNOLL PARKWAY, Reno, NV 89506
+2643393	4200 SALEM RD, Covington, GA 30016
+2643394	1882 Holly St, Blair, NE 68008
+2643395	5511 DEEP LAKE RD, OVIEDO, FL 32765
+2643396	4368 CHANTILLY SHOPPING CENTER, CHANTILLY, VA 20151
+2643874	100 RYAN DRIVE, RED OAK, TX 75154
+2643875	91-600 FARRINGTON HWY, KAPOLEI, HI 96707
+2643876	34025 LA HIGHWAY 16, DENHAM SPRINGS, LA 70706
+2643877	14111 N PRASADA GATEWAY AVE, SURPRISE, AZ 85388
+2643878	2615 NE BOB BULLOCK LOOP, LAREDO, TX 78045
+2643879	5810 RANCH LAKE BLVD, BRADENTON, FL 34202
+2643880	5095 ALMADEN EXPY, SAN JOSE, CA 95118
+2643881	2200 WHEATSHEAF LN, PHILADELPHIA, PA 19137
+2643882	5631 DYER ST, EL PASO, TX 79904
+2643883	3750 S MOONEY BLVD, VISALIA, CA 93277
+2643904	ERROR
+2643905	ERROR
+2644159	1840 S Black Horse Pike, Willamstown, NJ 08094
+2644160	3300 Broadway Bayshore Mall, Eureka, CA 95501
+2644161	1550 Leucadia Blvd, Encinitas, CA 92024

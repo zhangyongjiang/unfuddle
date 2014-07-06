@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iPin Pro | Wordpress Pinterest Clone</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="shortcut icon" href="/favicon.ico">
+<link href="js/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="js/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="js/font-awesome/css/font-awesome.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+
+<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!--[if IE 7]>
+	  <link href="js/font-awesome/css/font-awesome-ie7.css" rel="stylesheet">
+	<![endif]-->
+</head>
+
+<body>
+<noscript>
+<div class="alert alert-error text-align-center">
+  <h3>You need to enable Javascript.</h3>
+</div>
+<style>
+	#masonry {
+	visibility: visible !important;	
+	}
+	</style>
+</noscript>
+<div id="topmenu" class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<i class="icon-bar"></i>
+					<i class="icon-bar"></i>
+					<i class="icon-bar"></i>
+				</a>
+
+<a href="http://www.onsalelocal.com"><img src="img/logo.png"  class="logo"></a>
+
+				<nav id="nav-main" class="nav-collapse" role="navigation">
+					<ul id="menu-top-right" class="nav pull-right">
+                              <li class="hidden-desktop"><a href="about.html">About</a></li>
+											<li class="hidden-desktop"><a href="http://www.ipin.gaoshin.com/wordpress/register/">Sign Up</a></li>
+						<li class="hidden-desktop"><a href="http://www.ipin.gaoshin.com/wordpress/login/?redirect_to=%2Fwordpress%2Flogin%2F%3Faction%3Dloggedout">Login</a></li>
+                                  <li class="visible-desktop"><a href="about.html">About</a></li>
+						<li class="visible-desktop" id="loginbox-wrapper"><a title="" data-original-title="" id="loginbox" data-content='
+<p class="social-login-connect-with">Connect with:</p>
+	<p><a rel="nofollow" href="#" ><img alt="Facebook" title="Facebook" src="img/assets/fb_login.jpg" />
+				</a></p> <hr />'  aria-hidden="true"><i class="icon-signin"></i> Register / Login</a>
+						</li>
+										</ul>
+					
+					<ul id="menu-top-menu" class="nav">
+                    <li class="dropdown menu-categories"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Categories <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-popular"><a href="http://www.ipin.gaoshin.com/wordpress/popular/">Popular</a></li>
+	<li class="menu-everything"><a href="http://www.ipin.gaoshin.com/wordpress/everything/">Everything</a></li>
+	<li class="menu-cloth"><a href="http://www.ipin.gaoshin.com/wordpress/pin/category/cloth/">Cloth</a></li>
+	<li class="menu-electronics"><a href="http://www.ipin.gaoshin.com/wordpress/pin/category/electronics/">Electronics</a></li>
+	<li class="menu-kids"><a href="http://www.ipin.gaoshin.com/wordpress/pin/category/kids/">Kids</a></li>
+	<li class="menu-local-services"><a href="http://www.ipin.gaoshin.com/wordpress/pin/category/local-services/">Local Services</a></li>
+	<li class="menu-man"><a href="http://www.ipin.gaoshin.com/wordpress/pin/category/man/">Man</a></li>
+	<li class="menu-shoes"><a href="http://www.ipin.gaoshin.com/wordpress/pin/category/shoes/">Shoes</a></li>
+	<li class="menu-woman"><a href="http://www.ipin.gaoshin.com/wordpress/pin/category/woman/">Woman</a></li>
+</ul>
+</li>
+<li><a href="#"><i class="icon-camera"></i> Share</a></li>
+</ul>	
+									
+<a href="#" title="Find us on iTune store" class="topmenu-social"><i class=" icon-2x icon-apple"></i></a> 
+
+<a href="#" title="Find us on Google Play" class="topmenu-social"><i class=" icon-2x  icon-android"></i></a>
+					
+					<form class="navbar-search" method="get" id="searchform" action="http://www.ipin.gaoshin.com/wordpress/">
+						<input class="search-query" placeholder="Search" name="s" id="s" type="text">
+					</form>
+				</nav>
+			</div>
+		</div>
+	</div>
+<div class="container wrapper">
+<div class="row">
+<div class="span8 offset2">
+   <div class="alert alert-success">
+                      <button type="button" class="close" data-dismiss="alert">&times;</button><strong>Logout Successfully.</strong>
+</div> 
+        <h2 class="text-align-center">Login</h2>
+</div>
+</div>
+	<div class="row">
+    <div class="span6 offset3">	
+    <div class="box-wrapper">		  
+          <!-- Login form -->
+      <form name="loginform" id="loginform" action="http://www.ipin.gaoshin.com/wordpress/wp-login.php" method="post" class="form-horizontal box-content">
+    <fieldset>
+       <!-- Email address-->
+       
+    <div class="control-group">
+    <label class="control-label">Email Address</label>
+    <div class="controls">
+    <input name="email" id="email" class="span3" type="email">
+    <p class="help-block">
+   <div class="alert alert-error">
+                      <button type="button" class="close" data-dismiss="alert">&times;</button>Please input a valid email address.
+</div> 
+    </p>
+    </div>
+    </div>
+    <!-- Passoword-->
+    <div class="control-group">
+    <label class="control-label">Password</label>
+    <div class="controls">
+    <input name="pass" id="pass" class="span3"  value="" autocomplete="off" type="password">
+    <p class="help-block"></p>
+    </div>
+    </div>
+          <!-- Signin select -->
+    <div class="control-group">
+        <label class="control-label"></label>
+    <div class="controls">
+   
+        <p><input class="btn btn-danger btn-large" name="submit" id="submit" value="Login" type="submit" ></p>
+          </div></div>
+
+    </fieldset>
+    </form></div>
+				<p class="moreoptions text-align-center">
+				<a href="http://www.ipin.gaoshin.com/wordpress/register/">Sign up free account</a> | 
+				<a href="http://www.ipin.gaoshin.com/wordpress/login-lpw/">Lost your password?</a>
+				</p>
+</div></div>
+</div>
+<div style="display: none;" id="scrolltotop"><a href="#"><i class="icon-chevron-up"></i><br>Top</a></div>
+
+<div class="modal hide" id="post-lightbox" tabindex="-1" role="dialog" aria-hidden="true"></div>
+
+<div class="clearfix"></div>
+
+
+    <div class="footer">
+    <div class="container">	
+    <div class="row">
+    <div class="span7">
+	<div class="well-text">You can have more fun when you use our app on your phone.</div>
+    <p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,</p>
+    <ul class="mobile">
+    <li><a target="_blank" rel="me" href="#"><i class="icon-2x icon-apple"></i> Download for iPhone</a></li>
+    <li><a target="_blank" rel="me" href="#"><i class="icon-2x icon-android"></i> Download for Android </a></li>
+    </ul>
+    <div class="clearfix"></div>
+    <p>Have Questions? mail us: <a href="#">hello@onsalelocal.com</a></p>
+    </div>
+<div class="span1"></div>
+    <div class="span4 visible-desktop" style="position:relative">
+<div class="app-phone"><img src="img/assets/mobile-300.png"></div>
+    </div>
+    </div>
+    </div>
+    </div>
+        <div class="socket">   
+<div class="container">
+<div class="row">
+    <div class="span6">
+    <a href="#">Terms of Use</a> - <a href="#">Privacy Policy</a> - <a href="#">Contact</a>
+    </div>
+    <div class="span6">
+    <p class="muted pull-right">© 2013 Onsalelocal Inc. All rights reserved</p>
+    </div><div class="clearfix"></div>
+    </div>
+</div>
+</div>
+    
+<script type='text/javascript' src="js/jquery1.10.2.js"></script> 
+<script type='text/javascript' src='js/jquery-migrate.min.1.2.1.js'></script> 
+<script type='text/javascript' src='js/jquery.masonry.min.js'></script> 
+<script type='text/javascript' src='js/jquery.infinitescroll.min.js'></script> 
+<script type='text/javascript' src='js/bootstrap/js/bootstrap.min.js'></script> 
+<script type='text/javascript' src='js/bootstrap-lightbox.min.js'></script> 
+<script type='text/javascript'>
+/* <![CDATA[ */
+var obj_ipin = {"__allitemsloaded":"All items loaded","__addanotherpin":"Add Another Pin","__addnewboard":"Add new board...","__boardalreadyexists":"Board already exists. Please try another title.","__errorpleasetryagain":"Error. Please try again.","__cancel":"Cancel","__close":"Close","__comment":"comment","__comments":"comments","__enternewboardtitle":"Enter new board title","__Forgot":"Forgot?","__incorrectusernamepassword":"Incorrect Username or Password","__invalidimagefile":"Invalid image file. Please choose a JPG\/GIF\/PNG file.","__like":"like","__likes":"likes","__Likes":"Likes","__loading":"Loading...","__Login":"Login","__onto":"onto","__or":"or","__Password":"Password","__pinit":"Pin It","__pinnedto":"Pinned to","__pleaseenteratitle":"Please enter a title","__pleaseenterbothusernameandpassword":"Please enter both username and password.","__pleaseenterurl":"Please enter url","__RegisterAccount":"Register Account","__repin":"repin","__repins":"repins","__Repins":"Repins","__repinnedto":"Repinned to","__seethispin":"See This Pin","__sorryunbaletofindanypinnableitems":"Sorry, unable to find any pinnable items.","__Username":"Username","__Video":"Video","__Welcome":"Welcome","__yourpinispendingreview":"Your pin is pending review","ajaxurl":"http:\/\/ipinpro.ericulous.com\/wp-admin\/admin-ajax.php","avatar30":"<img alt='' src='http:\/\/0.gravatar.com\/avatar\/ad516503a11cd5ca435acc9bb6523536?s=30' class='avatar avatar-30 photo avatar-default' height='30' width='30' \/>","avatar48":"<img alt='' src='http:\/\/0.gravatar.com\/avatar\/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 photo avatar-default' height='48' width='48' \/>","blogname":"iPin Pro","categories":"<select name='board-add-new-category' id='board-add-new-category' class='postform' >\n\t<option value='-1'>Category for New Board<\/option>\n\t<option class=\"level-0\" value=\"6\">Architecture<\/option>\n\t<option class=\"level-0\" value=\"8\">Cars & Motorcycles<\/option>\n\t<option class=\"level-0\" value=\"9\">Celebrities<\/option>\n\t<option class=\"level-0\" value=\"10\">Design<\/option>\n\t<option class=\"level-0\" value=\"13\">Film, Music & Books<\/option>\n\t<option class=\"level-0\" value=\"18\">Health & Fitness<\/option>\n\t<option class=\"level-0\" value=\"22\">Humour<\/option>\n\t<option class=\"level-0\" value=\"25\">Men\u2019s Fashion<\/option>\n\t<option class=\"level-0\" value=\"31\">Sports<\/option>\n\t<option class=\"level-0\" value=\"33\">Technology<\/option>\n\t<option class=\"level-0\" value=\"99\">Videos<\/option>\n\t<option class=\"level-0\" value=\"36\">Women\u2019s Fashion<\/option>\n<\/select>\n","current_date":"12 Aug 2013 7:18am","description_instructions":"<div class=\"description_instructions\">Allowed HTML tags: <span>&lt;strong> &lt;em> &lt;a> &lt;blockquote><\/span>. To add price tag, use <span>$<\/span> symbol e.g $23 or $23.45. To add tags, input <span>tags[<em>text1, text2<\/em>]<\/span><\/div>","home_url":"http:\/\/ipinpro.ericulous.com","infinitescroll":"enable","lightbox":"enable","login_url":"http:\/\/ipinpro.ericulous.com\/login\/?redirect_to=%2F","nextselector":"#navigation #navigation-next a","nonce":"0b4d362a84","site_url":"http:\/\/ipinpro.ericulous.com","stylesheet_directory_uri":"http:\/\/ipinpro.ericulous.com\/wp-content\/themes\/ipinpro","u":"0","ui":"","ul":"","user_rewrite":"user"};
+/* ]]> */
+</script> 
+<script type='text/javascript' src='js/ipin.custom.js'></script> 
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script> 
+<script type='text/javascript' src='http://assets.pinterest.com/js/pinit.js'></script> 
+<script type="text/javascript">
+st_go({blog:'46345223',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(46345223,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+</body>
+</html>

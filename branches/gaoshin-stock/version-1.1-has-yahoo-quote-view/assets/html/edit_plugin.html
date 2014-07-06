@@ -1,0 +1,85 @@
+<html>
+<head>
+<script type="text/javascript" src="json2.js"></script>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">
+	function init() {
+		var json = android.get();
+		var plugin = JSON.parse(json);
+		if(plugin.id == null) {
+			$('#btnDelete').hide();
+		}
+
+		try {
+			$('#name').val(plugin.name);
+		}catch (e) {}
+		
+		try {
+			$('#url').val(plugin.url);
+		}catch (e) {}
+	
+		try {
+			$('#icon').val(plugin.icon);
+		}catch (e) {}
+	
+		try {
+			$('#descrption').innerHTML(plugin.description);
+		}catch (e) {}
+	
+	}
+
+	function cancel() {
+		android.exit();
+	}
+
+	function deletePlugin() {
+	}
+
+	function save() {
+		var map = {
+			"name" : $('#name').val(),
+			"url" : $('#url').val(),
+			"icon" : $('#icon').val(),
+		};
+		var json = JSON.stringify(map);
+		var err = android.save(json);
+		if(err != null) {
+			alert("cannot save. err msg: " + err);
+		}
+		else {
+			android.exit();
+		}
+	}
+
+	$(document).ready(init);
+</script>
+</head>
+<body>
+
+<div style="width:100%;font-size:1.5em;">
+
+	Name:<br/>
+	<input type="text" name="name" id="name" style="width:100%;"/>
+	<br/><br/>
+
+	URL:<br/>
+	<textarea name="url" id="url" style="width:100%;height:100px;"></textarea>
+	<br/><br/>
+
+	ICON:<br/>
+	<input type="text" name="icon" id="icon" style="width:100%;"/>
+	<br/><br/>
+	
+	Description:<br/>
+	<div style="" id="description"></div>
+	
+<table style="margin-top:16px;font-size:1.5em;" cellpadding="4">
+	<tr>
+		<td><input type="button" onClick="save()" id="btnSave" value="Save"/></td>
+		<td><input type="button" onClick="deletePlugin()" id="btnDelete" value="Delete"/></td>
+		<td><input type="button" onClick="cancel()" id="btnCancel" value="Cancel"/></td>
+	</tr>
+</table>
+
+</div>
+</body></html>

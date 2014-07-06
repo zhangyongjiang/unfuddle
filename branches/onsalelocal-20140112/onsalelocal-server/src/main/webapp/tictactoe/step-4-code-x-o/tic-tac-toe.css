@@ -1,0 +1,10 @@
+table {
+    border:solid 3px #000;
+}
+td {
+    border:solid 1px #aaa;
+    width:100px;
+    height:100px;
+    text-align: center;
+    vertical-align: middle;
+}

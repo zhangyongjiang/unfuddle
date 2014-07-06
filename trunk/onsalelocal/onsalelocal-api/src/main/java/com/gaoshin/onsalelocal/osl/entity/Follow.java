@@ -1,0 +1,49 @@
+package com.gaoshin.onsalelocal.osl.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
+
+import common.db.entity.DbEntity;
+
+@Entity
+@Table
+@XmlRootElement
+public class Follow extends DbEntity {
+	@Column(nullable = true, length = 64)
+	private String userId;
+
+	@Column(nullable = true, length = 64)
+	private String followerId;
+
+    @Column(nullable=false, length=64) @Enumerated(EnumType.STRING) 
+    private FollowStatus status;
+
+    public String getUserId() {
+		return userId;
+	}
+
+	public void setUserId(String userId) {
+		this.userId = userId;
+	}
+
+	public String getFollowerId() {
+	    return followerId;
+    }
+
+	public void setFollowerId(String followerId) {
+	    this.followerId = followerId;
+    }
+
+	public FollowStatus getStatus() {
+	    return status;
+    }
+
+	public void setStatus(FollowStatus status) {
+	    this.status = status;
+    }
+
+}

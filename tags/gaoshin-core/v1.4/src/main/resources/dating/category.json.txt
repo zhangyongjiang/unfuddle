@@ -1,0 +1,30 @@
+{
+	"name": "Dating",
+	"dimensions": [
+		{
+			"name": "Looking For",
+			"values": [
+				{"dvalue": "Man"},
+				{"dvalue": "Woman"},
+				{"dvalue": "Friends"}
+			]
+		},
+		{
+			"name": "Race",
+			"values": [
+				{"dvalue": "White"},
+				{"dvalue": "Black"},
+				{"dvalue": "Asia"}
+			]
+		},
+		{
+			"name": "Kids",
+			"values": [
+				{"dvalue": "0"},
+				{"dvalue": "1"},
+				{"dvalue": "2"},
+				{"dvalue": ">2"}
+			]
+		}
+	]
+}

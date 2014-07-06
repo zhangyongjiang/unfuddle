@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="1.0">
+    <persistence-unit name="OpenAndGreenPersistenceUnit" transaction-type="RESOURCE_LOCAL">
+        <class>com.gaoshin.entity.CategoryEntity</class>
+        <class>com.gaoshin.entity.DimensionValueEntity</class>
+        <class>com.gaoshin.entity.DimensionEntity</class>
+        <class>com.gaoshin.entity.UserLocationEntity</class>
+        <class>com.gaoshin.entity.DeviceLocationEntity</class>
+        <class>com.gaoshin.entity.ObjectDimensionValueEntity</class>
+        <class>com.gaoshin.entity.CatDimRelationEntity</class>
+        <class>com.gaoshin.entity.ObjectEntity</class>
+        <class>com.gaoshin.entity.UserEntity</class>
+        <class>com.gaoshin.entity.UserDeviceEntity</class>
+        <class>com.gaoshin.entity.FriendEntity</class>
+        <class>com.gaoshin.entity.GroupEntity</class>
+        <class>com.gaoshin.entity.GroupMemberEntity</class>
+        <class>com.gaoshin.entity.PostEntity</class>
+        <class>com.gaoshin.entity.MessageEntity</class>
+        <class>com.gaoshin.entity.UserDimensionValueEntity</class>
+        <class>com.gaoshin.entity.ConfigurationEntity</class>
+        <class>com.gaoshin.entity.NotificationEntity</class>
+        <class>com.gaoshin.entity.ClientLogEntity</class>
+        <class>com.gaoshin.entity.ReviewEntity</class>
+        <class>com.gaoshin.entity.UserResourceEntity</class>
+        <class>com.gaoshin.entity.ReviewSummaryEntity</class>
+        <class>com.gaoshin.amazon.ItemEntity</class>
+        <class>com.gaoshin.amazon.ItemInterestEntity</class>
+        <class>com.gaoshin.amazon.NodeInterestEntity</class>
+        <class>com.gaoshin.amazon.BrowseNodeEntity</class>
+        <class>com.gaoshin.dating.DatingProfileEntity</class>
+        <class>com.gaoshin.dating.SearchCriteriaEntity</class>
+        <properties>
+            <property name="eclipselink.weaving.changetracking" value="false" />
+            <property name="eclipselink.weaving" value="static" />
+        </properties>
+    </persistence-unit>
+</persistence>

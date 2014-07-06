@@ -1,0 +1,1 @@
+terms of use place holder

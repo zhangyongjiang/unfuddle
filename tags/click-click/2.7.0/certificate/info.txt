@@ -1,0 +1,2 @@
+alias: shortcut
+coding for fun

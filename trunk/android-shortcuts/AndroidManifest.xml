@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.gaoshin.shortcut" android:versionCode="20805"
+	android:versionName="2.8.5">
+	<uses-sdk android:minSdkVersion="5" />
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.GET_TASKS" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.CALL_PHONE" />
+	<uses-permission android:name="android.permission.RESTART_PACKAGES" />
+	<uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+	<!--uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> 
+		<uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> 
+		<uses-permission android:name="com.android.launcher2.permission.READ_SETTINGS"/> 
+		<uses-permission android:name="com.android.launcher2.permission.WRITE_SETTINGS"/ -->
+
+	<application android:name="com.gaoshin.top.TopApplication"
+		android:icon="@drawable/star_48" android:label="@string/app_name">
+		<activity android:name="com.gaoshin.top.ShortcutListActivity"
+			android:theme="@android:style/Theme.NoTitleBar" android:launchMode="singleTop"
+			android:screenOrientation="portrait" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+		<activity android:name="com.gaoshin.top.ShortcutDisableActivity"
+			android:icon="@drawable/disable_star_48"
+			android:theme="@android:style/Theme.NoTitleBar" android:launchMode="singleTop"
+			android:screenOrientation="portrait" android:label="Hide Click-Click">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		
+		<activity android:name="com.gaoshin.top.ShortcutEnableActivity"
+			android:theme="@android:style/Theme.NoTitleBar" android:launchMode="singleTop"
+			android:screenOrientation="portrait" android:label="Enable Click-Click">
+		</activity>
+		
+		<activity android:name="com.gaoshin.top.ShortcutEditActivity"
+			android:theme="@android:style/Theme.NoTitleBar" android:launchMode="singleTop"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"
+			android:label="Edit Shortcut">
+		</activity>
+
+		<activity android:name="com.gaoshin.top.WebViewActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"
+			android:label="Info &amp; Help">
+		</activity>
+
+		<activity android:name="com.gaoshin.top.SettingsActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"
+			android:label="Settings">
+		</activity>
+
+		<activity android:name="com.gaoshin.top.ShortcutGroupActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"
+			android:label="Shortcut Group Editor">
+		</activity>
+
+		<activity android:name="com.gaoshin.top.ShortcutGroupPositionActivity"
+			android:theme="@style/Theme.Transparent"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"
+			android:label="Shortcut Group Position">
+		</activity>
+
+		<activity android:name="com.gaoshin.top.IconPickerActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"
+			android:label="Pick up an icon">
+		</activity>
+
+		<activity android:name="com.gaoshin.top.plugin.dialer.SpeedDialerActivity"
+			android:label="@string/builtinDialer" android:icon="@drawable/dialer"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:launchMode="singleTask"
+			android:windowSoftInputMode="stateHidden" />
+		<activity android:name="com.gaoshin.top.plugin.dialer.CallShortcutEditActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden" />
+
+		<activity android:name="com.gaoshin.top.plugin.sms.SpeedSmsActivity"
+			android:label="@string/builtinMessage" android:icon="@drawable/sms_64"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:launchMode="singleTask"
+			android:windowSoftInputMode="stateHidden" />
+		<activity android:name="com.gaoshin.top.plugin.sms.SmsShortcutEditActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden" />
+
+		<activity android:name="com.gaoshin.top.plugin.internet.SpeedInternetActivity"
+			android:label="@string/builtinInternet" android:icon="@drawable/internet"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:launchMode="singleTask"
+			android:windowSoftInputMode="stateHidden" />
+		<activity
+			android:name="com.gaoshin.top.plugin.internet.InternetShortcutEditActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden" />
+
+		<activity android:name="com.gaoshin.top.plugin.email.SpeedEmailActivity"
+			android:label="@string/builtinEmail" android:icon="@drawable/yellow_mail"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:launchMode="singleTask"
+			android:windowSoftInputMode="stateHidden" />
+		<activity android:name="com.gaoshin.top.plugin.email.EmailShortcutEditActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden" />
+
+		<activity android:name="com.gaoshin.top.plugin.generic.SpeedViewActivity"
+			android:label="@string/builtinGeneric" android:icon="@drawable/star_bw_256"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:launchMode="singleTask"
+			android:windowSoftInputMode="stateHidden" />
+		<activity
+			android:name="com.gaoshin.top.plugin.generic.GenericShortcutEditActivity"
+			android:theme="@android:style/Theme.NoTitleBar"
+			android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden" />
+
+		<activity android:name="com.gaoshin.top.SearchActivity"
+			android:theme="@android:style/Theme.Translucent.NoTitleBar">
+			<intent-filter>
+				<action android:name="android.intent.action.SEARCH_LONG_PRESS" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+
+		<service android:enabled="true" android:name="com.gaoshin.top.TopService">
+			<intent-filter>
+				<action android:name="com.gaoshin.top.TopService"></action>
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.CONFIGURATION_CHANGED" />
+			</intent-filter>
+		</service>
+
+		<service android:enabled="true" android:name="com.gaoshin.top.ShortcutService">
+			<intent-filter>
+				<action android:name="com.gaoshin.top.ShortcutService"></action>
+			</intent-filter>
+		</service>
+
+		<service android:enabled="true" android:name="com.gaoshin.top.TimerService">
+			<intent-filter>
+				<action android:name="com.gaoshin.top.TimerService"></action>
+			</intent-filter>
+		</service>
+
+		<receiver android:name="com.gaoshin.top.BootReceiver">
+			<intent-filter>
+				<action android:name="android.intent.action.BOOT_COMPLETED" />
+			</intent-filter>
+		</receiver>
+
+		<receiver android:name="com.gaoshin.top.PhoneListener" android:enabled="true">
+			<intent-filter android:priority="100">
+				<action android:name="android.intent.action.PHONE_STATE" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+			</intent-filter>
+		</receiver>
+		
+		<provider android:authorities="com.gaoshin.top.TopContentProvider"
+			android:name="com.gaoshin.top.TopContentProvider" />
+
+		<activity android:name="com.gaoshin.top.TestActivity">
+		</activity>
+	</application>
+</manifest>

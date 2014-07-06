@@ -1,0 +1,11 @@
+<solr persistent="true" sharedLib="lib">
+	<property name="numOfShards" value="2" />
+	<property name="db" value="jdbc:mysql://localhost:3306/coupon_stage" />
+	<property name="enable.master" value="false" />
+	<property name="enable.slave" value="false" />
+	<property name="master.server" value="http://fs1.raved.com" />
+	
+	<cores adminPath="/admin/cores">
+		<core name="coupon" instanceDir="coupon" />
+	</cores>
+</solr>

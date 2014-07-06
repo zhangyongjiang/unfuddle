@@ -1,0 +1,45 @@
+package com.gaoshin.appbooster.webservice;
+
+import java.util.HashSet;
+
+import javax.ws.rs.ext.ContextResolver;
+import javax.ws.rs.ext.Provider;
+import javax.xml.bind.JAXBContext;
+
+import com.gaoshin.appbooster.bean.RewardList;
+import com.gaoshin.appbooster.bean.ApplicationList;
+import com.gaoshin.appbooster.bean.CategoryList;
+import com.gaoshin.appbooster.entity.User;
+import com.sun.jersey.api.json.JSONConfiguration;
+import com.sun.jersey.api.json.JSONJAXBContext;
+
+@Provider
+public class JAXBContextResolver implements ContextResolver<JAXBContext> {
+    private JAXBContext context;
+    private HashSet<Class> allTypes = new HashSet<Class>();
+    private Class[] types = {
+            User.class,
+            CategoryList.class,
+            ApplicationList.class,
+            RewardList.class,
+            };
+
+    public JAXBContextResolver() throws Exception {
+        this.context = new JSONJAXBContext(JSONConfiguration
+                .mapped()
+                .arrays("list", "children", "items", "scenes", "msgs",
+                        "values", "ucmList", "members", "attrNames",
+                        "friends", "checkins", "pageFans", "pages", "dailyHours").build(),
+                types);
+        for (Class type : types) {
+            allTypes.add(type);
+        }
+    }
+
+    public JAXBContext getContext(Class<?> objectType) {
+        if(allTypes.contains(objectType))
+            return context;
+        else
+            return null;
+    }
+}

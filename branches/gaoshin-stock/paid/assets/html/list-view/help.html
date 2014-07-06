@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport" />
+<style>
+.tool {padding:6px;}
+</style>
+</head>
+<body>
+<button onclick="history.back()">Back</button>
+<div style="margin:16px;">
+	<div id='div_exit' class='tool'><img valign="middle" id='img_exit' src='exit_32.png' onClick='android.exit()'/>&nbsp;&nbsp;Quit Gaoshin Stock application</div>
+	<div id='div_refresh' class='tool'><img valign="middle" id='img_refresh' src='refresh_32.gif' onClick='window.location.reload()'/>&nbsp;&nbsp;Refresh current page</div>
+	<div id='div_quote' class='tool'><img valign="middle" id='img_quote' src='profile_32.gif' onClick='selectProfileView()'/>&nbsp;&nbsp;See quote and profile of current selected symbol</div>
+	<div id='div_chart' class='tool'><img valign="middle" id='img_chart' src='chart_32.png' onClick='selectChartView()'/>&nbsp;&nbsp;Chart of current selected symbol</div>
+	<div id='div_add' class='tool'><img valign="middle" id='img_add' src='add.png' onClick='android.addSymbol(currentGroup.id)'/>&nbsp;&nbsp;Add a new symbol to the list</div>
+	<div id='div_up' class='tool'><img valign="middle" id='img_up' src='up_32.png' onClick='moveUp()'/>&nbsp;&nbsp;Move current selected symbol up</div>
+	<div id='div_down' class='tool'><img valign="middle" id='img_down' src='down_32.png' onClick='moveDown()'/>&nbsp;&nbsp;Move current selected symbol down</div>
+	<div id='div_delete' class='tool'><img valign="middle" id='img_delete' src='delete_32.png' onClick='removeCurrentSymbol()'/>&nbsp;&nbsp;Remove current selected symbol</div>
+	<div id='div_help' class='tool'><img valign="middle" id='img_help' src='help_32.png' onClick='help()'/>&nbsp;&nbsp;This help</div>
+</div>
+<button onclick="history.back()">Back</button>
+</body>

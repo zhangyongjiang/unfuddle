@@ -1,0 +1,1714 @@
+address	city	state	latitude	longitude
+2485 El Camino Real	Redwood City	CA	37.47513	-122.21762
+1010 N El Camino Real	Encinitas	CA	33.06312	-117.26472
+6150 W Touhy Ave	Niles	IL	42.01279	-87.78039
+1057 Eastshore Hwy	Berkeley	CA	37.88300	-122.30681
+1040 DALE MABRY HWY	Lutz	FL	0.00000	0.00000
+16858 Golden Valley Pkwy	Lathrop	CA	0.00000	0.00000
+4737 VALLEY VIEW BLVD. NW	Roanoke	VA	0.00000	0.00000
+7800 S LOVERS LANE RD	Franklin	WI	0.00000	0.00000
+3850 Hempstead Tpke	Levittown	NY	40.72561	-73.49334
+1760 PALM BEACH LAKES BLVD	West Palm Bch	FL	0.00000	0.00000
+400 Sawmill Hollow Rd	Swanton	MD	39.49838	-79.26934
+298 W Mckinley Ave	Sunnyvale	CA	37.37161	-122.03826
+4155 W Lake Mary Blvd	Lake Mary	FL	0.00000	0.00000
+5900 Lake Worth Rd	Lake Worth	FL	0.00000	0.00000
+2600 Holcomb Bridge Rd	Alpharetta	GA	33.99775	-84.28339
+1235 POINT MALLARD PKWY SE	Decatur	AL	0.00000	0.00000
+2151 Monterey Hwy	San Jose	CA	0.00000	0.00000
+13301 Gateway Center Dr	Gainesville	VA	0.00000	0.00000
+5115 Leesburg Pike	Falls Church	VA	0.00000	0.00000
+3401 Mall View Rd	Bakersfield	CA	0.00000	0.00000
+1555 40th St	Emeryville	CA	0.00000	0.00000
+1555 40TH STREET	Emeryville	CA	0.00000	0.00000
+16200 SE MILL PLAIN BLVD	Vancouver	WA	0.00000	0.00000
+74-5455 MAKALA BLVD	Kailua Kona	HI	0.00000	0.00000
+6000 NORTH POINT PARKWAY	Alpharetta	GA	0.00000	0.00000
+50 Holyoke St	Holyoke	MA	42.17195	-72.64008
+1717 Route 228	Cranberry Twp	PA	40.68561	-80.08344
+2535 Dallas Hwy SW	Marietta	GA	33.94606	-84.62610
+26 White Bridge Rd	Nashville	TN	36.12660	-86.85430
+1180 Thorpe Ln	San Marcos	TX	29.88741	-97.92371
+3092 N Eastman Rd	Longview	TX	32.54910	-94.72644
+250 W Esplanade Dr	Oxnard	CA	34.23131	-119.17528
+115 N Randall Rd	Batavia	IL	41.85161	-88.34051
+255 Pond Path	South Setauket	NY	40.88250	-73.10295
+1100 Hansel Ave	Florence	KY	39.01852	-84.63341
+9070 Dixie Hwy	Louisville	KY	38.12280	-85.85465
+5776 Stemmons	San Antonio	TX	29.48173	-98.59888
+1021 W University Ave	Georgetown	TX	30.63291	-97.69580
+1490 County Road 220	Orange Park	FL	30.10370	-81.70810
+46 Ash Brook Rd	Keene	NH	42.92630	-72.30130
+1400 Tamiami Trl	Port Charlotte	FL	27.01204	-82.14375
+6104 W Washington St	Phoenix	AZ	33.44801	-112.19183
+1708 N Central Ave	Marshfield	WI	44.68269	-90.16226
+7951 Nolpark Ct	Glen Burnie	MD	39.13349	-76.63330
+5800 20th St	Vero Beach	FL	27.63905	-80.44740
+3100 Highway 365	Port Arthur	TX	29.94770	-93.98770
+15 McKenna Rd	Arden	NC	35.44739	-82.53666
+19105 Golden Valley Rd	Santa Clarita	CA	34.39399	-118.46480
+9600 Westview Dr	Coral Springs	FL	26.29701	-80.25164
+3100 Fairlane Dr	Allen Park	MI	42.28459	-83.20367
+17502 La Cantera Pkwy	San Antonio	TX	29.60837	-98.60964
+4201 W Division St	Saint Cloud	MN	45.55346	-94.21037
+11120 Lomas Blvd NE	Albuquerque	NM	35.08702	-106.52696
+1901 13th Ave E	Tuscaloosa	AL	33.19592	-87.51925
+1600 N Cedar Crest Blvd	Allentown	PA	40.61324	-75.53315
+1685 17th Ave E	Shakopee	MN	44.77550	-93.50189
+1300 Long Grove Dr	Mount Pleasant	SC	32.82360	-79.81770
+220 S River Rd	Bedford	NH	42.94250	-71.47220
+1940 W 33rd St	Chicago	IL	41.83407	-87.67396
+1515 E Warner Rd	Gilbert	AZ	33.33561	-111.75926
+3210 N Tenaya Way	Las Vegas	NV	36.21859	-115.25138
+15025 Manchester Rd	Ballwin	MO	38.59294	-90.54780
+1200 S Nellis Blvd	Las Vegas	NV	36.15200	-115.06500
+9 City Pl	White Plains	NY	41.03306	-73.76514
+201 E Central Texas Expy	Harker Heights	TX	31.07410	-97.66339
+3151 E 7th St	Joplin	MO	37.08431	-94.47390
+5680 Balboa Ave	San Diego	CA	32.82022	-117.17929
+12100 Harbor Blvd	Garden Grove	CA	33.78730	-117.91500
+1621 S Alameda St	Compton	CA	33.88090	-118.21953
+4097 E Blue Grass Rd	Mount Pleasant	MI	43.57540	-84.76470
+1640 N Main St	Salinas	CA	36.70947	-121.65374
+300 N Point Pkwy	Alpharetta	GA	34.08589	-84.25720
+6850 Ridge Rd	Cleveland	OH	41.37770	-81.73620
+8605 Westheimer Rd	Houston	TX	29.73533	-95.51767
+2950 S Chase Ave	Milwaukee	WI	42.99126	-87.90963
+3699 Highway 95	Bullhead City	AZ	35.05113	-114.59182
+913 Norland Ave	Chambersburg	PA	39.94266	-77.63265
+3343 Corridor Marketplace	Laurel	MD	39.09779	-76.80620
+5901 Douglas Ave	Des Moines	IA	41.62950	-93.69955
+1 Mifflin St	Philadelphia	PA	39.92389	-75.14692
+120 W Parker Rd	Plano	TX	33.03860	-96.70650
+900 E Lake Rd	Palm Harbor	FL	28.07378	-82.70420
+5579 Highway 153	Hixson	TN	35.14350	-85.24800
+25 Boston Post Rd	Orange	CT	41.27915	-72.98636
+3935 Venture Dr	Duluth	GA	33.95100	-84.14390
+35 Computer Dr	Haverhill	MA	42.78601	-71.11907
+4196 US Highway 1	Monmouth Junction	NJ	40.38090	-74.57590
+6295 W Waters Ave	Tampa	FL	28.02575	-82.54967
+39739 Lyndon B Johnson Fwy	Dallas	TX	32.65034	-96.86699
+201 Sunrise Blvd	Exton	PA	40.03946	-75.62989
+517 E 117th St	New York	NY	40.79542	-73.93412
+2380 W International Speedway Blvd	Daytona Beach	FL	29.18390	-81.08010
+1505 Riverview Rd	Saint Peter	MN	44.31236	-93.97433
+6636 N 73rd Plz	Omaha	NE	41.31934	-96.02539
+6801 Cypress Creek Pkwy	Houston	TX	29.97044	-95.53160
+4200 Portsmouth Blvd	Chesapeake	VA	36.82270	-76.41702
+1021 S Highline Pl	Sioux Falls	SD	43.54258	-96.65375
+6025 Wade Hampton Blvd	Taylors	SC	34.93574	-82.27717
+9990 Richmond Ave	Houston	TX	29.72884	-95.54883
+2137 Route 38	Cherry Hill	NJ	39.93873	-75.02547
+6925 W 38th St	Indianapolis	IN	39.82327	-86.28091
+1550 E Lincoln Way	Sparks	NV	39.53364	-119.71911
+1000 Shoppes At Midway Dr	Knightdale	NC	35.79890	-78.50960
+1985 Sheridan Blvd	Edgewater	CO	39.74644	-105.05323
+8532 Davis Blvd	North Richland Hills	TX	32.90844	-97.19019
+3101 Aerial Way	Spring Hill	FL	28.47438	-82.47625
+50 E North Ave	Villa Park	IL	41.90680	-87.97740
+2673 E Main St	Plainfield	IN	39.71811	-86.35638
+6839 S Westnedge Ave	Portage	MI	42.21690	-85.58941
+3550 Zafarano Dr	Santa Fe	NM	35.63960	-106.01155
+10500 Campus Way S	Upper Marlboro	MD	38.89451	-76.82319
+2505 Riverside Blvd	Sacramento	CA	38.56320	-121.49800
+4515 E Thomas Rd	Phoenix	AZ	33.48012	-111.98385
+200 W Orangethorpe Ave	Fullerton	CA	33.85960	-117.92700
+250 E Miracle Strip Pkwy	Mary Esther	FL	30.40974	-86.65949
+3040 Evans St	Greenville	NC	35.57966	-77.38129
+2530 Weir Rd	Chester	VA	37.35006	-77.40982
+52 Third St	Lansdowne	PA	39.93830	-75.26860
+9601 Market Pl	Lake Stevens	WA	47.99745	-122.10295
+6600 Topanga Canyon Blvd	Canoga Park	CA	34.19113	-118.60590
+60 Yorktown Shopping Ctr	Lombard	IL	41.84260	-88.00330
+13658 University Plaza St	Tampa	FL	28.07214	-82.42705
+8401 S Tamiami Trl	Sarasota	FL	27.22910	-82.49441
+70 Princeton Hightstown Rd	East Windsor	NJ	40.27553	-74.54318
+2940 Boca Chica Blvd	Brownsville	TX	25.92130	-97.47608
+3625 W Gandy Blvd	Tampa	FL	27.89372	-82.50406
+67750 E Palm Canyon Dr	Cathedral City	CA	33.78800	-116.48200
+2050 Gallatin Pike N	Madison	TN	36.30416	-86.69428
+3265 Berlin Tpke	Newington	CT	41.65940	-72.72364
+14070 Cedar Rd	Cleveland	OH	41.50136	-81.53134
+5188 Kyle Center Dr	Kyle	TX	30.01555	-97.86605
+6100 Arlington Blvd	Falls Church	VA	38.86745	-77.14321
+521 Glide Ave	West Sacramento	CA	38.58282	-121.54423
+4175 Vinewood Ln N	Plymouth	MN	45.03080	-93.44936
+1931 N Campus Ave	Upland	CA	34.13319	-117.64100
+1441 W 17th St	Santa Ana	CA	33.76152	-117.88729
+14920 Raymer St	Van Nuys	CA	34.21251	-118.46122
+3000 W Deyoung St	Marion	IL	37.74504	-88.98099
+6767 S Clinton St	Greenwood Village	CO	39.59413	-104.88081
+2195 Highway 20 SE	Conyers	GA	33.63093	-84.01463
+3200 Holcomb Bridge Rd	Norcross	GA	33.94914	-84.23183
+5400 N May Ave	Oklahoma City	OK	35.52190	-97.56568
+8148 E Santa Ana Canyon Rd	Anaheim	CA	33.86830	-117.75200
+4701 N Illinois St	Fairview Heights	IL	38.57205	-89.98484
+2070 Thundering Herd Dr	Barboursville	WV	38.42143	-82.28502
+2300 W Ben White Blvd	Austin	TX	30.23304	-97.79370
+10000 Kleckley Dr	Houston	TX	29.62262	-95.23177
+500 W Sunrise Hwy	Valley Stream	NY	40.66452	-73.71841
+211 W Iowa Ave	Sunnyvale	CA	37.37324	-122.03340
+3970 SW Archer Rd	Gainesville	FL	29.61483	-82.39104
+311 Sagamore Pkwy N	Lafayette	IN	40.42016	-86.85802
+1330 E 17th St	Santa Ana	CA	33.75980	-117.85200
+40 Catherwood Rd	Ithaca	NY	42.48361	-76.48668
+9000 E Indian Bend Rd	Scottsdale	AZ	33.53841	-111.88674
+912 Airport Center Dr	Allentown	PA	40.65616	-75.42613
+30602 Santa Margarita Pkwy	Rancho Santa Margarita	CA	33.64170	-117.59800
+5401 Bosque Blvd	Waco	TX	31.53233	-97.19458
+2189 W Craig Rd	North Las Vegas	NV	36.23950	-115.17300
+13250 Northwest Fwy	Houston	TX	29.84900	-95.50250
+2911 Jamacha Rd	El Cajon	CA	32.74044	-116.93930
+14391 Chantilly Crossing Ln	Chantilly	VA	38.89740	-77.44496
+200 Mill Rd	Schwenksville	PA	40.26845	-75.54406
+401 W Irving Park Rd	Wood Dale	IL	41.96700	-87.99290
+4037 Durham Chapel Hill Blvd	Durham	NC	35.96980	-78.95663
+15880 San Carlos Blvd	Fort Myers	FL	26.50958	-81.94463
+30333 Southfield Rd	Southfield	MI	42.51276	-83.22520
+2055 W Park Place Blvd	Stone Mountain	GA	33.81788	-84.11926
+3601 Highway 100 S	Minneapolis	MN	44.93250	-93.34650
+3101 Jefferson Davis Hwy	Alexandria	VA	38.83370	-77.05150
+3061 Wildflower Dr	Bryan	TX	30.66569	-96.32332
+133 Serramonte Ctr	Daly City	CA	37.66921	-122.46917
+2401 Coulee Rd	Hudson	WI	44.96409	-92.72495
+3280 R St	Merced	CA	37.32284	-120.48689
+1631 Ring Rd	Elizabethtown	KY	37.72957	-85.87946
+18305 Alderwood Mall Pkwy	Lynnwood	WA	47.83315	-122.26862
+500 Medley Centre Pkwy	Rochester	NY	43.19775	-77.57530
+5001 University Town Centre Dr	Morgantown	WV	39.64791	-80.00172
+4750 Telephone Rd	Ventura	CA	34.26623	-119.20641
+35830 Detroit Rd	Avon	OH	41.45834	-82.01595
+3310 S Meridian	Puyallup	WA	47.16130	-122.29310
+301 Park Dr	Owatonna	MN	44.08610	-93.24870
+27320 W Lugonia Ave	Redlands	CA	34.07031	-117.20841
+16400 State Road 54	Odessa	FL	28.18420	-82.55090
+4601 2nd St	Davis	CA	38.55417	-121.69891
+675 Woodbury Glassboro Rd	Sewell	NJ	39.76491	-75.13096
+2980 Fairview Park Dr	Falls Church	VA	38.86819	-77.21500
+3600 W Nolana Ave	McAllen	TX	26.24370	-98.25290
+7697 Winchester Rd	Memphis	TN	35.04956	-89.80675
+2161 Nine Mile Point Rd	Fairport	NY	43.12787	-77.44150
+1881 W Lincoln Ave	Anaheim	CA	33.83256	-117.94933
+2331 E Lincoln Hwy	Langhorne	PA	40.17657	-74.87815
+8550 East Fwy	Fort Worth	TX	32.75942	-97.18210
+850 W North Ave	Melrose Park	IL	41.90796	-87.84420
+2525 4th St	Eureka	CA	40.80550	-124.14500
+240 Market Dr	Elyria	OH	41.38880	-82.10830
+1290 Hamner Ave	Norco	CA	33.90070	-117.56400
+1708 Dell Range Blvd	Cheyenne	WY	41.16150	-104.80000
+8000 Oak Point Rd	Amherst	OH	41.41360	-82.24160
+2000 Waters Rd	Ann Arbor	MI	42.24343	-83.77220
+4250 Rusty Rd	Saint Louis	MO	38.50973	-90.33996
+4616 Highway 280	Birmingham	AL	33.43000	-86.70873
+5959 Poplar Ave	Memphis	TN	35.10326	-89.86617
+5501 W Old Shakopee Rd	Minneapolis	MN	44.80765	-93.35265
+3320 S 23rd St	Tacoma	WA	47.23724	-122.48024
+3519 Clemson Blvd	Anderson	SC	34.55126	-82.67742
+16818 Twin Lakes Ave	Marysville	WA	48.15140	-122.19100
+10600 Firestone Blvd	Norwalk	CA	33.92483	-118.10705
+4100 28th St SE	Grand Rapids	MI	42.91250	-85.56177
+63435 N Highway 97	Bend	OR	44.10821	-121.29576
+1800 W Empire Ave	Burbank	CA	34.18930	-118.33000
+3445 Freedom Dr	Springfield	IL	39.74924	-89.70854
+13950 NE 178th Pl	Woodinville	WA	47.75884	-122.15035
+600 Carnahan Dr	Maumelle	AR	34.85710	-92.39618
+8830 Albemarle Rd	Charlotte	NC	35.20925	-80.69631
+9882 Adams Ave	Huntington Beach	CA	33.67220	-117.95600
+6064 Marsha Sharp Fwy	Lubbock	TX	33.55168	-101.94353
+7090 N 5th St	North Las Vegas	NV	36.28928	-115.13309
+6000 Highway 6	Missouri City	TX	29.56909	-95.56767
+4245 Lankershim Blvd	West Toluca Lake	CA	34.14708	-118.36387
+850 Steger Towne Rd	Rockwall	TX	32.89352	-96.46939
+26762 Portola Pkwy	Foothill Ranch	CA	33.67852	-117.66400
+19514 Old Sumner Buckley Hwy	Bonney Lake	WA	47.17358	-122.16978
+695 W Herndon Ave	Clovis	CA	36.83860	-119.72800
+2907 Cochran St	Simi Valley	CA	34.27901	-118.74070
+3440 W Fm 544	Wylie	TX	33.01119	-96.59286
+11150 S Twenty Mile Rd	Parker	CO	39.51250	-104.77200
+21400 Northwestern Hwy	Southfield	MI	42.44872	-83.20691
+1801 Gulf Fwy	Dickinson	TX	29.46490	-95.08420
+1925 Douglas Blvd	Roseville	CA	38.74572	-121.25400
+25211 Sunnymead Blvd	Moreno Valley	CA	33.93886	-117.21831
+2120 Apalachee Pkwy	Tallahassee	FL	30.43047	-84.24492
+94 State Rt 23	Riverdale	NJ	40.99114	-74.32472
+401 Easton Rd	Warrington	PA	40.22385	-75.13990
+3530 Wolverine Dr	Montrose	CO	38.44343	-107.86858
+1925 Marketplace Dr SE	Caledonia	MI	42.84492	-85.61703
+2235 Springfield Ave	Vauxhall	NJ	40.71713	-74.28567
+449 Howe Ave	Cuyahoga Falls	OH	41.11922	-81.47693
+107 Pavilion Pkwy	Fayetteville	GA	33.48000	-84.43670
+200 Malcolm Dr	Westminster	MD	39.56710	-76.97264
+3699 E Broadway Blvd	Tucson	AZ	32.22167	-110.91464
+2305 Theatre Dr	Paso Robles	CA	35.58367	-120.69669
+3378 Cobb Pkwy NW	Acworth	GA	34.03909	-84.68381
+100 Cherokee Pl	Cartersville	GA	34.17271	-84.78277
+5501 S Scatterfield Rd	Anderson	IN	40.05991	-85.65312
+40 N 4th Ave	Chula Vista	CA	32.65190	-117.08800
+10301 New Guinea Rd	Fairfax	VA	38.79875	-77.29985
+3520 Tyler St	Riverside	CA	33.90712	-117.45761
+3300 124th Ave NW	Coon Rapids	MN	45.19593	-93.34867
+8109 Mall Pkwy	Lithonia	GA	33.69185	-84.09341
+1749 E Nine Mile Rd	Pensacola	FL	30.53229	-87.22620
+2059 Cadenasso Dr	Fairfield	CA	38.24764	-122.06756
+2626 Colorado Blvd	Los Angeles	CA	34.14240	-118.22400
+404 S Tracy St	Wichita	KS	37.67921	-97.39390
+6250 W Sample Rd	Coral Springs	FL	26.27390	-80.21148
+8801 NE Hazel Dell Ave	Vancouver	WA	45.67863	-122.66207
+1090 Stafford Market Pl	Stafford	VA	38.46868	-77.40838
+2823 Wilma Rudolph Blvd	Clarksville	TN	36.58690	-87.29280
+3720 Soldano Blvd	Columbus	OH	39.95540	-83.09990
+180 Somerville Ave	Somerville	MA	42.37759	-71.09009
+1995 E Market St	Harrisonburg	VA	38.42621	-78.84010
+2901 S Cicero Ave	Cicero	IL	41.84031	-87.74180
+43670 Ford Rd	Canton	MI	42.32240	-83.47230
+1180 Carl D Silver Pkwy	Fredericksburg	VA	38.29870	-77.51060
+950 E 33rd St	Signal Hill	CA	33.81700	-118.18100
+1401 Johnson Ferry Rd	Marietta	GA	33.98365	-84.42728
+10201 Hagen Ranch Rd	Boynton Beach	FL	26.52630	-80.16580
+4700 New Harvest Ln	Knoxville	TN	36.03853	-83.88582
+1750 Story Rd	San Jose	CA	37.33973	-121.84047
+23555 Allen Rd	Woodhaven	MI	42.13681	-83.22598
+122 E Interstate 20	Weatherford	TX	32.73004	-97.78399
+39201 Fremont Blvd	Fremont	CA	37.54842	-121.98826
+1209 N Peachtree Pkwy	Peachtree City	GA	33.44118	-84.59120
+333 N 48th St	Lincoln	NE	40.81572	-96.65367
+235 Robert C Daniel Jr Pkwy	Augusta	GA	33.49030	-82.07964
+6280 N Eagle Rd	Boise	ID	43.66217	-116.35445
+5555 Youngstown Warren Rd	Niles	OH	41.21053	-80.75112
+4151 E Highway 90	Sierra Vista	AZ	31.55464	-110.25645
+6416 Carlisle Pike	Mechanicsburg	PA	40.24669	-77.00741
+4380 Lawehana St	Honolulu	HI	21.35588	-157.92863
+800 SW 44th St	Oklahoma City	OK	35.41930	-97.52910
+7930 Northfield Blvd	Denver	CO	39.78550	-104.89595
+155 Holt Garrison Pkwy	Danville	VA	36.60007	-79.41736
+4120 Palisades Center Dr	West Nyack	NY	41.09650	-73.95340
+2462 Foothill Blvd	La Verne	CA	34.11010	-117.76000
+803 Industrial Blvd	Smyrna	TN	35.97938	-86.57038
+2161 Monterey Hwy	San Jose	CA	37.30424	-121.86179
+2121 N Monroe St	Monroe	MI	41.94514	-83.38468
+5001 Holt Ave	Hampton	VA	37.04252	-76.39248
+2340 Legge Blvd	Winchester	VA	39.15571	-78.17015
+1907 E Victory Dr	Savannah	GA	32.04336	-81.06867
+15901 Ford Rd	Dearborn	MI	42.32900	-83.20250
+4001 N Midland Dr	Midland	TX	32.02504	-102.14437
+2140 S Pokegama Ave	Grand Rapids	MN	47.20905	-93.52873
+45155 First Colony Way	California	MD	38.29715	-76.51976
+800 Broadview Village Sq	Broadview	IL	41.85329	-87.85185
+265 Pond Path	South Setauket	NY	40.88420	-73.10250
+8234 Agora Pkwy	Selma	TX	29.57040	-98.32710
+8120 University City Blvd	Charlotte	NC	35.29309	-80.74877
+11253 Pines Blvd	Pembroke Pines	FL	26.00970	-80.29850
+3425 W Frye Rd	Chandler	AZ	33.29768	-111.89981
+6371 N Decatur Blvd	Las Vegas	NV	36.27301	-115.20965
+21615 S Diamond Lake Rd	Rogers	MN	45.19939	-93.55537
+1654 Gadsden Hwy	Birmingham	AL	33.60290	-86.64008
+212 Medallion Shp Ctr	Dallas	TX	32.85530	-96.75240
+8931 State Route 30	Irwin	PA	40.32100	-79.68690
+7003 S Broadway Ave	Tyler	TX	32.27259	-95.30685
+8503 S Sam Houston Pkwy E	Houston	TX	29.60082	-95.26613
+5537 W Broadway Ave	Minneapolis	MN	45.05329	-93.36467
+246 Westminster Dr	Carlisle	PA	40.19687	-77.15905
+7845 N MacArthur Blvd	Irving	TX	32.91310	-96.95890
+23912 Commercial Dr	Rosenberg	TX	29.54790	-95.75240
+2701 Lawndale Dr	Greensboro	NC	36.10338	-79.81915
+780 Old Hickory Blvd	Brentwood	TN	36.04300	-86.77790
+5065 Main St	Trumbull	CT	41.23493	-73.21863
+10500 Ulmerton Rd	Largo	FL	27.89440	-82.78441
+700 Nicollet Mall	Minneapolis	MN	44.97587	-93.27308
+2950 S Blue Angel Pkwy	Pensacola	FL	30.36029	-87.35847
+3600 Mall Rd	Louisville	KY	38.19894	-85.66927
+32001 John R Rd	Madison Heights	MI	42.52750	-83.10674
+2270 N Bellflower Blvd	Long Beach	CA	33.79800	-118.12500
+800 N Frederick Ave	Gaithersburg	MD	39.15443	-77.21483
+1440 US Highway 1 S	Saint Augustine	FL	29.87570	-81.32396
+10302 156th St E	Puyallup	WA	47.11340	-122.29162
+21500 NE Halsey St	Fairview	OR	45.53370	-122.44230
+328 Bradford Farms Dr	Madison	AL	34.74822	-86.73263
+701 W Broadway Ave	Minneapolis	MN	44.99914	-93.28819
+5057 Harvey St	Norton Shores	MI	43.15960	-86.20880
+2576 Berryhill Rd	Montgomery	AL	32.36060	-86.15639
+4750 Millenia Plaza Way	Orlando	FL	28.49384	-81.42829
+1801 W Bay Area Blvd	Webster	TX	29.53755	-95.15292
+367 Russell St	Hadley	MA	42.35786	-72.55024
+809 Floral St	Opelika	AL	32.65390	-85.39111
+15850 S 94th Ave	Orland Park	IL	41.60315	-87.84801
+6100 Broadmoor St	Mission	KS	39.01849	-94.66575
+6241 Mid Rivers Mall Dr	Saint Peters	MO	38.73997	-90.63404
+1740 E Sherman Blvd	Muskegon	MI	43.20531	-86.20167
+2000 Bunker Lake Blvd NW	Andover	MN	45.21939	-93.31818
+103 Taunton St	Plainville	MA	42.03239	-71.31246
+1235 E Higgins Rd	Schaumburg	IL	42.03936	-88.04818
+2801 W Market St	Fairlawn	OH	41.12612	-81.60567
+2700 Eldridge Pkwy	Houston	TX	29.73292	-95.62662
+4103 Pecanland Mall Dr	Monroe	LA	32.49672	-92.06455
+503 Interstate 45 N	Conroe	TX	30.97215	-95.88942
+6427 Landover Rd	Cheverly	MD	38.93221	-76.90259
+2206 Memorial Dr	Alexandria	LA	31.27945	-92.45739
+3471 W Century Blvd	Inglewood	CA	33.94548	-118.33222
+1628 Highwoods Blvd	Greensboro	NC	36.11302	-79.87851
+6601 Grand Ave	Gurnee	IL	42.38548	-87.96633
+930 County Road 64	Elmira	NY	42.15400	-76.87090
+5001 Junipero Serra Blvd	Colma	CA	37.67360	-122.46500
+2185 Bronze Star Dr	Woodland	CA	38.67278	-121.72546
+100 Willow Park Ctr	Farmingdale	NY	40.75093	-73.42038
+1529 17th Ave E	Shakopee	MN	44.77374	-93.50518
+200 Vintage Way	Novato	CA	38.09037	-122.55598
+270 Central Pkwy	Heath	OH	40.02945	-82.45003
+960 Fairplain Dr	Benton Harbor	MI	42.07991	-86.43448
+1850 NW Chipman Rd	Lees Summit	MO	38.92631	-94.41144
+135 Creekside Way	New Braunfels	TX	29.73017	-98.07439
+187 Brandon Town Center Dr	Brandon	FL	27.93767	-82.32472
+3601 N Barr St	Muncie	IN	40.22242	-85.37959
+1922 E Main St	Torrington	CT	41.82105	-73.07770
+1116 N Apperson Way	Kokomo	IN	40.49617	-86.12689
+2420 N Reserve St	Missoula	MT	46.88860	-114.03944
+7255 Interstate Dr	Horn Lake	MS	34.96469	-90.00387
+11 Andrews Rd	Somersworth	NH	43.23463	-70.88283
+1737 Reisterstown Rd	Pikesville	MD	39.38348	-76.73255
+6100 Paseo Del Norte NE	Albuquerque	NM	35.17415	-106.58270
+5120 28th St SE	Grand Rapids	MI	42.91259	-85.54198
+2300 Pleasant Hill Rd	Duluth	GA	33.96256	-84.13748
+1370 Highway 15 S	Hutchinson	MN	44.87138	-94.37565
+1717 Lebanon Church Rd	Pittsburgh	PA	40.34800	-79.95038
+550 Grandview Crossing Dr	Gibsonia	PA	40.64260	-79.94100
+333 N Bedford Rd	Mount Kisco	NY	41.21925	-73.71743
+372 Cox Creek Pkwy	Florence	AL	34.84013	-87.63664
+7400 S Gartrell Rd	Aurora	CO	39.58251	-104.72355
+200 Westminster Mall	Westminster	CA	33.74510	-118.01160
+12701 Fm 1960 Rd W	Houston	TX	29.92019	-95.60838
+2421 Cranberry Hwy	Wareham	MA	41.77296	-70.74629
+3027 N 49th St	Lincoln	NE	40.84282	-96.65230
+5355 W Loop 1604 N	San Antonio	TX	29.49210	-98.70930
+401 Penhorn Ave	Secaucus	NJ	40.76858	-74.05842
+1040 NE Coronado	Blue Springs	MO	39.02337	-94.24851
+838 Sunrise Hwy	Bay Shore	NY	40.72917	-73.27801
+1465 E Mall Dr	Holland	OH	41.61470	-83.69391
+1050 Fording Island Rd	Bluffton	SC	32.25698	-80.84992
+7601 E Reno Ave	Oklahoma City	OK	35.46408	-97.39082
+130 Ramada Dr	East Hanover	NJ	40.81170	-74.38193
+2900 S 25th St	Clinton	IA	41.81630	-90.24380
+9901 York Rd	Cockeysville	MD	39.46076	-76.63488
+3284 Seminole Trl	Charlottesville	VA	38.12427	-78.44448
+11220 Ranch Road 2222	Austin	TX	30.39968	-97.85077
+1122 W Centerville Rd	Mesquite	TX	32.76410	-96.60690
+8500 Menaul Blvd NE	Albuquerque	NM	35.10917	-106.54942
+375 18th St NW	Atlanta	GA	33.79167	-84.40108
+10711 Gilroy Rd	Hunt Valley	MD	39.47632	-76.66299
+6100 Shingle Creek Pkwy	Minneapolis	MN	45.06542	-93.30905
+1515 County Rd	Roseville	MN	45.00624	-93.16422
+1855 41st Ave	Capitola	CA	36.97632	-121.96500
+1 Mystic View Rd	Everett	MA	42.40149	-71.07054
+3657 W Genesee St	Syracuse	NY	43.04718	-76.23801
+5230 Campbell Blvd	White Marsh	MD	39.39470	-76.42080
+1015 N Court St	Medina	OH	41.15511	-81.86485
+3050 N Lewis Ave	Waukegan	IL	42.40826	-87.85523
+13200 Jamboree Rd	Irvine	CA	33.72716	-117.78793
+3207 N Nimitz Hwy	Honolulu	HI	21.33609	-157.90962
+1910 Catawba Valley Blvd SE	Hickory	NC	35.70193	-81.30658
+701 Industrial Blvd NE	Minneapolis	MN	44.99990	-93.21149
+301 S Bryant Ave	Edmond	OK	35.65184	-97.46052
+7500 Commons Blvd	Victor	NY	43.03170	-77.44647
+26831 S Tamiami Trl	Estero	FL	26.34912	-81.80763
+11290 W Broad St	Glen Allen	VA	37.65044	-77.60632
+14543 Terrace Ln	Eagle River	AK	61.35233	-149.55395
+1655 Owens St	Lakewood	CO	39.74373	-105.12019
+12001 East Fwy	Houston	TX	29.77127	-95.22290
+21265 Biscayne Blvd	Miami	FL	25.97280	-80.14289
+800 Kirkwood Mall	Bismarck	ND	46.80015	-100.78485
+1000 State Route 35	Ocean	NJ	40.23569	-74.03797
+12275 Saint Charles Rock Rd	Bridgeton	MO	38.75140	-90.42662
+2155 Morrill Ave	San Jose	CA	37.41481	-121.87468
+12015 E 46th Ave	Denver	CO	39.77966	-104.84748
+2017 Humes Rd	Janesville	WI	42.72074	-88.99830
+2424 Highway 6	Grand Junction	CO	39.08896	-108.60289
+10785 Lincoln Trl	Fairview Heights	IL	38.59294	-89.99264
+350 W Lake Mead Pkwy	Henderson	NV	36.03605	-114.99515
+550 S Church St	Spartanburg	SC	34.93792	-81.92866
+1401 Glade Rd	Colleyville	TX	32.88143	-97.14511
+8251 Mira Mesa Blvd	San Diego	CA	32.91262	-117.14587
+1100 Brookdale Ctr	Minneapolis	MN	45.05850	-93.31684
+2901 Ming Ave	Bakersfield	CA	35.33933	-119.03505
+2831 E Eastland Ctr Dr	West Covina	CA	34.07360	-117.88500
+5959 Long Cv	Garland	TX	32.96780	-96.63508
+11000 Crooked Lake Blvd NW	Minneapolis	MN	45.16981	-93.33994
+4510 Garth Rd	Baytown	TX	29.77196	-94.97629
+110 N 5th St	Minneapolis	MN	44.98121	-93.27472
+235 W Chisholm St	Alpena	MI	45.06392	-83.43535
+9716 164th Ave NE	Redmond	WA	47.68573	-122.12096
+8223 State Highway 151	San Antonio	TX	29.44311	-98.64940
+534 W Madison St	Milwaukee	WI	43.01812	-87.91791
+1591 Bradley Park Dr	Columbus	GA	32.53202	-84.97149
+209 W Ventura Blvd	Camarillo	CA	34.21608	-119.07337
+8900 Highway 7	Minneapolis	MN	44.93590	-93.39390
+2205 Walker Lake Rd	Ontario	OH	40.78670	-82.59470
+5220 W Indian School Rd	Phoenix	AZ	33.49509	-112.17289
+3489 Lowery Pkwy	Fultondale	AL	33.60716	-86.80676
+2889 Johnstown Rd	Columbus	OH	40.00879	-82.90683
+1911 Saville Row	Hampton	VA	37.03890	-76.38230
+500 Tyvola Rd	Charlotte	NC	35.16390	-80.88515
+2626 11th Ave	Greeley	CO	40.39328	-104.69683
+632 Rt 46 E	Fairfield	NJ	40.89217	-74.22309
+8509 State Line Rd	Kansas City	MO	38.97448	-94.60799
+620 N Grant Ave	Odessa	TX	31.85001	-102.37066
+3500 E West Hwy	Hyattsville	MD	38.96688	-76.95586
+6090 Garners Ferry Rd	Columbia	SC	33.98284	-80.96623
+3060 Plaza Bonita Rd	National City	CA	32.65315	-117.06632
+1 Gagliardi Way	Millbury	MA	42.19912	-71.77531
+410 S Ashland Ave	Sturgeon Bay	WI	44.82210	-87.40390
+9450 Dunkirk Ln N	Osseo	MN	45.12559	-93.49110
+310 N Sangamon Ave	Gibson City	IL	40.46869	-88.37527
+1816 Gunbarrel Rd	Chattanooga	TN	35.02433	-85.15873
+2800 S Columbia Rd	Grand Forks	ND	47.88945	-97.06671
+11311 Bandera Rd	San Antonio	TX	29.54818	-98.66340
+800 Christiana Mall	Newark	DE	39.67827	-75.64993
+3901 W 53rd St	Sioux Falls	SD	43.50400	-96.77257
+4701 Cypress Creek Pkwy	Houston	TX	29.98600	-95.50092
+1673 Spaulding Rd	Bartlett	IL	42.00283	-88.22760
+2023 Vale Rd	San Pablo	CA	37.95341	-122.33819
+3140 Leonardtown Rd	Waldorf	MD	38.62513	-76.90896
+4401 National Rd E	Richmond	IN	39.83202	-84.83015
+3255 Owen Rd	Fenton	MI	42.78960	-83.73720
+25 Grand Corner Ave	Gaithersburg	MD	39.11169	-77.19216
+100 Perimeter Walk	Atlanta	GA	33.93100	-84.34120
+9777 76th St	Pleasant Prairie	WI	42.56560	-87.92714
+4300 Las Positas Rd	Livermore	CA	37.70140	-121.74700
+4000 Monument Rd	Philadelphia	PA	40.00713	-75.21387
+2400 S Telegraph Rd	Bloomfield Hills	MI	42.60421	-83.29358
+6143 U S Highway 98	Hattiesburg	MS	31.32260	-89.37970
+4630 Monticello Ave	Williamsburg	VA	37.27015	-76.75885
+3333 Arlington Ave	Riverside	CA	33.94638	-117.38291
+853 Harbor Blvd	Destin	FL	30.39120	-86.48070
+1980 Lincoln Way E	Massillon	OH	40.80050	-81.49670
+87 Wagner Rd	Monaca	PA	40.67979	-80.31171
+900 Bergen Town Ctr	Paramus	NJ	40.91544	-74.05890
+2966 E 3rd St	Bloomington	IN	39.16410	-86.49420
+356 12th St SW	Forest Lake	MN	45.27511	-92.99884
+2099 Skokie Valley Rd	Highland Park	IL	42.19024	-87.82632
+4004 Monroeville Blvd	Monroeville	PA	40.43608	-79.77211
+708 E Expressway 83	McAllen	TX	26.18744	-98.21630
+2620 N Josey Ln	Carrollton	TX	32.98808	-96.89041
+4727 Highway 90	Milton	FL	30.60130	-87.12650
+1744 Suburban Ave	Saint Paul	MN	44.95111	-93.02819
+2541 E Lohman Ave	Las Cruces	NM	32.31612	-106.74365
+17055 San Fernando Mission Blvd	Granada Hills	CA	34.27212	-118.50597
+1815 Norman Dr	Valdosta	GA	30.84480	-83.31769
+8651 Brier Creek Pkwy	Raleigh	NC	35.90367	-78.78758
+500 E Sandford Blvd	Mount Vernon	NY	40.90196	-73.81738
+1698 US Highway 98	Daphne	AL	30.60155	-87.89791
+3535 Steelyard Dr	Cleveland	OH	41.45827	-81.69114
+8421 N US Highway 281	San Antonio	TX	29.51900	-98.47778
+4174 Westport Rd	Louisville	KY	38.25940	-85.64298
+1300 Ulster Ave	Kingston	NY	41.96915	-73.98860
+777 E Colorado Blvd	Pasadena	CA	34.14600	-118.13400
+2545 Whiskey Rd	Aiken	SC	33.50604	-81.70968
+10820 Jefferson Blvd	Culver City	CA	34.00180	-118.39400
+2331 State Route 66	Ocean	NJ	40.22750	-74.04446
+141 Lakewood Center Mall	Lakewood	CA	33.85045	-118.14216
+245 S Mills Rd	Ventura	CA	34.27021	-119.24893
+8282 Golden Link Blvd	Northfield	OH	41.31220	-81.52490
+2251 York Crossing Dr	York	PA	39.96420	-76.77870
+203 S Broadway	Salem	NH	42.76516	-71.21739
+9401 NE Cascades Pkwy	Portland	OR	45.57603	-122.56616
+6150 14th St W	Bradenton	FL	27.43209	-82.57545
+1415 Main St	Watsonville	CA	36.91667	-121.77291
+875 Lawrenceville Suwanee Rd	Lawrenceville	GA	33.96956	-84.01905
+14065 Abercorn St	Savannah	GA	31.98224	-81.17439
+15272 Summit Ave	Fontana	CA	34.15013	-117.47400
+1102 S Thomas Rd	Fort Wayne	IN	41.07514	-85.20136
+880 Sand Lake Rd	Orlando	FL	28.45065	-81.39085
+14823 Pomerado Rd	Poway	CA	32.98313	-117.06195
+1510 Market Ln	Norfolk	NE	42.02000	-97.43050
+7600 N Blackstone Ave	Fresno	CA	36.84950	-119.78800
+26847 Grand River Ave	Redford	MI	42.43728	-83.30984
+259 Interstate 45 S	Huntsville	TX	30.70696	-95.56599
+26650 Ford Rd	Dearborn Heights	MI	42.32638	-83.30237
+1601 Kingsdale Ave	Redondo Beach	CA	33.86890	-118.35800
+7955 Highway N	O Fallon	MO	38.76617	-90.76833
+13131 Montfort Dr	Dallas	TX	32.92720	-96.81150
+10150 Bloomingdale Ave	Riverview	FL	27.89533	-82.33291
+3300 S Bristol St	Santa Ana	CA	33.70367	-117.88728
+7601 S Anthony Blvd	Fort Wayne	IN	41.01509	-85.11208
+250 Broadway	El Cajon	CA	32.80760	-116.95962
+3112 Vestal Pkwy E	Vestal	NY	42.09572	-76.00087
+3850 Hempstead Tpke	Levittown	NY	40.72552	-73.49326
+9725 S Eastern Ave	Las Vegas	NV	36.01293	-115.11888
+12990 W Center Rd	Omaha	NE	41.23426	-96.11626
+17810 E 39th St S	Independence	MO	39.04833	-94.36911
+35401 Warren Rd	Westland	MI	42.33881	-83.39090
+1144 State Route 303	Streetsboro	OH	41.23800	-81.35310
+550 Arsenal St	Watertown	MA	42.36305	-71.15811
+817 W Alexis Rd	Toledo	OH	41.72165	-83.56281
+608 W Main St	American Fork	UT	40.37693	-111.81386
+3401 N Miami Ave	Miami	FL	25.80836	-80.19421
+8560 S Cottage Grove Ave	Chicago	IL	41.73918	-87.60490
+2580 Shearn St	Houston	TX	29.77440	-95.38245
+41 Robert Dr	South Easton	MA	42.02820	-71.14200
+2171 S 25th E	Ammon	ID	43.47857	-111.98433
+211 Little Hearst Pkwy	Savannah	GA	32.17810	-81.17860
+3106 Iowa St	Lawrence	KS	38.92787	-95.26048
+1209 Hawk Tree Dr	College Station	TX	30.59187	-96.30755
+150 E Stacy Rd	Allen	TX	33.09470	-96.62721
+4200 S Medford Dr	Lufkin	TX	31.31309	-94.71952
+16959 Evans Plz	Omaha	NE	41.29119	-96.18021
+475 Hartford Rd	New Britain	CT	41.71130	-72.76523
+1042 S Kirkwood Rd	Kirkwood	MO	38.56573	-90.40662
+400 Oxford Exchange Blvd	Oxford	AL	33.60851	-85.78509
+20500 SW 112th Ave	Cutler Bay	FL	25.57600	-80.37243
+1150 Seaboard St	Myrtle Beach	SC	33.71330	-78.89400
+6000 Montana Ave	El Paso	TX	31.78423	-106.41549
+4310 Fortuna Center Plz	Dumfries	VA	38.59670	-77.33280
+400 Newpark Mall	Newark	CA	37.52695	-122.00528
+3150 Business Park Dr	Vista	CA	33.13590	-117.22810
+2333 63rd St	Woodridge	IL	41.77220	-88.04023
+1902 Miller Trunk Hwy	Duluth	MN	46.80972	-92.16669
+151 Tyler Rd N	Red Wing	MN	44.56807	-92.58474
+4202 13th Ave S	Fargo	ND	46.86152	-96.85122
+14099 Pardee Rd	Taylor	MI	42.20424	-83.25656
+250 Crockett Blvd	Merritt Island	FL	28.38683	-80.70610
+4601 Montgomery Hwy	Dothan	AL	31.26744	-85.44479
+5300 Durand Ave	Racine	WI	42.69716	-87.84309
+5454 Balboa Ave	San Diego	CA	32.81975	-117.18143
+4144 Buckeye Pkwy	Grove City	OH	39.87670	-83.03720
+205 Three Rivers Dr	Kelso	WA	46.14177	-122.90077
+7644 Voice Of America Ctr	West Chester	OH	39.35610	-84.36170
+490 Marsh Landing Pkwy	Jacksonville	FL	30.25459	-81.38970
+1905 Scenic Hwy N	Snellville	GA	33.87703	-84.01475
+125 E North Pointe Dr	Salisbury	MD	38.41554	-75.56314
+4760 State Highway 121	Lewisville	TX	33.06469	-96.88494
+5025 Old National Hwy	Atlanta	GA	33.61838	-84.47287
+300 Manning Bridge Rd	Suffolk	VA	36.71377	-76.66812
+3900 Spencer Hwy	Pasadena	TX	29.66516	-95.18460
+20745 Stevens Creek Blvd	Cupertino	CA	37.32298	-122.03611
+9770 N Newport Hwy	Spokane	WA	47.74660	-117.40486
+7414 Niagara Falls Blvd	Niagara Falls	NY	43.08894	-78.97823
+45130 Columbia Pl	Sterling	VA	39.00792	-77.43920
+501 Marketplace Blvd	Selinsgrove	PA	40.84149	-76.83522
+655 Cheshire Rd	Lanesboro	MA	42.53658	-73.22923
+1717 Olentangy River Rd	Columbus	OH	39.99380	-83.02580
+12800 S Route 59	Plainfield	IL	41.64980	-88.20520
+2750 W New Haven Ave	Melbourne	FL	28.07893	-80.66495
+1001 Cormier Rd	Green Bay	WI	44.49160	-88.07119
+1000 Nicollet Mall	Minneapolis	MN	44.97390	-93.27489
+951 N Promenade Pkwy	Casa Grande	AZ	32.88191	-111.68279
+2490 N Fairfield Rd	Beavercreek	OH	39.76187	-84.05321
+3849 Vogel Rd	Arnold	MO	38.41577	-90.39196
+6507 4th Ave	Sacramento	CA	38.54922	-121.42648
+28539 Marlboro Ave	Easton	MD	38.78130	-76.08762
+4685 Presidential Pkwy	Macon	GA	32.81760	-83.71450
+5580 Northwest Hwy	Crystal Lake	IL	42.22619	-88.30447
+13505 20th Ave	Flushing	NY	40.78165	-73.83299
+69320 Highway 21	Covington	LA	30.44354	-90.14297
+10451 Fairway Dr	Roseville	CA	38.79140	-121.28877
+2340 Martin Luther King Jr Blvd	Panama City	FL	30.19025	-85.64997
+11400 51st Ave NW	Gig Harbor	WA	47.36730	-122.60000
+7302 University Ave	Lubbock	TX	33.52760	-101.87048
+2105 State Route 35	Middletown	NJ	40.41069	-74.13416
+8680 Beechmont Ave	Cincinnati	OH	39.07180	-84.31471
+2705 Teller Rd	Newbury Park	CA	34.19004	-118.93340
+4255 Hampton Ave	Saint Louis	MO	38.59180	-90.29449
+8201 S 40th St	Lincoln	NE	40.72818	-96.66345
+1000 E Imperial Hwy	La Habra	CA	33.91739	-117.93304
+25601 Jeronimo Rd	Mission Viejo	CA	33.62176	-117.68304
+2727 W Agua Fria Fwy	Phoenix	AZ	33.66781	-112.12115
+7551 W Morris St	Indianapolis	IN	39.74828	-86.29353
+3750 Barranca Pkwy	Irvine	CA	33.68580	-117.81257
+7100 Santa Monica Blvd	West Hollywood	CA	34.09010	-118.34500
+1204 Sunburst Dr	Goldsboro	NC	35.37966	-77.93827
+2310 Metropolitan Pkwy	Sterling Heights	MI	42.56156	-83.08516
+2341 N US Highway 67	Florissant	MO	38.80390	-90.30886
+16825 E Shea Blvd	Fountain Hills	AZ	33.57380	-111.71800
+10490 San Jose Blvd	Jacksonville	FL	30.18796	-81.62773
+235 Johnson Ferry Rd NE	Atlanta	GA	33.92527	-84.38960
+1660 W Midway Blvd	Broomfield	CO	39.92205	-105.08874
+907 W McDermott Dr	Allen	TX	33.10107	-96.68284
+1525 S Power Rd	Mesa	AZ	33.38888	-111.68455
+1911 Towne Centre Blvd	Annapolis	MD	38.98084	-76.54141
+6500 E Grant Rd	Tucson	AZ	32.25017	-110.85247
+2600 S Cherry Ln	Fort Worth	TX	32.73723	-97.45342
+2195 E Prosperity Ave	Tulare	CA	36.22591	-119.31142
+200 Glynn Isle	Brunswick	GA	31.20100	-81.48042
+554 W Interstate 20	Grand Prairie	TX	32.67667	-97.00958
+275 S River Rd	Saint George	UT	37.10304	-113.55566
+1717 Peeples St	Columbia	SC	34.06228	-81.05314
+1475 University Dr	Burlington	NC	36.06650	-79.51750
+4101 N Harlem Ave	Norridge	IL	41.95429	-87.80715
+20200 Bloomfield Ave	Cerritos	CA	33.84710	-118.06300
+400 Bald Hill Rd	Warwick	RI	41.72366	-71.47995
+3881 Mexico Rd	Saint Charles	MO	38.79104	-90.56467
+4400 Town Center Blvd	El Dorado Hills	CA	38.65042	-121.06254
+6845 Sierra Center Pkwy	Reno	NV	39.46581	-119.77905
+8040 Ray Mears Blvd	Knoxville	TN	35.92285	-84.04849
+30340 Haun Rd	Menifee	CA	33.68027	-117.17556
+3316 7th Ave SE	Aberdeen	SD	45.45828	-98.44261
+189 Drum Point Rd	Brick	NJ	40.04433	-74.12598
+2116 N Roan St	Johnson City	TN	36.34147	-82.37522
+21637 State Road 7	Boca Raton	FL	26.35609	-80.20343
+405 SE Everett Mall Way	Everett	WA	47.90931	-122.22453
+2460 Prince William Pkwy	Woodbridge	VA	38.65272	-77.28721
+19201 Bear Valley Rd	Apple Valley	CA	34.47107	-117.24244
+1701 N Gaffey St	San Pedro	CA	33.76044	-118.29394
+19661 Hesperian Blvd	Hayward	CA	37.66761	-122.11940
+1106 E North Ave	Belton	MO	38.81418	-94.52398
+2209 State St	New Albany	IN	38.30531	-85.83939
+12801 W Sunrise Blvd	Sunrise	FL	26.14452	-80.32252
+950 Groveland Ln	Lincoln	CA	38.87090	-121.30271
+4600 Mitchellville Rd	Bowie	MD	38.95118	-76.72044
+403 Main St	Billings	MT	45.80561	-108.47571
+21001 N Tatum Blvd	Phoenix	AZ	33.67847	-111.97729
+4889 Promenade Pkwy	Bessemer	AL	33.33388	-86.99048
+400 Cochituate Rd	Framingham	MA	42.30418	-71.39908
+12 N Fair Ave	Yakima	WA	46.60620	-120.48788
+1200 S Federal Hwy	Deerfield Beach	FL	26.30441	-80.09301
+8501 W Brown Deer Rd	Milwaukee	WI	43.17771	-88.01701
+199 Cascade Mall Dr	Burlington	WA	48.46446	-122.33656
+1272 Town And Country Crossing Dr	Chesterfield	MO	38.62188	-90.51268
+4600 High Pointe Blvd	Harrisburg	PA	40.24468	-76.80378
+801 S Rancho Dr	Las Vegas	NV	36.16140	-115.17270
+300 Meyerland Plaza Mall	Houston	TX	29.68586	-95.46036
+888 W Arrow Hwy	San Dimas	CA	34.10655	-117.82379
+80 Damante Dr	Concord	NH	43.21888	-71.48541
+310 Daniel Webster Hwy	Nashua	NH	42.70290	-71.44079
+280 Spreckels Ave	Manteca	CA	37.79520	-121.19700
+800 New Los Angeles Ave	Moorpark	CA	34.27920	-118.86600
+1200 N Muldoon Rd	Anchorage	AK	61.21142	-149.73344
+2000 N Richmond Rd	McHenry	IL	42.38442	-88.26733
+2754 Legends Pkwy	Prattville	AL	32.45867	-86.40041
+2701 Plainfield Rd	Joliet	IL	41.57528	-88.15573
+2005 Town Center Plz	West Sacramento	CA	38.54817	-121.53463
+1125 Veterans Pkwy	Clarksville	IN	38.32619	-85.76439
+340 Towne Dr	Fayetteville	NY	43.03286	-76.01828
+3515 Miller Rd	Flint	MI	42.98730	-83.74424
+12901 N Interstate 35	Austin	TX	30.40980	-97.67000
+10404 N 43rd Ave	Glendale	AZ	33.57920	-112.15247
+650 Brown Rd	Auburn Hills	MI	42.70751	-83.29092
+801 E Park Dr	Harrisburg	PA	40.26569	-76.80827
+3300 Dillon Dr	Pueblo	CO	38.30285	-104.60630
+5800 S University Dr	Davie	FL	26.04800	-80.25149
+2505 1st St S	Willmar	MN	45.10170	-95.04120
+1893 W Malvern Ave	Fullerton	CA	33.87990	-117.96300
+3938 Midway Rd	Goshen	IN	41.62220	-85.90510
+2001 South Rd	Poughkeepsie	NY	41.62718	-73.91695
+17700 NE 76th St	Redmond	WA	47.67119	-122.10355
+4848 County Road 101	Minnetonka	MN	44.91609	-93.50344
+960 US 64 Hwy W	Apex	NC	35.74423	-78.82285
+4885 Eldorado Pkwy	Frisco	TX	33.17366	-96.84457
+1811 Hillsdale Ave	San Jose	CA	37.26318	-121.91772
+1800 Valley West Dr	West Des Moines	IA	41.59839	-93.75213
+1790 Airline Hwy	Hollister	CA	36.83540	-121.38900
+10881 Olson Dr	Rancho Cordova	CA	38.59590	-121.28581
+4611 Maine Ave SE	Rochester	MN	43.95521	-92.46244
+8001 Othello Ave	San Diego	CA	32.81627	-117.15030
+3835 Dryland Way	Easton	PA	40.71296	-75.28802
+1720 W University Dr	McKinney	TX	33.21668	-96.63204
+1100 E Valley Rd	Oconomowoc	WI	43.07665	-88.47334
+2404 Promenade Blvd	Rogers	AR	36.29990	-94.17327
+1701 S Yale Ave	Tulsa	OK	36.13700	-95.92050
+4125 Austell Rd	Austell	GA	33.85390	-84.60384
+1851 Old Fort Pkwy	Murfreesboro	TN	35.84575	-86.42543
+18000 Vernier Rd	Harper Woods	MI	42.44980	-82.93368
+14302 Fm 2920 Rd	Tomball	TX	30.08939	-95.63712
+3173 E Shields Ave	Fresno	CA	36.78030	-119.77200
+4305 Norfolk Pkwy	Melbourne	FL	28.03969	-80.66220
+10401 US Highway 441	Leesburg	FL	28.82660	-81.78440
+895 S State Road 135	Greenwood	IN	39.60445	-86.15913
+1150 El Camino Real	San Bruno	CA	37.63631	-122.41834
+170 S Lycoming Mall Rd	Muncy	PA	41.24379	-76.83266
+301 E Morrison Rd	Brownsville	TX	25.96685	-97.50889
+70 Worcester Providence Tpke	Millbury	MA	42.19542	-71.77405
+1139 White Horse Rd	Voorhees	NJ	39.85030	-74.98440
+7501 W Colonial Dr	Orlando	FL	28.55203	-81.48423
+9851 S Parker Rd	Parker	CO	39.50864	-104.76369
+9531 South Blvd	Charlotte	NC	35.11060	-80.88104
+1500 E West Hwy	Hyattsville	MD	38.97437	-76.98413
+8290 Transit Rd	Buffalo	NY	42.99413	-78.69713
+13731 W Bell Rd	Surprise	AZ	33.63858	-112.35875
+485 N Rolling Meadows Dr	Fond Du Lac	WI	43.79007	-88.48647
+910 Eastlake Pkwy	Chula Vista	CA	32.65257	-116.97251
+600 Meacham Rd	Elk Grove Village	IL	42.00664	-88.04587
+18287 Collier Ave	Lake Elsinore	CA	33.68919	-117.34222
+180 Eagleview Blvd	Exton	PA	40.05286	-75.66387
+1200 N Sepulveda Blvd	Manhattan Beach	CA	33.88770	-118.39500
+10204 Two Notch Rd	Columbia	SC	34.11850	-80.87750
+100 Commerce Blvd	Wilkes Barre	PA	41.23750	-75.84630
+7900 32nd St N	Oakdale	MN	44.99417	-92.97890
+18101 NW Evergreen Pkwy	Beaverton	OR	45.53903	-122.86464
+1250 W Sunset Dr	Waukesha	WI	42.98929	-88.25860
+150 W 100th Ave	Anchorage	AK	61.12952	-149.88180
+195 Conston Ave	Christiansburg	VA	37.15780	-80.42200
+5757 Central Ave	Boulder	CO	40.02521	-105.22094
+855 E Birch St	Brea	CA	33.91782	-117.88771
+15922 Crain Hwy	Brandywine	MD	38.67286	-76.87373
+1751 University Dr	Vista	CA	33.16820	-117.21500
+15555 Hesperian Blvd	San Leandro	CA	37.70267	-122.12487
+2600 Holcomb Bridge Rd	Alpharetta	GA	34.00174	-84.28597
+900 42nd Avenue Dr	Moline	IL	41.48750	-90.49360
+800 Rock Hill Dr	Bensalem	PA	40.13590	-74.96180
+400 Lynn Fells Pkwy	Saugus	MA	42.48006	-71.02451
+2900 Veterans Rd W	Staten Island	NY	40.52803	-74.23372
+235 Robert C Daniel Jr Pkwy	Augusta	GA	33.49020	-82.08111
+100 14th St	Jersey City	NJ	40.73235	-74.03560
+8315 Rockwell Ave	Bethany	OK	35.53697	-97.63669
+200 N Market Place Dr	Centerville	UT	40.92005	-111.88770
+93 Stonebrook Pl	Jackson	TN	35.68501	-88.85615
+381 Mount Hope Ave	Rockaway	NJ	40.90807	-74.54699
+1555 E 14th St	San Leandro	CA	37.72304	-122.15342
+	Galesburg	IL	40.94692	-90.36466
+1001 Sutton Rd	Streamwood	IL	42.01728	-88.20309
+	Appleton	WI	44.28892	-88.40762
+	Kansas City	MO	39.08397	-94.58268
+	League City	TX	29.50247	-95.09456
+	McDonough	GA	33.44775	-84.14773
+1400A Tamiami Trl	Port Charlotte	FL	27.01204	-82.14375
+100 Quality Dr	Hooksett	NH	43.04701	-71.45998
+200 Mill Rd	Oaks	PA	40.14098	-75.44798
+4410 S US Highway 17	Casselberry	FL	28.67092	-81.33858
+17707 Shady Ln	Menomonee Falls	WI	43.19107	-88.12889
+5757 Fairmont Pkwy	Pasadena	TX	29.65004	-95.15296
+Hempfield Sq	Greensburg	PA	40.30350	-79.59355
+2400 10th St SW	Minot	ND	48.20753	-101.30661
+857 Baltimore Pike	Springfield	PA	39.91532	-75.33820
+4085 State Road 28	Sheboygan Falls	WI	43.70021	-87.89559
+	Fort Worth	TX	32.75103	-97.32984
+14500 W Colfax Ave	Denver	CO	39.74019	-105.09075
+7107 Forest Hill Ave	Richmond	VA	37.53773	-77.52610
+	Cordova	TN	35.15589	-89.77692
+4191 The Circle At North Hills St	Raleigh	NC	35.83628	-78.64111
+594 River Hwy	Mooresville	NC	35.59554	-80.87237
+7025 Park Centre Dr	Salt Lake City	UT	40.62433	-111.85123
+4567 River City Dr	Jacksonville	FL	30.26033	-81.52506
+5350 W Main St	Kalamazoo	MI	42.29615	-85.65498
+12795 Main St	Hesperia	CA	34.42668	-117.38357
+12201 Blue Valley Pkwy	Overland Park	KS	38.91292	-94.66976
+9846 Mission Gorge Rd	Santee	CA	32.83870	-116.98400
+751 Route 73 S	Marlton	NJ	39.87030	-74.92196
+3400 Green Mount Crossing Dr	O Fallon	IL	38.57171	-89.92401
+	Warner Robins	GA	32.62084	-83.60687
+5775 Sunnybrook Dr	Sioux City	IA	42.44874	-96.33246
+2600 Lawndale Dr	Greensboro	NC	36.10277	-79.81906
+2000 Crater Lake Hwy	Medford	OR	42.34948	-122.87768
+1111 Brook Forest Ave	Shorewood	IL	41.54174	-88.19950
+12197 Sunset Hills Rd	Reston	VA	38.95516	-77.37026
+18855 N Market Place Dr	Aurora	OH	41.35699	-81.38838
+2295 N Imperial Ave	El Centro	CA	32.81835	-115.56981
+201 Junction Rd	Madison	WI	43.06239	-89.52728
+9801 Sam Furr Rd	Huntersville	NC	35.44195	-80.86126
+1275 Caroline St NE	Atlanta	GA	33.75840	-84.34692
+6411 Tacoma Dr	Port Richey	FL	28.29764	-82.70875
+2555 W 79th St	Bloomington	MN	44.86000	-93.31039
+250 S Colonial Dr	Alabaster	AL	33.22519	-86.80291
+580 Marketplace Dr	Bel Air	MD	39.52455	-76.34984
+15614 Whittwood Ln	Whittier	CA	33.94319	-117.99612
+860 Mankato Ave	Winona	MN	44.03210	-91.62100
+5437 Urbana Pike	Frederick	MD	39.38101	-77.39979
+227 Highland Ave	Salem	MA	42.50511	-70.92027
+9900 Sowder Village Sq	Manassas	VA	38.73984	-77.53476
+130 State Route 10	East Hanover	NJ	40.81170	-74.37990
+195 River Rd	Jewett City	CT	41.58370	-71.99601
+11051 W 97th Cir	Overland Park	KS	38.95218	-94.71529
+1037 S Reed Rd	Kokomo	IN	40.47530	-86.10890
+1004 Andrews Run	Hendersonvlle	TN	36.33205	-86.62653
+1400 N Hayden Island Dr	Portland	OR	45.61344	-122.68478
+3700 S East St	Indianapolis	IN	39.71215	-86.14897
+3250 US Highway 41 W	Marquette	MI	46.55131	-87.46006
+1700 Garth Brooks Blvd	Yukon	OK	35.48133	-97.76022
+45 Central Ave	Clark	NJ	40.62870	-74.30710
+555 Showers Dr	Mountain View	CA	37.40186	-122.10722
+4825 Marburg Ave	Cincinnati	OH	39.16211	-84.42468
+3040 Shallowford Rd	Marietta	GA	34.03633	-84.46185
+475 N Germantown Pkwy	Cordova	TN	35.13830	-89.79760
+5711 Sepulveda Blvd	Van Nuys	CA	34.17461	-118.46616
+1750 Robert St S	Saint Paul	MN	44.89316	-93.08058
+5500 Grossmont Center Dr	La Mesa	CA	32.77851	-117.00706
+2420 Laporte Ave	Valparaiso	IN	41.46807	-87.03131
+7178 S Memorial Dr	Tulsa	OK	36.05987	-95.88637
+7795 Bird Rd	Miami	FL	25.73330	-80.32099
+4160 Town Ctr	Sherman	TX	33.68000	-96.61210
+2040 California Ave	Seaside	CA	36.62133	-121.84394
+1400 E Ireland Rd	South Bend	IN	41.62930	-86.22911
+4455 Connecticut Ave NW	Washington	DC	38.94729	-77.06525
+11051 Victory Blvd	North Hollywood	CA	34.18812	-118.37200
+15700 E Briarwood Cir	Aurora	CO	39.59270	-104.80430
+2199 Highway 36 E	Saint Paul	MN	45.01174	-93.00728
+3100 14th St NW	Washington	DC	38.92892	-77.03267
+12051 Imperial Hwy	Norwalk	CA	33.91718	-118.07585
+1129 S Park St	Carrollton	GA	33.56086	-85.07323
+2800 Shiloh Springs Rd	Trotwood	OH	39.81850	-84.28926
+12602 N Paradise Village Pkwy W	Phoenix	AZ	33.59961	-111.98789
+13201 Ridgedale Dr	Hopkins	MN	44.96962	-93.44508
+9615 E Old Spanish Trl	Tucson	AZ	32.20679	-110.78677
+7120 Highway 65 NE	Minneapolis	MN	45.10590	-93.24419
+8199 Warren H Abernathy Hwy	Spartanburg	SC	34.93543	-82.00809
+463737 State Road 200	Yulee	FL	30.62780	-81.54870
+5000 Mowry Ave	Fremont	CA	37.53348	-122.00085
+2385 Covered Bridge Dr	Lancaster	PA	40.02590	-76.20280
+1401 Frontage Rd	Scottsbluff	NE	41.86786	-103.64300
+4300 Veterans Memorial Dr	Batavia	NY	43.01616	-78.20086
+8210 Renaissance Pkwy	Durham	NC	35.90289	-78.95322
+600 Amherst St	Nashua	NH	42.80040	-71.53632
+3901 W Ina Rd	Tucson	AZ	32.33749	-111.04756
+2721 Dawson Rd	Albany	GA	31.62000	-84.22528
+1650 S Milton Rd	Flagstaff	AZ	35.18434	-111.66143
+3705 E South St	Long Beach	CA	33.86150	-118.15300
+300 Chase Ave	Waterbury	CT	41.58195	-73.03521
+16300 Southwest Fwy	Sugar Land	TX	29.59671	-95.62724
+1071 W Carl Sandburg Dr	Galesburg	IL	40.97494	-90.38903
+39440 10th St W	Palmdale	CA	34.59872	-118.14754
+221 Hancock St	Dorchester	MA	42.30979	-71.06022
+4000 N 1st Ave	Evansville	IN	38.01609	-87.57410
+250 Fortune Blvd	Milford	MA	42.15985	-71.49849
+5000 Hadley Center Dr	South Plainfield	NJ	40.54979	-74.42644
+3000 Harbison Dr	Vacaville	CA	38.36310	-121.96331
+2120 W Main St	Alhambra	CA	34.09109	-118.14714
+99 Quentin Roosevelt Blvd	Garden City	NY	40.73035	-73.60420
+3701 Wayzata Blvd	Minneapolis	MN	44.96987	-93.33086
+4235 Sunset Dr	San Angelo	TX	31.43100	-100.50026
+5969 Haase Rd	De Forest	WI	43.17431	-89.32269
+17 Stony Hill Rd	Bethel	CT	41.41720	-73.39853
+2401 E Kansas Ave	Garden City	KS	37.97970	-100.84300
+751 Route 73 S	Marlton	NJ	39.86720	-74.92290
+1600 Saratoga Ave	San Jose	CA	37.29284	-121.99078
+2626 Delaware Ave	Buffalo	NY	42.95586	-78.86933
+2365 US Highway 93 N	Kalispell	MT	48.23617	-114.33034
+81 Taunton Depot Dr	Taunton	MA	41.87826	-71.06698
+1 Sangertown Sq	New Hartford	NY	43.08220	-75.31760
+916 Loganville Hwy	Bethlehem	GA	33.94430	-83.75370
+1316 Greenbrier Pkwy	Chesapeake	VA	36.77234	-76.22897
+1422 Theodore St	Loves Park	IL	42.32215	-89.04520
+139 Flatbush Ave	Brooklyn	NY	40.68437	-73.97769
+1200 Ashwood Pkwy	Atlanta	GA	33.93362	-84.33777
+1183 Williams Reserve Blvd	Wadsworth	OH	41.04280	-81.69210
+1648 Highway 138 SE	Conyers	GA	33.64679	-84.01311
+875 E Main St	Waconia	MN	44.84884	-93.77372
+27300 Dequindre Rd	Warren	MI	42.49330	-83.08500
+9830 W Lower Buckeye Rd	Tolleson	AZ	33.42121	-112.27023
+14500 W Colfax Ave	Lakewood	CO	39.73481	-105.15700
+633 N Milwaukee St	Boise	ID	43.61052	-116.28423
+6750 Cherry Ave	Long Beach	CA	33.87737	-118.16872
+2901 W Highway 74	Monroe	NC	35.02130	-80.58130
+233 Carmichael Way	Chesapeake	VA	36.66130	-76.23420
+600 Hatton Dr	Glen Mills	PA	39.88145	-75.52677
+40 W 225th St	Bronx	NY	40.87403	-73.90896
+3527 W Florida Ave	Hemet	CA	33.74386	-117.05015
+5621 N Interstate 35	Austin	TX	30.31550	-97.70750
+6701 Parkway Cir	Minneapolis	MN	45.07472	-93.30791
+660 S Grand Ave	Sun Prairie	WI	43.16953	-89.26641
+125 Lincoln Ave SE	Saint Cloud	MN	45.56623	-94.14454
+	Vernon Hills	IL	42.24035	-87.94494
+5001 Junipero Serra Blvd 	Daly City	CA	37.67355	-122.46466
+12300 Seal Beach Blvd	Seal Beach	CA	33.78290	-118.07041
+address	city	state	latitude	longitude
+3000 Countryside Dr	Turlock	CA	37.52078	-120.87888
+2220 Bridgepointe Pkwy	San Mateo	CA	37.55904	-122.28382
+298 W McKinley Ave	Sunnyvale	CA	37.37394	-122.03262
+2625 Peachtree Pkwy	Suwanee	GA	34.09660	-84.17306
+4301 Century Blvd	Pittsburg	CA	38.00698	-121.84358
+3702 Ranch Road 620 S	Austin	TX	30.31813	-97.95430
+6200 State Route 30	Greensburg	PA	40.30370	-79.59590
+3857 State Route 31	Liverpool	NY	43.18780	-76.24640
+1188 W Boughton Rd	Bolingbrook	IL	41.70321	-88.12410
+1919 Fulton Ave	Sacramento	CA	38.60040	-121.40200
+570 Route 70	Brick	NJ	40.05627	-74.15698
+430 Blue Ravine Rd	Folsom	CA	38.67017	-121.15289
+20100 Haggerty Rd	Livonia	MI	42.43390	-83.43347
+5201 N Belt Hwy	Saint Joseph	MO	39.81431	-94.81491
+24500 Alicia Pkwy	Mission Viejo	CA	33.60776	-117.68907
+34800 United Ave	Pueblo	CO	38.27636	-104.49996
+2325 Marketplace Dr	Rochester	NY	43.07628	-77.63042
+2233 Upton Dr	Virginia Beach	VA	36.75491	-76.00758
+16964 Slover Ave	Fontana	CA	34.06310	-117.43400
+4155 S Grand Canyon Dr	Las Vegas	NV	36.11392	-115.30693
+72549 Highway 111	Palm Desert	CA	33.72500	-116.40000
+7150 US Highway 19 N	Pinellas Park	FL	27.83780	-82.68580
+5700 Beckley Rd	Battle Creek	MI	42.26097	-85.18447
+455 Carnegie Blvd	Malvern	PA	40.04648	-75.53650
+4205 S Grand Canyon Dr	Las Vegas	NV	36.11311	-115.30647
+1400 Fitzgerald Dr	Pinole	CA	37.98780	-122.30900
+78935 Highway 111	La Quinta	CA	33.70860	-116.28972
+4020 Milan Rd	Sandusky	OH	41.42026	-82.67616
+7100 S Cicero Ave	Chicago	IL	41.76433	-87.74191
+487 Cross Keys Rd	Sicklerville	NJ	39.74744	-75.03389
+9833 N Alpine Rd	Machesney Park	IL	42.36849	-89.02901
+1885 W 1st St	Springfield	OH	39.94163	-83.84029
+4400 Centerplace Dr	Greeley	CO	40.39486	-104.75146
+660 N Edwards Blvd	Lake Geneva	WI	42.59794	-88.41647
+401 SE Wyoming Blvd	Casper	WY	42.84740	-106.26400
+2070 Sam Rittenberg Blvd	Charleston	SC	32.79213	-80.03104
+9905 Southern Blvd	Royal Palm Beach	FL	26.68031	-80.20206
+4101 Towne Center Dr	Louisville	KY	38.29685	-85.55478
+2056 Skibo Rd	Fayetteville	NC	35.05475	-78.97290
+7000 York Ave S	Minneapolis	MN	44.87636	-93.32134
+4055 S 700 E	Salt Lake City	UT	40.68378	-111.87138
+2460 W George St	Chicago	IL	41.93397	-87.68943
+67 Pleasant Valley St	Methuen	MA	42.74010	-71.16020
+747 Grand Ave	Diamond Bar	CA	34.00513	-117.82049
+6480 Sky Pointe Dr	Las Vegas	NV	36.28030	-115.26700
+2800 Naglee Rd	Tracy	CA	37.75750	-121.45900
+121 Louis Henna Blvd	Round Rock	TX	30.47931	-97.66859
+10 Crooked Run Plz	Front Royal	VA	38.96376	-78.19295
+9220 NE Barry Rd	Kansas City	MO	39.24505	-94.46499
+11160 Veirs Mill Rd	Silver Spring	MD	39.03670	-77.05631
+428 Balltown Rd	Schenectady	NY	42.77290	-73.89344
+13700 San Pedro Ave	San Antonio	TX	29.56623	-98.48134
+10711 E 71st St	Tulsa	OK	36.06090	-95.85826
+140 N 12th Ave	Hanford	CA	36.32370	-119.67500
+30251 Antelope Rd	Menifee	CA	33.68081	-117.16918
+6331 Roosevelt Blvd	Jacksonville	FL	30.23449	-81.69765
+1900 Springsteen Rd	Rock Hill	SC	34.93943	-80.97992
+2024 N Rock Rd	Derby	KS	37.56841	-97.24232
+1515 US Highway 22	Watchung	NJ	40.63941	-74.41934
+3650 River Point Pkwy	Sheridan	CO	39.64693	-105.02526
+2769 Papermill Rd	Reading	PA	40.35700	-75.98100
+300 Clydesdale Trl	Hamel	MN	45.04430	-93.52760
+3433 Sepulveda Blvd	Torrance	CA	33.82513	-118.34575
+3424 College Ave	San Diego	CA	32.74081	-117.05224
+1950 E County Line Rd	Highlands Ranch	CO	39.56613	-104.96539
+7000 Mannheim Rd	Rosemont	IL	42.00734	-87.88505
+2425 Broadway St	Galveston	TX	29.29948	-94.79334
+2102 N Prospect Ave	Champaign	IL	40.14141	-88.25790
+2437 Taylor Park Dr	Reynoldsburg	OH	39.93529	-82.79270
+15321 Palmdale Rd	Victorville	CA	34.50610	-117.32900
+4000 Bel Aire Plz	Napa	CA	38.32210	-122.30750
+9009 SW Hall Blvd	Tigard	OR	45.45468	-122.77846
+1652 Beecher Rd	Yorkville	IL	41.66329	-88.46666
+6101 N Keystone Ave	Indianapolis	IN	39.86500	-86.12216
+716 N US Highway 441	Lady Lake	FL	28.93556	-81.93912
+32858 Fm 2978 Rd	Magnolia	TX	30.21726	-95.56587
+762 Arlington Rdg	Akron	OH	40.98380	-81.49580
+2021 Market Dr	Stillwater	MN	45.03730	-92.84070
+301 Strander Blvd	Tukwila	WA	47.45588	-122.25646
+4 Henry St	Commack	NY	40.80849	-73.29417
+100 Quality Dr	Hooksett	NH	43.04701	-71.45998
+2772 Tittabawassee Rd	Saginaw	MI	43.48001	-83.97072
+42625 Jackson St	Indio	CA	33.73941	-116.21795
+300 S Randall Rd	Elgin	IL	42.02517	-88.33898
+1851 E State Route 69	Prescott	AZ	34.54880	-112.43200
+725 W 32nd St	Yuma	AZ	32.66923	-114.62766
+8100 E Broad St	Reynoldsburg	OH	39.98578	-82.78635
+1900 S Koeller St	Oshkosh	WI	43.99800	-88.58210
+11200 Reisterstown Rd	Owings Mills	MD	39.43466	-76.79885
+2750 Gateway St	Springfield	OR	44.07219	-123.04245
+20908 Frederick Rd	Germantown	MD	39.19920	-77.24890
+170 Cochrane Plz	Morgan Hill	CA	37.14613	-121.66297
+6814 Charlotte Pike	Nashville	TN	36.13397	-86.89000
+15700 Shawnee Mission Pkwy	Shawnee	KS	39.00881	-94.76836
+55 US Highway 9	Manalapan	NJ	40.29101	-74.29699
+560 Contra Costa Blvd	Pleasant Hill	CA	37.98139	-122.06707
+1825 E Primrose St	Springfield	MO	37.15110	-93.26230
+110 W Meadows Dr	Glenwood Springs	CO	39.55780	-107.35200
+3065 Atlanta Hwy	Athens	GA	33.94416	-83.43880
+30 Bellis Fair Pkwy	Bellingham	WA	48.78426	-122.48778
+120 Matthew Dr	Uniontown	PA	39.90698	-79.75500
+22735 Rockside Rd	Bedford	OH	41.40852	-81.52627
+3770 N Goldenrod Rd	Winter Park	FL	28.59532	-81.28677
+3730 Belt Line Rd	Addison	TX	32.95308	-96.85433
+175 W Center St	Orem	UT	40.29699	-111.69975
+675 Troy Schenectady Rd	Latham	NY	42.75770	-73.76970
+3155 Silver Creek Rd	San Jose	CA	37.30930	-121.81300
+4053 Factoria Square Mall SE	Bellevue	WA	47.57463	-122.16957
+371 Putnam Pike	Smithfield	RI	41.87025	-71.52292
+5020 S Hulen St	Fort Worth	TX	32.67409	-97.39929
+119 Crossing Way	Augusta	ME	44.31370	-69.80595
+13100 Columbia Pike	Silver Spring	MD	39.06921	-76.95859
+1200 Baltimore Pike	Springfield	PA	39.91357	-75.34952
+20900 Westgate	Cleveland	OH	41.46045	-81.85247
+585 Alfred St	Biddeford	ME	43.47524	-70.51395
+35700 Van Dyke Ave	Sterling Heights	MI	42.55570	-83.02890
+4001 Route 42	Turnersville	NJ	39.73839	-75.04191
+4390 Montgomery Rd	Ellicott City	MD	39.25116	-76.81413
+2300 College Way	Fergus Falls	MN	46.28963	-96.11289
+7200 Dodge St	Omaha	NE	41.25960	-96.02387
+15160 N Meridian St	Carmel	IN	40.01898	-86.13104
+5001 Madison Ave	Sacramento	CA	38.66184	-121.34920
+625 Piney Forest Rd	Danville	VA	36.60957	-79.40688
+16600 Highlands Center Blvd	Bristol	VA	36.63700	-82.10950
+1002 Dixieland Rd	Harlingen	TX	26.18165	-97.72095
+6150 Glenway Ave	Cincinnati	OH	39.14459	-84.61953
+12000 Retail Dr	Wake Forest	NC	35.96781	-78.54265
+6525 W Diversey Ave	Chicago	IL	41.93088	-87.78876
+4024 College Point Blvd	Flushing	NY	40.75740	-73.83404
+6600 Springfield Mall	Springfield	VA	38.77480	-77.17560
+10143 Indianapolis Blvd	Highland	IN	41.52945	-87.47116
+10801 Westheimer Rd	Houston	TX	29.73556	-95.56790
+4433 S Pulaski Rd	Chicago	IL	41.81276	-87.72380
+3030 Harbor Blvd	Costa Mesa	CA	33.68215	-117.91908
+4890 Marsh Rd	Okemos	MI	42.72599	-84.41507
+2309 Euclid Ave	Des Moines	IA	41.62778	-93.65006
+355 W Mound Rd	Decatur	IL	39.89117	-88.95947
+555 Highway 34 E	Newnan	GA	33.41010	-84.74510
+8420 N Madison Ave	Kansas City	MO	39.24761	-94.59490
+2140 E Baseline Rd	Phoenix	AZ	33.37786	-112.03556
+5620 Johnston St	Lafayette	LA	30.17628	-92.07598
+1061 Cochrane Rd	Morgan Hill	CA	37.15490	-121.65200
+1 Hawes Way	Stoughton	MA	42.15442	-71.07271
+2400 Romig Rd	Akron	OH	41.04944	-81.58070
+153 Sierra Dr	Altoona	PA	40.57147	-78.34465
+2000 10th Ave S	Great Falls	MT	47.49350	-111.27200
+21855 Towne Center Dr	Watertown	NY	43.97354	-75.95934
+199 Plain St	Lowell	MA	42.62456	-71.31752
+1301 Coolidge Hwy	Troy	MI	42.54471	-83.18620
+2925 Harrison Ave NW	Olympia	WA	47.04709	-122.93787
+2800 N Sutton Rd	Hoffman Estates	IL	42.07383	-88.18958
+9429 Katy Fwy	Houston	TX	29.78379	-95.52510
+9800 SE Washington St	Portland	OR	45.51612	-122.56249
+5101 N Broadway St	Knoxville	TN	36.03306	-83.93057
+2425 Claribel Rd	Riverbank	CA	37.71312	-120.95509
+731 Sutters Creek Blvd	Rocky Mount	NC	35.97173	-77.81154
+423 Donald Lynch Blvd	Marlborough	MA	42.35813	-71.60657
+6835 Katella Ave	Cypress	CA	33.80296	-118.01389
+4375 N Chouteau Trfy	Kansas City	MO	39.17340	-94.53584
+1201 Wp Ball Blvd	Sanford	FL	28.79930	-81.33370
+1951 W Jefferson Ave	Naperville	IL	41.77026	-88.20487
+15341 Montanus Dr	Culpeper	VA	38.48100	-77.96370
+5700 Bou Ave	Rockville	MD	39.05619	-77.11908
+543 River Rd	Edgewater	NJ	40.81360	-73.98464
+2060 S Independence Blvd	Virginia Beach	VA	36.79280	-76.11080
+14750 Miller Ave	Fontana	CA	34.11416	-117.48466
+2401 Kossow Rd	Waukesha	WI	43.01014	-88.23155
+4241 Lavista Rd	Tucker	GA	33.84668	-84.24529
+2017 E US Highway 14	Janesville	WI	42.72230	-88.99720
+2640 Enterprise Dr	Opelika	AL	32.61807	-85.40816
+2950 Chapel Hill Rd	Douglasville	GA	33.72539	-84.73541
+10401 Martin Luther King Jr Hwy	Bowie	MD	38.95585	-76.82533
+1405 W Pacheco Blvd	Los Banos	CA	37.05354	-120.87569
+851 W 78th St	Chanhassen	MN	44.86221	-93.54475
+2800 SW Barton St	Seattle	WA	47.52110	-122.36900
+1400 S Havana St	Aurora	CO	39.69144	-104.86595
+334 Chicago Dr	Jenison	MI	42.90367	-85.78904
+1020 Koontz Ln	Carson City	NV	39.13383	-119.75749
+1020 N Quincy Ave	Ottumwa	IA	41.01280	-92.43760
+134 Harbison Blvd	Columbia	SC	34.06756	-81.16705
+2575 Enterprise Rd	Orange City	FL	28.91574	-81.29409
+12500 K Plz	Omaha	NE	41.21288	-96.10866
+6000 Sawmill Rd	Dublin	OH	40.08980	-83.09177
+500 N Point Pkwy	Alpharetta	GA	34.08431	-84.25811
+4100 Blue Diamond Rd	Las Vegas	NV	36.03800	-115.19574
+111 Pioneer Trl	Chaska	MN	44.82839	-93.60175
+115 Fortune Dr	Irvine	CA	33.65036	-117.74438
+2610 Bishop Dr	San Ramon	CA	37.76291	-121.96226
+1280 E Gibson Rd	Woodland	CA	38.66279	-121.76476
+2100 Texas Ave S	College Station	TX	30.61170	-96.31425
+230 Oser Ave	Hauppauge	NY	40.81669	-73.25445
+721 Southpark Blvd	Colonial Heights	VA	37.24840	-77.38844
+2315 Richmond Rd	Texarkana	TX	33.45508	-94.08548
+4199 Campus Dr	Irvine	CA	33.64927	-117.83973
+3505 Atlanta Hwy	Athens	GA	33.93923	-83.45414
+2427 E Expressway 83	Mission	TX	26.19790	-98.28400
+205 Soscol Ave	Napa	CA	38.28240	-122.27701
+12471 Limonite Ave	Mira Loma	CA	33.97527	-117.55542
+4343 Gannon Ln	Dallas	TX	32.65660	-96.89010
+1851 Vernaci Dr	Washington	MO	38.53471	-90.98165
+315 Lowes Blvd	State College	PA	40.81060	-77.91180
+4200 E Main St	Ventura	CA	34.26282	-119.23619
+3931 S Gilbert Rd	Gilbert	AZ	33.27849	-111.78966
+2700 Timber Dr	Garner	NC	35.71589	-78.63974
+1750 Walden Ave	Cheektowaga	NY	42.90893	-78.77220
+8500 Main St	Houston	TX	29.69110	-95.41730
+9725 Laurel Canyon Blvd	Arleta	CA	34.24431	-118.41739
+4800 3rd Ave	Kearney	NE	40.72125	-99.08429
+4500 MacDonald Ave	Richmond	CA	37.93208	-122.32732
+1200 E 2nd St	Edmond	OK	35.65275	-97.46436
+904 Admiral Callaghan Ln	Vallejo	CA	38.13136	-122.22452
+5300 US Highway 10 E	Stevens Point	WI	44.52357	-89.52299
+8400 89th Ave N	Minneapolis	MN	45.11608	-93.38924
+8800 Whittier Blvd	Pico Rivera	CA	34.00170	-118.08500
+495 Haggerty Hwy	Commerce Township	MI	42.53370	-83.43810
+148 John Hunn Brown Rd	Dover	DE	39.16070	-75.51035
+3790 Center St NE	Salem	OR	44.93958	-122.98607
+2661 Freeport Rd	Pittsburgh	PA	40.53664	-79.83882
+5420 University Pkwy	Winston Salem	NC	36.16875	-80.27714
+3160 Northlake Blvd	Palm Beach Gardens	FL	26.80815	-80.08536
+315 W Canfield Ave	Coeur D Alene	ID	47.73322	-116.79069
+2626 E Stone Dr	Kingsport	TN	36.55104	-82.49088
+120 Hawley Ln	Trumbull	CT	41.23259	-73.15032
+820 Oviedo Marketplace Blvd	Oviedo	FL	28.65972	-81.23675
+800 W Arbrook Blvd	Arlington	TX	32.68324	-97.11890
+9000 SE Sunnyside Rd	Clackamas	OR	45.43328	-122.57110
+4900 E Main St	Farmington	NM	36.76710	-108.14846
+360 Waterfront Dr E	Homestead	PA	40.41211	-79.91099
+1450 S Yuma Palms Pkwy	Yuma	AZ	32.70060	-114.60200
+3064 Columbia Ave	Franklin	TN	35.89179	-86.87711
+3227 SE Military Dr	San Antonio	TX	29.35310	-98.43340
+450 N Capitol Ave	San Jose	CA	37.37340	-121.84600
+4220 5th Street Hwy	Temple	PA	40.39730	-75.92875
+749 Apollo Dr	Circle Pines	MN	45.18300	-93.10544
+4135 Wilder Rd	Bay City	MI	43.62375	-83.89317
+1090 Hansel Ave	Florence	KY	39.01657	-84.63155
+7601 Kingery Hwy	Willowbrook	IL	41.74910	-87.94400
+4004 Route 130	Delran	NJ	40.01263	-74.96041
+3801 Coldwater Rd	Fort Wayne	IN	41.11136	-85.13509
+694 Fairview Rd	Simpsonville	SC	34.70593	-82.25993
+7989 US Highway 64	Memphis	TN	35.20445	-89.79688
+12621 W Interstate 10	San Antonio	TX	29.55961	-98.58938
+11826 NE Glisan St	Portland	OR	45.52629	-122.54069
+3450 4th St SW	Mason City	IA	43.14835	-93.25442
+1154 S Clark St	Chicago	IL	41.86929	-87.63051
+2155 S Sheridan Blvd	Denver	CO	39.67704	-105.05323
+2929 Watson Blvd	Warner Robins	GA	32.61670	-83.68590
+2325 S Stemmons Fwy	Lewisville	TX	33.00777	-96.97458
+200 Prospect St	Waltham	MA	42.36949	-71.24537
+2295 SE Tualatin Valley Hwy	Hillsboro	OR	45.50730	-122.95700
+8350 S Dixie Hwy	Miami	FL	25.69291	-80.30554
+735 W Stadium Blvd	Jefferson City	MO	38.57950	-92.21360
+15005 SW 88th St	Miami	FL	25.68476	-80.43798
+2380 Sterling Ave	San Bernardino	CA	34.13688	-117.24366
+2735 Beene Blvd	Bossier City	LA	32.55992	-93.70858
+8989 S Howell Ave	Oak Creek	WI	42.88174	-87.91485
+11000 Stockdale Hwy	Bakersfield	CA	35.34918	-119.12523
+815 W Antelope Dr	Layton	UT	41.08918	-111.98135
+16806 N 7th St	Phoenix	AZ	33.63924	-112.06551
+6800 Highway 6 S	Houston	TX	29.70246	-95.64212
+3804 Metro Dr	Council Bluffs	IA	41.22570	-95.86420
+66 S Dobson Rd	Mesa	AZ	33.41173	-111.87458
+4599 Perkiomen Ave	Reading	PA	40.30933	-75.85932
+1818 E Baseline Rd	Tempe	AZ	33.37844	-111.90815
+1970 Hilliard Rome Rd	Hilliard	OH	39.99063	-83.15010
+755 NW Gilman Blvd	Issaquah	WA	47.54342	-122.04773
+1941 S Military Trl	West Palm Beach	FL	26.64977	-80.11246
+400 Corwin Nixon Blvd	South Lebanon	OH	39.37858	-84.22024
+1 N Galleria Dr	Middletown	NY	41.45350	-74.36482
+197 S New Hope Rd	Gastonia	NC	35.26390	-81.15203
+1630 Cheyenne Blvd	Colorado Springs	CO	38.79267	-104.79951
+621 W Edgar Rd	Linden	NJ	40.62100	-74.24809
+131 W Reynolds Rd	Lexington	KY	37.99230	-84.52450
+17751 Colima Rd	City Of Industry	CA	33.99034	-117.92144
+514 Shallowford Rd NW	Gainesville	GA	34.29133	-83.84578
+2747 Gulf To Bay Blvd	Clearwater	FL	27.96061	-82.72460
+2707 Schofield Ave	Schofield	WI	44.90714	-89.58935
+3700 Bradfordville Rd	Tallahassee	FL	30.56310	-84.21400
+3055 Columbia Blvd	Titusville	FL	28.55350	-80.84170
+9052 Central Ave	Montclair	CA	34.08875	-117.68968
+2222 N McQueen Rd	Chandler	AZ	33.33792	-111.82428
+5618 Lakewood Towne Center Blvd SW	Lakewood	WA	47.16390	-122.51100
+857 Baltimore Pike	Springfield	PA	39.91596	-75.33587
+6820 Eastman Ave	Midland	MI	43.65830	-84.24120
+8399 N University Dr	Tamarac	FL	26.22840	-80.25286
+7809 NE Vancouver Plaza Dr	Vancouver	WA	45.64846	-122.59306
+1112 Woodruff Rd	Greenville	SC	34.83136	-82.30669
+625 3rd Ave Ext	Rensselaer	NY	42.64424	-73.70131
+1212 Bridford Pkwy	Greensboro	NC	36.05882	-79.90334
+8005 Calumet Ave	Munster	IN	41.56830	-87.50880
+665 Sleater Kinney Rd SE	Lacey	WA	47.04190	-122.83375
+2255 14th Ave SE	Albany	OR	44.62883	-123.08240
+4500 Veterans Memorial Blvd	Metairie	LA	30.00367	-90.18339
+11450 San Pablo Ave	El Cerrito	CA	37.92303	-122.31717
+1300 E 86th St	Indianapolis	IN	39.91258	-86.14035
+4930 State Highway 30	Amsterdam	NY	42.84454	-74.20061
+4734 E Ray Rd	Phoenix	AZ	33.31990	-111.98259
+6734 W Greenfield Ave	Milwaukee	WI	43.01673	-87.99622
+335 Washington Rd	Washington	PA	40.18664	-80.22218
+4920 Transit Rd	Depew	NY	42.87862	-78.69698
+1076 Jackson Xing	Jackson	MI	42.26690	-84.42856
+2002 Golf Mill Ctr	Niles	IL	42.05029	-87.84042
+3049 N US Highway 441	Lake City	FL	30.23221	-82.63856
+6128 Broadway St	Galveston	TX	29.28886	-94.83900
+6000 Sepulveda Blvd	Culver City	CA	33.98579	-118.39494
+8101 Cosumnes River Blvd	Sacramento	CA	38.45719	-121.41421
+9805 McKnight Rd	Pittsburgh	PA	40.58573	-80.03675
+746 NW Loop 410	San Antonio	TX	29.52015	-98.50388
+223 E Betteravia Rd	Santa Maria	CA	34.92188	-120.43279
+8007 W Florissant Ave	Saint Louis	MO	38.73082	-90.27490
+1529 E 17th Ave	Hutchinson	KS	38.07110	-97.89880
+3030 Grove Ave	Lorain	OH	41.44331	-82.12015
+1230 S Longmore	Mesa	AZ	33.39240	-111.86500
+5601 Belleville Crossing St	Belleville	IL	38.52147	-90.02764
+7575 W Maple St	Wichita	KS	37.67984	-97.43103
+5425 S Padre Island Dr	Corpus Christi	TX	27.70865	-97.37269
+3301 Highway 10 E	Moorhead	MN	46.87578	-96.72943
+100 Parsonage Rd	Edison	NJ	40.55132	-74.33582
+5330 S 56th St	Lincoln	NE	40.75656	-96.64418
+9371 Coors Blvd NW	Albuquerque	NM	35.18533	-106.66361
+43525 10th St W	Lancaster	CA	34.67368	-118.14909
+1980 Santa Rosa Ave	Santa Rosa	CA	38.41946	-122.71352
+27100 Wixom Rd	Novi	MI	42.48842	-83.53521
+505 E Prater Way	Sparks	NV	39.54180	-119.73577
+605 N Stephanie St	Henderson	NV	36.06464	-115.04774
+700 Exterior St	Bronx	NY	40.81795	-73.93075
+4225 Crestview Dr SE	Rio Rancho	NM	35.25175	-106.65246
+16300 N Market Place Blvd	Nampa	ID	43.60880	-116.59000
+3410 Dr M L King Jr Blvd	New Bern	NC	35.09974	-77.09619
+1751 Madison Ave	Council Bluffs	IA	41.24306	-95.82660
+749 Highway 42	Osage Beach	MO	38.12796	-92.65899
+2499 Whipple Rd	Hayward	CA	37.60728	-122.06485
+300 Hollywood Mall	Hollywood	FL	26.01260	-80.17302
+2315 Colorado Blvd	Denton	TX	33.19072	-97.10311
+3100 Baldwin Park Blvd	Baldwin Park	CA	34.06958	-117.97972
+5455 Clyde Park Ave SW	Wyoming	MI	42.86489	-85.68412
+1701 S University Blvd	Middletown	OH	39.49720	-84.39720
+3171 Lebanon Pike	Nashville	TN	36.18430	-86.63769
+1245 N Military Hwy	Norfolk	VA	36.86634	-76.21091
+12975 Shelbyville Rd	Louisville	KY	38.24655	-85.51456
+548 E Devon Ave	Elk Grove Village	IL	41.99286	-87.98083
+9235 US Highway 72	Germantown	TN	35.06650	-89.75594
+608 US Highway 41	Schererville	IN	41.51166	-87.47125
+11501 W 97th St	Overland Park	KS	38.95126	-94.72041
+7145 Main St	Clifton	VA	38.78052	-77.38691
+1001 13th St S	Virginia	MN	47.51217	-92.54841
+10576 Foothill Blvd	Rancho Cucamonga	CA	34.10857	-117.57289
+822 Flying Cloud Dr	Chaska	MN	44.81213	-93.54379
+4805 Lake Brook Dr	Glen Allen	VA	37.66931	-77.57383
+412 N Main St	Euless	TX	32.84231	-97.08265
+214 Viking Plaza Rd	Cedar Falls	IA	42.48228	-92.44385
+18 Northgate Park	Chattanooga	TN	35.13368	-85.24139
+202 Highway 332	Lake Jackson	TX	29.04839	-95.46679
+12735 E L Ave	Galesburg	MI	42.27560	-85.39217
+4155 W Lake Mary Blvd	Lake Mary	FL	28.75600	-81.34890
+1040 Timber Dr E	Garner	NC	35.68760	-78.57970
+156 Brickyard Rd	Middleburg	FL	30.10871	-81.77020
+15240 N Dale Mabry Hwy	Tampa	FL	28.08870	-82.50365
+Glendale Galleria	Glendale	CA	34.14376	-118.25973
+1102 Springwater St	Wenatchee	WA	47.43686	-120.32765
+1250 N Port Washington Rd	Grafton	WI	43.32010	-87.92510
+3702 Ranch Rd	Austin	TX	30.19860	-97.82732
+6275 University Dr NW	Huntsville	AL	34.74500	-86.68140
+125 N Wales Rd	North Wales	PA	40.23126	-75.25931
+5801 W 44th Ave	Denver	CO	39.77794	-105.05956
+3410 Martin Dr	New Bern	NC	35.10348	-77.09818
+1401 S Johnson Ferry Rd NE	Atlanta	GA	33.90508	-84.34964
+300 E Kingsbridge Rd	Bronx	NY	40.86500	-73.89393
+3300 Western Pkwy	Waldorf	MD	38.61990	-76.92399
+1153 Butte House Rd	Yuba City	CA	39.14646	-121.63276
+1101 Ira E Woods Ave	Grapevine	TX	32.93190	-97.08655
+740 Ernest W Barrett Pkwy NW	Kennesaw	GA	34.00760	-84.57170
+2250 York Rd	York	PA	39.89419	-76.70725
+360 E Waterfront Dr	Mars	PA	40.68170	-80.04150
+50 Rudy Rd	Newburgh	NY	41.50407	-74.22556
+4700 Green Rd	Raleigh	NC	35.84741	-78.58660
+7400 Bustleton Ave	Philadelphia	PA	40.04990	-75.05824
+1701 18th Ave NW	Austin	MN	43.68472	-92.99711
+6700 Peach St	Erie	PA	42.05865	-80.09176
+201 Parkchester Rd	Harrisburg	PA	40.26070	-76.88430
+24 College Point Blvd	Flushing	NY	40.76113	-73.83524
+400 N 1st St	Minneapolis	MN	44.98854	-93.27353
+1415 Eglin St	Rapid City	SD	44.09870	-103.18746
+33860 S Gratiot Ave	Clinton Twp	MI	42.54590	-82.90450
+2450 Shoppers Ln	Philadelphia	PA	40.07510	-75.15610
+300 Bay Fair Mall	San Leandro	CA	37.69860	-122.12700
+2690 US Highway 22 E	Union	NJ	40.68849	-74.30750
+1500 Greentree Blvd	Clarksville	IN	38.31862	-85.76393
+3333 W Airport Fwy	Irving	TX	32.83832	-96.99146
+2828 Paa St	Honolulu	HI	21.34580	-157.89645
+715 Blue River Rd	Breckenridge	CO	39.43667	-106.03822
+1901 George Dieter Dr	El Paso	TX	31.76941	-106.30359
+300 Primera Blvd	Lake Mary	FL	28.76281	-81.35396
+3000 E Highland Dr	Jonesboro	AR	35.82123	-90.66772
+411 Cedar St	Saint Paul	MN	44.94989	-93.09692
+3944 Grand Ave	Chino	CA	34.00146	-117.71830
+2501 Lakeview Pkwy	Rowlett	TX	32.90799	-96.57985
+3101 Donnell Dr	District Heights	MD	38.84814	-76.88541
+2755 Canyon Springs Pkwy	Riverside	CA	33.94062	-117.28175
+255 Marina Bay Dr	Kemah	TX	29.54069	-95.02243
+3570 Harden Blvd	Lakeland	FL	27.99858	-81.97529
+11990 Business Park Blvd N	Champlin	MN	45.17382	-93.39008
+9666 Fremont Pike	Perrysburg	OH	41.54105	-83.58104
+13706 N Highway 183	Austin	TX	30.45739	-97.79291
+1205 S Washington St N	Attleboro	MA	41.93210	-71.30000
+910 Jacks Valley Rd	Carson City	NV	39.10044	-119.77952
+2415 Tarpon Bay Blvd	Naples	FL	26.27080	-81.73771
+2141 S 314th St	Federal Way	WA	47.32021	-122.30618
+2100 Killingly Cmns	Dayville	CT	41.84098	-71.79425
+4817 W Park Blvd	Plano	TX	33.02715	-96.79114
+5001 N Big Hollow Rd	Peoria	IL	40.74767	-89.63261
+20255 W 154th St	Olathe	KS	38.84910	-94.82140
+3900 Highway 52 N	Rochester	MN	44.06192	-92.49810
+301 S Veterans Pkwy	Normal	IL	40.50508	-88.95348
+8448 Center Run Dr	Indianapolis	IN	39.90500	-86.05780
+4223 Washington Rd	Evans	GA	33.52670	-82.11840
+5225 Elmore Ave	Davenport	IA	41.57469	-90.52851
+20001 Center Ridge Rd	Cleveland	OH	41.46469	-81.84266
+2255 S El Camino Real	Oceanside	CA	33.18414	-117.32959
+4701 FM RR 1960	Houston	TX	29.87180	-95.51460
+1135 S Gilbert Rd	Mesa	AZ	33.39479	-111.78830
+312 Connor Dr	Charlottesville	VA	38.12969	-78.44144
+1598 Flatbush Ave	Brooklyn	NY	40.63200	-73.94184
+7101 Tonnelle Ave	North Bergen	NJ	40.80251	-74.02121
+25 Brentwood Promenade Ct	Saint Louis	MO	38.62818	-90.34154
+4001 Phoenix Ave	Fort Smith	AR	35.33885	-94.38743
+3245 Sports Arena Blvd	San Diego	CA	32.75280	-117.20800
+3599 W Hillsboro Blvd	Deerfield Beach	FL	26.31796	-80.15255
+8600 Springbrook Dr NW	Coon Rapids	MN	45.12671	-93.26706
+7178 Hanover Pkwy	Greenbelt	MD	38.98611	-76.87630
+7409 W Virginia Ave	Phoenix	AZ	33.47571	-112.21747
+2674 Caribbean Dr	Grand Junction	CO	39.12530	-108.55588
+125 Boston Post Rd	Orange	CT	41.27477	-72.99198
+320 S Duff Ave	Ames	IA	42.01942	-93.61030
+18255 Blanco Rd	San Antonio	TX	29.61035	-98.50835
+1824 E Ridge Pike	Royersford	PA	40.21270	-75.49970
+2939 W Addison St	Chicago	IL	41.94654	-87.70137
+5868 E 71st St	Indianapolis	IN	39.88339	-86.06797
+1188 W Broad St	Mansfield	TX	32.55695	-97.16180
+380 Consumer Sq	Mays Landing	NJ	39.45189	-74.63229
+1265 Sgt Jon Stiles Dr	Littleton	CO	39.55327	-105.00805
+4247 S Mooney Blvd	Visalia	CA	36.29210	-119.31700
+7305 SE 29th St	Oklahoma City	OK	35.43544	-97.39713
+7501 Southwest Fwy	Houston	TX	29.69743	-95.52042
+3045 Silverlake Village Dr	Pearland	TX	29.55420	-95.38516
+4640 Taylorsville Rd	Louisville	KY	38.21750	-85.59519
+2135 SE Delaware Ave	Ankeny	IA	41.70851	-93.58106
+9001 Staples Mill Rd	Richmond	VA	37.63742	-77.51206
+1238 Putty Hill Ave	Towson	MD	39.39314	-76.58111
+1575 Niagara Falls Blvd	Buffalo	NY	42.99784	-78.82235
+13924 N Pennsylvania Ave	Oklahoma City	OK	35.61190	-97.54939
+7608 NE Zac Lentz Pkwy	Victoria	TX	28.86540	-96.99920
+5252 S Lindbergh Blvd	Saint Louis	MO	38.52633	-90.36630
+3020 US Highway 34	Oswego	IL	41.69670	-88.31670
+41040 California Oaks Rd	Murrieta	CA	33.56677	-117.20616
+3955 E Broad St	Columbus	OH	39.97378	-82.89564
+51 Tierra Rejada Rd	Simi Valley	CA	34.27286	-118.79724
+740 W Camelback Rd	Phoenix	AZ	33.50938	-112.08302
+444 Monument Rd	Jacksonville	FL	30.32920	-81.54720
+3150 Bel Air Mall	Mobile	AL	30.67354	-88.12600
+8043 Challis Rd	Brighton	MI	42.54403	-83.79346
+325 N Alafaya Trl	Orlando	FL	28.55054	-81.20386
+3700 Hickory Hill Rd	Memphis	TN	35.04857	-89.86631
+4317 Kemp Blvd	Wichita Falls	TX	33.86460	-98.53400
+8200 26 Mile Rd	Shelby Township	MI	42.71369	-83.03240
+2550 Catron St	Bozeman	MT	45.71270	-111.07100
+4707 Pacific Ave	Stockton	CA	37.99304	-121.31347
+1075 Old Norcross Rd	Lawrenceville	GA	33.95326	-84.02499
+1050 Ridge Rd	Webster	NY	43.21370	-77.45020
+10720 SW Village Pkwy	Port Saint Lucie	FL	27.26990	-80.42790
+529 Lincoln St	Worcester	MA	42.29436	-71.77492
+1801 E Parks Hwy	Wasilla	AK	61.57639	-149.40694
+2112 W Peterson Ave	Chicago	IL	41.99065	-87.68296
+500 N Congress Ave	Lake Park	FL	26.80367	-80.08294
+2417 W Main St	Norman	OK	35.21851	-97.47747
+1200 Linton Blvd	Delray Beach	FL	26.43956	-80.08432
+7250 Rivers Ave	North Charleston	SC	32.93277	-80.03689
+5265 Smackover Hwy	Smackover	AR	33.36554	-92.75753
+7501 San Dario Ave	Laredo	TX	27.56974	-99.50210
+3205 Woodward Crossing Blvd	Buford	GA	34.06876	-83.98134
+1515 N Litchfield Rd	Goodyear	AZ	33.46333	-112.35784
+900 E Kemper Rd	Springdale	OH	39.28678	-84.45512
+4601 Commonwealth Centre Pkwy	Midlothian	VA	37.42019	-77.63471
+2350 Troy Rd	Edwardsville	IL	38.78451	-89.95116
+10451 Indianapolis Blvd	Highland	IN	41.52400	-87.46850
+3181 Chili Ave	Rochester	NY	43.10512	-77.74664
+1450 Greenland Rd	Greenland	NH	43.04945	-70.81767
+630 Main St	Hackensack	NJ	40.89830	-74.03890
+10900 Stadium Pkwy	Kansas City	KS	39.12629	-94.82998
+5225 Monroe St	Toledo	OH	41.70104	-83.65027
+5000 Grandview Pkwy	Davenport	FL	28.23233	-81.64309
+1150 E Hillside Dr	Broken Arrow	OK	36.06701	-95.77640
+47330 Michigan Ave	Canton	MI	42.26775	-83.50381
+19146 Freeport St NW	Elk River	MN	45.31579	-93.56183
+6955 Highway 6 N	Houston	TX	29.87870	-95.64691
+101 S Euclid St	Anaheim	CA	33.83241	-117.94159
+12830 Walker Branch Rd	Charlotte	NC	35.09924	-80.98847
+5769 Lone Tree Way	Antioch	CA	37.96171	-121.73845
+13711 S Tamiami Trl	Fort Myers	FL	26.54440	-81.86874
+30 R H L Blvd	Charleston	WV	38.33669	-81.71304
+24425 Magic Mountain Pkwy	Valencia	CA	34.41953	-118.56154
+200 Running Hill Rd	South Portland	ME	43.63724	-70.34395
+3885 E Main St	Saint Charles	IL	41.91860	-88.26450
+2615 Tuscany St	Corona	CA	33.82484	-117.51691
+2201 S Commons	Federal Way	WA	47.31360	-122.30900
+9440 Marsh Ln	Dallas	TX	32.86320	-96.85442
+1441 Coral Ridge Ave	Coralville	IA	41.69092	-91.60845
+200 Butler Cmns	Butler	PA	40.87597	-79.94318
+2601 Central Ave	Billings	MT	45.76975	-108.58161
+3535 Tower Ave	Superior	WI	46.69730	-92.10430
+718 Maguire Blvd	Orlando	FL	28.55580	-81.34398
+6717 Ritchie Hwy	Glen Burnie	MD	39.19136	-76.61347
+10555 N Oracle Rd	Tucson	AZ	32.39760	-110.95644
+7401 SW Washo Ct	Tualatin	OR	45.37807	-122.75264
+7535 W Broadway Ave	Minneapolis	MN	45.09030	-93.37669
+8710 Montgomery Blvd NE	Albuquerque	NM	35.13061	-106.54755
+6365 I 55 N	Jackson	MS	32.39742	-90.14613
+1215 N Landing Way	Renton	WA	47.49565	-122.20213
+4575 W 11th Ave	Eugene	OR	44.04811	-123.17133
+5071 Cal Sag Rd	Crestwood	IL	41.65585	-87.74288
+11148 Plum Dr	Urbandale	IA	41.64721	-93.76896
+4050 N Harlem Ave	Norridge	IL	41.95384	-87.80730
+3405 McHenry Ave	Modesto	CA	37.68830	-120.99428
+1727 Martin Luther King Jr Blvd	Houma	LA	29.61311	-90.75588
+6150 Bayfield Pkwy	Concord	NC	35.41850	-80.67690
+4727 Thompson Mill Rd	Buford	GA	34.12285	-83.98503
+2700 Bell Rd	Auburn	CA	38.94256	-121.09362
+205 Mohegan Dr	West Hartford	CT	41.80019	-72.73506
+3701 Lapeer Rd	Flint	MI	43.01014	-83.63825
+4647 Promenade Way	Matteson	IL	41.49980	-87.73000
+1800 E Rio Salado Pkwy	Tempe	AZ	33.42935	-111.90895
+533 Coleman Ave	San Jose	CA	37.34073	-121.90564
+2370 E Lincoln Hwy	New Lenox	IL	41.50740	-87.92110
+300 Cabela Dr	Triadelphia	WV	40.05780	-80.59910
+1140 Commerce Blvd	Dickson City	PA	41.46473	-75.63917
+2191 N Tustin St	Orange	CA	33.82437	-117.83498
+6635 Fallbrook Ave	West Hills	CA	34.19025	-118.62341
+3900 N 124th St	Milwaukee	WI	43.08791	-88.06473
+6119 Stellhorn Rd	Fort Wayne	IN	41.12029	-85.06427
+417 Boardman Poland Rd	Boardman	OH	41.02416	-80.64754
+197 Gravois Bluffs Plaza Dr	Fenton	MO	38.50699	-90.44683
+20801 Ventura Blvd	Woodland Hills	CA	34.16644	-118.58585
+2050 Lime Kiln Rd	Green Bay	WI	44.46420	-87.98303
+29676 Rancho California Rd	Temecula	CA	33.50432	-117.14651
+1874 Joe Battle Blvd	El Paso	TX	31.75890	-106.26600
+3600 Rosemead Blvd	Rosemead	CA	34.07487	-118.07294
+3401 Raleigh Road Pkwy W	Wilson	NC	35.74280	-77.96540
+578 Aviation Rd	Queensbury	NY	43.32790	-73.67940
+6560 E State St	Rockford	IL	42.26815	-88.98682
+1910 Bob Bullock Loop	Laredo	TX	27.51592	-99.44900
+2887 S Rochester Rd	Rochester Hills	MI	42.63823	-83.13183
+7899 Wadsworth Blvd	Arvada	CO	39.84037	-105.08182
+4955 US Highway 9	Howell	NJ	40.13228	-74.22374
+886 W State Road 436	Altamonte Springs	FL	28.66520	-81.41750
+8340 Sudley Rd	Manassas	VA	38.77480	-77.50280
+2169 W Redondo Beach Blvd	Gardena	CA	33.88570	-118.31700
+13724 E Sprague Ave	Spokane Valley	WA	47.65713	-117.22105
+9400 State Road 16	Onalaska	WI	43.87129	-91.19496
+2791 David H McLeod Blvd	Florence	SC	34.19195	-79.83704
+100 Upland Sq Dr	Pottstown	PA	40.26544	-75.65238
+8601 Research Blvd	Austin	TX	30.36256	-97.71568
+5610 Roswell Rd	Atlanta	GA	33.90798	-84.37871
+1280 Dana Dr	Redding	CA	40.58577	-122.34734
+3600 S Louise Ave	Sioux Falls	SD	43.51200	-96.77105
+2939 Market Pl	Salina	KS	38.78489	-97.61096
+6405 S Interstate 35	Austin	TX	30.19207	-97.79120
+19370 Kelly Rd	Harper Woods	MI	42.43816	-82.95021
+4370 Venture Dr	Peru	IL	41.36323	-89.12942
+10431 Fairfax Blvd	Fairfax	VA	38.85860	-77.30636
+2150 N Arizona Ave	Chandler	AZ	33.33863	-111.84176
+14546 Dellwood Dr	Baxter	MN	46.36316	-94.24364
+6350 Weddington Rd	Matthews	NC	34.99930	-80.69560
+2120 SW Wanamaker Rd	Topeka	KS	39.02865	-95.76225
+1201 Bruce B Downs Blvd	Wesley Chapel	FL	28.17405	-82.35385
+20877 Hall Rd	Macomb	MI	42.62898	-82.91216
+2750 Carl T Jones Dr SE	Huntsville	AL	34.68140	-86.54819
+755 53rd Ave NE	Minneapolis	MN	45.06444	-93.25172
+4323 San Felipe St	Houston	TX	29.74650	-95.45200
+4200 E 4th St	Ontario	CA	34.07723	-117.56400
+3201 NW Randall Way	Silverdale	WA	47.65912	-122.69302
+3710 Ridgemont Dr	Abilene	TX	32.40230	-99.76300
+209 Stafford Park Blvd	Manahawkin	NJ	39.71078	-74.28347
+1363 W Henderson Ave	Porterville	CA	36.08024	-119.04830
+1200 Branson Hills Pkwy	Branson	MO	36.67348	-93.22570
+1425 W Bay Area Blvd	Webster	TX	29.53804	-95.14323
+1240 Broadway	Chula Vista	CA	32.60460	-117.08000
+1135 W Riverdale Rd	Ogden	UT	41.17571	-112.00749
+25 S Gateway Dr	Fredericksburg	VA	38.34484	-77.49382
+17424 Highway 99	Lynnwood	WA	47.84062	-122.29831
+5700 Executive Blvd	Huber Heights	OH	39.87190	-84.13528
+155 E University Dr	Granger	IN	41.72019	-86.17621
+2323 Highway 3 S	Northfield	MN	44.43499	-93.18766
+811 Edinburgh St	Sartell	MN	45.61239	-94.21759
+8500 E 8 Mile Rd	Detroit	MI	42.44540	-83.01879
+1865 N National Rd	Columbus	IN	39.21920	-85.88500
+1111 E Army Post Rd	Des Moines	IA	41.52627	-93.60110
+2500 E Central Texas Expy	Killeen	TX	31.08966	-97.71893
+15150 Cedar Ave	Apple Valley	MN	44.72990	-93.21741
+628 N San Gabriel Ave	Azusa	CA	34.13218	-117.90882
+6670 Clinton Hwy	Knoxville	TN	36.00702	-84.02170
+7 Stony Hill Rd	Bethel	CT	41.41653	-73.40132
+101 N Cattlemen Rd	Sarasota	FL	27.33866	-82.45248
+801 Sunland Park Dr	El Paso	TX	31.81826	-106.54521
+3909 E 42nd St	Odessa	TX	31.89163	-102.34278
+20 W Main St	Ansonia	CT	41.34426	-73.07975
+5900 State Road 7	Lake Worth	FL	26.59320	-80.20310
+450 Azalea Square Blvd	Summerville	SC	33.03970	-80.15730
+2703 Mount Holly Rd	Burlington	NJ	40.03570	-74.82290
+1090 S Main St	Kernersville	NC	36.11010	-80.09950
+28800 Dequindre Rd	Warren	MI	42.50390	-83.08556
+101 Independence Mall Way	Kingston	MA	41.96888	-70.71378
+5150 Goodman Rd	Olive Branch	MS	34.96489	-89.89773
+5584 Dressler Rd NW	North Canton	OH	40.86217	-81.43240
+4 Centerton Rd	Mount Laurel	NJ	39.96868	-74.91953
+8201 Federated West Roadway	Plantation	FL	26.11680	-80.25749
+5950 State Bridge Rd	Duluth	GA	34.01220	-84.18380
+4450 Kapolei Pkwy	Kapolei	HI	21.32909	-158.09248
+360 N Saddle Creek Rd	Omaha	NE	41.26285	-95.98056
+13831 Brookhurst St	Garden Grove	CA	33.76150	-117.95500
+1117 Perimeter Ctr W	Atlanta	GA	33.93021	-84.34898
+3601 N Freeway Blvd	Sacramento	CA	38.63974	-121.49960
+4300 24th Ave	Fort Gratiot	MI	43.03482	-82.45620
+1731 Manhattan Blvd	Harvey	LA	29.88980	-90.05700
+9841 Waterstone Blvd	Cincinnati	OH	39.29565	-84.30449
+133 General Stillwell Dr	Marina	CA	36.66786	-121.81066
+9885 Wicker Ave	Saint John	IN	41.43937	-87.46981
+601 S County Farm Rd	Wheaton	IL	41.85822	-88.14264
+1316 N Highway 77	Waxahachie	TX	32.42440	-96.83770
+4001 S Maryland Pkwy	Las Vegas	NV	36.11600	-115.13777
+5609 W Saginaw Hwy	Lansing	MI	42.74098	-84.63205
+9040 Colerain Ave	Cincinnati	OH	39.23590	-84.59181
+2300 Park Ave	Tustin	CA	33.70058	-117.82871
+20700 Avalon Blvd	Carson	CA	33.84398	-118.26338
+300 Homer M Adams Pkwy	Alton	IL	38.92110	-90.17070
+875 General Sieben Dr	Hastings	MN	44.73672	-92.89017
+8201 W Interstate 40	Amarillo	TX	35.18662	-101.93222
+525 S Gear Ave	West Burlington	IA	40.82117	-91.17007
+24646 Brookpark Rd	North Olmsted	OH	41.41896	-81.89523
+1951 E 20th St	Chico	CA	39.72728	-121.80263
+160 American Ave	Bowling Green	KY	36.95072	-86.43770
+6705 Camino Arroyo	Gilroy	CA	37.00090	-121.55100
+7475 W Colonial Dr	Orlando	FL	28.55203	-81.48379
+9350 Dynasty Dr	Fort Myers	FL	26.61553	-81.80162
+7014 Fm 78	San Antonio	TX	29.48538	-98.34978
+18700 Limestone Commercial Dr	Pflugerville	TX	30.46689	-97.59649
+1750 W 37th St	Hialeah	FL	25.85512	-80.31737
+3100 S Airport Rd W	Traverse City	MI	44.72689	-85.63585
+88 Queens Ave	Elmont	NY	40.69180	-73.70510
+2900 Little Rd	Trinity	FL	28.20129	-82.66623
+7530 Orangethorpe Ave	Buena Park	CA	33.85750	-118.00000
+6600 Richmond Hwy	Alexandria	VA	38.77436	-77.08090
+79 Commerce Way	Seekonk	MA	41.79533	-71.32304
+1285 Som Center Rd	Cleveland	OH	41.52528	-81.43858
+29451 Plymouth Rd	Livonia	MI	42.36901	-83.33429
+2660 E Highway 50	Clermont	FL	28.54910	-81.70530
+250 Granite St	Braintree	MA	42.22050	-71.02807
+7400 N 10th St	McAllen	TX	26.26905	-98.21886
+4795 W Irlo Bronson Memorial Hwy	Kissimmee	FL	28.33180	-81.47244
+4745 Poplar Ave	Memphis	TN	35.11504	-89.90396
+2555 Sycamore Rd	Dekalb	IL	41.95616	-88.72193
+10621 Carmenita Rd	Santa Fe Springs	CA	33.93600	-118.04600
+5119 Sunset Blvd	Lexington	SC	34.00650	-81.19240
+4271 Tamiami Trl S	Venice	FL	27.04981	-82.39099
+6775 Roosevelt Pkwy	Middletown	OH	39.49566	-84.34075
+8400 Lakeview Pkwy	Pleasant Prairie	WI	42.52331	-87.90818
+12700 Chenal Pkwy	Little Rock	AR	34.75398	-92.41430
+9041 Southside Blvd	Jacksonville	FL	30.19492	-81.55188
+6625 E Lloyd Expy	Evansville	IN	37.97640	-87.47257
+1150 Old Country Rd	Riverhead	NY	40.93310	-72.67760
+2400 Bernadette Dr	Columbia	MO	38.96609	-92.37587
+9500 S Interstate 35	Austin	TX	30.15640	-97.79022
+4005 US Highway 98 N	Lakeland	FL	28.09296	-81.97378
+202 Siemers Dr	Cape Girardeau	MO	37.29970	-89.58060
+1300 River Valley Blvd	Lancaster	OH	39.73175	-82.62200
+	San Pedro	CA	33.73787	-118.28466
+1040 Hanes Mall Blvd	Winston Salem	NC	36.06664	-80.31696
+19511 I 45	Spring	TX	30.05119	-95.43196
+725 Hebron Pkwy	Lewisville	TX	33.01290	-96.95170
+2000 SW College Rd	Ocala	FL	29.17424	-82.15843
+	Louisville	KY	38.25486	-85.76640
+23710 Westheimer Pkwy	Katy	TX	29.73417	-95.77641
+3970 SW Archer Rd	Gainesville	FL	29.61747	-82.38596
+86 Orchard Hill Park Dr	Leominster	MA	42.52795	-71.71201
+2295 SE Tualatin Vly	Beaverton	OR	45.48490	-122.79615
+	Des Moines	IA	41.58698	-93.61969
+594 River Hwy	Mooresville	NC	35.59554	-80.87237
+6604 Lake Worth Blvd	Fort Worth	TX	32.81155	-97.43068
+4301 W Wisconsin Ave	Appleton	WI	44.27306	-88.46771
+1HR Photo Lab	Norwalk	CA	33.90625	-118.08252
+	Austin	TX	30.45180	-97.76475
+	Dover	NJ	40.88522	-74.55862
+	Fort Collins	CO	40.58575	-105.10481
+7300 191st St	Tinley Park	IL	41.54385	-87.80200
+4841 Grove Barton Rd	Raleigh	NC	35.87110	-78.71750
+301 Carroll St	Fort Worth	TX	32.75615	-97.35445
+	Warrington	PA	40.25342	-75.13648
+13047 Fair Lakes Shopping Ctr	Fairfax	VA	38.85660	-77.39408
+	Waukesha	WI	43.02243	-88.21336
+3599 W Hillsboro Blvd	Deerfield Beach	FL	26.31809	-80.15268
+1331 Hooper Ave	Toms River	NJ	39.98752	-74.17771
+600 Greece Ridge Center Dr	Rochester	NY	43.20473	-77.69602
+	Northridge	CA	34.23982	-118.54920
+2171 Prairie Center Pkwy	Brighton	CO	39.95551	-104.77697
+	Bridgewater	NJ	40.59288	-74.62510
+	Southington	CT	41.59945	-72.87800
+8081 Brewerton Rd	Cicero	NY	43.16235	-76.12010
+3550 S Rainbow Blvd	Las Vegas	NV	36.12464	-115.24289
+2700 W 120th St	Hawthorne	CA	33.92370	-118.32268
+555 Republic Dr	Plano	TX	33.03094	-96.70663
+2116 N 2nd St	Millville	NJ	39.42190	-75.04230
+21515 State Highway 249	Houston	TX	29.99974	-95.58305
+436 Retail Commons Pkwy	Martinsburg	WV	39.43963	-77.99215
+3900 Sisk Rd	Modesto	CA	37.68950	-121.06900
+51400 Gratiot Ave	Chesterfield	MI	42.67784	-82.83070
+1485 Polaris Pkwy	Columbus	OH	40.14124	-82.97804
+4777 S 27th St	Milwaukee	WI	42.95733	-87.94910
+4000 McCain Blvd	North Little Rock	AR	34.79017	-92.22680
+299 S Main St	Salt Lake City	UT	40.76284	-111.89099
+780 Centerville Rd	Warwick	RI	41.69682	-71.48922
+5700 Firestone Blvd	South Gate	CA	33.94902	-118.16594
+160 N Research Pl	Central Islip	NY	40.77287	-73.20135
+105 W Troutman Pkwy	Fort Collins	CO	40.52750	-105.07900
+401 S Mount Juliet Rd	Mount Juliet	TN	36.16800	-86.50890
+10775 SW Beaverton Hillsdale Hwy	Beaverton	OR	45.48652	-122.78776
+335 N Academy Blvd	Colorado Springs	CO	38.83743	-104.75733
+2920 Yorba Linda Blvd	Fullerton	CA	33.88870	-117.87400
+5330 Walzem Rd	San Antonio	TX	29.51021	-98.38226
+3867 Promenade Pkwy	Diberville	MS	30.45532	-88.90021
+1701 Galleria Blvd	Franklin	TN	35.96423	-86.81081
+1225 S High School Rd	Indianapolis	IN	39.74948	-86.26981
+13325 Inaja St	Desert Hot Springs	CA	33.95177	-116.47700
+4711 New Centre Dr	Wilmington	NC	34.24850	-77.88070
+642 S Walnut Ave	New Braunfels	TX	29.68827	-98.12711
+95 Holger Way	San Jose	CA	37.41904	-121.94457
+30020 Grand River Ave	Farmington Hills	MI	42.45140	-83.34410
+6600 N 72nd St	Omaha	NE	41.32437	-96.02733
+350 Pocono Commons	Stroudsburg	PA	40.99534	-75.24465
+2003 Broadway Mall	Hicksville	NY	40.77136	-73.53381
+1050 Huntington Dr	Duarte	CA	35.99240	-80.00570
+15444 N Frank Lloyd Wright Blvd	Scottsdale	AZ	33.62813	-111.88101
+2241 Willow Rd	Glenview	IL	42.10290	-87.81350
+60 Smithfield Blvd	Plattsburgh	NY	44.70309	-73.49156
+1 Cumberland Pl	Bangor	ME	44.80502	-68.77375
+311 E South Blvd	Crawfordsville	IN	40.02492	-86.89883
+751 Alta Mere Dr	Fort Worth	TX	32.74813	-97.43217
+2725 N Main St	Roswell	NM	33.42660	-104.52200
+16400 Beach Blvd	Westminster	CA	33.72470	-117.98600
+3150 W Shaw Ave	Fresno	CA	36.80840	-119.84700
+26 Crossing Blvd	Clifton Park	NY	42.85632	-73.77037
+1300 State Highway 55 NE	Buffalo	MN	45.16484	-93.85792
+1280 Auto Park Way	Escondido	CA	33.11244	-117.10035
+403 Constant Friendship Blvd	Abingdon	MD	39.46344	-76.31659
+651 W Sepulveda Blvd	Carson	CA	33.81056	-118.28562
+355 Summit Dr	Waterford	MI	42.64843	-83.33251
+9666 Olde US 20	Rossford	OH	41.54270	-83.58040
+5045 Glencrossing Way	Cincinnati	OH	39.13008	-84.61011
+3251 Hamilton Blvd	South Plainfield	NJ	40.55847	-74.43690
+1914 S Broadway St	New Ulm	MN	44.29330	-94.44390
+430 Newpark Mall	Newark	CA	37.52528	-121.99762
+2201 W Memorial Rd	Oklahoma City	OK	35.60970	-97.55270
+501 Kempsville Rd	Chesapeake	VA	36.74433	-76.22126
+900 Metropolitan Ave	Charlotte	NC	35.21400	-80.83491
+7200 Amador Plaza Rd	Dublin	CA	37.70646	-121.92896
+879 Blossom Hill Rd	San Jose	CA	37.25230	-121.86300
+385 Centre Ave	Abington	MA	42.11107	-70.93031
+36 Furlong Dr	Revere	MA	42.40087	-71.00157
+1106 N Columbia Center Blvd	Kennewick	WA	46.22160	-119.22200
+14009 E 21st St	Tulsa	OK	36.13354	-95.81548
+2200 N Maple Ave	Rapid City	SD	44.10531	-103.20896
+3535 Peachtree Rd NE	Atlanta	GA	33.85222	-84.36060
+3201 Iowa St	Lawrence	KS	38.92577	-95.26055
+5601 NW 183rd St	Miami Gardens	FL	25.93953	-80.29254
+1901 N Congress Ave	Boynton Beach	FL	26.54384	-80.09076
+499 W Orange Show Rd	San Bernardino	CA	34.07955	-117.29155
+25 N 75th Ave	Phoenix	AZ	33.44840	-112.22114
+2000 9th Ave SE	Watertown	SD	44.88910	-97.08330
+4450 Park St N	Saint Petersburg	FL	27.81306	-82.75411
+601 W State Highway 6	Waco	TX	31.51508	-97.19461
+500 Horizon Dr	Chalfont	PA	40.26100	-75.21252
+13221 Hall Rd	Utica	MI	42.62740	-82.99690
+809 N Azusa Ave	Azusa	CA	34.13600	-117.90761
+20288 US Highway 18	Apple Valley	CA	34.52611	-117.22071
+9040 N Skyview Ave	Kansas City	MO	39.25769	-94.65464
+195 N Bedford Rd	Mount Kisco	NY	41.21550	-73.72176
+2553 Sun Valley Dr	Delafield	WI	43.05018	-88.37696
+6100 Garners Ferry Rd	Columbia	SC	33.98207	-80.96462
+2417 N Haskell Ave	Dallas	TX	32.80397	-96.78891
+3100 W 117th St	Cleveland	OH	41.46863	-81.76885
+102 Richmond Ranch Rd	Texarkana	TX	33.45763	-94.09085
+600 Kirkwood Mall	Bismarck	ND	46.79850	-100.78500
+358 Broadway Mall	Hicksville	NY	40.75975	-73.51450
+4199 Morse Xing	Columbus	OH	40.05730	-82.91837
+5151 Frederica St	Owensboro	KY	37.71830	-87.12492
+2370 S Azusa Ave	West Covina	CA	34.04076	-117.91106
+2701 Castor Ave	Philadelphia	PA	39.99032	-75.09073
+5850 EASTEX FREEWAY	Beaumont	TX	0.00000	0.00000
+236 COLEMAN ST	Danville	VA	0.00000	0.00000
+6251 S 27th St	Milwaukee	WI	42.93150	-87.94936
+1500 N DALE MABRY HWY	Tampa	FL	0.00000	0.00000
+130 State Rte 10	East Hanover	NJ	40.82598	-74.36062
+5120 28th Street Se	Grand Rapids	MI	42.96641	-85.67118
+2650 NW FEDERAL HIGHWAY	Stuart	FL	0.00000	0.00000
+3060 Plaza Bonita Rd	National City	CA	0.00000	0.00000
+1100 Lake Woodlands Dr	The Woodlands	TX	0.00000	0.00000
+10909 W Oklahoma Ave	Milwaukee	WI	42.98819	-88.04838
+100 14th St	Jersey City	NJ	40.73260	-74.03570
+24890 N LAKE PLEASANT PKWY	Peoria	AZ	0.00000	0.00000
+750 HILLDALE WAY	Madison	WI	0.00000	0.00000
+131 W Reynolds Blvd	Lexington	KY	38.04860	-84.50032
+5500 South Fwy	Fort Worth	TX	32.66926	-97.32158
+1890 NE PINE ISLAND RD	Cape Coral	FL	0.00000	0.00000
+115 River Hills Rd	Asheville	NC	0.00000	0.00000
+2324 Pine Ridge Rd	Naples	FL	0.00000	0.00000
+100 PERIMETER CTR PL	Atl	GA	0.00000	0.00000
+68 Us Highway 46 W	Hackettstown	NJ	40.84637	-74.80859

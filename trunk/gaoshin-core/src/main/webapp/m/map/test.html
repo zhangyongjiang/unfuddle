@@ -1,0 +1,170 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+	<link type="text/css" rel="stylesheet" href="yui/build/fonts/fonts.css">
+	<link type="text/css" rel="stylesheet" href="yui/build/reset/reset.css">
+	<link rel="stylesheet" type="text/css" href="yui/build/reset-fonts-grids/reset-fonts-grids.css">
+	<link rel="stylesheet" type="text/css" href="yui/build/menu/assets/menu.css">
+	<link rel="stylesheet" type="text/css" href="yui/build/container/assets/container.css">
+	<style type="text/css">
+		#map{
+			height: 100%;
+			width: 100%;
+		};
+	</style>
+
+	<script type="text/javascript" >
+		var mapKeys = new Array();
+		mapKeys["localhost/webboy"] 	= "ABQIAAAAXJhUS5niXEXgEm0LZS219hR4gfwS23He-jUceLtoZ8Ul6Fc6wRRpukGOIYuDmioQ4C8fzS0T9WTqfQ";
+		mapKeys["xava.org/map"]			= "ABQIAAAAXJhUS5niXEXgEm0LZS219hQqFlRPoTIU4hu8rwxiYFm1o1VBjhS1TqXyJlWdjhBVvFYl9ypPpwdy0Q";
+		mapKeys["angerbaby-lx/webboy"]	= "ABQIAAAAXJhUS5niXEXgEm0LZS219hQ6ZcwNWzUf0JrZazk5souFA0K_whQxNuhqa6De8IhgxZaxPRAevJEoOA";
+		for (var key in mapKeys) {
+			if (window.location.href.indexOf(key) != -1) {
+				var mapKey = mapKeys[key];
+				break;
+			}
+		}
+		document.write("<script type=\"text/javascript\" src=\"http://maps.google.com/maps?file=api&amp;v=2&amp;key=" + mapKey + "\" ><\/script>");
+	</script>	
+
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		_uacct = "UA-2436442-1";
+		urchinTracker();
+	</script>
+
+    <script type="text/javascript" src="yui/build/yahoo/yahoo.js"></script>
+    <script type="text/javascript" src="yui/build/event/event.js"></script>
+    <script type="text/javascript" src="yui/build/dom/dom.js"></script>
+    <script type="text/javascript" src="yui/build/animation/animation.js"></script>
+    <script type="text/javascript" src="yui/build/container/container.js"></script>
+    <script type="text/javascript" src="yui/build/menu/menu.js"></script>
+	<script type="text/javascript" src="yui/build/dragdrop/dragdrop.js"></script>
+	<script type="text/javascript" src="yui/build/container/container.js"></script>
+
+	<script type="text/javascript" >
+		var almond = '<place id="2">  <routes>  <route loop="true">  <point><geo><lat>37.404937388978624</lat><lng>-122.10179328918457</lng></geo>  '
+			+ '<localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.397727</lat><lng>-122.106342</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  '
+			+ '<description></description>  </info>  </localized_info>  </point>  <point><geo><lat>37.39511873053153</lat><lng>-' 
+			+ '122.1005916595459</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  <point><geo><lat>37.388879122913515</lat><lng>-122.10526943206787</lng></geo>  <localized_info>  '
+			+ '<info la="en">  <caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.38864043908492</lat><lng>-122.09149360656738</lng></geo>  <localized_info>  <info la="en">'   
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.38771979434211</lat><lng>-122.08926200866699</lng></geo>  <localized_info>  <info la="en">'   
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.384582697735496</lat><lng>-122.08981990814209</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.38465089688353</lat><lng>-122.09557056427002</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.379468</lat><lng>-122.095699</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  '
+			+ '<description></description>  </info>  </localized_info>  </point>  <point><geo><lat>37.37957</lat><lng>-' 
+			+ '122.104712</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  <point><geo><lat>37.37824</lat><lng>-122.105999</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.378479</lat><lng>-122.106986</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  '
+			+ '<description></description>  </info>  </localized_info>  </point>  <point><geo><lat>37.380934</lat><lng>-' 
+			+ '122.106986</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  <point><geo><lat>37.381036</lat><lng>-122.111363</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.381514</lat><lng>-122.114282</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  '
+			+ '<description></description>  </info>  </localized_info>  </point>  <point><geo><lat>37.399926</lat><lng>-' 
+			+ '122.11441</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  <point><geo><lat>37.406028</lat><lng>-122.110848</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.404358</lat><lng>-122.107201</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  '
+			+ '<description></description>  </info>  </localized_info>  </point>  <point><geo><lat>37.403096</lat><lng>-' 
+			+ '122.106171</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  <point><geo><lat>37.404596</lat><lng>-122.105355</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.406165</lat><lng>-122.104454</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  '
+			+ '<description></description>  </info>  </localized_info>  </point>  </route>  <route loop="false">  '
+			+ '<point><geo><lat>37.383952</lat><lng>-122.101096</lng></geo>  <localized_info>  <info la="en">  <caption>Almond Elementary ' 
+			+ 'School</caption>  <description></description>  </info>  </localized_info>  </point>  </route>  </routes>  </place>';
+			
+		var santaRita = '<place id="3">  <routes>  <route loop="false">  <point><geo><lat>37.39276615258931</lat><lng>-122.12239265441894</lng></geo>  '
+			+ '<localized_info>  <info la="en">  <caption>Santa Rita Elementary</caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  </route>  <route loop="false">  <point><geo><lat>37.37326077939432</lat><lng>-'
+			+ '122.11430311203003</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  <point><geo><lat>37.389833850628854</lat><lng>-122.1276068687439</lng></geo>  <localized_info>  '
+			+ '<info la="en">  <caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.39452206920157</lat><lng>-122.12782144546509</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.39571538711179</lat><lng>-122.12955951690674</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.405943046982266</lat><lng>-122.12059020996094</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.40865314287245</lat><lng>-122.11816549301147</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.41189149367013</lat><lng>-122.11529016494751</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.40587486720516</lat><lng>-122.10488319396972</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.40336921736092</lat><lng>-122.10617065429687</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.40449421337018</lat><lng>-122.10711479187012</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.40614758594129</lat><lng>-122.11078405380249</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.39987480386578</lat><lng>-122.11451768875122</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.373363093537804</lat><lng>-122.11430311203003</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  </route>  </routes>  </place>  ';
+
+		var springer = '<place id="4">  <routes>  <route loop="false">  <point><geo><lat>37.37111215014481</lat><lng>-122.0941972732544</lng></geo>  '
+			+ '<localized_info>  <info la="en">  <caption>Springer Elementary School</caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  </route>  <route loop="false">  <point><geo><lat>37.37370413967483</lat><lng>-'
+			+ '122.0959997177124</lng></geo>  <localized_info>  <info la="en">  <caption></caption>  <description></description>  </info>  '
+			+ '</localized_info>  </point>  <point><geo><lat>37.384582697735496</lat><lng>-122.09527015686035</lng></geo>  <localized_info>  '
+			+ '<info la="en">  <caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.38430990052315</lat><lng>-122.08986282348633</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.37745554484164</lat><lng>-122.08943367004394</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.37742144200338</lat><lng>-122.08694458007812</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.365075195776</lat><lng>-122.08698749542236</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.364972870329154</lat><lng>-122.09750175476074</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.36589379432713</lat><lng>-122.09977626800537</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.36616665852623</lat><lng>-122.10230827331543</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.37367003513088</lat><lng>-122.10230827331543</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  '
+			+ '<point><geo><lat>37.37373824420323</lat><lng>-122.09612846374512</lng></geo>  <localized_info>  <info la="en">  '
+			+ '<caption></caption>  <description></description>  </info>  </localized_info>  </point>  </route>  </routes>  </place>  ';
+
+
+
+
+
+		//var predefinedMap = new Array(
+		//	"%7B%5B1%5D%5B%2837.405057%2C-122.101943%29%28%29%5D%5B%2837.397727%2C-122.106342%29%28%29%5D%5B%2837.392221%2C-122.095656%29%28%29%5D%5B%2837.386185%2C-122.089605%29%28%29%5D%5B%2837.38356%2C-122.090163%29%28%29%5D%5B%2837.383594%2C-122.095528%29%28%29%5D%5B%2837.379468%2C-122.095699%29%28%29%5D%5B%2837.37957%2C-122.104712%29%28%29%5D%5B%2837.37824%2C-122.105999%29%28%29%5D%5B%2837.378479%2C-122.106986%29%28%29%5D%5B%2837.380934%2C-122.106986%29%28%29%5D%5B%2837.381036%2C-122.111363%29%28%29%5D%5B%2837.381514%2C-122.114282%29%28%29%5D%5B%2837.399926%2C-122.11441%29%28%29%5D%5B%2837.406028%2C-122.110848%29%28%29%5D%5B%2837.404358%2C-122.107201%29%28%29%5D%5B%2837.403096%2C-122.106171%29%28%29%5D%5B%2837.404596%2C-122.105355%29%28%29%5D%5B%2837.406165%2C-122.104454%29%28%29%5D%7D%7B%5B0%5D%5B%2837.383952%2C-122.101096%29%28Almond%20Elementary%20School%29%5D%7D"
+		//);
+		//var predefinedMap = new Array(almond, santaRita, springer);
+	</script>
+	<script type="text/javascript" src="gogomap.js"></script>
+
+</head>
+<body onunload="GUnload()">
+<a name="urlvalue" id="urlvalue"/>
+<div style="z-index:0; position:absolute; top:0px; left:0px;" id="map"></div>
+<div style="z-index:1; position:absolute; top:40px; left:10px; background-color:gray; opacity:0.80; filter:alpha(opacity=80); " id="debug"></div>
+
+<div id="panelCurrentMObj" style="opacity:0.80; filter:alpha(opacity=80); font-size: 0.9em; ">
+	<div class="hd">Untitled</div>
+	<div class="bd">
+		<div id="currentPlaceTitle">Title:</div>
+		<div id="currentPlaceDescriptions">Description: </div>
+		<div id="currentPlaceMObjs">
+			<div id="mapObjs" style="height:300px; overflow:auto;">
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</body>
+</html>

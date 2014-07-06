@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/relative_layout" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:gravity="center">
+
+	<WebView
+		android:id="@+id/generalWebViewId" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" />
+
+	<WebView
+		android:id="@+id/generalWebViewDialog" android:layout_width="fill_parent"
+		android:layout_alignParentTop="true"
+		android:layout_height="fill_parent" />
+
+	<ImageView android:id="@+id/the_loading" android:layout_width="wrap_content"
+		android:background="#0000" 
+		android:src="@drawable/loading_48x48_0"
+		android:layout_height="wrap_content"
+		android:layout_centerInParent="true" 
+	/>
+		
+</RelativeLayout>
+

@@ -1,0 +1,112 @@
+<html>
+<head>
+<script type="text/javascript" src="json2.js"></script>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">
+	function cancel() {
+		android.exit();
+	}
+
+	function savePluginSettings(pluginId) {
+		var map = new Object();
+		var params = JSON.parse(plugin.paramsJson).items;
+		for(var j=0; j<params.length; j++) {
+			var param = params[j];
+			map[param.name] = $('#p_' + plugin.id + param.name).val();
+		}
+		var save = {"map" : map};
+		var json = JSON.stringify(save);
+		android.saveChartSetting(pluginId, json);
+		android.selectPlugin();
+	}
+
+	function deletePlugin(pluginId) {
+		if(!confirm("Are you sure?")) {
+			return;
+		}
+		android.deletePlugin(pluginId);
+		window.location = "settings.html?" + new Date().getTime();
+	}
+
+	function saveAs(pluginId) {
+		var name = prompt("New name?");
+		if(!name) {
+			return;
+		}
+		if(plugin.name == name) {
+			alert("Please use a different name.");
+			return;
+		}
+		var map = new Object();
+		var params = JSON.parse(plugin.paramsJson).items;
+		for(var j=0; j<params.length; j++) {
+			var param = params[j];
+			map[param.name] = $('#p_' + plugin.id + param.name).val();
+		}
+		var save = {"map" : map};
+		var json = JSON.stringify(save);
+		var newPluginId = android.saveAs(pluginId, name, json);
+		window.location ="plugin.html?" + newPluginId;
+	}
+</script>
+</head>
+<body style="margin:0;padding:0">
+
+<div style="font-size:1em; padding-left:12px;">
+
+<div style="padding-left: 10px;min-height:250px;">
+<script type="text/javascript">
+	pluginId = window.location.search.substring(1);
+	plugin = android.getPlugin(pluginId);
+	plugin = JSON.parse(plugin);
+	document.write("<div style='clear:both;margin-top:10px;'>");
+	document.write("<strong>" + plugin.name + "</strong><br/>");
+	document.write(plugin.url + "<br/>");
+	if(plugin.paramsJson) {
+		var params = JSON.parse(plugin.paramsJson).items;
+		if(params.length > 0) {
+			document.write("<table style='padding:4px;border:solid 1px;width:96%;table-layout:fixed;word-wrap:break-word;'>");
+			document.write("<tr><th>URL Parameter Name</th><th>URL Parameter Value</th></tr>");
+			for(var j=0; j<params.length; j++) {
+				var param = params[j];
+				if(param.options && param.options.length > 0) {
+					document.write("<tr>");
+					document.write("<td><b>" + param.name + "</b> " + param.display + "</td><td>");
+					document.write("<select id='p_" + plugin.id + param.name + "'>");
+					for(var k=0; k<param.options.length; k++) {
+						var option = param.options[k];
+						document.write("<option value='" + option.value + "'");
+						if(option.value == param.defValue) {
+							document.write(" selected ");
+						}
+						document.write(" >" + option.display + "</option>");
+					}
+					document.write("</select></td></tr>");
+				}
+				else {
+					document.write("<tr><td><b>" + param.name + "</b> " + param.display + "</td><td><input type='text' id='p_" + plugin.id + param.name + "' value='" + param.defValue + "'/></td></tr>");
+				}
+			}
+
+			document.write('<tr><td colspan="2"><div>');
+			document.write('<input type="button" onClick="savePluginSettings(' + plugin.id + ')" value="Save"/>');
+			document.write('<input type="button" onClick="saveAs(' + plugin.id + ')" value="Save As"/>');
+			document.write('<input type="button" onClick="deletePlugin(' + plugin.id + ')" value="Delete"/>');
+			//document.write('<input type="button" onClick="history.back()" value="Back"/>');
+			//document.write('&nbsp;&nbsp;&nbsp;<input type="button" onClick="cancel()" value="Cancel"/>');
+			document.write('</div></td></tr>');
+			document.write("</table>");
+		}
+	}
+	document.write("</div>");
+</script>
+
+</div>
+
+<div style="margin-bottom: 10px;height:1px;">&nbsp;</div>
+<center>
+Copyright &copy; 2011 CODING FOR FUN.<BR/>All rights reserved.<br/>
+</center>
+</div>
+
+</body></html>

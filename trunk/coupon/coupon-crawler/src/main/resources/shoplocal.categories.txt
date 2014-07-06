@@ -1,0 +1,329 @@
+Automotive, Car & Truck		http://www.shoplocal.com/automotive-car-truck.fp
+ATVâ€™s, Scooters, & Go Karts	Automotive, Car & Truck	http://www.shoplocal.com/atvs-scooters-go-karts.fp
+Auto Repair, Detailing, & Other Services	Automotive, Car & Truck	http://www.shoplocal.com/auto-repair-detailing-other-services.fp
+Automotive and Car Accessories	Automotive, Car & Truck	http://www.shoplocal.com/automotive-car-accessories.fp
+Automotive and Car Parts	Automotive, Car & Truck	http://www.shoplocal.com/automotive-car-parts.fp
+Automotive Tools	Automotive, Car & Truck	http://www.shoplocal.com/automotive-tools.fp
+Batteries	Automotive, Car & Truck	http://www.shoplocal.com/automotive-car-truck-batteries.fp
+Car Care & Cleaners	Automotive, Car & Truck	http://www.shoplocal.com/car-care-cleaners.fp
+Hitch & Towing Products	Automotive, Car & Truck	http://www.shoplocal.com/hitch-towing-products.fp
+Motorcycles	Automotive, Car & Truck	http://www.shoplocal.com/motorcycles.fp
+Oil, Lubricants, & Fluids	Automotive, Car & Truck	http://www.shoplocal.com/oil-lubricants-fluids.fp
+Performance/Tuning	Automotive, Car & Truck	http://www.shoplocal.com/performance-parts.fp
+Tires & Accessories	Automotive, Car & Truck	http://www.shoplocal.com/tires-accessories.fp
+Trailers	Automotive, Car & Truck	http://www.shoplocal.com/trailers.fp
+Truck Accessories	Automotive, Car & Truck	http://www.shoplocal.com/truck-accessories.fp
+Baby and Toddler		http://www.shoplocal.com/baby-toddler.fp
+Accessories	Baby and Toddler	http://www.shoplocal.com/accessories.fp
+Baby Activity	Baby and Toddler	http://www.shoplocal.com/baby-activity.fp
+Baby and Toddler Toys	Baby and Toddler	http://www.shoplocal.com/baby-toys.fp
+Baby Bedding and Linens	Baby and Toddler	http://www.shoplocal.com/baby-linens-bedding.fp
+Baby Gifts	Baby and Toddler	http://www.shoplocal.com/baby-gifts.fp
+Car Seats	Baby and Toddler	http://www.shoplocal.com/car-seats.fp
+Carriers	Baby and Toddler	http://www.shoplocal.com/carriers.fp
+Child Safety	Baby and Toddler	http://www.shoplocal.com/baby-safety-items.fp
+Cribs and Bassinets	Baby and Toddler	http://www.shoplocal.com/cribs-and-bassinets.fp
+Diaper Bags	Baby and Toddler	http://www.shoplocal.com/diapering-bathing.fp
+Health and Hygiene	Baby and Toddler	http://www.shoplocal.com/baby-health-care.fp
+Infant & Toddler Clothing	Baby and Toddler	http://www.shoplocal.com/baby-clothing.fp
+Infant & Toddler Shoes	Baby and Toddler	http://www.shoplocal.com/infant-toddler-shoes.fp
+Nursery Furniture	Baby and Toddler	http://www.shoplocal.com/baby-furniture.fp
+Nursing & Feeding	Baby and Toddler	http://www.shoplocal.com/nursing-feeding.fp
+Strollers	Baby and Toddler	http://www.shoplocal.com/strollers.fp
+Boating, Sailing and Marine		http://www.shoplocal.com/boating-sailing-marine.fp
+Anchor & Docking	Boating, Sailing and Marine	http://www.shoplocal.com/anchor-docking.fp
+Boats, Motors, & Trailers	Boating, Sailing and Marine	http://www.shoplocal.com/boats-motors-trailers.fp
+Cabin Decor & Gifts	Boating, Sailing and Marine	http://www.shoplocal.com/cabin-decor-gifts.fp
+Electrical & Ventilation	Boating, Sailing and Marine	http://www.shoplocal.com/electrical-ventilation.fp
+Electronics & Navigation	Boating, Sailing and Marine	http://www.shoplocal.com/electronics-navigation.fp
+Engine Systems	Boating, Sailing and Marine	http://www.shoplocal.com/engine-systems.fp
+Marina Plumbing	Boating, Sailing and Marine	http://www.shoplocal.com/marina-plumbing.fp
+Power Boating	Boating, Sailing and Marine	http://www.shoplocal.com/power-boating.fp
+Safety	Boating, Sailing and Marine	http://www.shoplocal.com/safety.fp
+Seating & Covers	Boating, Sailing and Marine	http://www.shoplocal.com/seating-covers.fp
+Clothing and Apparel		http://www.shoplocal.com/clothing.fp
+Boys' Sporting Apparel	Clothing and Apparel	http://www.shoplocal.com/boys-sporting-apparel.fp
+Children's Apparel	Clothing and Apparel	http://www.shoplocal.com/childrens-apparel.fp
+Girls' Sporting Apparel	Clothing and Apparel	http://www.shoplocal.com/girls-sporting-apparel.fp
+Juniors' Dresses & Skirts	Clothing and Apparel	http://www.shoplocal.com/juniors-dresses-skirts.fp
+Juniors' Miscellaneous Apparel	Clothing and Apparel	http://www.shoplocal.com/juniors-miscellaneous-apparel.fp
+Juniors' Pants & Shorts	Clothing and Apparel	http://www.shoplocal.com/juniors-pants-shorts.fp
+Juniors' Swim & Activewear	Clothing and Apparel	http://www.shoplocal.com/juniors-swim-activewear.fp
+Juniors' Tops	Clothing and Apparel	http://www.shoplocal.com/juniors-tops.fp
+Maternity Tops	Clothing and Apparel	http://www.shoplocal.com/maternity-tops.fp
+Men's Accessories	Clothing and Apparel	http://www.shoplocal.com/mens-accessories.fp
+Men's Athletic Clothing	Clothing and Apparel	http://www.shoplocal.com/mens-athletic-clothing.fp
+Men's Miscellaneous Apparel	Clothing and Apparel	http://www.shoplocal.com/mens-miscellaneous-apparel.fp
+Men's Pants & Shorts	Clothing and Apparel	http://www.shoplocal.com/mens-pants-shorts.fp
+Men's Shirts & Tops	Clothing and Apparel	http://www.shoplocal.com/mens-shirts.fp
+Men's Suits, Coats & Blazers	Clothing and Apparel	http://www.shoplocal.com/mens-suits-coats-blazers.fp
+Men's Swim & Activewear	Clothing and Apparel	http://www.shoplocal.com/mens-swim-activewear.fp
+Men's Underwear & Sleepwear	Clothing and Apparel	http://www.shoplocal.com/mens-underwear-sleepwear.fp
+Sunglasses	Clothing and Apparel	http://www.shoplocal.com/sunglasses.fp
+Women's Accessories	Clothing and Apparel	http://www.shoplocal.com/womens-accessories.fp
+Women's Athletic Clothing	Clothing and Apparel	http://www.shoplocal.com/womens-athletic-clothing.fp
+Women's Dresses & Skirts	Clothing and Apparel	http://www.shoplocal.com/womens-dresses-skirts.fp
+Women's Intimates	Clothing and Apparel	http://www.shoplocal.com/womens-intimates.fp
+Women's Miscellaneous Clothing	Clothing and Apparel	http://www.shoplocal.com/womens-miscellaneous-clothing.fp
+Women's Pants & Shorts	Clothing and Apparel	http://www.shoplocal.com/womens-pants-shorts.fp
+Women's Suits, Coats & Blazers	Clothing and Apparel	http://www.shoplocal.com/womens-suits-coats-blazers.fp
+Women's Swim & Activewear	Clothing and Apparel	http://www.shoplocal.com/womens-swim-activewear.fp
+Women's Tops	Clothing and Apparel	http://www.shoplocal.com/womens-tops.fp
+Young Men's Pants & Shorts	Clothing and Apparel	http://www.shoplocal.com/young-mens-pants-shorts.fp
+Young Men's Tops	Clothing and Apparel	http://www.shoplocal.com/young-mens-tops.fp
+Computers and Software		http://www.shoplocal.com/computers.fp
+Computer Components & Peripherals	Computers and Software	http://www.shoplocal.com/computer-components-peripherals.fp
+Computer Memory & Data Storage Systems	Computers and Software	http://www.shoplocal.com/computer-memory-data-storage-systems.fp
+Computer Services	Computers and Software	http://www.shoplocal.com/computer-services.fp
+Computer Systems	Computers and Software	http://www.shoplocal.com/computer-systems.fp
+Handhelds, PDAs & Accessories	Computers and Software	http://www.shoplocal.com/handhelds-pdas-accessories.fp
+Memory Cards	Computers and Software	http://www.shoplocal.com/memory-cards.fp
+Monitors, Audio, & Video	Computers and Software	http://www.shoplocal.com/monitors-audio-video.fp
+Motherboards & CPUs	Computers and Software	http://www.shoplocal.com/motherboards-cpus.fp
+Network Products	Computers and Software	http://www.shoplocal.com/network-products.fp
+Printers & Scanners	Computers and Software	http://www.shoplocal.com/printers-scanners.fp
+Software	Computers and Software	http://www.shoplocal.com/software.fp
+Consumer Electronics		http://www.shoplocal.com/electronics.fp
+Batteries	Consumer Electronics	http://www.shoplocal.com/consumer-electronics-batteries.fp
+Camcorders	Consumer Electronics	http://www.shoplocal.com/camcorders.fp
+Cameras	Consumer Electronics	http://www.shoplocal.com/cameras.fp
+Cellular Telephones	Consumer Electronics	http://www.shoplocal.com/cellular-telephones.fp
+GPS Systems	Consumer Electronics	http://www.shoplocal.com/gps-systems.fp
+Home Audio and Theater	Consumer Electronics	http://www.shoplocal.com/home-audio-theater.fp
+iPods, MP3 and Media Players	Consumer Electronics	http://www.shoplocal.com/ipod-mp3-media-player.fp
+Media	Consumer Electronics	http://www.shoplocal.com/media.fp
+More Consumer Electronics	Consumer Electronics	http://www.shoplocal.com/more-consumer-electronics.fp
+Photographic Accessories	Consumer Electronics	http://www.shoplocal.com/photographic-accessories.fp
+Portable Audio & Radio	Consumer Electronics	http://www.shoplocal.com/portable-audio-radio.fp
+Security and Control Systems	Consumer Electronics	http://www.shoplocal.com/security-control-systems.fp
+Telephones	Consumer Electronics	http://www.shoplocal.com/telephones.fp
+Televisions	Consumer Electronics	http://www.shoplocal.com/tv.fp
+Two Way Radios	Consumer Electronics	http://www.shoplocal.com/two-way-radios.fp
+Video Games & Systems	Consumer Electronics	http://www.shoplocal.com/video-games-systems.fp
+Flowers and Gifts		http://www.shoplocal.com/flowers-floral.fp
+Cigars and Tobacco Accessories	Flowers and Gifts	http://www.shoplocal.com/cigars-tobacco-accessories.fp
+Flowers and Plants	Flowers and Gifts	http://www.shoplocal.com/flower-bouquets.fp
+Gifts and Collectibles	Flowers and Gifts	http://www.shoplocal.com/gifts-collectibles.fp
+Furniture		http://www.shoplocal.com/furniture.fp
+Bathroom	Furniture	http://www.shoplocal.com/bathroom-furniture.fp
+Bedroom Furniture	Furniture	http://www.shoplocal.com/bedroom-furniture.fp
+Children's Rooms & Nurseries	Furniture	http://www.shoplocal.com/childrens-furniture.fp
+Clocks	Furniture	http://www.shoplocal.com/clocks.fp
+Dining Room Furniture	Furniture	http://www.shoplocal.com/dining-room-furniture.fp
+Entertainment Room	Furniture	http://www.shoplocal.com/entertainment-room.fp
+Kitchen	Furniture	http://www.shoplocal.com/kitchen-furniture.fp
+Living Room	Furniture	http://www.shoplocal.com/living-room-furniture.fp
+Mattresses	Furniture	http://www.shoplocal.com/mattresses.fp
+Office	Furniture	http://www.shoplocal.com/office.fp
+Other Furniture	Furniture	http://www.shoplocal.com/other-furniture.fp
+Outdoor & Patio	Furniture	http://www.shoplocal.com/outdoor-patio.fp
+Grocery		http://www.shoplocal.com/grocery.fp
+Baby Food	Grocery	http://www.shoplocal.com/baby-food.fp
+Baked Goods	Grocery	http://www.shoplocal.com/baked-goods.fp
+Baking, Oils & Spices	Grocery	http://www.shoplocal.com/baking-oils-spices.fp
+Beer & Wine	Grocery	http://www.shoplocal.com/beer-wine-tobacco.fp
+Beverages	Grocery	http://www.shoplocal.com/beverages.fp
+Breakfast & Cereal	Grocery	http://www.shoplocal.com/breakfast-cereal.fp
+Cleaning Supplies	Grocery	http://www.shoplocal.com/cleaning-supplies.fp
+Dairy	Grocery	http://www.shoplocal.com/dairy.fp
+Deli	Grocery	http://www.shoplocal.com/deli.fp
+Ethnic Food	Grocery	http://www.shoplocal.com/ethnic-food.fp
+Fish & Seafood	Grocery	http://www.shoplocal.com/fish-seafood.fp
+Frozen Foods	Grocery	http://www.shoplocal.com/frozen-foods.fp
+Gourmet  Foods	Grocery	http://www.shoplocal.com/gourmet-foods.fp
+Grains, Pasta & Side Dishes	Grocery	http://www.shoplocal.com/grains-pasta-side-dishes.fp
+Household Products	Grocery	http://www.shoplocal.com/household-products.fp
+Meat & Poultry	Grocery	http://www.shoplocal.com/meat-poultry.fp
+Produce	Grocery	http://www.shoplocal.com/produce.fp
+Salad Dressings, Condiments & Spreads	Grocery	http://www.shoplocal.com/salad-dressings-condiments-spreads.fp
+Snacks, Cakes & Desserts	Grocery	http://www.shoplocal.com/snacks-cakes-desserts.fp
+Soups & Canned Goods	Grocery	http://www.shoplocal.com/soups-canned-goods.fp
+Vegetarian Food	Grocery	http://www.shoplocal.com/vegetarian-food.fp
+Health & Beauty		http://www.shoplocal.com/health-beauty.fp
+Allergy, Sinus, & Asthma	Health & Beauty	http://www.shoplocal.com/allergy-sinus-asthma.fp
+Bathroom Safety	Health & Beauty	http://www.shoplocal.com/bathroom-safety.fp
+Cosmetics	Health & Beauty	http://www.shoplocal.com/cosmetics.fp
+Cough & Cold Remedies	Health & Beauty	http://www.shoplocal.com/cough-cold-remedies.fp
+Dental Hygiene	Health & Beauty	http://www.shoplocal.com/dental-hygiene.fp
+Diabetes Care	Health & Beauty	http://www.shoplocal.com/diabetes-care.fp
+Ear & Eye Care	Health & Beauty	http://www.shoplocal.com/ear-eye-care.fp
+Exercise & Fitness	Health & Beauty	http://www.shoplocal.com/exercise-fitness.fp
+Face & Skin	Health & Beauty	http://www.shoplocal.com/face-skin.fp
+First Aid Products & Kits	Health & Beauty	http://www.shoplocal.com/first-aid-products-kits.fp
+Foot Care	Health & Beauty	http://www.shoplocal.com/foot-care.fp
+Fragrances	Health & Beauty	http://www.shoplocal.com/fragrances.fp
+Hair Care & Accessories	Health & Beauty	http://www.shoplocal.com/hair-care-accessories.fp
+Hair Trimmers & Removers	Health & Beauty	http://www.shoplocal.com/hair-trimmers-removers.fp
+Headache & Pain	Health & Beauty	http://www.shoplocal.com/headache-pain.fp
+Health Care	Health & Beauty	http://www.shoplocal.com/health-care.fp
+Health Care Devices	Health & Beauty	http://www.shoplocal.com/health-care-devices.fp
+Home Spa & Accessories	Health & Beauty	http://www.shoplocal.com/home-spa-accessories.fp
+Home Testing	Health & Beauty	http://www.shoplocal.com/home-testing.fp
+Incontinence Care	Health & Beauty	http://www.shoplocal.com/incontinence-care.fp
+Massagers	Health & Beauty	http://www.shoplocal.com/massagers.fp
+Medical Services	Health & Beauty	http://www.shoplocal.com/medical-services.fp
+Nail Care	Health & Beauty	http://www.shoplocal.com/nail-care.fp
+Optical	Health & Beauty	http://www.shoplocal.com/optical.fp
+Other Health & Beauty	Health & Beauty	http://www.shoplocal.com/other-health-beauty.fp
+Pain Relief	Health & Beauty	http://www.shoplocal.com/pain-relief.fp
+Personal Hygiene	Health & Beauty	http://www.shoplocal.com/personal-hygiene.fp
+Respiratory Care	Health & Beauty	http://www.shoplocal.com/respiratory-care.fp
+Shaving	Health & Beauty	http://www.shoplocal.com/shaving.fp
+Vitamins & Herbal Remedies	Health & Beauty	http://www.shoplocal.com/vitamins-herbal-remedies.fp
+Home & Garden		http://www.shoplocal.com/home-garden.fp
+Barware	Home & Garden	http://www.shoplocal.com/barware.fp
+Bed & Bath	Home & Garden	http://www.shoplocal.com/bed-bath.fp
+Craft Supplies	Home & Garden	http://www.shoplocal.com/craft-supplies.fp
+Home Furnishings	Home & Garden	http://www.shoplocal.com/home-furnishings.fp
+Housewares	Home & Garden	http://www.shoplocal.com/housewares.fp
+Kitchenware & Cookware	Home & Garden	http://www.shoplocal.com/kitchen-cookware.fp
+Large Appliances	Home & Garden	http://www.shoplocal.com/appliances.fp
+Nursery Items	Home & Garden	http://www.shoplocal.com/nursery-items.fp
+Other Lawn & Garden	Home & Garden	http://www.shoplocal.com/other-lawn-garden.fp
+Outdoor Accessories	Home & Garden	http://www.shoplocal.com/outdoor-accessories.fp
+Outdoor Furniture	Home & Garden	http://www.shoplocal.com/outdoor-furniture.fp
+Outdoor Grills & Accessories	Home & Garden	http://www.shoplocal.com/outdoor-grills-accessories.fp
+Pest Control & Exterminators	Home & Garden	http://www.shoplocal.com/home-garden-pest-control-exterminators.fp
+Pet Supplies	Home & Garden	http://www.shoplocal.com/pet-supplies.fp
+Pools, Saunas & Spas	Home & Garden	http://www.shoplocal.com/pools-saunas-spas.fp
+Small Appliances	Home & Garden	http://www.shoplocal.com/small-appliances.fp
+Tools & Equipment	Home & Garden	http://www.shoplocal.com/tools-equipment.fp
+Watering Systems	Home & Garden	http://www.shoplocal.com/watering-systems.fp
+Home Improvement, Remodeling and Repair		http://www.shoplocal.com/home-improvement-remodeling-repair.fp
+Adhesives & Sealants	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/adhesives-sealants.fp
+Carpet & Flooring	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/carpet-flooring.fp
+Doors & Windows	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/doors-windows.fp
+Electrical Supply	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/electrical-lighting.fp
+Engines, Motors and Ventilation	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/engines-motors-ventilation.fp
+Equipment Carts & Accessories	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/equipment-carts-accessories.fp
+Flashlights	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/flashlights.fp
+Hand & Power Tools	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/tools-accessories.fp
+Hardware & Building Supply	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/building-materials.fp
+Hardware & Tool Accessories	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/hardware.fp
+Heating & Cooling	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/heating-cooling.fp
+Home Improvement Services	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/home-improvement-services.fp
+Kitchen & Bath	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/kitchen-bath.fp
+Lamps & Shades	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/lamps-shades.fp
+Lumber & Drywall	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/lumber-drywall.fp
+Paints & Sealant Supplies	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/paints-stains.fp
+Plumbing Supplies	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/plumbing.fp
+Security	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/home-improvement-remodeling-repair-security.fp
+Siding, Roofing, & Gutters	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/siding-roofing-gutters.fp
+Storage	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/storage.fp
+Tool Storage	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/tool-storage.fp
+Walls & Ceilings	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/walls-ceilings.fp
+Window Treatments	Home Improvement, Remodeling and Repair	http://www.shoplocal.com/window-treatments.fp
+Jewelry & Watches		http://www.shoplocal.com/jewelry-watches.fp
+Body Jewelry	Jewelry & Watches	http://www.shoplocal.com/body-jewelry.fp
+Bracelets	Jewelry & Watches	http://www.shoplocal.com/bracelets.fp
+Brooches & Pins	Jewelry & Watches	http://www.shoplocal.com/brooches-pins.fp
+Charms	Jewelry & Watches	http://www.shoplocal.com/jewelry-watches-charms.fp
+Cuff Links	Jewelry & Watches	http://www.shoplocal.com/cuff-links.fp
+Earrings	Jewelry & Watches	http://www.shoplocal.com/earrings.fp
+Jewelry Boxes	Jewelry & Watches	http://www.shoplocal.com/jewelry-storage.fp
+Jewelry Sets	Jewelry & Watches	http://www.shoplocal.com/jewelry-watches-jewelry-sets.fp
+Key Rings	Jewelry & Watches	http://www.shoplocal.com/key-rings.fp
+Loose Gemstones & Pearls	Jewelry & Watches	http://www.shoplocal.com/loose-gemstones-pearls.fp
+Money Clips	Jewelry & Watches	http://www.shoplocal.com/money-clips.fp
+Necklaces	Jewelry & Watches	http://www.shoplocal.com/jewelry-watches-necklaces.fp
+Other Jewelry	Jewelry & Watches	http://www.shoplocal.com/other-jewelry.fp
+Rings	Jewelry & Watches	http://www.shoplocal.com/rings.fp
+Tie Clips / Tie Bars	Jewelry & Watches	http://www.shoplocal.com/tie-clips-tie-bars.fp
+Watches	Jewelry & Watches	http://www.shoplocal.com/watches.fp
+Local Services		http://www.shoplocal.com/local-services.fp
+Appliance Repair	Local Services	http://www.shoplocal.com/appliance-repair.fp
+Dog Training	Local Services	http://www.shoplocal.com/dog-training.fp
+Flowers, Florists , Flower Delivery & Flower Shops	Local Services	http://www.shoplocal.com/flowers-florists-flower-delivery-flower-shops.fp
+Internet Services & Providers	Local Services	http://www.shoplocal.com/local-services-internet-services-providers.fp
+Printing Services	Local Services	http://www.shoplocal.com/local-services-printing-services.fp
+Media		http://www.shoplocal.com/music-books-movies.fp
+Books	Media	http://www.shoplocal.com/books-magazines.fp
+Music	Media	http://www.shoplocal.com/music.fp
+Video	Media	http://www.shoplocal.com/video.fp
+Musical Instruments & Accessories		http://www.shoplocal.com/musical-instruments-accessories.fp
+Musical Instruments	Musical Instruments & Accessories	http://www.shoplocal.com/musical-instruments-accessories-musical-instruments.fp
+Office		http://www.shoplocal.com/office-school-supply.fp
+Office Machines	Office	http://www.shoplocal.com/business-machines.fp
+Office Supplies	Office	http://www.shoplocal.com/office-supplies.fp
+Other Services		http://www.shoplocal.com/other-services.fp
+Printing Services	Other Services	http://www.shoplocal.com/other-services-printing-services.fp
+Shoes and Footwear		http://www.shoplocal.com/shoes.fp
+Boys' Shoes	Shoes and Footwear	http://www.shoplocal.com/boys-shoes.fp
+Girls' Shoes	Shoes and Footwear	http://www.shoplocal.com/girls-shoes.fp
+Men's Shoes	Shoes and Footwear	http://www.shoplocal.com/mens-shoes.fp
+Women's Shoes	Shoes and Footwear	http://www.shoplocal.com/womens-shoes.fp
+Special Offers		http://www.shoplocal.com/special-offers.fp
+Coupons	Special Offers	http://www.shoplocal.com/coupons.fp
+General Offers	Special Offers	http://www.shoplocal.com/general-offers.fp
+Gift Cards	Special Offers	http://www.shoplocal.com/gift-cards.fp
+Rebates	Special Offers	http://www.shoplocal.com/rebates.fp
+Sports, Fitness and Exercise		http://www.shoplocal.com/sports-fitness-exercise.fp
+Archery	Sports, Fitness and Exercise	http://www.shoplocal.com/sports-fitness-exercise-archery.fp
+Badminton	Sports, Fitness and Exercise	http://www.shoplocal.com/badminton.fp
+Baseball & Softball	Sports, Fitness and Exercise	http://www.shoplocal.com/baseball-softball.fp
+Basketball	Sports, Fitness and Exercise	http://www.shoplocal.com/basketball.fp
+Bodybuilding & Weightlifting	Sports, Fitness and Exercise	http://www.shoplocal.com/bodybuilding-weightlifting.fp
+Bowling	Sports, Fitness and Exercise	http://www.shoplocal.com/bowling.fp
+Boxing & Martial Arts	Sports, Fitness and Exercise	http://www.shoplocal.com/boxing-martial-arts.fp
+Camping & Hiking	Sports, Fitness and Exercise	http://www.shoplocal.com/camping-hiking.fp
+Collectibles & Fan Gear	Sports, Fitness and Exercise	http://www.shoplocal.com/collectibles-fan-gear.fp
+Cycling	Sports, Fitness and Exercise	http://www.shoplocal.com/cycling.fp
+Darts	Sports, Fitness and Exercise	http://www.shoplocal.com/darts-dart-boards.fp
+Fishing	Sports, Fitness and Exercise	http://www.shoplocal.com/fishing.fp
+Football	Sports, Fitness and Exercise	http://www.shoplocal.com/football.fp
+Game Tables	Sports, Fitness and Exercise	http://www.shoplocal.com/game-tables.fp
+Golf	Sports, Fitness and Exercise	http://www.shoplocal.com/golf.fp
+Hockey	Sports, Fitness and Exercise	http://www.shoplocal.com/hockey.fp
+Hunting	Sports, Fitness and Exercise	http://www.shoplocal.com/hunting.fp
+Ice / Figure Skating	Sports, Fitness and Exercise	http://www.shoplocal.com/ice-figure-skating.fp
+Other Sports	Sports, Fitness and Exercise	http://www.shoplocal.com/other-sports.fp
+Personal Fitness	Sports, Fitness and Exercise	http://www.shoplocal.com/aerobics-fitness.fp
+Pool & Billiards	Sports, Fitness and Exercise	http://www.shoplocal.com/pool-billiards.fp
+Racquetball	Sports, Fitness and Exercise	http://www.shoplocal.com/racquetball.fp
+Rollerskating & Inline Skating	Sports, Fitness and Exercise	http://www.shoplocal.com/in-line-skating.fp
+Skateboarding	Sports, Fitness and Exercise	http://www.shoplocal.com/skateboarding.fp
+Skiing & Snowshoeing	Sports, Fitness and Exercise	http://www.shoplocal.com/skiing-snowshoeing.fp
+Soccer	Sports, Fitness and Exercise	http://www.shoplocal.com/soccer.fp
+Swimming	Sports, Fitness and Exercise	http://www.shoplocal.com/swimming.fp
+Table Tennis	Sports, Fitness and Exercise	http://www.shoplocal.com/table-tennis.fp
+Tennis	Sports, Fitness and Exercise	http://www.shoplocal.com/tennis.fp
+Volleyball	Sports, Fitness and Exercise	http://www.shoplocal.com/volleyball.fp
+Watersports	Sports, Fitness and Exercise	http://www.shoplocal.com/watersports.fp
+Wintersports	Sports, Fitness and Exercise	http://www.shoplocal.com/wintersports.fp
+Toys & Games		http://www.shoplocal.com/toys.fp
+Action Figures & Accessories	Toys & Games	http://www.shoplocal.com/figures-accessories.fp
+Arts & Crafts Toys	Toys & Games	http://www.shoplocal.com/arts-crafts-toys.fp
+Board Games, Cards & More	Toys & Games	http://www.shoplocal.com/games.fp
+Building Sets, Blocks & Models	Toys & Games	http://www.shoplocal.com/construction-toys.fp
+Costumes	Toys & Games	http://www.shoplocal.com/costumes.fp
+Dolls & Dollhouses	Toys & Games	http://www.shoplocal.com/dolls-dollhouses.fp
+Electronic Toys	Toys & Games	http://www.shoplocal.com/electronic-toys.fp
+Learning Toys	Toys & Games	http://www.shoplocal.com/learning-toys-games.fp
+Magic & Magician Products	Toys & Games	http://www.shoplocal.com/magic-magician-products.fp
+Model Kits	Toys & Games	http://www.shoplocal.com/model-kits.fp
+Model Trains	Toys & Games	http://www.shoplocal.com/model-trains.fp
+Musical Toys	Toys & Games	http://www.shoplocal.com/musical-toys.fp
+Other Toys	Toys & Games	http://www.shoplocal.com/other-toys.fp
+Outdoor & Playground Toys	Toys & Games	http://www.shoplocal.com/outdoor-playsets.fp
+Party Supplies & Inflatables	Toys & Games	http://www.shoplocal.com/party-supplies-inflatables.fp
+Pretend Play	Toys & Games	http://www.shoplocal.com/pretend-play.fp
+Puzzles	Toys & Games	http://www.shoplocal.com/puzzles.fp
+Remote Control Toys	Toys & Games	http://www.shoplocal.com/remote-control-toys.fp
+Science & Nature	Toys & Games	http://www.shoplocal.com/science-nature.fp
+Sports Toys	Toys & Games	http://www.shoplocal.com/sports-toys.fp
+Stuffed Animals & Puppets	Toys & Games	http://www.shoplocal.com/stuffed-animals.fp
+Trading Cards	Toys & Games	http://www.shoplocal.com/trading-cards.fp
+Tricycles & Other Riding Toys	Toys & Games	http://www.shoplocal.com/tricycles-other-riding-toys.fp
+Vehicles & Raceways	Toys & Games	http://www.shoplocal.com/toy-cars-trucks.fp
+Travel & Luggage		http://www.shoplocal.com/travel-luggage.fp
+Backpacks & Book Bags	Travel & Luggage	http://www.shoplocal.com/backpacks-book-bags.fp
+Business & Computer Cases	Travel & Luggage	http://www.shoplocal.com/business-computer-cases.fp
+Carry-Ons	Travel & Luggage	http://www.shoplocal.com/carry-ons.fp
+Cosmetic Cases	Travel & Luggage	http://www.shoplocal.com/cosmetic-cases.fp
+Garment Bags	Travel & Luggage	http://www.shoplocal.com/travel-luggage-garment-bags.fp
+Luggage & Travel Accessories	Travel & Luggage	http://www.shoplocal.com/luggage-travel-accessories.fp
+Luggage Sets	Travel & Luggage	http://www.shoplocal.com/luggage-sets.fp
+Suitcases	Travel & Luggage	http://www.shoplocal.com/suitcases.fp
+Totes / Satchels	Travel & Luggage	http://www.shoplocal.com/totes-satchels.fp
+Trunks & Footlockers	Travel & Luggage	http://www.shoplocal.com/trunks-footlockers.fp
+Wheeled Duffle Bags	Travel & Luggage	http://www.shoplocal.com/duffle-bags.fp

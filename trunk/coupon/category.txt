@@ -1,0 +1,267 @@
++----------+-----------------------------------------+----------------------------------------------------+
+| priority | parentName                              | name                                               |
++----------+-----------------------------------------+----------------------------------------------------+
+|       10 | Baby and Toddler                        | Accessories                                        |
+|       10 | Baby and Toddler                        | Baby and Toddler Toys                              |
+|       10 | Baby and Toddler                        | Baby Gifts                                         |
+|       10 | Baby and Toddler                        | Carriers                                           |
+|       10 | Baby and Toddler                        | Cribs and Bassinets                                |
+|       10 | Baby and Toddler                        | Health and Hygiene                                 |
+|       10 | Baby and Toddler                        | Infant & Toddler Shoes                             |
+|       10 | Baby and Toddler                        | Nursing & Feeding                                  |
+|       10 | Baby and Toddler                        | Baby Activity                                      |
+|       10 | Baby and Toddler                        | Baby Bedding and Linens                            |
+|       10 | Baby and Toddler                        | Car Seats                                          |
+|       10 | Baby and Toddler                        | Child Safety                                       |
+|       10 | Baby and Toddler                        | Diaper Bags                                        |
+|       10 | Baby and Toddler                        | Infant & Toddler Clothing                          |
+|       10 | Baby and Toddler                        | Nursery Furniture                                  |
+|       10 | Baby and Toddler                        | Strollers                                          |
+|       10 | Clothing and Apparel                    | Men's Underwear & Sleepwear                        |
+|       10 | Clothing and Apparel                    | Children's Apparel                                 |
+|       10 | Clothing and Apparel                    | Women's Accessories                                |
+|       10 | Clothing and Apparel                    | Juniors' Dresses & Skirts                          |
+|       10 | Clothing and Apparel                    | Women's Dresses & Skirts                           |
+|       10 | Clothing and Apparel                    | Juniors' Pants & Shorts                            |
+|       10 | Clothing and Apparel                    | Women's Miscellaneous Clothing                     |
+|       10 | Clothing and Apparel                    | Juniors' Tops                                      |
+|       10 | Clothing and Apparel                    | Women's Suits, Coats & Blazers                     |
+|       10 | Clothing and Apparel                    | Men's Accessories                                  |
+|       10 | Clothing and Apparel                    | Women's Tops                                       |
+|       10 | Clothing and Apparel                    | Men's Miscellaneous Apparel                        |
+|       10 | Clothing and Apparel                    | Young Men's Tops                                   |
+|       10 | Clothing and Apparel                    | Men's Shirts & Tops                                |
+|       10 | Clothing and Apparel                    | Men's Swim & Activewear                            |
+|       10 | Clothing and Apparel                    | Boys' Sporting Apparel                             |
+|       10 | Clothing and Apparel                    | Sunglasses                                         |
+|       10 | Clothing and Apparel                    | Girls' Sporting Apparel                            |
+|       10 | Clothing and Apparel                    | Women's Athletic Clothing                          |
+|       10 | Clothing and Apparel                    | Juniors' Miscellaneous Apparel                     |
+|       10 | Clothing and Apparel                    | Women's Intimates                                  |
+|       10 | Clothing and Apparel                    | Juniors' Swim & Activewear                         |
+|       10 | Clothing and Apparel                    | Women's Pants & Shorts                             |
+|       10 | Clothing and Apparel                    | Maternity Tops                                     |
+|       10 | Clothing and Apparel                    | Women's Swim & Activewear                          |
+|       10 | Clothing and Apparel                    | Men's Athletic Clothing                            |
+|       10 | Clothing and Apparel                    | Young Men's Pants & Shorts                         |
+|       10 | Clothing and Apparel                    | Men's Pants & Shorts                               |
+|       10 | Clothing and Apparel                    | Men's Suits, Coats & Blazers                       |
+|       10 | Flowers and Gifts                       | Cigars and Tobacco Accessories                     |
+|       10 | Flowers and Gifts                       | Gifts and Collectibles                             |
+|       10 | Flowers and Gifts                       | Flowers and Plants                                 |
+|       10 | Grocery                                 | Ethnic Food                                        |
+|       10 | Grocery                                 | Frozen Foods                                       |
+|       10 | Grocery                                 | Grains, Pasta & Side Dishes                        |
+|       10 | Grocery                                 | Meat & Poultry                                     |
+|       10 | Grocery                                 | Baby Food                                          |
+|       10 | Grocery                                 | Salad Dressings, Condiments & Spreads              |
+|       10 | Grocery                                 | Baking, Oils & Spices                              |
+|       10 | Grocery                                 | Soups & Canned Goods                               |
+|       10 | Grocery                                 | Beverages                                          |
+|       10 | Grocery                                 | Cleaning Supplies                                  |
+|       10 | Grocery                                 | Deli                                               |
+|       10 | Grocery                                 | Fish & Seafood                                     |
+|       10 | Grocery                                 | Gourmet  Foods                                     |
+|       10 | Grocery                                 | Household Products                                 |
+|       10 | Grocery                                 | Produce                                            |
+|       10 | Grocery                                 | Baked Goods                                        |
+|       10 | Grocery                                 | Snacks, Cakes & Desserts                           |
+|       10 | Grocery                                 | Beer & Wine                                        |
+|       10 | Grocery                                 | Vegetarian Food                                    |
+|       10 | Grocery                                 | Breakfast & Cereal                                 |
+|       10 | Grocery                                 | Dairy                                              |
+|       10 | Health & Beauty                         | Massagers                                          |
+|       10 | Health & Beauty                         | Diabetes Care                                      |
+|       10 | Health & Beauty                         | Nail Care                                          |
+|       10 | Health & Beauty                         | Exercise & Fitness                                 |
+|       10 | Health & Beauty                         | Other Health & Beauty                              |
+|       10 | Health & Beauty                         | First Aid Products & Kits                          |
+|       10 | Health & Beauty                         | Personal Hygiene                                   |
+|       10 | Health & Beauty                         | Fragrances                                         |
+|       10 | Health & Beauty                         | Shaving                                            |
+|       10 | Health & Beauty                         | Hair Trimmers & Removers                           |
+|       10 | Health & Beauty                         | Health Care                                        |
+|       10 | Health & Beauty                         | Allergy, Sinus, & Asthma                           |
+|       10 | Health & Beauty                         | Home Spa & Accessories                             |
+|       10 | Health & Beauty                         | Cosmetics                                          |
+|       10 | Health & Beauty                         | Incontinence Care                                  |
+|       10 | Health & Beauty                         | Dental Hygiene                                     |
+|       10 | Health & Beauty                         | Medical Services                                   |
+|       10 | Health & Beauty                         | Ear & Eye Care                                     |
+|       10 | Health & Beauty                         | Optical                                            |
+|       10 | Health & Beauty                         | Face & Skin                                        |
+|       10 | Health & Beauty                         | Pain Relief                                        |
+|       10 | Health & Beauty                         | Foot Care                                          |
+|       10 | Health & Beauty                         | Respiratory Care                                   |
+|       10 | Health & Beauty                         | Hair Care & Accessories                            |
+|       10 | Health & Beauty                         | Vitamins & Herbal Remedies                         |
+|       10 | Health & Beauty                         | Headache & Pain                                    |
+|       10 | Health & Beauty                         | Health Care Devices                                |
+|       10 | Health & Beauty                         | Bathroom Safety                                    |
+|       10 | Health & Beauty                         | Home Testing                                       |
+|       10 | Health & Beauty                         | Cough & Cold Remedies                              |
+|       10 | Home & Garden                           | Nursery Items                                      |
+|       10 | Home & Garden                           | Outdoor Accessories                                |
+|       10 | Home & Garden                           | Outdoor Grills & Accessories                       |
+|       10 | Home & Garden                           | Pet Supplies                                       |
+|       10 | Home & Garden                           | Small Appliances                                   |
+|       10 | Home & Garden                           | Barware                                            |
+|       10 | Home & Garden                           | Watering Systems                                   |
+|       10 | Home & Garden                           | Craft Supplies                                     |
+|       10 | Home & Garden                           | Housewares                                         |
+|       10 | Home & Garden                           | Large Appliances                                   |
+|       10 | Home & Garden                           | Other Lawn & Garden                                |
+|       10 | Home & Garden                           | Outdoor Furniture                                  |
+|       10 | Home & Garden                           | Pest Control & Exterminators                       |
+|       10 | Home & Garden                           | Pools, Saunas & Spas                               |
+|       10 | Home & Garden                           | Tools & Equipment                                  |
+|       10 | Home & Garden                           | Bed & Bath                                         |
+|       10 | Home & Garden                           | Home Furnishings                                   |
+|       10 | Home & Garden                           | Kitchenware & Cookware                             |
+|       10 | Local Services                          | Dog Training                                       |
+|       10 | Local Services                          | Internet Services & Providers                      |
+|       10 | Local Services                          | Appliance Repair                                   |
+|       10 | Local Services                          | Flowers, Florists , Flower Delivery & Flower Shops |
+|       10 | Local Services                          | Printing Services                                  |
+|       10 | Shoes and Footwear                      | Boys' Shoes                                        |
+|       10 | Shoes and Footwear                      | Men's Shoes                                        |
+|       10 | Shoes and Footwear                      | Girls' Shoes                                       |
+|       10 | Shoes and Footwear                      | Women's Shoes                                      |
+|       10 | Sports, Fitness and Exercise            | Other Sports                                       |
+|       10 | Sports, Fitness and Exercise            | Basketball                                         |
+|       10 | Sports, Fitness and Exercise            | Pool & Billiards                                   |
+|       10 | Sports, Fitness and Exercise            | Bowling                                            |
+|       10 | Sports, Fitness and Exercise            | Rollerskating & Inline Skating                     |
+|       10 | Sports, Fitness and Exercise            | Camping & Hiking                                   |
+|       10 | Sports, Fitness and Exercise            | Skiing & Snowshoeing                               |
+|       10 | Sports, Fitness and Exercise            | Cycling                                            |
+|       10 | Sports, Fitness and Exercise            | Swimming                                           |
+|       10 | Sports, Fitness and Exercise            | Fishing                                            |
+|       10 | Sports, Fitness and Exercise            | Tennis                                             |
+|       10 | Sports, Fitness and Exercise            | Game Tables                                        |
+|       10 | Sports, Fitness and Exercise            | Watersports                                        |
+|       10 | Sports, Fitness and Exercise            | Hockey                                             |
+|       10 | Sports, Fitness and Exercise            | Archery                                            |
+|       10 | Sports, Fitness and Exercise            | Ice / Figure Skating                               |
+|       10 | Sports, Fitness and Exercise            | Baseball & Softball                                |
+|       10 | Sports, Fitness and Exercise            | Personal Fitness                                   |
+|       10 | Sports, Fitness and Exercise            | Bodybuilding & Weightlifting                       |
+|       10 | Sports, Fitness and Exercise            | Racquetball                                        |
+|       10 | Sports, Fitness and Exercise            | Boxing & Martial Arts                              |
+|       10 | Sports, Fitness and Exercise            | Skateboarding                                      |
+|       10 | Sports, Fitness and Exercise            | Collectibles & Fan Gear                            |
+|       10 | Sports, Fitness and Exercise            | Soccer                                             |
+|       10 | Sports, Fitness and Exercise            | Darts                                              |
+|       10 | Sports, Fitness and Exercise            | Table Tennis                                       |
+|       10 | Sports, Fitness and Exercise            | Football                                           |
+|       10 | Sports, Fitness and Exercise            | Volleyball                                         |
+|       10 | Sports, Fitness and Exercise            | Golf                                               |
+|       10 | Sports, Fitness and Exercise            | Wintersports                                       |
+|       10 | Sports, Fitness and Exercise            | Hunting                                            |
+|       10 | Sports, Fitness and Exercise            | Badminton                                          |
+|       10 | Toys & Games                            | Science & Nature                                   |
+|       10 | Toys & Games                            | Building Sets, Blocks & Models                     |
+|       10 | Toys & Games                            | Stuffed Animals & Puppets                          |
+|       10 | Toys & Games                            | Dolls & Dollhouses                                 |
+|       10 | Toys & Games                            | Tricycles & Other Riding Toys                      |
+|       10 | Toys & Games                            | Learning Toys                                      |
+|       10 | Toys & Games                            | Model Kits                                         |
+|       10 | Toys & Games                            | Musical Toys                                       |
+|       10 | Toys & Games                            | Outdoor & Playground Toys                          |
+|       10 | Toys & Games                            | Pretend Play                                       |
+|       10 | Toys & Games                            | Action Figures & Accessories                       |
+|       10 | Toys & Games                            | Remote Control Toys                                |
+|       10 | Toys & Games                            | Board Games, Cards & More                          |
+|       10 | Toys & Games                            | Sports Toys                                        |
+|       10 | Toys & Games                            | Costumes                                           |
+|       10 | Toys & Games                            | Trading Cards                                      |
+|       10 | Toys & Games                            | Electronic Toys                                    |
+|       10 | Toys & Games                            | Vehicles & Raceways                                |
+|       10 | Toys & Games                            | Magic & Magician Products                          |
+|       10 | Toys & Games                            | Model Trains                                       |
+|       10 | Toys & Games                            | Other Toys                                         |
+|       10 | Toys & Games                            | Party Supplies & Inflatables                       |
+|       10 | Toys & Games                            | Puzzles                                            |
+|       10 | Toys & Games                            | Arts & Crafts Toys                                 |
+|        8 | Computers and Software                  | Handhelds, PDAs & Accessories                      |
+|        8 | Computers and Software                  | Monitors, Audio, & Video                           |
+|        8 | Computers and Software                  | Network Products                                   |
+|        8 | Computers and Software                  | Software                                           |
+|        8 | Computers and Software                  | Computer Memory & Data Storage Systems             |
+|        8 | Computers and Software                  | Computer Systems                                   |
+|        8 | Computers and Software                  | Memory Cards                                       |
+|        8 | Computers and Software                  | Motherboards & CPUs                                |
+|        8 | Computers and Software                  | Printers & Scanners                                |
+|        8 | Computers and Software                  | Computer Components & Peripherals                  |
+|        8 | Computers and Software                  | Computer Services                                  |
+|        8 | Consumer Electronics                    | More Consumer Electronics                          |
+|        8 | Consumer Electronics                    | Portable Audio & Radio                             |
+|        8 | Consumer Electronics                    | Telephones                                         |
+|        8 | Consumer Electronics                    | Two Way Radios                                     |
+|        8 | Consumer Electronics                    | Camcorders                                         |
+|        8 | Consumer Electronics                    | Cellular Telephones                                |
+|        8 | Consumer Electronics                    | Home Audio and Theater                             |
+|        8 | Consumer Electronics                    | Media                                              |
+|        8 | Consumer Electronics                    | Photographic Accessories                           |
+|        8 | Consumer Electronics                    | Security and Control Systems                       |
+|        8 | Consumer Electronics                    | Televisions                                        |
+|        8 | Consumer Electronics                    | Video Games & Systems                              |
+|        8 | Consumer Electronics                    | Batteries                                          |
+|        8 | Consumer Electronics                    | Cameras                                            |
+|        8 | Consumer Electronics                    | GPS Systems                                        |
+|        8 | Consumer Electronics                    | iPods, MP3 and Media Players                       |
+|        8 | Furniture                               | Kitchen                                            |
+|        8 | Furniture                               | Mattresses                                         |
+|        8 | Furniture                               | Other Furniture                                    |
+|        8 | Furniture                               | Bedroom Furniture                                  |
+|        8 | Furniture                               | Clocks                                             |
+|        8 | Furniture                               | Entertainment Room                                 |
+|        8 | Furniture                               | Living Room                                        |
+|        8 | Furniture                               | Office                                             |
+|        8 | Furniture                               | Outdoor & Patio                                    |
+|        8 | Furniture                               | Bathroom                                           |
+|        8 | Furniture                               | Children's Rooms & Nurseries                       |
+|        8 | Furniture                               | Dining Room Furniture                              |
+|        8 | Home Improvement, Remodeling and Repair | Engines, Motors and Ventilation                    |
+|        8 | Home Improvement, Remodeling and Repair | Walls & Ceilings                                   |
+|        8 | Home Improvement, Remodeling and Repair | Flashlights                                        |
+|        8 | Home Improvement, Remodeling and Repair | Hardware & Building Supply                         |
+|        8 | Home Improvement, Remodeling and Repair | Heating & Cooling                                  |
+|        8 | Home Improvement, Remodeling and Repair | Kitchen & Bath                                     |
+|        8 | Home Improvement, Remodeling and Repair | Lumber & Drywall                                   |
+|        8 | Home Improvement, Remodeling and Repair | Plumbing Supplies                                  |
+|        8 | Home Improvement, Remodeling and Repair | Carpet & Flooring                                  |
+|        8 | Home Improvement, Remodeling and Repair | Siding, Roofing, & Gutters                         |
+|        8 | Home Improvement, Remodeling and Repair | Electrical Supply                                  |
+|        8 | Home Improvement, Remodeling and Repair | Tool Storage                                       |
+|        8 | Home Improvement, Remodeling and Repair | Equipment Carts & Accessories                      |
+|        8 | Home Improvement, Remodeling and Repair | Window Treatments                                  |
+|        8 | Home Improvement, Remodeling and Repair | Hand & Power Tools                                 |
+|        8 | Home Improvement, Remodeling and Repair | Hardware & Tool Accessories                        |
+|        8 | Home Improvement, Remodeling and Repair | Home Improvement Services                          |
+|        8 | Home Improvement, Remodeling and Repair | Lamps & Shades                                     |
+|        8 | Home Improvement, Remodeling and Repair | Paints & Sealant Supplies                          |
+|        8 | Home Improvement, Remodeling and Repair | Adhesives & Sealants                               |
+|        8 | Home Improvement, Remodeling and Repair | Security                                           |
+|        8 | Home Improvement, Remodeling and Repair | Doors & Windows                                    |
+|        8 | Home Improvement, Remodeling and Repair | Storage                                            |
+|        8 | Jewelry & Watches                       | Rings                                              |
+|        8 | Jewelry & Watches                       | Watches                                            |
+|        8 | Jewelry & Watches                       | Body Jewelry                                       |
+|        8 | Jewelry & Watches                       | Brooches & Pins                                    |
+|        8 | Jewelry & Watches                       | Cuff Links                                         |
+|        8 | Jewelry & Watches                       | Jewelry Boxes                                      |
+|        8 | Jewelry & Watches                       | Key Rings                                          |
+|        8 | Jewelry & Watches                       | Money Clips                                        |
+|        8 | Jewelry & Watches                       | Other Jewelry                                      |
+|        8 | Jewelry & Watches                       | Tie Clips / Tie Bars                               |
+|        8 | Jewelry & Watches                       | Bracelets                                          |
+|        8 | Jewelry & Watches                       | Charms                                             |
+|        8 | Jewelry & Watches                       | Earrings                                           |
+|        8 | Jewelry & Watches                       | Jewelry Sets                                       |
+|        8 | Jewelry & Watches                       | Loose Gemstones & Pearls                           |
+|        8 | Jewelry & Watches                       | Necklaces                                          |
+|        6 | Office                                  | Office Machines                                    |
+|        6 | Office                                  | Office Supplies                                    |
++----------+-----------------------------------------+----------------------------------------------------+
+

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iPin Pro | Wordpress Pinterest Clone</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="shortcut icon" href="/favicon.ico">
+<link href="js/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="js/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="js/font-awesome/css/font-awesome.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+
+<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!--[if IE 7]>
+	  <link href="js/font-awesome/css/font-awesome-ie7.css" rel="stylesheet">
+	<![endif]-->
+</head>
+
+<body data-twttr-rendered="true" class="archive author author-genkiadmin author-1 logged-in">
+<noscript>
+<div class="alert alert-error text-align-center">
+  <h3>You need to enable Javascript.</h3>
+</div>
+<style>
+	#masonry {
+	visibility: visible !important;	
+	}
+	</style>
+</noscript>
+<div id="topmenu" class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <i class="icon-bar"></i> <i class="icon-bar"></i> <i class="icon-bar"></i> </a> <a href="http://www.onsalelocal.com"><img src="img/logo.png" class="logo"></a>
+      <nav id="nav-main" class="nav-collapse" role="navigation">
+        <ul id="menu-top-right" class="nav pull-right">
+          <li class="visible-desktop"><a href="#">About</a></li>
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Steve Yang <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="user.html"><i class="icon-user"></i> Me</a></li>
+              <li><a href="account_setting.html"><i class="icon-edit"></i> Account Settings</a></li>
+              <li><a href="index.html"><i class="icon-signout"></i> Logout</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul id="menu-top-menu" class="nav">
+          <li class="dropdown menu-categories"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="#">Explore <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Popular</a></li>
+              <li><a href="#">Everything</a></li>
+              <li><a href="#">Local services</a></li>
+              <li><a href="#">Department store</a></li>
+              <li><a href="#">Cloth</a></li>
+              <li><a href="#">shoes</a></li>
+              <li><a href="#">kids</a></li>
+              <li><a href="#">Pets</a></li>
+              <li><a href="#">Electronics</a></li>
+              <li><a href="#">computer</a></li>
+              <li><a href="#">Tablets</a></li>
+            </ul>
+          </li>
+          <li><a href="#"><i class="icon-camera"></i> Share</a></li>
+        </ul>
+        <form class="navbar-search" method="get" id="searchform" action="#">
+          <input type="text" class="search-query" placeholder="Search" name="s" id="s" value="">
+        </form>
+      </nav>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+  <div class="sidebar span2">
+      <div class="sidebar-left-single user-wrapper position-fixed text-align-center">
+        <div class="user-avatar"> <img alt="avatar" src="img/1371085335ne42k-150x150.png" class="avatar" height="96" width="96"> </div>
+        <div class="user-profile">
+          <h2>Genkisan </h2>
+          <p><i class="icon-map-marker"></i> San Francisco,CA</p>
+          <p><a href="http://ericulous.com/" target="_blank"><i class="icon-globe"></i></a> <a href="http://www.facebook.com/testingsite" target="_blank"><i class="icon-facebook-sign"></i></a> <a href="http://twitter.com/testingsite" target="_blank"><i class="icon-twitter"></i></a> <a href="http://pinterest.com/testingsite" target="_blank"><i class="icon-pinterest"></i></a> <a href="http://plus.google.com/+testingsite" target="_blank"><i class="icon-google-plus"></i></a> <a href="http://maps.google.com/?q=New%20York,%20US" target="_blank"></a> </p>
+        </div>
+        <div class="clearfix"></div>
+        <ul class="nav nav-pills nav-stacked">
+          <li class="active"><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=pins"><strong>63</strong> Deals</a></li>
+          <li><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=likes"><strong>5</strong> Likes</a></li>
+          <li><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=followers"><strong id="ajax-follower-count">55</strong> Followers</a></li>
+          <li><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=following"><strong>1</strong> Following</a></li>
+          <li>
+            <button class="btn follow ipin-follow disabled" data-author_id="1" data-board_id="4" data-board_parent_id="0" data-disable_others="no" type="button">Unfollow</button>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="span10">
+      <div class="post-wrapper">
+        <div class="post-header hide">
+          <div class="user-wrapper">
+            <div class="post-content">
+              <div class="user-avatar"> <img alt="avatar" src="img/1371085335ne42k-150x150.png" class="avatar" height="96" width="96"> </div>
+              <div class="user-profile">
+                <h2>Genkisan</h2>
+                <p><i class="icon-map-marker"></i> San Francisco,CA</p>
+                <p><a href="http://ericulous.com/" target="_blank"><i class="icon-globe"></i></a> <a href="http://www.facebook.com/testingsite" target="_blank"><i class="icon-facebook-sign"></i></a> <a href="http://twitter.com/testingsite" target="_blank"><i class="icon-twitter"></i></a> <a href="http://pinterest.com/testingsite" target="_blank"><i class="icon-pinterest"></i></a> <a href="http://plus.google.com/+testingsite" target="_blank"><i class="icon-google-plus"></i></a> <a href="http://maps.google.com/?q=New%20York,%20US" target="_blank"></a> </p>
+              </div>
+            </div>
+          </div>
+          <div id="userbar" class="navbar">
+            <div class="navbar-inner">
+              <ul class="nav">
+                <li class="active"><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=pins"><strong>63</strong> Deals</a></li>
+                <li><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=likes"><strong>5</strong> Likes</a></li>
+                <li><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=followers"><strong id="ajax-follower-count">55</strong> Followers</a></li>
+                <li><a href="http://ipinpro.ericulous.com/user/genkiadmin/?view=following"><strong>1</strong> Following</a></li>
+                <li>
+                  <button class="btn follow ipin-follow disabled" data-author_id="1" data-board_id="4" data-board_parent_id="0" data-disable_others="no" type="button">Unfollow</button>
+                </li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+        <div style="display: none;" id="ajax-loader-masonry" class="ajax-loader"></div>
+        <div id="masonry">
+    <div class="thumb">
+      <div class="thumb-holder">
+        <div class="masonry-actionbar">
+          <button class="btn btn-mini" type="button"><i class="icon-heart"></i> Like</button>
+          <a class="btn btn-mini" href="#"><i class="icon-comment"></i> Comment</a> </div>
+        <a class="featured-thumb-link" href="deal.html"> <img class="featured-thumb" src="img/13583755445e4d3.jpg" alt="sexy clepatra tags[painting, egypt]"/> </a>
+        <div class="post-title" data-title="sexy clepatra tags[painting, egypt]"> <a href="deal.html">sexy clepatra</a> @<a href="store.html"> Macy's</a><br />
+          <br />
+          <div id="thetags"><a href="#">egypt</a> <a href="#">painting</a> </div>
+        </div>
+      </div>
+      <div class="masonry-meta masonry-meta-comment-likes text-align-center"> <span class="likes-count">52 likes</span><span class="comments-count">24 comments</span></div>
+      <div class="masonry-actionbar-mobile">
+        <button class="ipin-like btn btn-small" type="button">Like</button>
+        <a class="ipin-comment btn btn-small" href="http://ipinpro.ericulous.com/pin/855/#respond" >Comment</a> </div>
+      <div class="masonry-meta">
+        <div class="masonry-meta-avatar"><a href="http://ipinpro.ericulous.com/user/sean_teoh/"><img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=30' class='avatar avatar-30 photo avatar-default' height='30' width='30' /></a></div>
+        <div class="masonry-meta-comment"><div>Shared by</div>
+        <span class="masonry-meta-author"><a href="user.html" title="Posts by Sean Teoh" rel="author">Sean Teoh</a></span> 3 mins ago</div>
+      </div>
+    </div>
+    <div class="thumb">
+      <div class="thumb-holder">
+        <div class="masonry-actionbar">
+          <button class="btn btn-mini" type="button"><i class="icon-heart"></i> Like</button>
+          <a class="btn btn-mini" href="#"><i class="icon-comment"></i> Comment</a> </div>
+        <a class="featured-thumb-link" href="deal.html">
+        <div class="featured-thumb-video"></div>
+        <img class="featured-thumb" src="img/135572094015ebd-200x150.jpg" alt="PSY &#8211; GANGNAM STYLE (강남스타일) M/V tags[korea, music video]" /> </a>
+        <div class="post-title" data-title="PSY &#8211; GANGNAM STYLE (강남스타일) M/V tags[korea, music video]"> <a href="deal.html">PSY &#8211; GANGNAM STYLE (강남스타일) M/V</a> @ <a href="store.html">forever21</a><br />
+          <br />
+          <div id="thetags"><a href="#">korea</a> <a href="#">music video</a> </div>
+        </div>
+      </div>
+      <div class="masonry-meta masonry-meta-comment-likes text-align-center"> <span class="likes-count">40 likes</span><span class="comments-count">22 comments</span></div>
+      <div class="masonry-actionbar-mobile">
+        <button class="btn btn-small" type="button">Like</button>
+        <a class="btn btn-small" href="#">Comment</a> </div>
+      <div class="masonry-meta">
+        <div class="masonry-meta-avatar"><a href="#/"><img alt="avatar" src="img/1371085335ne42k-48x48.png" class="avatar" height="30" width="30" /></a></div>
+        <div class="masonry-meta-comment"><div>Shared by</div> <span class="masonry-meta-author"><a href="#" title="Posts by Genkisan" rel="author">Genkisan</a></span> <span class="masonry-meta-comment-content"> 3 hours ago</span> </div>
+      </div>
+    </div>
+    <div class="thumb">
+      <div class="thumb-holder">
+        <div class="masonry-actionbar">
+          <button class="btn btn-mini"  type="button"><i class="icon-heart"></i> Like</button>
+          <a class="btn btn-mini" href="#"><i class="icon-comment"></i> Comment</a> </div>
+        <a class="featured-thumb-link" href="#"> <img class="featured-thumb" src="img/13537227912e1c4-200x160.jpg" alt="Art In The Everyday: Royal Typewriters"/> </a>
+        <div class="post-title" data-title="Art In The Everyday: Royal Typewriters"> <a href="deal.html">Art In The Everyday: Royal Typewriters</a> @ <a href="store.html">Macy's</a></div>
+      </div>
+      <div class="masonry-meta masonry-meta-comment-likes text-align-center"> <span  class="likes-count">40 likes</span><span class="comments-count">18 comments</span></div>
+      <div class="masonry-actionbar-mobile">
+        <button class="btn btn-small" type="button">Like</button>
+        <a class="ipin-comment btn btn-small" href="#">Comment</a> </div>
+      <div class="masonry-meta">
+        <div class="masonry-meta-avatar"><a href="#"><img alt="avatar" src="img/1371085335ne42k-48x48.png" class="avatar" height="30" width="30" /></a></div>
+        <div class="masonry-meta-comment"><div>Shared by</div><span class="masonry-meta-author"><a href="#" title="Posts by Genkisan" rel="author">Genkisan</a></span> 2 days ago</div>
+      </div>
+    </div>
+    <div class="post-169 post type-post status-publish format-standard hentry category-uncategorized thumb">
+      <div class="thumb-holder">
+        <div class="masonry-actionbar">
+          <button class="ipin-like btn btn-mini" data-post_id="169" data-post_author="3" type="button"><i class="icon-heart"></i> Like</button>
+          <a class="ipin-comment btn btn-mini" href="http://ipinpro.ericulous.com/pin/169/#respond" data-post_id="169"><i class="icon-comment"></i> Comment</a> </div>
+        <a class="featured-thumb-link" href="http://ipinpro.ericulous.com/pin/169/"> <img class="featured-thumb" src="http://ipinpro.ericulous.com/wp-content/uploads/2012/11/science-of-facebook-engagement-infographic-mueller-littlebadger-open-forum-200x849.png" alt="The Simple Science of Facebook Engagement" style="width:200px;height:849px" /> </a>
+        <div class="post-title" data-title="The Simple Science of Facebook Engagement"> <a href="deal.html">The Simple Science of Facebook Engagement</a> @ <a href="store.html">macy's</a></div>
+      </div>
+      <div class="masonry-meta masonry-meta-comment-likes text-align-center"> <span id="likes-count-169" class="likes-count">9 likes</span><span id="comments-count-169" class="comments-count">9 comments</span></div>
+      <div class="masonry-actionbar-mobile">
+        <button class="ipin-like btn btn-small" data-post_id="169" data-post_author="3" type="button">Like</button>
+        <a class="ipin-comment btn btn-small" href="http://ipinpro.ericulous.com/pin/169/#respond" data-post_id="169">Comment</a> </div>
+      <div class="masonry-meta">
+        <div class="masonry-meta-avatar"><a href="http://ipinpro.ericulous.com/user/maxoz/"><img alt="avatar" src="http://ipinpro.ericulous.com/wp-content/uploads/2012/11/MAS-CHILL-Total-TRANS-325-48x48.png" class="avatar" height="30" width="30" /></a></div>
+        <div class="masonry-meta-comment"><div>Shared by</div> <span class="masonry-meta-author"><a href="http://ipinpro.ericulous.com/user/maxoz/" title="Posts by maxOz" rel="author">maxOz</a></span> 07/05/2013</div>
+      </div>
+    </div>
+    <div id="post-771" class="post-771 post type-post status-publish format-standard hentry category-architecture thumb">
+      <div class="thumb-holder">
+        <div class="masonry-actionbar">
+          <button class="ipin-like btn btn-mini" data-post_id="771" data-post_author="39" type="button"><i class="icon-heart"></i> Like</button>
+          <a class="ipin-comment btn btn-mini" href="http://ipinpro.ericulous.com/pin/771/#respond" data-post_id="771"><i class="icon-comment"></i> Comment</a> </div>
+        <a class="featured-thumb-link" href="http://ipinpro.ericulous.com/pin/771/">
+        <div class="featured-thumb-video"></div>
+        <img class="featured-thumb" src="http://ipinpro.ericulous.com/wp-content/uploads/2012/11/1358026730ad23b-200x150.jpg" alt="Social Media Revolution 2010 &#8211; YouTube" style="width:200px;height:150px" /> </a>
+        <div class="post-title" data-title="Social Media Revolution 2010 &#8211; YouTube"> Social Media Revolution 2010 @ <a href="store.html">YouTube</a></div>
+      </div>
+      <div class="masonry-meta masonry-meta-comment-likes text-align-center"> <span id="likes-count-771" class="likes-count">12 likes</span><span id="comments-count-771" class="comments-count">7 comments</span></div>
+      <div class="masonry-actionbar-mobile">
+        <button class="ipin-like btn btn-small" data-post_id="771" data-post_author="39" type="button">Like</button>
+        <a class="ipin-comment btn btn-small" href="http://ipinpro.ericulous.com/pin/771/#respond" data-post_id="771">Comment</a> </div>
+      <div class="masonry-meta">
+        <div class="masonry-meta-avatar"><a href="http://ipinpro.ericulous.com/user/demo/"><img alt='' src='http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=30' class='avatar avatar-30 photo avatar-default' height='30' width='30' /></a></div>
+        <div class="masonry-meta-comment"><div>Shared by</div><span class="masonry-meta-author"><a href="http://ipinpro.ericulous.com/user/demo/" title="Posts by demo" rel="author">demo</a></span> 08/02/2013</div>
+      </div>
+    </div>
+  </div>
+        <div style="visibility: hidden; height: 1px;" id="navigation">
+          <ul class="pager">
+            <li id="navigation-previous"></li>
+            <li id="navigation-next"><a href="http://ipinpro.ericulous.com/user/genkiadmin/page/2/?view=pins">Next »</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  
+</div><div style="display: none;" id="scrolltotop"><a href="#"><i class="icon-chevron-up"></i><br>
+    Top</a></div>
+<div class="modal hide" id="post-lightbox" tabindex="-1" role="dialog" aria-hidden="true"></div>
+<div class="clearfix"></div>
+<script type='text/javascript' src="js/jquery1.10.2.js"></script> 
+<script type='text/javascript' src='js/jquery-migrate.min.1.2.1.js'></script> 
+<script type='text/javascript' src='js/jquery.masonry.min.js'></script> 
+<script type='text/javascript' src='js/jquery.infinitescroll.min.js'></script> 
+<script type='text/javascript' src='js/bootstrap/js/bootstrap.min.js'></script> 
+<script type='text/javascript' src='js/bootstrap-lightbox.min.js'></script> 
+<script type='text/javascript'>
+/* <![CDATA[ */
+var obj_ipin = {"__allitemsloaded":"All items loaded","__addanotherpin":"Add Another Pin","__addnewboard":"Add new board...","__boardalreadyexists":"Board already exists. Please try another title.","__errorpleasetryagain":"Error. Please try again.","__cancel":"Cancel","__close":"Close","__comment":"comment","__comments":"comments","__enternewboardtitle":"Enter new board title","__Forgot":"Forgot?","__incorrectusernamepassword":"Incorrect Username or Password","__invalidimagefile":"Invalid image file. Please choose a JPG\/GIF\/PNG file.","__like":"like","__likes":"likes","__Likes":"Likes","__loading":"Loading...","__Login":"Login","__onto":"onto","__or":"or","__Password":"Password","__pinit":"Pin It","__pinnedto":"Pinned to","__pleaseenteratitle":"Please enter a title","__pleaseenterbothusernameandpassword":"Please enter both username and password.","__pleaseenterurl":"Please enter url","__RegisterAccount":"Register Account","__repin":"repin","__repins":"repins","__Repins":"Repins","__repinnedto":"Repinned to","__seethispin":"See This Pin","__sorryunbaletofindanypinnableitems":"Sorry, unable to find any pinnable items.","__Username":"Username","__Video":"Video","__Welcome":"Welcome","__yourpinispendingreview":"Your pin is pending review","ajaxurl":"http:\/\/ipinpro.ericulous.com\/wp-admin\/admin-ajax.php","avatar30":"<img alt='' src='http:\/\/0.gravatar.com\/avatar\/ad516503a11cd5ca435acc9bb6523536?s=30' class='avatar avatar-30 photo avatar-default' height='30' width='30' \/>","avatar48":"<img alt='' src='http:\/\/0.gravatar.com\/avatar\/ad516503a11cd5ca435acc9bb6523536?s=48' class='avatar avatar-48 photo avatar-default' height='48' width='48' \/>","blogname":"iPin Pro","categories":"<select name='board-add-new-category' id='board-add-new-category' class='postform' >\n\t<option value='-1'>Category for New Board<\/option>\n\t<option class=\"level-0\" value=\"6\">Architecture<\/option>\n\t<option class=\"level-0\" value=\"8\">Cars & Motorcycles<\/option>\n\t<option class=\"level-0\" value=\"9\">Celebrities<\/option>\n\t<option class=\"level-0\" value=\"10\">Design<\/option>\n\t<option class=\"level-0\" value=\"13\">Film, Music & Books<\/option>\n\t<option class=\"level-0\" value=\"18\">Health & Fitness<\/option>\n\t<option class=\"level-0\" value=\"22\">Humour<\/option>\n\t<option class=\"level-0\" value=\"25\">Men\u2019s Fashion<\/option>\n\t<option class=\"level-0\" value=\"31\">Sports<\/option>\n\t<option class=\"level-0\" value=\"33\">Technology<\/option>\n\t<option class=\"level-0\" value=\"99\">Videos<\/option>\n\t<option class=\"level-0\" value=\"36\">Women\u2019s Fashion<\/option>\n<\/select>\n","current_date":"12 Aug 2013 7:18am","description_instructions":"<div class=\"description_instructions\">Allowed HTML tags: <span>&lt;strong> &lt;em> &lt;a> &lt;blockquote><\/span>. To add price tag, use <span>$<\/span> symbol e.g $23 or $23.45. To add tags, input <span>tags[<em>text1, text2<\/em>]<\/span><\/div>","home_url":"http:\/\/ipinpro.ericulous.com","infinitescroll":"enable","lightbox":"enable","login_url":"http:\/\/ipinpro.ericulous.com\/login\/?redirect_to=%2F","nextselector":"#navigation #navigation-next a","nonce":"0b4d362a84","site_url":"http:\/\/ipinpro.ericulous.com","stylesheet_directory_uri":"http:\/\/ipinpro.ericulous.com\/wp-content\/themes\/ipinpro","u":"0","ui":"","ul":"","user_rewrite":"user"};
+/* ]]> */
+</script> 
+<script type='text/javascript' src='js/ipin.custom.js'></script> 
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script> 
+<script type='text/javascript' src='http://assets.pinterest.com/js/pinit.js'></script> 
+<script type="text/javascript">
+st_go({blog:'46345223',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(46345223,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+</body>
+</html>

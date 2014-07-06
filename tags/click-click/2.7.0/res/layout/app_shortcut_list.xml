@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="fill_parent"
+	android:layout_width="fill_parent"
+>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:orientation="vertical"
+	android:gravity="center_horizontal"
+>
+	<LinearLayout 
+		android:id="@+id/common"
+				android:layout_height="wrap_content"
+				android:orientation="vertical" 
+				android:layout_width="fill_parent"
+	    		android:layout_marginBottom="20px"
+	>
+			<RelativeLayout 
+	    		android:layout_width="fill_parent" 
+	    		android:layout_height="wrap_content" 
+			>
+				<ImageView
+		    		android:id="@+id/appIcon" 
+		    		android:layout_width="96px" 
+		    		android:layout_height="96px"
+		    		android:scaleType="fitXY"
+		    		android:layout_marginRight="20px"
+		    		android:layout_alignParentLeft="true"
+				>
+				</ImageView>
+					<TextView
+						android:id="@+id/activityLabel"
+			    		android:layout_width="wrap_content" 
+			    		android:layout_height="wrap_content"
+			    		android:layout_alignParentTop="true"
+			    		android:layout_toRightOf="@+id/appIcon"
+			    		android:textSize="24dp"
+					>
+					</TextView>
+					<TextView
+						android:id="@+id/activityName"
+			    		android:layout_width="wrap_content" 
+			    		android:layout_height="wrap_content"
+			    		android:layout_below="@+id/activityLabel"
+			    		android:layout_toRightOf="@+id/appIcon"
+			    		android:textSize="14dp"
+					>
+					</TextView>
+					<TextView
+						android:id="@+id/appVersion"
+			    		android:layout_width="wrap_content" 
+			    		android:layout_height="wrap_content"
+			    		android:layout_below="@+id/activityName"
+			    		android:layout_alignParentBottom="true"
+			    		android:layout_toRightOf="@+id/appIcon"
+			    		android:textSize="14dp"
+					>
+					</TextView>
+			</RelativeLayout>
+			
+			<RadioGroup android:id="@+id/shortcutType"
+				android:layout_width="fill_parent"
+	            android:layout_height="wrap_content" 
+	            android:orientation="vertical"
+	            android:layout_marginTop="16dp"
+			>
+				<TextView 
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:text="Please select shortcut type"
+		    		android:textSize="20dp"
+				/>
+				<RadioButton android:id="@+id/displayInfo"
+		    		android:textSize="14dp"
+					android:text="Shortcut to dispaly application information. You can force stop, uninstall and clean data from there."
+				/>
+				<RadioButton android:id="@+id/killApp"
+		    		android:textSize="14dp"
+					android:text="Shortcut to kill application."
+					android:visibility="gone"
+				/>
+				<RadioButton android:id="@+id/launchApp"
+					android:text="Shortcut to launch application"
+		    		android:textSize="14dp"
+				/>
+			</RadioGroup>
+			<LinearLayout
+				android:id="@+id/options"
+		   		android:layout_width="fill_parent" 
+		   		android:layout_height="wrap_content"
+		   		android:layout_marginLeft="60px"
+		   		android:orientation="vertical"
+		   	/>
+	</LinearLayout>
+	
+	<LinearLayout
+		android:id="@+id/delSaveCancel"
+   		android:layout_width="wrap_content" 
+   		android:layout_height="wrap_content"
+   		android:layout_centerHorizontal="true"
+   		android:orientation="horizontal"
+	>
+		<Button 
+	   		android:layout_width="88dp" 
+	   		android:layout_height="wrap_content"
+			android:id="@+id/delete"
+			android:text="Delete"
+		/>
+		<Button 
+	   		android:layout_width="88dp" 
+	   		android:layout_height="wrap_content"
+			android:id="@+id/save"
+			android:text="Save"
+		/>
+		<Button 
+	   		android:layout_width="88dp" 
+	   		android:layout_height="wrap_content"
+			android:id="@+id/cancel"
+			android:text="Cancel"
+		/>
+	</LinearLayout>
+</LinearLayout>
+</ScrollView>

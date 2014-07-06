@@ -1,0 +1,9 @@
+<style type="text/css">
+.ui-icon-message {
+	background-image: url(<c:url value="/m/images/message_24x24.png"/>);
+}
+
+.abc .ui-btn-inner {
+	padding-right:0px;
+}
+</style> 

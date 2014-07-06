@@ -1,0 +1,68 @@
+<html>
+<head>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="jquery/jquery.iframe-auto-height.plugin.1.5.0.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+pluginList = android.listEnabledPlugins();
+pluginList = JSON.parse(pluginList).items;
+for(var i=0; i<pluginList.length; i++) {
+	var plugin = pluginList[i];
+	var url = android.getUrl(plugin.id);
+	document.write("<div style='padding:4px;border-left:solid 1px;border-top:solid 1px;margin:0 0 20px 0;background-color:#ccc;'>");
+	document.write("<strong>" + plugin.name + "</strong>");
+	if(i>0) {
+		document.write("<button onClick='up(\"" + plugin.id + "\")'>Move Up</button>");
+	}
+	if(i!=(pluginList.length - 1)){
+		document.write("<button onClick='down(\"" + plugin.id + "\")'>Move Down</button>");
+	}
+	document.write("<button onClick='disable(\"" + plugin.id + "\")'>Disable</button>");
+	document.write("<button onClick='window.location=\"plugin.html?" + plugin.id + "\"'>Edit</button>");
+	var iframe = "<br/><iframe frameborder='0' scrolling='no' style='-webkit-transform: scale(0.98);-webkit-transform-origin: 0 0;border: 0;' id='iframe_" + plugin.id + "' src='" + url + "'></iframe><br/>";
+	document.write(iframe);
+	var host = url.split("/")[2].split(".");
+	host = host[host.length-2] + "." + host[host.length-1];
+	document.write("IFrame above source: " + host);
+	document.write("</div>")
+}
+
+function up(pluginId) {
+	android.adjustOrder(pluginId, true);
+	window.location.reload();
+}
+
+function disable(pluginId) {
+	android.enableDisable(pluginId);
+	window.location.reload();
+}
+
+function down(pluginId) {
+	android.adjustOrder(pluginId, false);
+	window.location.reload();
+}
+
+function refresh() {
+	for(var i=0; i<pluginList.length; i++) {
+		var plugin = pluginList[i];
+		if("false" == (plugin.enabled)+"") {
+			continue;
+		}
+		try {
+			var iframeId = "iframe_" + plugin.id;
+			$('#' + iframeId).attr("src", $('#' + iframeId).attr("src"));
+		} catch (e) {
+			alert(e);
+		}
+	}
+}
+</script>
+</body>
+</html>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('iframe').iframeAutoHeight();
+});
+</script>

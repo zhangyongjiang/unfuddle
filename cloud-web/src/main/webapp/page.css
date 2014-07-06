@@ -1,0 +1,137 @@
+ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+	font: 15px/2 Georgia, Serif;
+}
+
+td,th {
+	padding: 6px;
+	border: solid 1px #ddd;
+	font-size:14px;
+}
+
+td {
+}
+
+img {
+	vertical-align: middle;
+}
+
+a {
+	color: #21759B;
+	text-decoration: none;
+}
+
+.ui-widget-content a {
+	color: #21759B;
+}
+
+.undera {
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #d54e21;
+}
+
+.sep {
+	clear: both;
+	height: 1px;
+}
+
+.page-header {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin: 20px 0 24px;
+}
+
+#body {
+	min-height: 480px;
+}
+
+#footer {
+	/*border-top: solid 1px #ccc;*/
+	float:right;
+	margin-top: 20px;
+	padding-top: 10px;
+}
+
+#menu {
+	/*border-top: solid 1px #ccc;*/
+	position:absolute;
+	right:0;
+	margin-top: -24px;
+}
+
+#navi {
+	float: left;
+	width:240px;
+	margin-top:20px;
+	margin-left:16px;
+}
+
+#content {
+	float:left;
+	padding-left: 20px;
+}
+
+.menu-item {
+	float: left;
+	margin-right: 32px;
+}
+
+.footer-item {
+	float: left;
+	margin-right: 32px;
+}
+
+.col-2 {
+	width: 200px;
+}
+
+.submenu {
+    list-style: none outside none;
+    margin-left: 0;
+    margin-top: -2px;
+}
+
+.submenu li {
+	font-size:12px;
+    border-bottom: 1px solid #DEDEDE;
+    line-height: 15px;
+    padding: 5px 0;
+    margin-left:10px;
+}
+
+.col-2 h3 {
+    margin-top: 3px;
+    color: #660;
+}
+
+h3 {
+    color: #333333;
+    font-size: 14px;
+    font-weight: bold;
+    margin: -1px 0 1px;
+}
+
+.detail-table th {
+	text-align:right;
+	color: #777;
+    font-size: 13px;
+}
+
+.label{
+	color: #777;
+    font-size: 13px;
+}
+
+form td {
+	border:none;
+}
+

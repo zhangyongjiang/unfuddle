@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<place id="47806">
+	<routes>
+		<route loop="false">
+			<point>
+				<geo>
+					<lat>39.91595</lat>
+					<lng>116.313713</lng>
+				</geo>
+				<localized_info>
+					<info la="en">
+						<caption>Yuyuan Lake Park</caption>
+						<description />
+					</info>
+				</localized_info>
+			</point>
+		</route>
+	</routes>
+</place>

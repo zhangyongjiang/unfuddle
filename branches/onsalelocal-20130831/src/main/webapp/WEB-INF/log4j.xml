@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+    <appender name="CONSOLE_APPENDER" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern"
+                value="%d %p %c{1} %X{StartTime} %X{LogTime} %X{TimeSince} %X{TimeDiff} %X{ucn} %X{RequestId} [[%m]] %X{Uri} %X{Query}%n"/>
+        </layout>
+    </appender>
+
+    <appender name="DB_APPENDER"
+        class="com.gaoshin.onsalelocal.osl.logging.OslLogAppender">
+        <param name="URL" value="jdbc:mysql://localhost/logdb"/>
+        <param name="driver" value="com.mysql.jdbc.Driver"/>
+        <param name="user" value="root"/>
+        <param name="password" value=""/>
+        <param name="sql"
+            value="INSERT INTO osl_log (host, name, start_time, log_time, since, diff, ucn, uri, method, query, path_param, status, deviceid, os, version, bytes, reqid, msg) VALUES ('%X{Hostname}', '%c{1}', %X{StartTime}, %X{LogTime}, %X{TimeSince}, %X{TimeDiff}, '%X{UserId}', '%X{Uri}', '%X{Method}', '%X{Query}', '%X{PathParam}', '%X{Status}', '%X{DeviceId}', '%X{OS}', '%X{AppVer}', %X{Bytes}, '%X{Reqid}', '%m')"/>
+    </appender>
+
+    <root>
+        <priority value="INFO"/>
+        <appender-ref ref="CONSOLE_APPENDER"/>
+    </root>
+
+    <category name="org.springframework">
+        <priority value="WARN"/>
+    </category>
+
+    <!--category name="com.gaoshin">
+        <priority value="DEBUG"/>
+        <appender-ref ref="DB_APPENDER"/>
+    </category-->
+
+    <category name="com.gaoshin.onsalelocal.osl.dao.impl.OslDaoImpl">
+        <priority value="INFO"/>
+        <appender-ref ref="CONSOLE_APPENDER"/>
+    </category>
+
+</log4j:configuration>

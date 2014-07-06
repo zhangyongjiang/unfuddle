@@ -1,0 +1,5 @@
+{
+      "name": "Yahoo Finance", 
+      "url": "http://finance.yahoo.com/q?s=__SYM__&ql=1", 
+      "country": "US"
+}

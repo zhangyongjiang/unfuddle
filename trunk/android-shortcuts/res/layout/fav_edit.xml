@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+>
+	<RelativeLayout
+		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="66dp"
+		android:layout_marginRight="80px"
+	   	android:gravity="center"
+	>
+    	<TextView
+    		android:id="@+id/exittext"
+		   	android:layout_width="wrap_content"
+		   	android:layout_height="wrap_content"
+		   	android:textColor="#999999"
+		   	android:textSize="14dip"
+		   	android:layout_alignParentTop="true"
+		   	android:layout_centerHorizontal="true"
+		   	android:text="Press BACK to exit"
+    	/>
+    	<TextView
+    		android:id="@+id/clickremove"
+		   	android:layout_width="wrap_content"
+		   	android:layout_height="wrap_content"
+		   	android:layout_below="@+id/exittext"
+		   	android:layout_toLeftOf="@+id/right"
+		   	android:layout_marginRight="12px"
+		   	android:textColor="#ffcc66"
+		   	android:text="Click to remove shortcut"
+    	/>
+		<ImageView
+    		android:id="@+id/down"
+			android:layout_width="60px"
+			android:layout_height="60px"
+			android:layout_alignParentLeft="true"
+			android:layout_alignParentBottom="true"
+			android:src="@drawable/down_plus"
+		/>
+    	<TextView
+    		android:id="@+id/clickadd"
+		   	android:layout_width="wrap_content"
+		   	android:layout_height="wrap_content"
+		   	android:layout_alignParentBottom="true"
+		   	android:layout_toRightOf="@+id/down"
+		   	android:textColor="#ffcc66"
+		   	android:text="Click icons to add shortcuts"
+    	/>
+		<ImageView
+    		android:id="@+id/right"
+			android:layout_width="60px"
+			android:layout_height="60px"
+			android:layout_alignParentRight="true"
+			android:layout_alignParentBottom="true"
+		   	android:layout_marginRight="12px"
+			android:src="@drawable/right_minus"
+		/>
+	</RelativeLayout>
+	<ListView 
+		android:id="@+id/allapp"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_below="@+id/header"
+		android:layout_alignParentBottom="true"
+		android:layout_marginRight="80px"
+	>
+	</ListView>
+</RelativeLayout>

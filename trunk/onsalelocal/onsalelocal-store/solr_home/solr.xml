@@ -1,0 +1,12 @@
+<solr persistent="true" sharedLib="lib">
+    <property name="db0" value="jdbc:mysql://localhost:3306/osl" />
+    <property name="db_store" value="jdbc:mysql://localhost:3306/places" />
+    <property name="enable.master" value="true" />
+    <property name="enable.slave" value="false" />
+    <property name="master.server" value="" />
+    
+    <cores adminPath="/admin/cores">
+        <core name="osl" instanceDir="osl" />
+        <core name="merchant" instanceDir="merchant" />
+        </cores>
+</solr>

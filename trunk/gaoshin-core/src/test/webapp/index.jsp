@@ -1,0 +1,1 @@
+hello test from <%= request.getRequestURI() + "?" + request.getQueryString() %>

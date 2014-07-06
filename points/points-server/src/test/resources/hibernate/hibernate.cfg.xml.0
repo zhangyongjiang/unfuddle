@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="dialect">org.hibernate.dialect.HSQLDialect</property>
+        <property name="connection.driver_class">org.hsqldb.jdbcDriver</property>
+        <property name="connection.url">jdbc:hsqldb:mem:test-db-0</property>
+        <property name="connection.username">SA</property>
+        <property name="connection.password"></property>
+        <property name="hibernate.connection.shard_id">0</property>
+        <property name="hibernate.shard.enable_cross_shard_relationship_checks">true</property>
+        <property name="hbm2ddl.auto">create-drop</property>
+        <property name="hibernate.connection.autocommit">true</property>
+        <property name="hibernate.connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property>    
+		<property name="hibernate.c3p0.max_size">20</property>    
+		<property name="hibernate.c3p0.min_size">5</property>    
+		<property name="hibernate.c3p0.timeout">3600</property>    
+		<property name="hibernate.c3p0.max_statements">100</property>    
+		<property name="hibernate.c3p0.idle_test_period">1800</property>    
+		<property name="hibernate.c3p0.acquire_increment">2</property>   
+		<property name="hibernate.c3p0.preferredTestQuery">select 1 from INFORMATION_SCHEMA.SYSTEM_USERS</property>
+    </session-factory>
+    <!--session-factory>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://192.168.0.171:3306/poptuit_dev?useUnicode=true&amp;characterEncoding=utf8</property>
+        <property name="connection.username">poptuit</property>
+        <property name="connection.password"></property>
+        <property name="hibernate.connection.shard_id">0</property>
+        <property name="hibernate.connection.autocommit">true</property>
+        <property name="hibernate.shard.enable_cross_shard_relationship_checks">true</property>
+        <property name="hbm2ddl.auto">create</property>
+        <property name="hibernate.connection.autocommit">true</property>
+        <property name="hibernate.connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property>    
+		<property name="hibernate.c3p0.max_size">20</property>    
+		<property name="hibernate.c3p0.min_size">5</property>    
+		<property name="hibernate.c3p0.timeout">3600</property>    
+		<property name="hibernate.c3p0.max_statements">100</property>    
+		<property name="hibernate.c3p0.idle_test_period">1800</property>    
+		<property name="hibernate.c3p0.acquire_increment">2</property>   
+		<property name="hibernate.c3p0.preferredTestQuery">select 1</property>
+    </session-factory-->
+</hibernate-configuration>

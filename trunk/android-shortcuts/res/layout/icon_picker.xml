@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+>
+	<TextView
+		android:id="@+id/info"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_toLeftOf="@+id/gallery"
+		android:text="Please select an icon for your shortcuts group. The first icon is a transparent invisible icon."
+	>
+	</TextView>
+	<Button
+		android:id="@+id/gallery"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_alignParentRight="true"
+		android:text="Gallery"
+	/>
+	<GridView  xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/icons"
+		android:numColumns="5"
+		android:verticalSpacing="20dp"
+		android:horizontalSpacing="10dp"
+		android:gravity="center"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_alignParentBottom="true"
+		android:layout_below="@+id/info"
+	>
+	</GridView>
+</RelativeLayout>

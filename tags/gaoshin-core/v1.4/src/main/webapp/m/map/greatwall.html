@@ -1,0 +1,223 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>|&lt;&mdash;&mdash;&mdash;&mdash; 25K Miles &mdash;&mdash;&mdash;&mdash;&gt;|</title>
+	<meta name="description" content="Map application to find the distance between two points on a map, total length of a route, area of a polygon. Developed on Google Map API. "/>
+	<meta name="keywords" content="maps,distance,length,area,points,calculate,find,crow,map,earth,km,mile,two,google,map,api,run, running, poi, flash, cycle, athlete, fitness, measure, pedometer, mashup, elevation, kilometer, meter,walking, distance, calculator, mapping, map, sports, training, biking, trithalon"/>
+
+	<link type="text/css" rel="stylesheet" href="yui/build/fonts/fonts.css">
+	<!--link type="text/css" rel="stylesheet" href="yui/build/reset/reset.css">
+	<link rel="stylesheet" type="text/css" href="yui/build/reset-fonts-grids/reset-fonts-grids.css">
+	<link rel="stylesheet" type="text/css" href="yui/build/menu/assets/menu.css">
+	<link rel="stylesheet" type="text/css" href="yui/build/container/assets/container.css">
+    <script type="text/javascript" src="yui/build/yahoo/yahoo.js"></script>
+    <script type="text/javascript" src="yui/build/event/event.js"></script>
+    <script type="text/javascript" src="yui/build/dom/dom.js"></script>
+    <script type="text/javascript" src="yui/build/animation/animation.js"></script>
+    <script type="text/javascript" src="yui/build/container/container.js"></script>
+    <script type="text/javascript" src="yui/build/menu/menu.js"></script>
+	<script type="text/javascript" src="yui/build/dragdrop/dragdrop.js"></script>
+	<script type="text/javascript" src="yui/build/container/container.js"></script -->
+		
+	<style type="text/css">
+		#map{
+			height: 100%;
+			width: 100%;
+		};
+	</style>
+
+	<script type="text/javascript" >
+		var mapKeys = new Array();
+		mapKeys["localhost/map"] 	= "ABQIAAAAXJhUS5niXEXgEm0LZS219hTRzhAzSQ3u4E7LYXha2CwyHvWJ_RTeuAp71ID6EiffQcCKbkhd7bebAw";
+		mapKeys["xava.org/map"]			= "ABQIAAAAXJhUS5niXEXgEm0LZS219hQqFlRPoTIU4hu8rwxiYFm1o1VBjhS1TqXyJlWdjhBVvFYl9ypPpwdy0Q";
+		mapKeys["angerbaby-lx/map"]	= "ABQIAAAAXJhUS5niXEXgEm0LZS219hRDlZaT-pHxLSKeaqyE3sF0sHsakxSRVkFyBCNBdLztCHbXHv0NG7bhaA";
+		mapKeys["25kmiles.com/map"]		= "ABQIAAAAXJhUS5niXEXgEm0LZS219hRMrHtTelJ0YLwgVFBCQWEpc9ZD1RRzOt7LpDImrRw1m_Cmo4FqP2bifg";
+		for (var key in mapKeys) {
+			if (window.location.href.indexOf(key) != -1) {
+				var mapKey = mapKeys[key];
+				break;
+			}
+		}
+		document.write("<script type=\"text/javascript\" src=\"http://maps.google.com/maps?file=api&amp;v=2&amp;key=" + mapKey + "\" ><\/script>");
+	</script>	
+
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+	<!-- script type="text/javascript" src="json.js"></script -->
+	<script type="text/javascript" src="PlaceManager.js"></script>
+	<script type="text/javascript" src="gogomap.js"></script>
+	<script type="text/javascript" >
+		function init() {
+			gView.initView("map");
+			try {
+				//if (gView.hasPassedInPlace) 
+				//	gView.setMode('view');
+				//else
+				//	gView.setMode('edit');
+			} catch (e) {}
+			
+			// draw the menu
+			if (true) {
+		//			onMenuBarReady();
+			}
+			
+			// create the panel for current map object
+			//YAHOO.gogomapper.container.panelCurrentMObj = new YAHOO.widget.Panel("panelCurrentMObj", { width:"300px", visible:false, constraintoviewport:true } );
+			//YAHOO.gogomapper.container.panelCurrentMObj.render();
+			//YAHOO.gogomapper.container.panelCurrentMObj.moveTo(100, 100);
+
+			var gSchoolManager = new SchoolPlaceManager();
+			gView.placeManager = gSchoolManager;
+			gView.getDataTimer();
+
+			var node = document.getElementById("acc-ct");
+			node.parentNode.removeChild(node);
+			document.getElementById("accordionHolder").appendChild(node);
+
+			initAccordion();
+			
+			_uacct = "UA-2436442-2";
+			urchinTracker();
+
+			try {
+		    	document.getElementById('webcounter').innerHTML = "Total Page Views: " + getHttpData("POST", "/php/pageviewcounter.php5");
+		    } catch (e) {}
+
+	        var tilelayer = new GTileLayer();
+	        tilelayer.getTileUrl = function(point, zoom) {
+	            var center = gView.map.getCenter();
+	        	//if (tiled==false && gView.map.getCurrentMapType().getUrlArg()!='k') {
+	        	if (gView.map.getCurrentMapType().getUrlArg()!='k' && center.lat()>39 && center.lat()<41 && center.lng()>115 && center.lng()<118) {
+	        		//tiled = true;
+    				return "/beijing/bjtile.php5?zoom=" + zoom + "&x=" + point.x + "&y=" + point.y + "&t=" + gView.map.getCurrentMapType().getUrlArg()+"&c="+gView.map.getCenter().toUrlValue();
+    			} else 
+    				return "/beijing/1x1.png";
+	        };
+	        tilelayer.isPng = function() { return true;};
+	        tilelayer.getOpacity = function() { 
+	        	return 0.8; 
+	        }
+	
+	        var myTileLayer = new GTileLayerOverlay(tilelayer);		    
+			gView.map.addOverlay(myTileLayer);
+		}
+		
+		window.onload = init;
+	</script>
+
+<link rel="stylesheet" type="text/css" href="/extjs/resources/css/ext-all.css">
+<link rel="stylesheet" type="text/css" href="/extjs/resources/css/xtheme-vista.css">
+<link rel="stylesheet" type="text/css" href="accordion.css">
+<script type="text/javascript" src="/extjs/adapter/yui/yui-utilities.js"></script>
+<script type="text/javascript" src="/extjs/adapter/yui/ext-yui-adapter.js"></script>
+<script type="text/javascript" src="/extjs/ext-all.js"></script>
+<script type="text/javascript" src="Ext.ux.InfoPanel.js"></script>
+<script type="text/javascript" src="Ext.ux.Accordion.js"></script>
+
+</head>
+<body onunload="GUnload()">
+
+<div style="z-index:0; position:absolute; top:0px; left:0px;" id="map"></div>
+
+<div id="acc-ct"  style="width:320px;height:80%;background-color: transparent;">
+	<div id="divMode" style="text-align:left; background-color: transparent;"><img id="modeView"  src="img/pointer_sel2.png"     onclick="gView.setMode('view')" style="border:none;vertical-align:middle;" title="View Mode" />
+			<img id="modeEdit"  src="img/add_point2.png"   onclick="startNewFile();" title="Edit Mode, create a new Route Group." style="border:none;vertical-align:middle;"/>
+			<img id="link"  src="img/save.png"   onclick="gView.save()" title="Save" style="border:none;vertical-align:middle;"/>
+		<div><div class="text-content"></div></div>
+	</div>
+  <div id="divSearch"><div>
+  		Search: <input id="searchAddr" type="text" onclick="this.focus();" name="search" style="width:180px;" onkeydown="return searchKeyDown(event)"/>
+  		<input type="button" value="Go" onclick="gotoAddr(document.getElementById('searchAddr').value)"/>
+  	</div><div><div class="text-content"></div></div>
+  </div>
+  <div id="divCurrentRoute"><div>Current Place</div><div id="divCurrentRouteContent" class="text-content" style="background-color:#ffffff;"></div></div>
+  <div id="divHelp"><div>How To</div><div id="divHelpContent" class="text-content" style="text-align:left;border:1px solid;">
+  <div style="margin:4px;"><table cellspacing='0'>
+  	<tr><td valign="top"><li></td><td>Map has two modes: View Mode & Edit Mode. These two buttons <img id="modeView"  src="img/pointer_sel2.png" style="border:none;vertical-align:middle;" title="View Mode" />
+			<img id="modeEdit"  src="img/add_point2.png" title="Edit Mode, create a new Route Group." style="border:none;vertical-align:middle;"/> on the top-right of the map could be used to switch mode.</td></tr>
+  	<tr><td valign="top"><li></td><td>To create a marker, switch to Edit mode and then click on the map. More markers created after will be connected to form a Route.</td></tr>
+  	<tr><td valign="top"><li></td><td>Route and marker could be grouped together as a Route Group. This is useful when they are related. For example, to create a elementary school and its resident boundary.</td></tr>
+  	<tr><td valign="top"><li></td><td>Current editing route will be displayed in the section of "Current Route Group".</td></tr>
+  	<tr><td valign="top"><li></td><td>To create a new marker or route in the current Route Group, Click the "Start a New Route" link in the "Current Route Group" section.</td></tr>
+  	<tr><td valign="top"><li></td><td>To create a new Route Group, click the "Start a New Group" link or button <img id="modeEdit"  src="img/add_point2.png" title="Edit Mode, create a new Route Group." style="border:none;vertical-align:middle;"/> in the "Current Route Group" section.</td></tr>
+  	<tr><td valign="top"><li></td><td>Links for deletion of current route and points of current route could be found in the "Current Route Group" section. This could be done in the Edit mode only.</td></tr>
+  	<tr><td valign="top"><li></td><td>Area and total length of the current route could be found in the "Current Route Group" section. </td></tr>
+  	<tr><td valign="top"><li></td><td>A route could be a polyline or a polygon. To make it a polygon, switch to the edit mode and click <font color='red'>"&raquo;0"</font> link located in the "Current Route Group" section. </td></tr>
+  	<tr><td valign="top"><li></td><td>Current URL represents current Route Group.</td></tr>
+  </table></div>
+  	</div>
+  </div>
+  <div id="divAbout"><div>About</div><div class="text-content" style="border:1px solid;">
+  	<div style='text-align:center; margin:16px;'><img src='img/logomap.gif' alt='logo' title=''>
+  	<!-- img src='beijing/0/176/715/16/6/3239_1206.GIF' width='420' height='420'/-->
+  	<br/><br/>
+  	<p>For any comments, please <a href="mailto:zhangyongjiang@yahoo.com">email me</a></p><br/>
+  	<p>For developer, if you find any piece of the code is useful, feel free to copy and use it at your own responsibility.</p><br/>
+ 	<p id="webcounter"></p></div>
+  </div></div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	function searchKeyDown (e) {
+		var keynum
+		var keychar
+		var numcheck
+		
+		if(window.event) // IE
+		{
+			keynum = e.keyCode
+		}
+		else if(e.which) // Netscape/Firefox/Opera
+		{
+			keynum = e.which
+		}
+		keychar = String.fromCharCode(keynum);
+		if (keychar == '\n' || keychar== '\r') {
+			var addr = document.getElementById("searchAddr").value;
+			gotoAddr(addr);
+		}
+	}
+	
+	function initAccordion() {
+		Ext.BLANK_IMAGE_URL = '/extjs/resources/images/default/s.gif';
+		
+		Ext.onReady(function() {
+			  // create accordion
+			  var acc = new Ext.ux.Accordion('acc-ct', {
+				fitContainer: true
+				, fitToFrame: true
+				, useShadow: true
+				, adjustments: [ 0, -26 ]
+				, maxHeight: 200
+			  });
+			  
+			  //var panelMode = acc.add(new Ext.ux.InfoPanel('divMode', {
+			  //		collapsible: false
+			  //}));
+			
+			  gView.panelSearch = acc.add(new Ext.ux.InfoPanel('divSearch', {collapsible:false, trigger:'button'}));
+			
+			  gView.panelCurrentRoute = acc.add(new Ext.ux.InfoPanel('divCurrentRoute', { 
+			  		showPin: true,
+					collapseOnUnpin: false
+				}));
+			  
+			  gView.panelHelp = acc.add(new Ext.ux.InfoPanel('divHelp', {
+			  }));
+			  
+			  gView.panelAbout = acc.add(new Ext.ux.InfoPanel('divAbout', {
+			  }));
+
+			if (gView.hasPassedInPlace) 
+				gView.panelCurrentRoute.expand();		
+
+	
+			gView.mapTypeChanged();
+
+		});
+	}
+</script>
+</body>
+</html>

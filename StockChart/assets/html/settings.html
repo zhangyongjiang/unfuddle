@@ -1,0 +1,167 @@
+<html>
+<head>
+<style type="text/css">
+th,td {border:solid 1px #bbb;padding:4px;}
+</style>
+
+<script type="text/javascript" src="json2.js"></script>
+<script type="text/javascript" src="jquery/jquery-1.5.2.min.js"></script>
+<script type="text/javascript">
+	pluginList = android.listPlugins();
+	pluginList = JSON.parse(pluginList).items;
+	currentGroup = android.getCurrentGroup();
+	if(currentGroup != null) {
+		currentGroup = JSON.parse(currentGroup);
+	}
+
+	function removeGroup() {
+		android.removeGroup(currentGroup.id);
+	}
+
+	function set(name, value) {
+		$("#" + name).val(value);
+	}
+	
+	function cancel() {
+		android.exit();
+	}
+
+	function renameGroup(groupId) {
+		var newName = prompt("New Name:");
+		if(!newName) {
+			return;
+		}
+		android.renameGroup(groupId, newName);
+		window.location.reload();
+	}
+
+	function enableDisable(pluginId) {
+		android.enableDisable(pluginId);
+	}
+
+	function addSymbol() {
+		android.addSymbol();
+	}
+
+	function savePluginSettings(pluginId) {
+		for(var i=0; i<pluginList.length; i++) {
+			var plugin = pluginList[i];
+			if(plugin.id == pluginId) {
+				var map = new Object();
+				var params = JSON.parse(plugin.paramsJson).items;
+				for(var j=0; j<params.length; j++) {
+					var param = params[j];
+					map[param.name] = $('#p_' + plugin.id + param.name).val();
+				}
+				var save = {"map" : map};
+				var json = JSON.stringify(save);
+				android.saveChartSetting(pluginId, json);
+				break;
+			}
+		}
+	}
+
+	function saveAs(pluginId) {
+		for(var i=0; i<pluginList.length; i++) {
+			var plugin = pluginList[i];
+			if(plugin.id == pluginId) {
+				var name = prompt("New name?");
+				if(plugin.name == name) {
+					alert("Please use a different name.");
+					return;
+				}
+				var map = new Object();
+				var params = JSON.parse(plugin.paramsJson).items;
+				for(var j=0; j<params.length; j++) {
+					var param = params[j];
+					map[param.name] = $('#p_' + plugin.id + param.name).val();
+				}
+				var save = {"map" : map};
+				var json = JSON.stringify(save);
+				android.saveAs(pluginId, name, json);
+				window.location.reload();
+				break;
+			}
+		}
+	}
+</script>
+</head>
+<body style="margin:0;padding-left:12px;padding-right:6px;">
+<h3>Settings</h3>
+
+<div style="clear:both;height:1px;">&nbsp;</div>
+<div style="margin:0 0 6px 0;"><Strong>Portfolio(s)</Strong></div>
+<div >
+A Portfolio is a group of Symbols. You can add more portfolios.
+
+<table style='border:solid 1px;width:100%;'>
+<script type="text/javascript">
+	var groups = android.getGroups();
+	groups = JSON.parse(groups).items;
+	for(var i=0; i<groups.length; i++) {
+		document.write('<tr>');
+		if(groups[i].id == currentGroup.id)
+			document.write('<td>' + groups[i].name + '</td>');
+		else
+			document.write('<td><a href="#" onClick="android.selectGroup(' + groups[i].id + ')">' + groups[i].name + '</a></td>');
+		document.write('<td><a href="#" onClick="android.addSymbol(' + groups[i].id + ')">Add Symbol</a></td>');
+		document.write('<td><a href="#" onClick="renameGroup(' + groups[i].id + ')">Rename</a></td>');
+		if(groups.length > 1)
+			document.write('<td><a href="#" onClick="android.removeGroup(' + groups[i].id + ')">Delete</a></td>');
+		document.write('</tr>');
+	}
+	var colspan = (groups.length > 1) ? 4 : 3;
+	document.write('<tr><td colspan="' + colspan + '" style="border:none;text-align:right;padding:0;"><button onClick="android.addGroup()">New Portfolio</button></td></tr>');
+</script>
+</table>
+
+</div>
+
+
+<div style="clear:both;height:1px;margin-bottom:6px;">&nbsp;</div>
+<div style="margin:16px 0 6px 0;"><Strong>Data Source(s)</Strong></div>
+<div >
+A Data Source, which is usually a web page, has the detailed information for a symbol.
+<script type="text/javascript">
+if(!pluginList.length) {
+	document.write("No data source defined.");
+}
+for(var i=0; i<pluginList.length; i++) {
+	if(i==0) {
+		document.write("<table style='border:solid 1px;width:100%;'><tr><th>Country</th><th>Enabled</th><th>Name</th></tr>");
+	}
+	var plugin = pluginList[i];
+	document.write("<tr><td>" + plugin.country + "</td><td><a href='#' onClick='enableDisable(\"" + plugin.id + "\")'>" + plugin.enabled + "</a></td><td><a href='plugin.html?" + plugin.id + "'>" + plugin.name + "</a></td></tr>");
+	if(i==(pluginList.length-1)) {
+		document.write("</table>");
+	}
+}
+</script>
+
+<div>
+<span style="font-size: 0.8em;">All data sources are contributed by application users. Use them at your own risk.</span>
+You can add a new data source by <a href='plugin-create.html'>creating your own</a>, or, <a href='http://www.sophilina.com/stock/index.html'>importing shared</a>.
+</div>
+
+</div>
+
+<div style="margin:16px 0 6px 0;"><Strong>Tips</Strong></div>
+<ul>
+	<li> Use long touch on the symbol to delete it from its portfolio</li>
+	<li> Tapping the web browser to zoom-in and zoom-out</li>
+	<li> Long touching web page to enable/disable full screen web browser</li>
+	<li> Long touching the <b>&lt;</b> sign to move to the first web page.</li>
+	<li> Long touching the <b>&gt;</b> sign to move to the last page which is the admin page.</li>
+</ul>
+
+<p>
+For all questions, suggestions and bug report, please send email to <a style="text-decoration:none;" href="javascript:android.email('info@gaoshin.com', null, null)">info@gaoshin.com</a>.
+</p>
+
+<div style="margin-bottom: 10px;height:1px;">&nbsp;</div>
+<center>
+Copyright &copy; 2011 CODING FOR FUN. <BR/>All rights reserved.<br/>
+</center>
+
+
+</body></html>

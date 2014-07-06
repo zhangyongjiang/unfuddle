@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/relativeLayout1"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:padding="2dp" xmlns:android="http://schemas.android.com/apk/res/android">
+	<TextView android:id="@+id/testWidgetTextView1"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:text="Waiting For Application Start-up" 
+		android:textColor="#000000"
+		android:background="#e6e6fa"
+		android:textSize="8pt"
+		android:shadowColor="#888888"
+		android:fadingEdge="horizontal"
+		android:lineSpacingExtra="8dip" 
+		android:padding="10dip">
+	</TextView>
+	<ImageView android:id="@+id/testWidgetImageButton1" 
+		android:padding="1dp" 
+		android:layout_width="wrap_content" 
+		android:src="@drawable/xo_100" 
+		android:layout_height="wrap_content" 
+		android:layout_marginTop="2px"
+		android:layout_marginRight="2px"
+		android:layout_alignParentTop="true"
+		android:layout_alignParentRight="true"
+	/>
+</RelativeLayout>
+

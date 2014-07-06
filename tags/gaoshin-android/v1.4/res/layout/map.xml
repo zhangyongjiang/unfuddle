@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent">
+ 
+     <TextView android:id="@+id/MapInfo" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_alignParentTop="true" 
+        android:layout_centerHorizontal="true"
+        android:text = "Map Information" 
+        /> 
+ 
+    <com.google.android.maps.MapView 
+        android:id="@+id/mapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:enabled="true"
+        android:layout_below="@+id/MapInfo"
+        android:clickable="true"
+        android:apiKey="0ldspX6uI58d0_70Rm8eOWO6LHjMJv2aqZDD8Iw"
+        />
+</RelativeLayout>
